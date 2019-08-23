@@ -20,6 +20,7 @@
     <meta name="twitter:image" content="" />
     <meta name="twitter:url" content="" />
     <meta name="twitter:card" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.9">
     <link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/icomoon.css">
@@ -168,6 +169,7 @@
       </div>
 
       <div class="video-container">
+
         <div class="herologo">
           <img src="images/logo.png" alt="axislogo">
         </div>
@@ -212,8 +214,11 @@
             </div>
             <div class="col-md-6 animate-box">
 
-            <iframe width="560" height="415" src="https://www.youtube.com/embed/M2z8ITfzQko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>          </div>
-          </div>
+            <iframe  width="100%" class="myIframe" src="https://www.youtube.com/embed/M2z8ITfzQko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>          </div>
+            <script type="text/javascript" language="javascript">
+            $('.myIframe').css('height', (($(window).height()*3)/4)+'px');
+            </script>
+            </div>
         </div>
       </div>
 
