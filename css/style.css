@@ -305,8 +305,7 @@
           transform: translate(-50%,-50%);
 }
 .herologo {
-  width: 100%;
-  height: 100%;
+
   position:;
   z-index: 0;
   margin: auto;
@@ -1386,7 +1385,7 @@ form label {
   /*bottom: 22%;*/
   bottom: 148px;
   text-align: center;
-  width: 100%; 
+  width: 100%;
 }
 #compositesLogo{
   width: 250px;
