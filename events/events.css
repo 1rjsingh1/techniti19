@@ -33,7 +33,6 @@ body {
 .content {
   display: flex;
   margin: 0 auto;
-  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   max-width: 1240px;
