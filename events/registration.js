@@ -811,7 +811,7 @@ function singleEventRegister(eventName){
                     /*
                     var axisid = (snapshot.val() && snapshot.val().axisid) || null;
                     document.getElementsByClassName("clientName")[0].innerHTML = user.displayName;
-                    document.getElementsByClassName("AXISid")[0].innerHTML = axisid;*/
+                    document.getElementsByClassName("techNITi19id")[0].innerHTML = axisid;*/
                 }
             });
         }).catch(function(error) {

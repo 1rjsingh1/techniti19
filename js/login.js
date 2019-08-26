@@ -27,7 +27,7 @@
                         
                 firebase.database().ref('/users/' + key).once('value').then(function(snapshot) {
                     /*
-                    document.getElementsByClassName("AXISid")[0].innerHTML = snapshot.val().axisid;
+                    document.getElementsByClassName("techNITi19id")[0].innerHTML = snapshot.val().axisid;
                     if (snapshot.val().phone == -1 && window.location.href !== "form.html")
                     {
                         var formPath = sessionStorage.getItem("formPath"); 
@@ -46,7 +46,7 @@
                     }
                     else if(snapshot.val() != null)
                     {
-                        document.getElementsByClassName("AXISid")[0].innerHTML = snapshot.val().axisid;
+                        document.getElementsByClassName("techNITi19id")[0].innerHTML = snapshot.val().axisid;
                     }
                 });   
             }
@@ -99,7 +99,7 @@
                     {
                         var axisid = (snapshot.val() && snapshot.val().axisid) || null;
                         document.getElementsByClassName("clientName")[0].innerHTML = user.displayName;
-                        document.getElementsByClassName("AXISid")[0].innerHTML = axisid;
+                        document.getElementsByClassName("techNITi19id")[0].innerHTML = axisid;
                     }
                 });
             }).catch(function(error) {
@@ -124,7 +124,7 @@
         r = Math.pow(r,2); milisec = Math.pow(milisec,2);
         r = (r+milisec)%1000;
         var id = ((r < 100)?'0': ((r<10)?'00':'') )+ r.toString();
-        return "AXIS19" + (day < 10 ? '0' : '') + day.toString() + id;
+        return "techNITi1919" + (day < 10 ? '0' : '') + day.toString() + id;
     }
 
     function signUp(gender,dob,college,phone,city)
@@ -153,7 +153,7 @@
                             //set remaining fields as null  
                         }).then(function onSuccess(res) {
                             
-                            alert("Successfully Signed Up \nAxis ID : " + axis_id + "\nYou can check your AXIS ID in myRegistrations tab");                
+                            alert("Successfully Signed Up \nAxis ID : " + axis_id + "\nYou can check your techNITi19 ID in myRegistrations tab");                
                             
                             var path = sessionStorage.getItem("path"); 
                             if(path == null){
