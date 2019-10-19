@@ -68,10 +68,12 @@
 }
 #semi-transparent-button:hover{
 
-      background: rgba(255, 255, 255, 1);
+      background: rgb(99, 145, 149);
 }
 
 #semi-transparent-button{
+  border-radius: 20%;
+  background: rgb(66, 4, 165);
   color: black;
 }
 #RegisterContainer{
@@ -6043,6 +6045,8 @@ body {
 
 #wrapper {
   padding-left: 0;
+  box-shadow: 0 0 10px 10px rgba(26, 87, 230, 0.25);
+  background: linear-gradient(to bottom left, #003399 0%, #99ff99 100%);
 }
 
 #page-wrapper {
