@@ -73,8 +73,8 @@
 
 #semi-transparent-button{
   border-radius: 20%;
-  background: rgb(66, 4, 165);
-  color: black;
+  background: black;
+  color:white;
 }
 #RegisterContainer{
   width: 100%;
