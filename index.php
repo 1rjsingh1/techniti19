@@ -3,6 +3,9 @@
 
 
 <head>
+  <?php
+          include('connection.php');
+    ?>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>techNITi'19
@@ -925,10 +928,291 @@
     <div class="navlog active" title="navbar" onclick="openNav()">
       <a href="#"><i class="icon-menu"></i></a>
           </div>
-  <!--
-    <div class="googin loginBUTTON" title="login">
-        <button type="button" class="btn btn-outline-dark">Sign In</button>
-    </div> -->
+
+    <div class="googin loginBUTTON" >
+      <style>
+      body {font-family: Arial, Helvetica, sans-serif;}
+
+      /* Full-width input fields */
+      input[type=text], input[type=password], input[type=email], input[type=tel] {
+        width: 50%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+      }
+
+      /* Set a style for all buttons */
+      button {
+        background-color: lightgray;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 50%;
+      }
+
+      button:hover {
+        opacity: 0.8;
+      }
+
+      /* Extra styles for the cancel button */
+      .cancelbtn {
+        width: auto;
+        padding: 10px 18px;
+        background-color: #f44336;
+      }
+
+      /* Center the image and position the close button */
+      .imgcontainer {
+        text-align: center;
+        margin: 24px 0 12px 0;
+        position: relative;
+      }
+
+      img.avatar {
+        width: 40%;
+        border-radius: 50%;
+      }
+
+      .container {
+        padding: 16px;
+      }
+
+      span.psw {
+        float: right;
+        padding-top: 16px;
+      }
+
+      /* The Modal (background) */
+      .modal {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scroll if needed */
+        background-color: rgb(0,0,0); /* Fallback color */
+        background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        padding-top: 60px;
+      }
+
+      /* Modal Content/Box */
+      .modal-content {
+        background-color: #fefefe;
+        margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+        border: 1px solid #888;
+        width: 45%; /* Could be more or less, depending on screen size */
+      }
+
+      /* The Close Button (x) */
+      .close {
+        position: absolute;
+        right: 25px;
+        top: 0;
+        color: #000;
+        font-size: 35px;
+        font-weight: bold;
+      }
+
+      .close:hover,
+      .close:focus {
+        color: red;
+        cursor: pointer;
+      }
+
+      /* Add Zoom Animation */
+      .animate {
+        -webkit-animation: animatezoom 0.6s;
+        animation: animatezoom 0.6s
+      }
+
+      @-webkit-keyframes animatezoom {
+        from {-webkit-transform: scale(0)}
+        to {-webkit-transform: scale(1)}
+      }
+
+      @keyframes animatezoom {
+        from {transform: scale(0)}
+        to {transform: scale(1)}
+      }
+
+      /* Change styles for span and cancel button on extra small screens */
+      @media screen and (max-width: 300px) {
+        span.psw {
+           display: block;
+           float: none;
+        }
+        .cancelbtn {
+           width: 100%;
+        }
+      }
+      </style>
+        <!-- <button type="button" class="btn btn-outline-dark">Sign In</button> -->
+        <button onclick="document.getElementById('id01').style.display='block'" class="btn btn-outline-dark" style="width:auto;">Login</button>
+        <button onclick="document.getElementById('id02').style.display='block'" class="btn btn-outline-dark" style="width:auto;">Sign Up</button>
+
+    <div id="id01" class="modal">
+
+      <form class="modal-content animate" action="action.php" method="post">
+        <div class="imgcontainer">
+          <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+          <h1>Log-In</h1>
+
+        </div>
+
+        <div class="container">
+          <!-- <ul class="nav nav-tabs">
+            <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+            <li><a data-toggle="tab" href="#menu1">Menu 1</a></li>
+
+          </ul> -->
+          <label for="uname"><b>Email</b></label> <br>
+          <input type="text" placeholder="Enter Email" name="uname" required> <br>
+
+          <label for="psw"><b>Password</b></label> <br>
+          <input type="password" placeholder="Enter Password" name="psw" required> <br>
+
+          <button type="submit" class="btn btn-primary" >Login</button>
+          <!-- <label>
+            <input type="checkbox" checked="checked" name="remember"> Remember me
+          </label> -->
+        </div>
+
+        <!-- <div class="container" style="background-color:#f1f1f1">
+          <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+          <span class="psw">Forgot <a href="#">password?</a></span>
+        </div> -->
+      </form>
+    </div>
+
+    <div id="id02" class="modal">
+
+      <form class="modal-content animate"  method="post">
+        <div class="imgcontainer">
+          <span onclick="document.getElementById('id02').style.display='none'" class="close" title="Close Modal">&times;</span>
+          <h1>Sign up</h1>
+
+        </div>
+
+        <div class="container">
+          <!-- <ul class="nav nav-tabs">
+            <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+            <li><a data-toggle="tab" href="#menu1">Menu 1</a></li>
+
+          </ul> -->
+          <label for="name"><b>Name</b></label> <br>
+          <input type="text" placeholder="Enter name" name="name" required> <br>
+
+          <label for="mail"><b>Email</b></label> <br>
+          <input type="email" placeholder="Enter Email" name="mail" required> <br>
+          <label for="colg"><b>College</b></label> <br>
+          <input type="text" placeholder="Enter College Name" name="colg" required> <br>
+          <label for="phone"><b>Phone No.</b></label> <br>
+          <input type="tel" pattern="^\d{10}$"  placeholder="Enter Phone Number" name="phone" required> <br>
+
+                    <label for="Password"><b>Password</b></label> <br>
+                        <input type="password" placeholder="Password" id="Password" name="Password" required="" /> <br>
+
+
+                        <label for="ConfirmPassword"><b>Confirm Password</b></label> <br>
+                        <input type="password" placeholder="Confirm Password" id="ConfirmPassword" name="ConfirmPassword" required="" /> <br> <span id='message'></span> <br>
+
+                   <script type="text/javascript">
+
+    $('#Password, #ConfirmPassword').on('keyup', function () {
+        if ($('#Password').val() == $('#ConfirmPassword').val()) {
+            $('#Submit').attr('disabled', false);
+            $('#Submit').css('cursor', 'pointer');
+            $('#message').html('Matching').css('color', 'green');
+        } else {
+            $('#Submit').attr('disabled', true);
+            $('#Submit').css('cursor', 'not-allowed');
+
+            $('#message').html('Not Matching').css('color', 'red');
+        }
+    });
+                    </script>
+
+          <button type="submit" name="final5" id="Submit" class="btn btn-primary" >Register</button>
+          <!-- <label>
+            <input type="checkbox" checked="checked" name="remember"> Remember me
+          </label> -->
+        </div>
+
+        <!-- <div class="container" style="background-color:#f1f1f1">
+          <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+          <span class="psw">Forgot <a href="#">password?</a></span>
+        </div> -->
+      </form>
+    </div>
+    <?php
+				// session_start();
+    if(isset($_POST['final5']))
+    {
+      extract($_POST);
+
+      	$quer1="Insert into user(Name,Email,College,Phone,Password) values(\"".$_POST['name']."\",\"".$_POST['email']."\",\"".$_POST['colg']."\",".$_POST['phone'].",\"".$_POST['Password']."\")";
+
+$_SESSION['regquer']=$quer1;
+$result=mysqli_query($con,$_SESSION['regquer']);
+
+            if ($result) {
+              echo "<script> alert('Registered Success')</script>";
+              header("Location:index0.php");
+            }
+          }
+
+  //  $count1=mysqli_query($con,$quer1);
+// 		$mail=$_POST['email'];
+// 		$queee="Select idp from register where email='$mail'";
+//
+// 		$res=mysqli_query($con,$queee);
+// 		$out=mysqli_fetch_array($res);
+//         $pri=$out['idp'];
+// 		$quer2="Insert into login(pid,name,email,password) values('$pri',\"".$_POST['user']."\",\"".$_POST['email']."\",\"".$_POST['pass']."\")";
+//
+// $_SESSION['logquer']=$quer2;
+// 		//$count2=mysqli_query($con,$quer2);
+//
+// 		$string = 'abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+// 		    $string_shuffled = str_shuffle($string);
+// 		    $password = substr($string_shuffled, 1, 7);
+// 				$_SESSION['otp']=$password;
+// 				mail($mail,"OTP Confirmation","You had requested for a registration with us. Please enter this
+// 				OTP -".$password."to confirm your registration");
+// 			header("Location:confirm.php");
+//
+//     }
+// 		else {
+//
+// 			echo "<script>alert('Paaswords Dont match!!!')</script>";
+//
+// 		}
+// 	}
+		?>
+
+
+    <script>
+    // Get the modal
+    var modal = document.getElementById('id01');
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+    </script>
+    </div>
+
+
+
+
    <!-- <div class="logon axisLOGIN" id="axisLOGIN" title="user">
       <div class="dropdown">
         <a href="#" class="dropbtn"><i class="icon-user"></i></a>
@@ -977,7 +1261,7 @@
         <br>
         <a href="https://www.facebook.com/nitjtechniti/" target="_blank" class="navSocial" ><i class="icon-facebook"></i></a>
         <a href="https://www.instagram.com/techniti_2k18/" target="_blank" class="navSocial" ><i class="icon-instagram"></i></a>
-        
+
     </div>
   <!-- Navigation Code ends here -->
 
