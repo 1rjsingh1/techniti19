@@ -1,0 +1,318 @@
+<?php 
+include_once("../../functions.php");
+require ("../../includes/dbconn.php");
+
+ ?>
+
+<!DOCTYPE html>
+<html lang="en">
+<meta http-equiv="content-type" content="text/html;charset=windows-1251" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="windows-1251">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>TechNITi &#124;&#124; Events </title>
+    <?php include('../../favicon.php'); ?>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <meta name="msapplication-TileColor" content="#090025">
+    <meta name="theme-color" content="#090025">
+   
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+
+<link href="bitrix/cache/css/s1/neurohive/kernel_main/kernel_maind75a.css?152969663326563" type="text/css" rel="stylesheet" />
+<link href="bitrix/cache/css/s1/neurohive/template/template_6f5efa8a81bc2b376995e8406bd5943b838b.css?1529696666150584" type="text/css" data-template-style="true" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+
+
+
+</head>
+<body class="" style="color: white;">
+<?php include('../../header.php'); ?>
+
+    <div class="preloader">
+        <div class="preloader-ring"></div>
+    </div>
+            <style>.hud-timer{display: none}</style><!-- Shaders -->
+<script id="shader-fs" type="x-shader/x-fragment">
+      #ifdef GL_ES
+        precision highp float;
+        #endif
+      void main(void) {
+       gl_FragColor = vec4(0.2, 0.3, 0.4, 1.0);
+      }
+    </script>
+<script id="shader-vs" type="x-shader/x-vertex">
+      attribute vec3 vertexPosition;
+
+      uniform mat4 modelViewMatrix;
+      uniform mat4 perspectiveMatrix;
+
+      void main(void) {
+        gl_Position = perspectiveMatrix * modelViewMatrix * vec4(  vertexPosition, 1.0);
+      }
+    </script>
+
+<!-- three.js -->
+<div id="webgl-output"></div>
+<main class="preview-page">
+    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/soece.jpg);background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;">
+    <div class="preview__inner">
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
+        <h1 class="preview__name" style="font-size: 40px;">
+            Society Of Electronics and Communication Engineers</h1>
+
+    </div>
+           
+    </div>
+
+<div class="preview-info">
+
+        <h2 class="preview-info__header">About the Society</h2>
+    <div class="preview-info__content" style="margin-bottom: 3em; font-size: 30px;">
+        <p style="font-size: 20px;"></p>
+
+
+<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+
+    </div>
+    <div class="preview-info__content">
+        <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
+        <ul class="preview-info__team">
+                            <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;"></span><br>
+                   <!-- <span class="preview-info__role">&#43;91&#45;9876543210</span> -->
+                </li>
+
+
+        </ul>
+
+    </div>
+</div>
+<div class="comments" id="comments">
+    <h2 class="comments__header">List of Events</h2>
+    <div class="comments__content">
+        <div class="comments__left">
+            <div class="comment comment--first">
+            <b class="comment__author" style="font-size: 30px;">Mind The Mind </b>
+            <p class="comment__date"></p>
+            <p class="comment__text">
+              The event consists of 3 rounds in which first two rounds are meant to test programming skills of participants and their problem solving capabilities.
+
+      These two rounds are to be organized online, where top 16 teams from first round move to second round.
+
+      From second round 8 teams move ahead to the final round, which is the main attraction of the Event.
+
+      In the third round circuit analyzing and synthesis ability of participants would be tested.</p>
+                <p>
+
+  <a class="show-more-btn" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" style="color: violet; cursor: pointer;">Show More</a>
+</p>
+<div class="collapse" id="collapseExample">
+  <div >
+    <br>
+    <h6 style="color: violet;">Round 1: </h6>
+    <p>It would be an online round where each team would be given brain teasers, which on solving would grab them points. Top 16 teams move to next round.</p>
+<br>
+<h6 style="color: violet;">Round 2:</h6>
+<p>It would again be an online event with simple programming questions. The answer of one question would lead key to second question. Top 8 teams move to next round.</p>
+
+<br>
+<h6 style="color: violet;">Round 3:</h6>
+<p>In this round each team will be given a circuit. The round would be a “Circuit hunt” with the components of circuit at different locations of College. The timing would be judging criteria. The team reporting first with complete circuit would be the winner.</p>
+
+<br>
+<h6 style="color: violet;">Number of Days: 1</h6>
+  </div>
+</div>
+<button id="register">Register</button>
+
+<script>
+$(document).ready(function(){
+    $("a.show-more-btn").on("click",function(e){
+        // console.log(e)24
+        var val = $(this).text();
+        console.log(val);
+        val = (val==="Show More")?"Show Less":"Show More";
+        $(this).text(val);
+    })
+
+});
+</script>
+
+
+
+                <div class="comment__underline"></div>
+        </div>
+                    <div class="comment comment--first">
+            <b class="comment__author"  style="font-size: 30px;">Circuit Encounter</b>
+            <p class="comment__date"></p>
+            <p class="comment__text">To implement the given circuit by encountering the bugs in it. It will be a team game. Each team will have maximum 3
+
+members.
+
+The event consists of 3 rounds. There will be elimination at each round. 10 teams will be selected for second round and top 5 teams among them will make it to final round.
+
+The first round will test the visual interpretation. The second round is- creating imaginary shop and testing advertising skills.
+
+In final round, a circuit will be given and team has to kill the bugs in circuit first and have to implement that circuit.
+</p>
+ <a class="show-more-btn" data-toggle="collapse" data-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample" style="color: violet; cursor: pointer;">Show More</a>
+</p>
+<div class="collapse" id="collapseExample2">
+  <div >
+    <br>
+    <h6 style="color: violet;">Round 1: </h6>
+    <p>Logos of the different companies will be displayed on screen and team has to write the name of the company on paper.
+
+Approx 20 logos will be displayed .
+
+Top 10 teams that will answer maximum correct answers will make their place into second round.
+
+</p>
+<br>
+<h6 style="color: violet;">Round 2:</h6>
+<p>In second round, each team will have to pick a chit , on which name of an electronics component will be written.
+
+The team will be given 10 mins to prepare the layout of advertisement using given props.
+
+The team will have to make an advertisement of approx. 2 minutes.
+
+5 teams that will advertise best will be selected for final round .
+</p>
+<br>
+<h6 style="color: violet;">Round 3:</h6>
+<p>In round 3, each team will be given same circuit with some bugs in a figure .
+
+The team will first have to identify the bugs and tell all the bugs to the organizer .Once all the bugs are identified ,team will be given some points according to rules .
+
+The electronics components required to implement the given circuit will be provided and the team will have to make the circuit working properly.
+All the points given to team will be summed up at the end.
+
+</p>
+<br>
+<h6 style="color: violet;">Number of Days: 2</h6>
+  </div>
+</div>
+<button id="register">Register</button>
+
+                        <div class="comment__underline"></div>
+
+        </div>
+                    <div class="comment comment--first">
+            <b class="comment__author"  style="font-size: 30px;">Knight Freaks</b>
+            <p class="comment__date"></p>
+            <p class="comment__text">It’s a team event which consists of 3 rounds.
+
+The first round is selection of teams via an aptitude test consisting of various types of questions.
+
+Top 12 teams move to second round which is a twisted Snake and Ladders game, in which team’s problem solving abilities would be tested.
+
+Top 6 teams from the second round move to third round which consists of chess with a twist in rules and have to earn components in the game which is to be used to make a circuit.
+
+Team with highest points would win.
+
+</p>
+
+              <a class="show-more-btn" data-toggle="collapse" data-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample" style="color: violet; cursor: pointer;">Show More</a>
+</p>
+<div class="collapse" id="collapseExample3">
+  <div >
+    <br>
+    <h6 style="color: violet;">Round 1: </h6>
+    <p>Paper pen based General Aptitude Test including questions on
+</p><p>
+I. Basic Electronics
+</p><p>
+II. Current Affairs
+</p><p>
+III.    Quantitative Analysis
+</p><p> IV. Qualitative Analysis
+  </p><p>V. Verbal Communication
+</p>
+<br>
+<h6 style="color: violet;">Round 2: </h6>
+<p>There will be an arena of Snakes and Ladders having amplifiers in place of ladders and attenuators in place of snakes. There will be capacitors and inductors also in some blocks. One member of each team will be sent to the starting point of the arena who will move according to the number on the dice.
+</p><p>
+I. Teams will be assigned AC or DC value randomly in the starting.
+</p><p>
+II. Three sets of 4 teams will be formed in the starting of the round and they will be seated according to the number and set provided to them.
+</p><p>
+III.    Questions will be asked from 3 teams simultaneously from each set. 1 min will be provided to answer the question.
+</p><p>
+IV. The teams who will answer correctly will be provided a chance to throw dice and their representative in the arena will move accordingly.
+</p><p>
+V. If the representative will land on attenuator or amplifier, he/she will have to move backward or forward according to the factor of attenuator or amplifier.
+</p><p>
+VI. AC/DC will be blocked by capacitors and inductors and to remove that blockage teams will have to answer an additional question.
+</p><p>
+12 questions will be asked from each team. Top 6 teams go to next round.
+</p>
+
+<br>
+<h6 style="color: violet;">Round 3: </h6>
+<p>Three sets of 2 teams will be formed randomly and they will play chess with each other. Chess rules will be a bit altered. Each piece of chess will be assigned an electronic component and each component will be assigned some points. Team having maximum points will be considered winner.
+</p><p>
+1.  Teams will have to play chess according to the altered rules. They will earn components by cutting corresponding piece of other team.
+</p><p>
+2.  After half an hour, each team will be provided all the components and circuit diagrams. To make the earned components active, teams have to design a working circuit using those components.
+</p><p>
+3.  One hour will be provided for making circuits. Addition of
+
+the points corresponding to earned components will be done.
+</p>
+<br>
+<h6 style="color: violet;">Number of Days: 1</h6>
+
+  </div>
+</div>
+<button id="register">Register</button>
+<!-- <a style="cursor:pointer;" href="<?php echo BASE_URL ?>/login/grp_events.php?id=ET_7_3&m=5"><img src="regbutton.jpg" style="width:200px; height:52.55px;" ></a> -->
+            <div class="comment__underline"></div>
+        </div>
+
+                    </div>
+            </div>
+</div>
+
+</div>
+    </main>
+
+<script type="text/javascript"  src="bitrix/cache/js/s1/neurohive/template/template_5db094422e4fac0e2ce6bb1de9ac94883dfd.js?1529696633108698"></script>
+
+<script>
+        window.addEventListener('load', function () {
+
+            var el = document.querySelector('.preloader');
+            el.style.opacity = 1;
+
+            (function fade() {
+                if ((el.style.opacity -= 0.15) < 0) {
+                    window.scrollTo(0, 0);
+                    el.style.display = "none";
+                } else {
+                    requestAnimationFrame(fade);
+                }
+            })();
+        });
+    </script>
+
+
+<script src="local/templates/neurohive/assets/js/gsap.js"></script>
+<script src="local/templates/neurohive/assets/js/pixi.js"></script>
+<script src="local/templates/neurohive/assets/js/polyfill.min.js"></script>
+<script src="local/templates/neurohive/assets/js/scrollmagic.js"></script>
+<script src="local/templates/neurohive/assets/js/animation.gsap.js"></script>
+<script src="local/templates/neurohive/assets/js/project.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
+    </script>
+    <?php include '../../footer.php';?>
+
+    <script src="main.js"></script>
+</body>
+</html>
