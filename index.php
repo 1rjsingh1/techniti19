@@ -5,6 +5,10 @@
 <head>
   <?php
           include('connection.php');
+          if($_SESSION['check']==1){
+          echo "<script> alert('Registered Success')</script>";
+          $_SESSION['check']=0;
+        }
     ?>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -168,7 +172,7 @@
       </nav> -->
 
       <div class="row" >
-        <div class="col-4 col-md-4"><center><img class="img-fluid" style="position: relative; margin: 0 auto; width: 40%; "  src="images/logo5.png">
+        <div class="col-4 col-md-4"><center><img class="img-fluid" style="position: relative; margin: 10px auto; width: 40%; "  src="images/logo5.png">
       </center></div>
 
         <div class="col-8 col-md-8"> <img src="images/nitj_logo.png" class="img-fluid" style="align-content: left; position: relative; width: 90%; margin: 0 auto;">
@@ -935,7 +939,7 @@
 
       /* Full-width input fields */
       input[type=text], input[type=password], input[type=email], input[type=tel] {
-        width: 50%;
+        width: 90%;
         padding: 12px 20px;
         margin: 8px 0;
         display: inline-block;
@@ -978,7 +982,7 @@
       }
 
       .container {
-        padding: 16px;
+        padding: 10px;
       }
 
       span.psw {
@@ -1004,9 +1008,9 @@
       /* Modal Content/Box */
       .modal-content {
         background-color: #fefefe;
-        margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+        margin: 5% auto 5% auto; /* 5% from the top, 15% from the bottom and centered */
         border: 1px solid #888;
-        width: 45%; /* Could be more or less, depending on screen size */
+        width: 80%; /* Could be more or less, depending on screen size */
       }
 
       /* The Close Button (x) */
@@ -1065,7 +1069,7 @@
 
         </div>
 
-        <div class="container">
+        <div class="container" style="width:80%">
           <!-- <ul class="nav nav-tabs">
             <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
             <li><a data-toggle="tab" href="#menu1">Menu 1</a></li>
@@ -1092,7 +1096,7 @@
 
     <div id="id02" class="modal">
 
-      <form class="modal-content animate"  method="post">
+      <form class="modal-content animate" action="action1.php" method="post">
         <div class="imgcontainer">
           <span onclick="document.getElementById('id02').style.display='none'" class="close" title="Close Modal">&times;</span>
           <h1>Sign up</h1>
@@ -1109,7 +1113,7 @@
           <input type="text" placeholder="Enter name" name="name" required> <br>
 
           <label for="mail"><b>Email</b></label> <br>
-          <input type="email" placeholder="Enter Email" name="mail" required> <br>
+          <input type="email" placeholder="Enter Email" name="email" required> <br>
           <label for="colg"><b>College</b></label> <br>
           <input type="text" placeholder="Enter College Name" name="colg" required> <br>
           <label for="phone"><b>Phone No.</b></label> <br>
@@ -1150,51 +1154,6 @@
         </div> -->
       </form>
     </div>
-    <?php
-				// session_start();
-    if(isset($_POST['final5']))
-    {
-      extract($_POST);
-
-      	$quer1="Insert into user(Name,Email,College,Phone,Password) values(\"".$_POST['name']."\",\"".$_POST['email']."\",\"".$_POST['colg']."\",".$_POST['phone'].",\"".$_POST['Password']."\")";
-
-$_SESSION['regquer']=$quer1;
-$result=mysqli_query($con,$_SESSION['regquer']);
-
-            if ($result) {
-              echo "<script> alert('Registered Success')</script>";
-              header("Location:index0.php");
-            }
-          }
-
-  //  $count1=mysqli_query($con,$quer1);
-// 		$mail=$_POST['email'];
-// 		$queee="Select idp from register where email='$mail'";
-//
-// 		$res=mysqli_query($con,$queee);
-// 		$out=mysqli_fetch_array($res);
-//         $pri=$out['idp'];
-// 		$quer2="Insert into login(pid,name,email,password) values('$pri',\"".$_POST['user']."\",\"".$_POST['email']."\",\"".$_POST['pass']."\")";
-//
-// $_SESSION['logquer']=$quer2;
-// 		//$count2=mysqli_query($con,$quer2);
-//
-// 		$string = 'abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-// 		    $string_shuffled = str_shuffle($string);
-// 		    $password = substr($string_shuffled, 1, 7);
-// 				$_SESSION['otp']=$password;
-// 				mail($mail,"OTP Confirmation","You had requested for a registration with us. Please enter this
-// 				OTP -".$password."to confirm your registration");
-// 			header("Location:confirm.php");
-//
-//     }
-// 		else {
-//
-// 			echo "<script>alert('Paaswords Dont match!!!')</script>";
-//
-// 		}
-// 	}
-		?>
 
 
     <script>

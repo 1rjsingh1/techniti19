@@ -926,12 +926,24 @@
     <div class="navlog active" title="navbar" onclick="openNav()">
       <a href="#"><i class="icon-menu"></i></a>
           </div>
+          <script type="text/javascript">
+          		function mov()
+          		{
 
-    <div class="googin loginBUTTON" title="login">
-    <p >  Welcome, <?php
+          			var ht=location.href;
+          console.log(ht);
+                  var ar=ht.split('/');
+                  console.log(ar[0]+"//"+ar[2]+"/"+ar[3]+"/"+ar[4]+"/"+ar[5]);
+                document.location.href = ar[0]+"//"+ar[2]+"/"+ar[3]+"/"+ar[4]+"/"+ar[5]+'/logout.php';
+          		}
+              </script>
+    <div class="googin loginBUTTON" title="Logout">
+ <?php
 
       echo $_SESSION['name']; ?>
-    </p></div>
+
+    <button onclick="mov()" class="btn btn-outline-dark" style="width:auto;">Logout</button>
+    </div>
    <!-- <div class="logon axisLOGIN" id="axisLOGIN" title="user">
       <div class="dropdown">
         <a href="#" class="dropbtn"><i class="icon-user"></i></a>
