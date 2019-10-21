@@ -243,74 +243,74 @@ table .clientName h6{
   background-position: center center;
   background-repeat: no-repeat;
 }
-
 .testimonials .client-section .core:nth-of-type(3) {
-  background-image: url("team/tushar singhal.jpg");
+  background-image: url("team/no.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
 
 .testimonials .client-section .core:nth-of-type(4) {
-  background-image: url("team/DSC_0240 (1).JPG");
+  background-image: url("team/tushar singhal.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
 
 .testimonials .client-section .core:nth-of-type(5) {
-  background-image: url("team/arpit jain.jpg");
+  background-image: url("team/DSC_0240 (1).JPG");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
 
 .testimonials .client-section .core:nth-of-type(6) {
-  background-image: url("team/muskan.jpg");
+  background-image: url("team/arpit jain.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
 
 .testimonials .client-section .core:nth-of-type(7) {
-  background-image: url("team/abhishek bajpai.jpg");
+  background-image: url("team/muskan.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
 
 .testimonials .client-section .core:nth-of-type(8) {
-  background-image: url("team/ajay.jpeg");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .core:nth-of-type(9) {
-  background-image: url("team/shivam.jpg");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .core:nth-of-type(10) {
-  background-image: url("team/abhishekkaushal.jpg");
-  background-size: cover;
-  background-position: top;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .core:nth-of-type(11) {
-  background-image: url("team/raspi.jpg");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .core:nth-of-type(12) {
   background-image: url("team/abhishek bajpai.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
+
+.testimonials .client-section .core:nth-of-type(9) {
+  background-image: url("team/ajay.jpeg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .core:nth-of-type(10) {
+  background-image: url("team/shivam.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .core:nth-of-type(11) {
+  background-image: url("team/abhishekkaushal.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .core:nth-of-type(12) {
+  background-image: url("team/raspi.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
 .testimonials .client-section .core:nth-of-type(13) {
-  background-image: url("team/no.jpg");
+  background-image: url("team/abhishek bajpai.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -322,30 +322,36 @@ table .clientName h6{
   background-repeat: no-repeat;
 }
 .testimonials .client-section .core:nth-of-type(15) {
-  background-image: url("team/abhilasha.jpg");
+  background-image: url("team/no.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
 .testimonials .client-section .core:nth-of-type(16) {
+  background-image: url("team/abhilasha.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .core:nth-of-type(17) {
   background-image: url("team/ashishyadav.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(17) {
+.testimonials .client-section .core:nth-of-type(18) {
   background-image: url("team/shubhamsingh.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(18) {
+.testimonials .client-section .core:nth-of-type(19) {
   background-image: url("team/ashna.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(19) {
+.testimonials .client-section .core:nth-of-type(20) {
   background-image: url("team/no.jpg");
   background-size: cover;
   background-position: center center;
