@@ -399,6 +399,12 @@ table .clientName h6{
   background-position: top;
   background-repeat: no-repeat;
 }
+.testimonials .client-section .web:nth-of-type(8) {
+  background-image: url("team/ritika.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
 .updateSection {
   width: 100vw;
   height: -webkit-max-content;
