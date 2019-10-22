@@ -83,7 +83,7 @@ if($_POST['m7email']!=0){
                         <body>
 
                             <div id="wrapper">
-                                  <?php include('../../navbar.php'); ?>
+                                  <?php include('../../navbar2.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
 
 
