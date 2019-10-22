@@ -43,7 +43,7 @@
                     <li><a href="https://drive.google.com/file/d/1ilLWqWX5o5hbo78ilmvELOs-p9v7nGL6/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-               
+
             </div>
         </nav>
 
@@ -177,9 +177,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
 
-                                </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                 <li>1st: 2000</li>
@@ -195,8 +193,9 @@
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../register.php?id=43" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
+
 
 
 

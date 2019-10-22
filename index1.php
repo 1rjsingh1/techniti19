@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html class="no-js">
 <?php   session_start();
+  if(! isset($_SESSION['name']))
+  {
+    header("Location:index.php");
+  }
+
+if(isset($_SESSION['suck'])){
+echo "<script> alert('Event registered')</script>";
+unset($_SESSION['suck']);
+}
  ?>
 
 <head>
@@ -941,7 +950,7 @@
  <?php
 
       echo $_SESSION['name']; ?>
-
+      
     <button onclick="mov()" class="btn btn-outline-dark" style="width:auto;">Logout</button>
     </div>
    <!-- <div class="logon axisLOGIN" id="axisLOGIN" title="user">

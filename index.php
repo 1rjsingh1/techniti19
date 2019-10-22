@@ -7,11 +7,50 @@
           include('connection.php');
           if(isset($_SESSION['check'])){
           echo "<script> alert('Registered Success')</script>";
-          $_SESSION['check']=0;
+          unset($_SESSION['check']);
         }
+        if(isset($_SESSION['reg']))
+        {
+          echo "<script> alert('Please Log In')</script>";
+          unset($_SESSION['reg']);
+        }
+
+        // if(isset($_SESSION['unlog']))
+        // echo "<script> alert('Credentials Don't Match')</script>";
         else {
-          // code...
+          // echo "string";
         }
+    ?>
+    <?php    if(isset($_POST['uname']) and isset($_POST['psw']))
+        {
+          $uname=$_POST['uname'];
+          $pass=$_POST['psw'];
+          $uname=mysqli_real_escape_string($con,$uname);
+          $pass=mysqli_real_escape_string($con,$pass);
+          $query="select userid,name from user where email='$uname' AND password='$pass'";
+          $result=mysqli_query($con,$query);
+          $count=mysqli_num_rows($result);
+
+          if($count == "0")
+          {
+
+            echo "<script>alert('No User Found!!!')</script>";
+
+          }
+          else {
+           $out=mysqli_fetch_array($result);
+            $uid=$out['userid'];
+            $name=$out['name'];
+            $_SESSION['name']=$name;
+            $_SESSION['pid']=$uid;
+          //  echo $_SESSION['name'];
+            //echo $_SESSION['pid'];
+              /*if($name=="admin")
+              header("Location:admin.php");*/
+
+        header("Location:index1.php");
+      }
+      }
     ?>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -1065,7 +1104,7 @@
 
     <div id="id01" class="modal">
 
-      <form class="modal-content animate" action="action.php" method="post">
+      <form class="modal-content animate"  method="post">
         <div class="imgcontainer">
           <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
           <h1>Log-In</h1>
@@ -1079,12 +1118,12 @@
 
           </ul> -->
           <label for="uname"><b>Email</b></label> <br>
-          <input type="text" placeholder="Enter Email" name="uname" required> <br>
+          <input type="email" placeholder="Enter Email" name="uname" required> <br>
 
           <label for="psw"><b>Password</b></label> <br>
           <input type="password" placeholder="Enter Password" name="psw" required> <br>
 
-          <button type="submit" class="btn btn-primary" >Login</button>
+          <button type="submit" class="btn btn-primary" style="color:black">Login</button>
           <!-- <label>
             <input type="checkbox" checked="checked" name="remember"> Remember me
           </label> -->
@@ -1095,6 +1134,9 @@
           <span class="psw">Forgot <a href="#">password?</a></span>
         </div> -->
       </form>
+
+
+
     </div>
 
     <div id="id02" class="modal">
@@ -1106,7 +1148,7 @@
 
         </div>
 
-        <div class="container">
+        <div class="container" style="width:80%">
           <!-- <ul class="nav nav-tabs">
             <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
             <li><a data-toggle="tab" href="#menu1">Menu 1</a></li>
@@ -1145,7 +1187,7 @@
     });
                     </script>
 
-          <button type="submit" name="final5" id="Submit" class="btn btn-primary" >Register</button>
+          <button type="submit" name="final5" id="Submit" class="btn btn-primary" style="color:black" >Register</button>
           <!-- <label>
             <input type="checkbox" checked="checked" name="remember"> Remember me
           </label> -->
