@@ -1,17 +1,29 @@
-<?php include('navbar.php'); ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=windows-1251" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="windows-1251">
+    <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="../../cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
+    <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
+
+    <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
+    <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="../local.css" />
+    <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>TechNITi &#124;&#124; Events </title>
 
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
     <meta name="msapplication-TileColor" content="#090025">
     <meta name="theme-color" content="#090025">
-   
+
     <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 
 
@@ -47,6 +59,48 @@
     </script>
 
 <!-- three.js -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background: black; ">
+            <div class="navbar-header" style=" margin-left: 40px;">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <img src="../../logo5.png" style="width: 100px; height: 50px;"> <a class="navbar-brand" href="index.php" > </a></img>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
+
+
+                <ul class="nav navbar-nav navbar-left navbar-user" >
+                        <li class="dropdown user-dropdown">
+                        <a href="../../index1.html" ></a>
+                    </li>
+                    <li class="dropdown user-dropdown">
+                        <a href="../../index1.html" ></a>
+                    </li>
+                    <li class="dropdown user-dropdown">
+                        <a href="../../index1.php" >Home</a>
+                    </li>
+                    <li class="dropdown user-dropdown">
+                        <a href="../deptcategory.html" >Departmental Events</a>
+                    </li>
+                    <li class="dropdown user-dropdown">
+                        <a href="../category.html" >Mega Events</a>
+                    </li>
+                    <li class="dropdown user-dropdown">
+                        <a href="#" >Sponsors</a>
+                    </li>
+                    <li class="dropdown user-dropdown">
+                        <a href="../../team.php" >Core Team</a>
+                    </li>
+
+                    <li class="dropdown user-dropdown">
+                        <a href="#" >Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
 <div id="webgl-output"></div>
 <main class="preview-page">
     <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/soece.jpg);background-size: cover;
