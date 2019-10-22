@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 22, 2019 at 04:07 PM
+-- Generation Time: Oct 22, 2019 at 05:17 PM
 -- Server version: 10.1.25-MariaDB
 -- PHP Version: 7.1.7
 
@@ -190,7 +190,11 @@ INSERT INTO `groupe` (`eid`, `tname`, `email`) VALUES
 (52, 'Rj', 'rj@gmail.com'),
 (52, 'Rj', 'rj@gmIK.COM'),
 (29, 'as', 'fdfs@sf'),
-(29, 'as', 'ff@ff');
+(29, 'as', 'ff@ff'),
+(25, 'ws', 'xdx@c'),
+(25, 'ws', 'xe@x'),
+(51, 'dc', 'vfvf@fff'),
+(51, 'dc', 'cv@c');
 
 -- --------------------------------------------------------
 
@@ -260,16 +264,6 @@ CREATE TABLE `user` (
   `Phone` bigint(20) NOT NULL,
   `Password` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Dumping data for table `user`
---
-
-INSERT INTO `user` (`userid`, `Name`, `Email`, `College`, `Phone`, `Password`) VALUES
-(1, 'Rupinderjeet', '1rjsingh1@gmail.com', 'NITJ', 9888298877, '123'),
-(6, 'Abhishek', 'abhi@gmail.com', 'NITJ', 8489489498, '123'),
-(7, 'Ashish', 'ashish@gmail.com', 'NITJ', 8648694695, '123'),
-(8, 'Sukhdeep', 'suk@gmail.com', 'NITH', 4548948949, '132');
 
 --
 -- Indexes for dumped tables
