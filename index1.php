@@ -942,8 +942,8 @@ unset($_SESSION['suck']);
           			var ht=location.href;
           console.log(ht);
                   var ar=ht.split('/');
-                  console.log(ar[0]+"//"+ar[2]+"/"+ar[3]+"/"+ar[4]+"/"+ar[5]);
-                document.location.href = ar[0]+"//"+ar[2]+"/"+ar[3]+"/"+ar[4]+"/"+ar[5]+'/logout.php';
+                  console.log(ar[0]+"//"+ar[2]+"/"+ar[3]);
+                document.location.href = ar[0]+"//"+ar[2]+"/"+ar[3]+'/logout.php';
           		}
               </script>
     <div class="googin loginBUTTON" title="Logout">
