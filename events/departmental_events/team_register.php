@@ -2,38 +2,38 @@
 <!DOCTYPE html>
 <html lang="en">
 
-                        
+
                         <head>
                             <meta charset="utf-8">
                             <meta name="viewport" content="width=device-width, initial-scale=1.0">
                             <title>Team Register</title>
                             <link rel="icon" type="image/ico" href="../../images/favlogo.ico">
-                        
+
                             <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
                             <link href="../../cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" rel="stylesheet">
                             <link href="../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
                             <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
                             <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-                            
+
                             <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
                             <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
                             <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-                            <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+                            <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
                             <link rel="stylesheet" type="text/css" href="../local.css" />
                             <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
                             <script src="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-                        
+
                         </head>
                         <body>
-                        
+
                             <div id="wrapper">
                                   <?php include('../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
-                
-                                        
+
+
                                     </div>
                                 </nav>
-                        
+
                                 <!DOCTYPE html>
 <html>
 <style>
@@ -134,7 +134,7 @@ input[type=submit]:hover {
     <label class="fname">Member 7 Email ID</label>
     <input type="email" id="m7email" name="m7email" placeholder="Member 7">
 
-  
+
     <input style="background-color: black;" type="submit" value="Register">
   </form>
 </div>
@@ -150,7 +150,7 @@ input[type=submit]:hover {
 
 
 
-                                                            
+
                             <div id="myModal" class="modal fade" role="dialog">
                                 <div class="modal-dialog" style="width: 90%;max-width: 90%;">
                                     <!-- Modal content-->
@@ -177,7 +177,7 @@ input[type=submit]:hover {
                                                             </center>
                                                         </div>
                                                     </div>
-                        
+
                                                     <div class="row" style="margin-bottom: 40px;">
                                                         <div class="col-md-12">
                                                             <center>
@@ -186,15 +186,15 @@ input[type=submit]:hover {
                                                             </center>
                                                         </div>
                                                     </div>
-                        
-                                         
-                                                    
+
+
+
                                                     <br />
                             <div class="row">
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -212,13 +212,13 @@ input[type=submit]:hover {
                                                         <div>You can have team of 1.</div>
                                                     </center>
                                                     <br />
-                                                    
-                        
+
+
                                                     <div class="row">
                                                         <div class="col-md-12">
                                                             <center>
                                                                 <input type="submit" name="Submit" value="Submit" class="btn btn-warning" />
-                        
+
                                                             </center>
                                                         </div>
                                                     </div>
@@ -226,73 +226,73 @@ input[type=submit]:hover {
                                                         <div class="row">
                                                             <div class="col-md-2 flex-center">
                                                                 <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Member 2</span>
-                        
+
                                                             </div>
-                        
+
                                                             <div class="col-md-2">
                                                               <input type="text"  name="name2" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-                        
+
                                                             </div>
                                                             <div class="col-md-2">
                                                               <input type="text" name="id2" placeholder="techNITi19 ID" style="color:white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-                        
+
                                                             </div>
                                                             <div class="col-md-2">
                                                               <input type="email" name="email2" placeholder="Email" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-                        
+
                                                             </div>
                                                             <div class="col-md-2">
                                                               <input type="text" name="contact2" placeholder="Contact No." style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-                        
+
                                                             </div>
                                                             <div class="col-md-2">
                                                               <input type="text" name="college2" placeholder="College" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-                        
+
                                                             </div>
                                                         </div>
-                        
+
                                                         <br />
                                                         <div class="row">
                                                             <div class="col-md-2 flex-center">
                                                                 <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Member3</span>
-                        
+
                                                             </div>
-                        
+
                                                             <div class="col-md-2">
                                                               <input type="text"  name="name3" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-                        
+
                                                             </div>
                                                             <div class="col-md-2">
                                                               <input type="text" name="id3" placeholder="techNITi19 ID" style="color:white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-                        
+
                                                             </div>
                                                             <div class="col-md-2">
                                                               <input type="email" name="email3" placeholder="Email" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-                        
+
                                                             </div>
                                                             <div class="col-md-2">
                                                               <input type="text" name="contact3" placeholder="Contact No." style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-                        
+
                                                             </div>
                                                             <div class="col-md-2">
                                                               <input type="text" name="college3" placeholder="College" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-                        
+
                                                             </div>
                                                         </div>
                                                     </div>
-                        
+
                                                 </div>
                                             </form>
                                       </div>
                                     </div>
                                 </div>
-                        
-                        
-                        
-                        
+
+
+
+
                             </div>
-                        
-                        
+
+
                             <script type="text/javascript">
                                 if (typeof(Storage) !== "undefined")
                                 {
@@ -300,11 +300,11 @@ input[type=submit]:hover {
                                     sessionStorage.setItem("formPath","../../form.html");
                                 }
                             </script>
-                        
+
                             <script src="../../www.gstatic.com/firebasejs/5.7.0/firebase.js"></script>
                             <script src="../../js/login.js" ></script>
                             <script src="../registration.js"></script>
                             <script src="../events.js"></script>
                         </body>
-                        
+
                         <!-- Mirrored from www.axisvnit.org/events/construction_and_design/crepido.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
