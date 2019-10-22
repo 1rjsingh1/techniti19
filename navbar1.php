@@ -25,7 +25,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <img src="../logo5.png" style="width: 100px; height: 50px;"> <a class="navbar-brand" href="../../../index.php" > </a></img>
+                <img src="logo5.png" style="width: 100px; height: 50px;"> <a class="navbar-brand" href="index.php" > </a></img>
             </div>
             <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 

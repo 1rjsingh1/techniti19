@@ -1192,8 +1192,8 @@
         </div>
 
         <a href="#" class="navLink"><i class="icon-home"></i> Home</a>
-        <a href="events/deptcategory.html" class="navLink"><i class="icon-star"></i> Departmental Events</a>
-        <a href="events/megaEvents.html" class="navLink"><i class="icon-star"></i> Mega Events</a>
+        <a href="events/deptcategory.php" class="navLink"><i class="icon-star"></i> Departmental Events</a>
+        <a href="events/megaEvents.php" class="navLink"><i class="icon-star"></i> Mega Events</a>
        <!-- <a href="#" target="__blank"  class="navLink"><i class="icon-globe"></i> MUN</a>
         <a href="#" class="navLink"><i class="icon-bag"></i> Guest Lectures</a>
         <a href="#" class="navLink"><i class="icon-list"></i> Workshops</a>
@@ -1202,7 +1202,7 @@
         <a href="#" class="navLink"><i class="icon-address"></i>Sponsors</a>
         <!--<a href="#" class="navLink"><i class="icon-help"></i> Social Initiatives</a>-->
         <a href="#" class="navLink"><i class="icon-document"></i> Gallery</a>
-        <a href="team.html" class="navLink"><i class="icon-users"></i> Core Team</a>
+        <a href="team.php" class="navLink"><i class="icon-users"></i> Core Team</a>
         <a href="#" class="navLink"><i class="icon-help"></i> Contact Us</a>
 
         <div class="dropup">
