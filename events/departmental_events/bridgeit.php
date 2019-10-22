@@ -229,7 +229,7 @@ than 40%. Maximum number of sticks that can stacked together is three.  </li>
        
             
             <div id="RegisterContainer">
-                    <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+                    <a class="semi-transparent-button" href="team_register.php?id=34" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
                   </div>
 
                   <div class="row" id="EventHead">

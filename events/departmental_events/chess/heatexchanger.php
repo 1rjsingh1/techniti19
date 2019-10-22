@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/Heat Exchanger.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -48,9 +48,7 @@
                 <div class="col-md-12">
                     <div class="eventHeading" style="text-align: center;">Heat Exchanger</div>
 
-                    <!-- <div id="RegisterContainer">
-                      <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
-                    </div> -->
+                    
                 </div>
             </div>
 
@@ -165,60 +163,7 @@
                 </div>
             </div>
 
-            <!-- <div class="row" id="judgingandscoring">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Judging And Scoring</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                <div class="icon pull-left">
-
-                                </div>
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                <li>First the structure will be reviewed to check if it violates any rules mentioned above.</li>
-                                <li>The bridge will be scored on how well the material has been used to support the load.</li>
-                                <li>The efficiency will be calculated as the ratio of ultimate load capacity and the bridge weight.</li>
-                                <li>The deflection of the bridge at the yielding will be noted. If the deflection increases more than 10 mm ,then the load at the deflection will be taken as ultimate load.</li>
-                                <li>Violating any of the conditions mentioned above ,penalty will be imposed or may lead to disqualification.</li>
-                                <li>Weight exceeds the limit - Penalty of 20% of total score</li>
-                                <li>Dimensional specifications are not met - Penalty of 10% of total score</li>
-                                <li>Use of materials ,except the one stated in rules penalty of 50% of total score or can lead to disqualification</li>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-
-            <!-- <div class="row" id="writtentest">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i>Written Test</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                      <li>Any one member of the team has to appear for the written test succeded by the testing of the structure</li>
-                                      <li>The written test comprises of the questions on the basic Engineering Mechanics.</li>
-                                      <li>The total score of the team is calculated from the testing of the structure and the marks scored in the written test.</li>
-                                      <li>Written test is mandatory for all the teams participating in the event, if a team misses the written test, it may lead to direct disqualification.</li>
-                                      <li>Participants should carry the stationary material such as pen, pencil, etc.</li>
-
-                             </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div> -->
+           
 
             <div class="row" id="judgingandscoring">
                  <div class="col-md-12">
@@ -244,7 +189,7 @@
                  </div>
              </div>
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=47" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 
