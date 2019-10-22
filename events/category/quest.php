@@ -137,7 +137,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Scitech</b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 17px;">
               This Quiz aims at testing the knowledge of students about the Science and Technology around the World.</p>
                 <p>
 
@@ -160,7 +160,7 @@
                     <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Ace of Space</b>
             <p class="comment__date"></p>
-            <p class="comment__text">This Quiz is related to the Space Science and will give students to explore the Planets, Research Organisations
+            <p class="comment__text" style="font-size: 17px;">This Quiz is related to the Space Science and will give students to explore the Planets, Research Organisations
                                             and various Universe facts.
 </p>
  
@@ -180,7 +180,7 @@
         <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Biz Quizzard</b>
             <p class="comment__date"></p>
-            <p class="comment__text">This Quiz is related to the BUSINESS, Economics, Organisations LOGO’s, facts and other Business things.
+            <p class="comment__text" style="font-size: 17px;">This Quiz is related to the BUSINESS, Economics, Organisations LOGO’s, facts and other Business things.
 </p>
  
 <form method="get" action="../departmental_events/bizquizzard.php">

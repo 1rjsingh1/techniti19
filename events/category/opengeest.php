@@ -137,7 +137,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Cyber Hunt </b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 17px;">
               This contest will be held for 1st and 2nd year students only. The rules are simple, solve as
                                       many puzzles as you can and take away your prize. The only thing to consider is that solution of
                                       a puzzle would unlock the next puzzle or you are stuck. You can move to the next puzzle without
@@ -164,7 +164,7 @@
                     <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Web Design</b>
             <p class="comment__date"></p>
-            <p class="comment__text">It is time that you show off your creativity with code. This event will ask you to design a
+            <p class="comment__text" style="font-size: 17px;">It is time that you show off your creativity with code. This event will ask you to design a
 web page on a particular topic. Team with the most impressive design takes it all away.
 </p>
  
@@ -184,7 +184,7 @@ web page on a particular topic. Team with the most impressive design takes it al
                <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Code It</b>
             <p class="comment__date"></p>
-            <p class="comment__text">A rise in demand of coal, oil and other minerals was envisaged by the government of a thriving state. They, after days of discussion opted for the use of railroads to transport the minerals and oils. It was favoured as it would allow to transport greater amount of goods in a less time. Moreover, it avoided roadway congestion. A government contractor was assigned the project to lay down railway tracks to facilitate the transport of minerals and oils to the state. But the railway lines could not be connected as they encountered a river. Engineers decided to connect the railway lines through a truss bridge over the river which would have the strength to bear a heavy freight locomotive.
+            <p class="comment__text" style="font-size: 17px;">A rise in demand of coal, oil and other minerals was envisaged by the government of a thriving state. They, after days of discussion opted for the use of railroads to transport the minerals and oils. It was favoured as it would allow to transport greater amount of goods in a less time. Moreover, it avoided roadway congestion. A government contractor was assigned the project to lay down railway tracks to facilitate the transport of minerals and oils to the state. But the railway lines could not be connected as they encountered a river. Engineers decided to connect the railway lines through a truss bridge over the river which would have the strength to bear a heavy freight locomotive.
                                       Now, imagine yourself in their position and construct a truss bridge using. Use your inventiveness to make a sturdy and aesthetically pleasing bridge.
 </p>
  
@@ -204,7 +204,7 @@ web page on a particular topic. Team with the most impressive design takes it al
         <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Algo-Rhythm</b>
             <p class="comment__date"></p>
-            <p class="comment__text">The mega event organised by OpenGeest in association with Coding Club is a two-phase
+            <p class="comment__text" style="font-size: 17px;">The mega event organised by OpenGeest in association with Coding Club is a two-phase
                                                                     competitive coding competition. Individuals will have to register on the techNITi’19 website in
                                                                     order to participate.
 </p>

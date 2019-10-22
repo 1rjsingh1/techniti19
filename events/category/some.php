@@ -135,7 +135,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Manoeuvre </b>
             <p class="comment__date"></p>
-            <p class="comment__text" style="font-size: 15px;">
+            <p class="comment__text" style="font-size: 17px;">
               Focusing on every move you make, every pick and every place as accurate as
 possible, “MANOEUVRE”, around the obstacle, with elegance.
 Pave the path of your own victory, literally. Its all about mastering our controls
@@ -163,7 +163,7 @@ on an off road track.</p>
                     <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Robowar</b>
             <p class="comment__date"></p>
-            <p class="comment__text" style="font-size: 15px;">It will be a savage, Clash of Metals with the alloys grinding red hot. It is a
+            <p class="comment__text" style="font-size: 17px;">It will be a savage, Clash of Metals with the alloys grinding red hot. It is a
 game of style, control, damage and aggression with the robot pits against
 each other in a deadly combat.
 It is time to concentrate on the slashing of the bots. Get ready to feel the
@@ -187,7 +187,7 @@ wars.
                <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Rocket League</b>
             <p class="comment__date"></p>
-            <p class="comment__text" style="font-size: 15px;">What is pride? A Rocket that emulates the stars. The science behind has been
+            <p class="comment__text" style="font-size: 17px;">What is pride? A Rocket that emulates the stars. The science behind has been
 mythologized all out of proportion. It’s tough as rockets have a way of falling.
 But hey, we never said it was going to be easy. But science is all about asking
 questions and finding solutions, isn’t it?
@@ -211,7 +211,7 @@ water rocket. It will be a type of model rocket using water as its reaction mass
         <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Techville</b>
             <p class="comment__date"></p>
-            <p class="comment__text" style="font-size: 15px;">It's a Science Fair. <br>
+            <p class="comment__text" style="font-size: 17px;">It's a Science Fair. <br>
                                       Science is what makes humans stand tall among anything else. As a matter of fact, our
 relationship with science is something like “What one invents, the other discovers”. So, we
 thought the best way to decode what lies between the layers is with the help of living
@@ -235,7 +235,7 @@ They are never too big to ask questions, never know too much to learn something 
         <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">UAV Drone</b>
             <p class="comment__date"></p>
-            <p class="comment__text" style="font-size: 15px;">Its 2050 the apocalypse is near, rescue missions on roll. How many can we save?
+            <p class="comment__text" style="font-size: 17px;">Its 2050 the apocalypse is near, rescue missions on roll. How many can we save?
 The need of drones to pick up man or material from collapsing buildings and has
 risen. It’s now or never.
 Build a base for the upcoming future by fabricating drone that could hold the

@@ -133,7 +133,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Fix the Glitch </b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 17px;">
               All team
   have to make a short film out of this video only and the film should
   make sense. Length of the film should be 2-3 min. </p>
@@ -158,7 +158,7 @@
                     <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Movie Cascader</b>
             <p class="comment__date"></p>
-            <p class="comment__text">Its an individual event. Participant has to write a
+            <p class="comment__text" style="font-size: 17px;">Its an individual event. Participant has to write a
 script and has to present it in front of audience. Script should contain
 some technical stuff.Time limit : 10min - 20min. No abusing or
 vulgarism is allowed, otherwise team will be disqualified. No plagiarism
@@ -181,7 +181,7 @@ is allowed.
         <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Refurbish the Moment</b>
             <p class="comment__date"></p>
-            <p class="comment__text">Participants have to pick up audio of any movie scene and use the audio to shoot and
+            <p class="comment__text" style="font-size: 17px;">Participants have to pick up audio of any movie scene and use the audio to shoot and
   recreate that movie scene by their acting. Judging will be done on the basis of Direction,
   Acting, innovation in Screenplay, and Editing. Movie scene should be based on good
   theme. Participants are required to submit the video clip the day before the event
