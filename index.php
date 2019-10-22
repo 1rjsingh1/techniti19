@@ -5,9 +5,12 @@
 <head>
   <?php
           include('connection.php');
-          if($_SESSION['check']==1){
+          if(isset($_SESSION['check'])){
           echo "<script> alert('Registered Success')</script>";
           $_SESSION['check']=0;
+        }
+        else {
+          // code...
         }
     ?>
     <meta charset="utf-8">
