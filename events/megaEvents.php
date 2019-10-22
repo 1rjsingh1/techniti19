@@ -33,7 +33,7 @@
         
     
           <a class="card" href="construction_and_design/crepido.html">
-            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
+            <div class="front" style="background-image: url('img/img_back/lan.jpeg');">
               <p id="check">CS 1.6 WarZone</p>
             </div>
             <div class="back">
