@@ -33,7 +33,6 @@
     <link rel="stylesheet" href="style.css">
 
 
-
 </head>
 
 <body class="" style="color: white;">
@@ -135,7 +134,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Heat Exchanger </b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 15px;">
               The event consist of two parts:
               <p>
 <li> Design of the heat exchanger.</li>
@@ -162,7 +161,7 @@ Participants are expected to come with innovative prototype of the heat exchange
                  <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Best Out of Waste </b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 15px;">
              It is the game of designing the equipment which can solve the real life
                                         problems using the materials which are treated as waste in current scenario.
                                         Participants are advised to develop prototype with low cost and of high practical
