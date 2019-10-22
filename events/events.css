@@ -96,6 +96,7 @@ body {
 
 .front,
 .back {
+
   display: flex;
   border-radius: 6px;
   background-position: center;
@@ -111,7 +112,9 @@ body {
   transform-style: preserve-3d;
   transition: ease-in-out 600ms;
 }
-
+.back {
+  background-color: transparent;
+}
 .front {
   background-size: cover;
   padding: 2rem;
@@ -141,7 +144,7 @@ body {
 }
 
 .back {
-  background: #fff;
+  background: transparent;
   transform: rotateY(-180deg);
   padding: 0 2em;
 }
