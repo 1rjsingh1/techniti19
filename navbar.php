@@ -32,29 +32,29 @@
 
                 <ul class="nav navbar-nav navbar-left navbar-user" >
                         <li class="dropdown user-dropdown">
-                        <a href="../../../index.html" ></a>
+                        <a href="../../../index1.html" ></a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="../../../index.html" ></a>
+                        <a href="../../../index1.html" ></a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="../../../index.php" >Home</a>
+                        <a href="../../../index1.php" >Home</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="../category.html" >Departmental Events</a>
+                        <a href="../../deptcategory.html" >Departmental Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="../category.html" >Mega Events</a>
+                        <a href="../../category.html" >Mega Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="../category.html" >Sponsors</a>
+                        <a href="#" >Sponsors</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="../category.html" >Core Team</a>
+                        <a href="../../../team.php" >Core Team</a>
                     </li>
 
                     <li class="dropdown user-dropdown">
-                        <a href="../category.html" >Contact</a>
+                        <a href="#" >Contact</a>
                     </li>
                 </ul>
             </div>
