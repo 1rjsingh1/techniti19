@@ -28,6 +28,9 @@
 
     <div id="wrapper">
          
+                   <?php include('../../../navbar.php'); ?>
+          <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
+                <ul id="active" class="nav navbar-nav side-nav" style="background: black;"> 
                     
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
@@ -37,7 +40,7 @@
                     <li><a href="https://drive.google.com/open?id=1vMi7wxJShWsScLkBo-ZkO_MGyr6uQ6fL" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+                \
             </div>
         </nav>
 

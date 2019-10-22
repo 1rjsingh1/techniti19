@@ -1,3 +1,4 @@
+@@ -0,0 +1,516 @@
 
 <!DOCTYPE html>
 <html lang="en">
@@ -6,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>techNITi19 EVENT -  CREPIDO</title>
+    <title>E-Waste Makerthon</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -14,11 +15,11 @@
     <link href="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-    
+
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../../local.css" />
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -27,46 +28,29 @@
 <body>
 
     <div id="wrapper">
-          <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background: black;">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="../../../index-2.html"> techNITi'19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-            </div>
-            <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
+          <?php include('../../../navbar.php'); ?>
+          <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-                   
-                    <li><a href="#Problem"><i class="fa fa-globe"></i> Problem Statement</a></li>
-                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Story Line</a></li>
-                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Rules and Regulations</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Testing Of Bridge</a></li>
-                    <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li>
+                    <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
+                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Team Specification</a></li>
+                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
+                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
+                    <li><a href="#testingofbridge3"><i class="fa fa-universal-access"></i>Round 3</a></li>
+
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
- 
-                    <li><a href="https://drive.google.com/open?id=1bLY_I3POsjqyyqNROYbOdt7tyj4foctQ" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+
+                    <li><a href="https://drive.google.com/file/d/1JgAQU67l7qK8-wzabxQFRN6W9BBMfON-/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                <ul class="nav navbar-nav navbar-left navbar-user">
-
-                    <li class="dropdown user-dropdown">
-                        <a href="../../../index-2.html" >Home</a>
-                    </li>
-                    <li class="dropdown user-dropdown">
-                        <a href="../category.html" >Events</a>
-                    </li>
-                </ul>
+               
             </div>
         </nav>
 
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">CREPIDO</div>
-                    
+                    <div class="eventHeading" style="text-align: center;">E-Waste Makerthon</div>
+
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
                     </div> -->
@@ -74,19 +58,29 @@
             </div>
 
             <br/>
-           
+
             <div class="row" id="Problem">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Problem Statement</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i>Event description</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                        Design a truss bridge using Popsicle Sticks and Fevicol
+                                      Both Software and Hardware prototypes on E-Waste management are
+welcomed.
+The event consists of 3 rounds where first two rounds are online
+assesment . First round is meant to test the knowledge of condidates
+on E - Waste and Basics of Electronics.
+Selected students from the first round have to send the detailed
+presentation of their idea.
+Presentation will be assesed in detail by the veterans and selected
+teams are invited for the offiline round which is being held at
+Dr. B R Ambedkar National Institute of Technology, Jalandhar.
+Extra points weill be awarded for innovation.
                                     </div>
                                 </div>
                             </section>
@@ -99,15 +93,15 @@
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Story Line </h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Team Specification </h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                      A rise in demand of coal, oil and other minerals was envisaged by the government of a thriving state. They, after days of discussion opted for the use of railroads to transport the minerals and oils. It was favoured as it would allow to transport greater amount of goods in a less time. Moreover, it avoided roadway congestion. A government contractor was assigned the project to lay down railway tracks to facilitate the transport of minerals and oils to the state. But the railway lines could not be connected as they encountered a river. Engineers decided to connect the railway lines through a truss bridge over the river which would have the strength to bear a heavy freight locomotive.
-                                      Now, imagine yourself in their position and construct a truss bridge using. Use your inventiveness to make a sturdy and aesthetically pleasing bridge.
+                                      Team may contain maximum of 4 members.(Minimum of 2 members)
+  (A team may contain members from different colleges too.)
 
                                     </div>
                                 </div>
@@ -117,7 +111,7 @@
                     </div>
                 </div>
             </div>
-            
+
 
             <br />
             <div class="row" id="rules">
@@ -125,33 +119,29 @@
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Rules and Regulations</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 1</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-                                       <li>  The structure made (Trussed Bridge) will be tested on the day of event.</li>
-                                        <li> Popsicle sticks can be altered physically by cutting or notching at any angle.</li>
-                                        <li> Only Fevicol can be used as adhesive ,use of other adhesive may lead to disqualification.</li>
-                                        <li> Maximum number of sticks that can be stack together is Three. </li>
-                                        <li> Base of the bridge should not be made as shown in the figure.</li>
-                                        <li> Use of any other adhesive material than Fevicol is not allowed.</li>
-                                        <li> Thickness of base (deck) should not be more than thickness of Three sticks</li>
-                                        <li> Use of Threads and Nails is not allowed. </li>
-                                        <li> Bridge dimensions should be within specified limits as given in the figure.</li>
-                                        <li>Thickness of the base of the bridge should not exceed 2cm.(i.e. thickness equals to three sticks stacked together) </li>
-                                        <li>Weight of bridge should not exceed the weight of 600 popsicle sticks.</li>
-                                        <li>Maximum 4 students per team.</li>
-                                        <li>Any one of the team member will have to appear for the written test after the testing of bridge</li>
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12 col-sm-12">
-                                                <center>
-                                                    <img src="../../../images/events/crepido2.png" class="eventImage">
-                                                </center>
-                                            </div>
-                                        </div>
+                                       <p>It will be an online assessment where each team is being
+evaluated on the basis of merit, questions will be of type MCQs and one
+word. <br>
+Test include questions on :
+                                        </p>
+
+
+                                       <li> Effects and Impacts of E-Waste.</li>
+                                        <li> E-Waste Mangement.</li>
+
+
+                                        <li>Current affairs related to E-Waste.</li>
+<li>Basics of Electronics.</li>
+Test will be of 30min and will be held on Google Forms and results will
+be published on below link and will be informed personally.
+
 
                                     </div>
                                 </div>
@@ -161,23 +151,32 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="row" id="testingofbridge">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Testing of Bridge</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    <li>Bridge model will be loaded till failure. The maximum deflection at the point of yielding and The load at that moment will be used to evaluate the structure.</li>
-                                    <li>If it happens that the structure reaches the threshold deflection of 1.0 cm then the evaluation will be made on the same load. (At this case the structure will not be tested further.)
-                                    </li>
-                                    <li>Even if a single member of structure fails then evaluation will be made on the same load.
-                                    </li>
+                                        <p>Selected Teams have to send a detailed presentation of
+their idea. Implementaions of their idea can be of both the form, either
+Software (Web Applications,Android Applications) or Hardware. <br> PPT should contain:</p>
+
+                                    <li>Team Details.</li>
+                                    <li>Idea/ Approach Details <br>
+(Describe your Use Cases/Measurable Impact) <br>
+(Describe your Idea/ Solution/ Prototype) <br>
+(Technology Stack in case of Software)<br>
+(Details of the Hardware used) <br>
+<li>Present your idea using Flowcharts/ Block diagrams.
+Extra points will be awared for innovations.
+Presentaion can be sent either in ppt or pdf format (size should not
+exceed 2mb and slides should not exceed 10 pages) </li>
                                     </div>
                                 </div>
                             </section>
@@ -186,57 +185,54 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="row" id="judgingandscoring">
+
+
+           <div class="row" id="testingofbridge3">
+             <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                        <p>Evaluation of ppt will be done by the veterans and
+shortlisted teams are invited to Dr. B R Ambedkar National Instiute of
+technology, Jalandhar (NITJ) for next round.
+This will be 6hrs Makerthon where teams have to present their idea
+along with the prototype confront of judges and need to assert
+appropriate modifications directed by them.</p>
+
+
+                                    </div>
+                                </div>
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+           <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Judging And Scoring</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
                                 <div class="icon pull-left">
-                                   
+
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                <li>First the structure will be reviewed to check if it violates any rules mentioned above.</li>
-                                <li>The bridge will be scored on how well the material has been used to support the load.</li>
-                                <li>The efficiency will be calculated as the ratio of ultimate load capacity and the bridge weight.</li>
-                                <li>The deflection of the bridge at the yielding will be noted. If the deflection increases more than 10 mm ,then the load at the deflection will be taken as ultimate load.</li>
-                                <li>Violating any of the conditions mentioned above ,penalty will be imposed or may lead to disqualification.</li>
-                                <li>Weight exceeds the limit - Penalty of 20% of total score</li>
-                                <li>Dimensional specifications are not met - Penalty of 10% of total score</li>
-                                <li>Use of materials ,except the one stated in rules penalty of 50% of total score or can lead to disqualification</li>
+
                                     </div>
                                 </div>
                             </section>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row" id="writtentest">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i>Written Test</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                      <li>Any one member of the team has to appear for the written test succeded by the testing of the structure</li>
-                                      <li>The written test comprises of the questions on the basic Engineering Mechanics.</li>
-                                      <li>The total score of the team is calculated from the testing of the structure and the marks scored in the written test.</li>
-                                      <li>Written test is mandatory for all the teams participating in the event, if a team misses the written test, it may lead to direct disqualification.</li>
-                                      <li>Participants should carry the stationary material such as pen, pencil, etc.</li>
-
-                             </div>
-                                </div>
-                            </section>
-
                         </div>
                     </div>
                 </div>
@@ -247,9 +243,9 @@
                 <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
-           
 
-        
+
+
             <div class="row" id="contact">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -258,36 +254,29 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <center>
                                             <div class="container">
                                                 <div class="row">
-                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                    <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            CHUNCHU PRAVALIKA
+                                                            T Yathindra Rao
                                                         </div>
                                                         <div class="Number">
-                                                            +91-9172564108
+                                                            +91-832063370
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                    <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            KASA LOHIT
+                                                            Dhivesh Joshi
                                                         </div>
                                                         <div class="Number">
-                                                            +91-8464995273
+                                                            +91 9592490189
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
-                                                        <div class="Name">
-                                                            SUVOG BORKAR
-                                                        </div>
-                                                        <div class="Number">
-                                                            +91-9011743948 
-                                                        </div>
-                                                    </div>
+
                                                 </div>
                                             </div>
                                         </center>
@@ -298,10 +287,10 @@
                     </div>
                 </div>
             </div>
-        
+
         </div>
-        
-                                    
+
+
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog" style="width: 90%;max-width: 90%;">
             <!-- Modal content-->
@@ -344,7 +333,7 @@
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -411,7 +400,7 @@
                                 <div>You can have team of 4 or less.</div>
                             </center>
                             <br />
-                            
+
 
                             <div class="row">
                                 <div class="col-md-12">

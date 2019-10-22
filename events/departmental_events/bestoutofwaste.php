@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>techNITi19 EVENT -  BEST OUT OF WASTE  </title>
+    <title>Best Out Of Waste  </title>
     <link rel="icon" type="image/ico" href="../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -45,10 +45,7 @@
            <div class="row">
                 <div class="col-md-12">
                     <div class="eventHeading" style="text-align: center;">BEST OUT OF WASTE</div>
-                    
-                    <!-- <div id="RegisterContainer">
-                      <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
-                    </div> -->
+                  
                 </div>
             </div>
 

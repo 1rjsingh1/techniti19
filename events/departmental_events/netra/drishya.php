@@ -219,7 +219,7 @@ any disputes NIT Jalandhar reserves the rights in its sole discretion.</li>
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../register.php?id=6" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 

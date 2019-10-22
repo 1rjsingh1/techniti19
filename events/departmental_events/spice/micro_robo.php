@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>techNITi19 EVENT -  CREPIDO</title>
+    <title>Mind The Mind</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -27,45 +27,29 @@
 <body>
 
     <div id="wrapper">
-          <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background: black;">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="../../../index-2.html"> techNITi'19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-            </div>
-            <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
+         <?php include('../../../navbar.php'); ?>
+          <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
                    
-                    <li><a href="#Problem"><i class="fa fa-globe"></i> Problem Statement</a></li>
-                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Story Line</a></li>
-                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Rules and Regulations</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Testing Of Bridge</a></li>
-                    <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li>
+                    <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
+                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Team Specification</a></li>
+                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
+                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
+                    <li><a href="#testingofbridge3"><i class="fa fa-universal-access"></i>Round 3</a></li>
+                    
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
  
-                    <li><a href="https://drive.google.com/open?id=1bLY_I3POsjqyyqNROYbOdt7tyj4foctQ" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/open?id=1iqwcQyieLVBrlLfIJAanRHcNnkHYFcBL" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                <ul class="nav navbar-nav navbar-left navbar-user">
-
-                    <li class="dropdown user-dropdown">
-                        <a href="../../../index-2.html" >Home</a>
-                    </li>
-                    <li class="dropdown user-dropdown">
-                        <a href="../category.html" >Events</a>
-                    </li>
-                </ul>
+                
             </div>
         </nav>
 
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">CREPIDO</div>
+                    <div class="eventHeading" style="text-align: center;">MIND THE MIND</div>
                     
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -79,14 +63,23 @@
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Problem Statement</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i>Event description</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                        Design a truss bridge using Popsicle Sticks and Fevicol
+                                       It’s a team event which consists of 3 rounds.
+The first round is selection of teams via an aptitude test consisting
+of various types of questions.
+Top 12 teams move to second round which is a twisted
+Snake and Ladders game, in which team’s problem solving
+abilities would be tested.
+Top 6 teams from the second round move to third round
+which consists of chess with a twist in rules and have to earn
+components in the game which is to be used to make a circuit.
+Team with highest points would win.
                                     </div>
                                 </div>
                             </section>
@@ -99,15 +92,15 @@
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Story Line </h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Team Specification </h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                      A rise in demand of coal, oil and other minerals was envisaged by the government of a thriving state. They, after days of discussion opted for the use of railroads to transport the minerals and oils. It was favoured as it would allow to transport greater amount of goods in a less time. Moreover, it avoided roadway congestion. A government contractor was assigned the project to lay down railway tracks to facilitate the transport of minerals and oils to the state. But the railway lines could not be connected as they encountered a river. Engineers decided to connect the railway lines through a truss bridge over the river which would have the strength to bear a heavy freight locomotive.
-                                      Now, imagine yourself in their position and construct a truss bridge using. Use your inventiveness to make a sturdy and aesthetically pleasing bridge.
+                                    Team may contain maximum of 4 members.
+(A team may contain members from different colleges too.)
 
                                     </div>
                                 </div>
@@ -125,33 +118,25 @@
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Rules and Regulations</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 1</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-                                       <li>  The structure made (Trussed Bridge) will be tested on the day of event.</li>
-                                        <li> Popsicle sticks can be altered physically by cutting or notching at any angle.</li>
-                                        <li> Only Fevicol can be used as adhesive ,use of other adhesive may lead to disqualification.</li>
-                                        <li> Maximum number of sticks that can be stack together is Three. </li>
-                                        <li> Base of the bridge should not be made as shown in the figure.</li>
-                                        <li> Use of any other adhesive material than Fevicol is not allowed.</li>
-                                        <li> Thickness of base (deck) should not be more than thickness of Three sticks</li>
-                                        <li> Use of Threads and Nails is not allowed. </li>
-                                        <li> Bridge dimensions should be within specified limits as given in the figure.</li>
-                                        <li>Thickness of the base of the bridge should not exceed 2cm.(i.e. thickness equals to three sticks stacked together) </li>
-                                        <li>Weight of bridge should not exceed the weight of 600 popsicle sticks.</li>
-                                        <li>Maximum 4 students per team.</li>
-                                        <li>Any one of the team member will have to appear for the written test after the testing of bridge</li>
-                                        <div class="row">
-                                            <div class="col-md-12 col-lg-12 col-sm-12">
-                                                <center>
-                                                    <img src="../../../images/events/crepido2.png" class="eventImage">
-                                                </center>
-                                            </div>
-                                        </div>
+                                       <p>Paper pen based General Aptitude Test including questions on
+                                        </p>
+
+
+                                       <li> Basic Electronics</li>
+                                        <li> Current Affairs</li>
+                                        
+                                        
+                                        <li>Quantitative Analysis</li>
+<li>Qualitative Analysis</li>
+<li>Verbal Communication</li>
+ 
 
                                     </div>
                                 </div>
@@ -166,18 +151,34 @@
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Testing of Bridge</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    <li>Bridge model will be loaded till failure. The maximum deflection at the point of yielding and The load at that moment will be used to evaluate the structure.</li>
-                                    <li>If it happens that the structure reaches the threshold deflection of 1.0 cm then the evaluation will be made on the same load. (At this case the structure will not be tested further.)
+                                        <p>There will be an arena of Snakes and Ladders having amplifiers in
+place of ladders and attenuators in place of snakes. There will be
+capacitors and inductors also in some blocks. One member of each
+team will be sent to the starting point of the arena who will move
+according to the number on the dice.</p>
+
+                                    <li>Teams will be assigned AC or DC value randomly in the starting.</li>
+                                    <li>Three sets of 4 teams will be formed in the starting of the roundand
+they will be seated according to the number and set provided to them.
                                     </li>
-                                    <li>Even if a single member of structure fails then evaluation will be made on the same load.
+                                    <li>Questions will be asked from 3 teams simultaneously from each set.
+1 min will be provided to answer the question.
                                     </li>
+                                    <li>The teams who will answer correctly will be provided a chance to
+throw dice and their representative in the arena will move accordingly.</li>
+                                    <li>If the representative will land on attenuator or amplifier, he/she will
+have to move backward or forward according to the factor of attenuator
+or amplifier.</li>
+<li>AC/DC will be blocked by capacitors and inductors and to remove
+that blockage teams will have to answer an additional question.</li>
+<p>12 questions will be asked from each team. Top 6 teams go to next round.</p>
                                     </div>
                                 </div>
                             </section>
@@ -187,11 +188,50 @@
                 </div>
             </div>
             
-            <div class="row" id="judgingandscoring">
+           
+           <div class="row" id="testingofbridge3">
+             <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+                                 
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                        <p>Three sets of 2 teams will be formed randomly and they will play
+chess with each other. Chess rules will be a bit altered. Each piece
+of chess will be assigned an electronic component and each
+component will be assigned some points. Team having maximum
+points will be considered winner.</p>
+
+                                    <li>Teams will have to play chess according to the altered rules.
+They will earn components by cutting corresponding piece of other team.</li>
+                                    <li>After half an hour, each team will be provided all the components
+and circuit diagrams. To make the earned components active,
+teams have to design a working circuit using those components.
+                                    </li>
+                                    <li>One hour will be provided for making circuits. Addition of
+the points corresponding to earned components will be
+done.
+                                    </li>
+                                    
+                                    </div>
+                                </div>
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+           <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Judging And Scoring</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
@@ -200,43 +240,10 @@
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                <li>First the structure will be reviewed to check if it violates any rules mentioned above.</li>
-                                <li>The bridge will be scored on how well the material has been used to support the load.</li>
-                                <li>The efficiency will be calculated as the ratio of ultimate load capacity and the bridge weight.</li>
-                                <li>The deflection of the bridge at the yielding will be noted. If the deflection increases more than 10 mm ,then the load at the deflection will be taken as ultimate load.</li>
-                                <li>Violating any of the conditions mentioned above ,penalty will be imposed or may lead to disqualification.</li>
-                                <li>Weight exceeds the limit - Penalty of 20% of total score</li>
-                                <li>Dimensional specifications are not met - Penalty of 10% of total score</li>
-                                <li>Use of materials ,except the one stated in rules penalty of 50% of total score or can lead to disqualification</li>
+                                
                                     </div>
                                 </div>
                             </section>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row" id="writtentest">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i>Written Test</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                      <li>Any one member of the team has to appear for the written test succeded by the testing of the structure</li>
-                                      <li>The written test comprises of the questions on the basic Engineering Mechanics.</li>
-                                      <li>The total score of the team is calculated from the testing of the structure and the marks scored in the written test.</li>
-                                      <li>Written test is mandatory for all the teams participating in the event, if a team misses the written test, it may lead to direct disqualification.</li>
-                                      <li>Participants should carry the stationary material such as pen, pencil, etc.</li>
-
-                             </div>
-                                </div>
-                            </section>
-
                         </div>
                     </div>
                 </div>
@@ -264,30 +271,15 @@
                                         <center>
                                             <div class="container">
                                                 <div class="row">
-                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                    <div class="col-md-12 col-lg-12 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            CHUNCHU PRAVALIKA
+                                                            T Yathindra Rao
                                                         </div>
                                                         <div class="Number">
-                                                            +91-9172564108
+                                                            +91-832063370
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
-                                                        <div class="Name">
-                                                            KASA LOHIT
-                                                        </div>
-                                                        <div class="Number">
-                                                            +91-8464995273
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
-                                                        <div class="Name">
-                                                            SUVOG BORKAR
-                                                        </div>
-                                                        <div class="Number">
-                                                            +91-9011743948 
-                                                        </div>
-                                                    </div>
+                                               
                                                 </div>
                                             </div>
                                         </center>

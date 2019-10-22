@@ -133,7 +133,29 @@ In final round, a circuit will be given and team has to kill the bugs in circuit
                         <div class="comment__underline"></div>
 
         </div>
-                    
+                
+                <div class="comment comment--first">
+            <b class="comment__author"  style="font-size: 30px;">Circuit Hunt</b>
+            <p class="comment__date"></p>
+            <p class="comment__text"><p>The event consists of 3 rounds in which first two rounds are
+                                            meant to test programming skills of participants and their
+                                            problem solving capabilities.</p>
+                                            <p>These two rounds are to be organized online, where top 16 teams
+                                            from first round move to second round.
+</p>
+ 
+<form method="get" action="../departmental_events/circuithunt.php">
+    <button type="submit" style="background-color: Transparent;
+    background-repeat:no-repeat;
+    border: solid;
+    cursor:pointer;
+    border-radius: 10px;
+    overflow: hidden; ">Register</button>
+</form>
+
+                        <div class="comment__underline"></div>
+
+        </div>    
 </div>
 
 </div>

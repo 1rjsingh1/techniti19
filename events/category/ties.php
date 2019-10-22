@@ -103,6 +103,31 @@ could keeping in mind certain penalties that are being offered in track.</p>
                 <div class="comment__underline"></div>
         </div>
 
+<div class="comment comment--first">
+            <b class="comment__author" style="font-size: 30px;">Best Engineer </b>
+            <p class="comment__date"></p>
+            <p class="comment__text">
+              Problems existing in the college campus identified by the participants and a solution to the problem
+                                            given by another participant.</p>
+                <p>
+
+  
+<form method="get" action="../departmental_events/bestengineer.php">
+    <button type="submit" style="background-color: Transparent;
+    background-repeat:no-repeat;
+    border: solid;
+    cursor:pointer;
+    border-radius: 10px;
+    overflow: hidden; ">Register</button>
+</form>
+
+
+
+
+
+                <div class="comment__underline"></div>
+        </div>
+
                     
 </div>
 

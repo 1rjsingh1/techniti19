@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>techNITi19 EVENT - Photo Manipulation</title>
+    <title>Photo Manipulation</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -27,7 +27,9 @@
 <body>
 
     <div id="wrapper">
-          
+           <?php include('../../../navbar.php'); ?>
+          <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
+                <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
 
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Problem Statement</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Story Line</a></li>
@@ -215,7 +217,7 @@ disputes NIT Jalandhar reserves the rights in its sole discretion.</li>
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../register.php?id=9" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 

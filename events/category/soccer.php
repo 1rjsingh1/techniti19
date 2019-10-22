@@ -49,7 +49,7 @@
 <!-- three.js -->
 <div id="webgl-output"></div>
 <main class="preview-page">
-    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/civil.jpg);background-size: cover;
+    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/ice.jpg);background-size: cover;
     background-position: center;
     height: 100vh;
     background-attachment: fixed;">
@@ -79,10 +79,12 @@
     <div class="comments__content">
         <div class="comments__left">
             <div class="comment comment--first">
-            <b class="comment__author" style="font-size: 30px;">Survey Hunt </b>
+            <b class="comment__author" style="font-size: 30px;">Survey Hunt</b>
             <p class="comment__date"></p>
             <p class="comment__text">
-              Survey Hunt aims to hit exactly at inquisitiveness of participants allowing them to recall their
+              “Exploration is curiosity put into action.”
+
+Survey Hunt aims to hit exactly at inquisitiveness of participants allowing them to recall their
 common observances of the places around them and effectively guess the clues offered to them.</p>
                 <p>
 
@@ -100,7 +102,28 @@ common observances of the places around them and effectively guess the clues off
 
 
 
-               
+                <div class="comment__underline"></div>
+        </div>
+                    <div class="comment comment--first">
+            <b class="comment__author"  style="font-size: 30px;">Bridge It</b>
+            <p class="comment__date"></p>
+            <p class="comment__text">Bridges are crucial transportation links that carry road and rail traffic across rivers, gorges or
+                                            other roads. When a bridge collapses or closes for repairs, it can cause massive traffic problems
+                                            or strand people altogether, especially if they live on an island.
+</p>
+ 
+<form method="get" action="../departmental_events/bridgeit.php">
+    <button type="submit" style="background-color: Transparent;
+    background-repeat:no-repeat;
+    border: solid;
+    cursor:pointer;
+    border-radius: 10px;
+    overflow: hidden; ">Register</button>
+</form>
+
+                        <div class="comment__underline"></div>
+
+        </div>
                     
 </div>
 

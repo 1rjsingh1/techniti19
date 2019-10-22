@@ -49,14 +49,14 @@
 <!-- three.js -->
 <div id="webgl-output"></div>
 <main class="preview-page">
-    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/soece.jpg);background-size: cover;
+    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/cse.jpg);background-size: cover;
     background-position: center;
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
         <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
         <h1 class="preview__name" style="font-size: 40px;">
-            Society Of Electronics and Communication Engineers</h1>
+            LAN Gaming</h1>
 
     </div>
            
@@ -79,20 +79,17 @@
     <div class="comments__content">
         <div class="comments__left">
             <div class="comment comment--first">
-            <b class="comment__author" style="font-size: 30px;">Mind The Mind </b>
+            <b class="comment__author" style="font-size: 30px;">Counter Strike </b>
             <p class="comment__date"></p>
             <p class="comment__text">
-              The event consists of 3 rounds in which first two rounds are meant to test programming skills of participants and their problem solving capabilities.
-
-      These two rounds are to be organized online, where top 16 teams from first round move to second round.
-
-      From second round 8 teams move ahead to the final round, which is the main attraction of the Event.
-
-      In the third round circuit analyzing and synthesis ability of participants would be tested.</p>
+               We are the gamers; we are the warriors who will etch their name in history.
+Keeping this is mind we are conducting a counter strike gaming tournament so that
+we can find the most skilled and dominating team which will rise up the charts and
+become the KING OF THE HILL.</p>
                 <p>
 
   
-<form method="get" action="../departmental_events/soece/mindthemind.php">
+<form method="get" action="../departmental_events/langaming/counterstrike.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
     border: solid;
@@ -105,35 +102,7 @@
 
 
 
-                <div class="comment__underline"></div>
-        </div>
-                    <div class="comment comment--first">
-            <b class="comment__author"  style="font-size: 30px;">E-Waste</b>
-            <p class="comment__date"></p>
-            <p class="comment__text">To implement the given circuit by encountering the bugs in it. It will be a team game. Each team will have maximum 3
-
-members.
-
-The event consists of 3 rounds. There will be elimination at each round. 10 teams will be selected for second round and top 5 teams among them will make it to final round.
-
-The first round will test the visual interpretation. The second round is- creating imaginary shop and testing advertising skills.
-
-In final round, a circuit will be given and team has to kill the bugs in circuit first and have to implement that circuit.
-</p>
- 
-<form method="get" action="../departmental_events/soece/ewaste.php">
-    <button type="submit" style="background-color: Transparent;
-    background-repeat:no-repeat;
-    border: solid;
-    cursor:pointer;
-    border-radius: 10px;
-    overflow: hidden; ">Register</button>
-</form>
-
-                        <div class="comment__underline"></div>
-
-        </div>
-                    
+              
 </div>
 
 </div>

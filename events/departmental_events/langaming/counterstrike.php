@@ -2,75 +2,53 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/crepido.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/COUNTER STRIKE.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>techNITi19 EVENT -  COUNTER STRIKE</title>
-    <link rel="icon" type="image/ico" href="../../images/favlogo.ico">
+    <title>COUNTER STRIKE</title>
+    <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
-    <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="../../cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
-    <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-    
-    <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
-    <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
-    <link rel="stylesheet" type="text/css" href="../local.css" />
-    <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="../../../cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
+    <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
+
+    <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
+    <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="../../local.css" />
+    <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
 </head>
 <body>
 
     <div id="wrapper">
-          <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background: black;">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="../../index.html"> techNITi'19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-            </div>
-            <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
+          <?php include('../../../navbar.php'); ?>
+          <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-                   
                     <li><a href="#Problem"><i class="fa fa-globe"></i> EVENT DESCRIPTION</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>REGISTRATION FEES</a></li>
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> TEAM SPECIFICATION</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>DETAILS OF INDIVIDUAL ROUNDS</a></li>
+                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Rounds</a></li>
                     <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> GENERAL RULES</a></li>
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> TOURNAMENT RULES</a></li>
-                    <li><a href="#gameFormat"><i class=" fa fa-clock-o"></i> GAME FORMAT</a></li>
-                    <li><a href="#violations"><i class=" fa fa-clock-o"></i> VIOLATIONS</a></li>
-                    <li><a href="#issues"><i class=" fa fa-clock-o"></i> UNINTENTIONAL ISSUES</a></li>
-                    <li><a href="#issues"><i class=" fa fa-clock-o"></i> RULES CHANGE</a></li>
+                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/open?id=1bLY_I3POsjqyyqNROYbOdt7tyj4foctQ" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/file/d/1YhjlS6-4G01hBXJ-ZZi7yDwKUcM_GotL/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                <ul class="nav navbar-nav navbar-left navbar-user">
-
-                    <li class="dropdown user-dropdown">
-                        <a href="../../index.html" >Home</a>
-                    </li>
-                    <li class="dropdown user-dropdown">
-                        <a href="../category.html" >Events</a>
-                    </li>
-                </ul>
+               
             </div>
         </nav>
 
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">CONTER STRIKE</div>
-                    
+                    <div class="eventHeading" style="text-align: center;">COUNTER STRIKE</div>
+
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
                     </div> -->
@@ -78,7 +56,7 @@
             </div>
 
             <br/>
-           
+
             <div class="row" id="Problem">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -87,10 +65,10 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                        We are the gamers; we are the warriors who will etch their name in history.
+                                      We are the gamers; we are the warriors who will etch their name in history.
 Keeping this is mind we are conducting a counter strike gaming tournament so that
 we can find the most skilled and dominating team which will rise up the charts and
 become the KING OF THE HILL.
@@ -106,14 +84,14 @@ become the KING OF THE HILL.
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> REGISTRATION FEES</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> REGISTRATION FEES </h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        Rs 300/- per team.
+                                    Rs 300/- per team.
                                     </div>
                                 </div>
                             </section>
@@ -122,7 +100,7 @@ become the KING OF THE HILL.
                     </div>
                 </div>
             </div>
-            
+
 
             <br />
             <div class="row" id="rules">
@@ -130,16 +108,21 @@ become the KING OF THE HILL.
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i>TEAM SPECIFICATION</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> TEAM SPECIFICATION</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-
-                                        A team must contain maximum 5 members and if there is no team formed up then
-the organizers can form up a team as they seem fit.
+                                      A team must contain maximum 5 members and if there is no team formed up then
+the organizers can form up a team as they seem fit.  <div class="row">
+                                            <div class="col-md-12 col-lg-12 col-sm-12">
+                                                <center>
+                                                    <!-- <img src="../../../images/events/COUNTER STRIKE2.png" class="eventImage">
+                                                </center> -->
+                                            </div>
+                                        </div>
 
                                     </div>
                                 </div>
@@ -149,40 +132,34 @@ the organizers can form up a team as they seem fit.
                     </div>
                 </div>
             </div>
-			
-			<div class="row" id="testingofbridge">
-			 <div class="col-md-12">
+
+            <div class="row" id="testingofbridge">
+             <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> DETAILS OF INDIVIDUAL ROUNDS</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Rounds</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                            This round will be first conducted for the players to warm up and get accustomed
-                                            to the environment.<br>
-                                            Maximum of 5 matches.<br><br>
-                                            <b>SIDE SELECTION AND MAP SELECTION:</b>
-                                            A knife round will be played to determine the side. This is forced by the server.
-                                            The winner of this knife round will choose the side by typing - stay or switch in the
-                                            chat. Also the winner will choose the map to be played from the map pool.<br><br>
-                                            <b>MAIN ROUND:</b>
-                                            
-                                            This will be consisting of maximum 30 matches from which the team to secure 16
-                                            wins first wins.<br>
-                                            
-                                            Dr B R Ambedkar National Institute of Technology Jalandhar, Punjab<br><br>
-                                            
-                                            <b>TIE-BREAKER ROUND:</b>
-                                            In case there is a tie then there will be 3 tie-breaker matches in awp india from
-                                            which there will be one winner and that team will proceed to the next round.<br><br>
-                                        TIE-BREAKER ROUND:
-                                        In case there is a tie then there will be 3 tie-breaker matches in awp india from
-                                        which there will be one winner and that team will proceed to the next round.
-                                                                                
-									</div>
+                                  <li>WARM UP ROUND:
+This round will be first conducted for the players to warm up and get accustomed
+to the environment.</li>
+<li>SIDE SELECTION AND MAP SELECTION:
+A knife round will be played to determine the side. This is forced by the server.
+The winner of this knife round will choose the side by typing - stay or switch in the
+chat. Also the winner will choose the map to be played from the map pool.</li>
+<li>MAIN ROUND:
+
+This will be consisting of maximum 30 matches from which the team to secure 16
+wins first wins.</li>
+<li>
+  TIE-BREAKER ROUND:
+  In case there is a tie then there will be 3 tie-breaker matches in awp india from
+  which there will be one winner and that team will proceed to the next round.</li>
+                                    </div>
                                 </div>
                             </section>
 
@@ -190,213 +167,94 @@ the organizers can form up a team as they seem fit.
                     </div>
                 </div>
             </div>
-			
-			<div class="row" id="judgingandscoring">
+
+            <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i>GENERAL RULES</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> GENERAL RULES</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
                                 <div class="icon pull-left">
-                                   
+
                                 </div>
-                                <div class="text eventInfo"><br><b>WARM UP ROUND:</b> 
-                                    These rules apply to everyone attending the event.<br><br>
-                                    <ol>
-                                            <li>You are responsible for your actions and equipment. We are not liable for
-                                                    anything that happens to you and your equipment.</li><br>
-                                            <li>Do not attempt to steal items from the event or anyone else, legal consequences
-                                                    will be taken.</li><br>
-                                            <li>Cheating is an offence. Doing so may lead to disqualification.</li><br> 
-                                            <li>Do not bring any type of hacks/viruses to the event.</li><br>
-                                            <li>Listen to those in charge.</li><br>
-                                            <li>We reserve the right to remove anyone from premises for any reason we deem
-                                                    fit.</li><br>
-                                            <li>Once the match starts, players will not be able to disrupt a match on the
-                                                    grounds of match settings.</li><br>
-                                            <li>Any intentional abuse of "pause" by a player on the server will be result in
-                                                    disciplinary action to be decided by an administrator</li><br>
-                                    </ol>
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                <li>You are responsible for your actions and equipment. We are not liable for
+anything that happens to you and your equipment.</li>
+                                <li>Do not attempt to steal items from the event or anyone else, legal consequences
+will be taken.</li>
+                                <li>Cheating is an offence. Doing so may lead to disqualification.</li>
+                                <li>Do not bring any type of hacks/viruses to the event.</li>
+                                <li>Listen to those in charge.</li>
+                                <li>We reserve the right to remove anyone from premises for any reason we deem
+fit.</li>
+                                <li>Once the match starts, players will not be able to disrupt a match on the
+grounds of match settings.</li>
+                                <li>Any intentional abuse of "pause" by a player on the server will be result in
+disciplinary action to be decided by an administrator.</li>
+                                    </div>
                                 </div>
-                               
                             </section>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="row" id="writtentest">
+            <!-- <div class="row" id="writtentest">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> TOURNAMENT RULES</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i>Written Test</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                            <b>Offense:</b> Terrorist Side<br><br>
-                                            <b>Defense:</b> Counter-Terrorist Side<br><br>
-                                            <b>Round:</b> One 2 minutes cycle on a map<br><br>
-                                            
-                                            <b>Half:</b> 15 rounds of play on defending or offensive side
-                                            Half Time: The period between halves in which team swap sides.
-                                            
-                                            Dr B R Ambedkar National Institute of Technology Jalandhar, Punjab<br><br>
-                                            <b>Match:</b> First team to win 16 rounds win, or the single overtime round.<br><br>
-                                            <b>Overtime:</b> In the case of a 15-15 score at the end of regulation play, 3 overtime
-                                            rounds will be played.<br><br>
-							 </div>
+                                      <li>Any one member of the team has to appear for the written test succeded by the testing of the structure</li>
+                                      <li>The written test comprises of the questions on the basic Engineering Mechanics.</li>
+                                      <li>The total score of the team is calculated from the testing of the structure and the marks scored in the written test.</li>
+                                      <li>Written test is mandatory for all the teams participating in the event, if a team misses the written test, it may lead to direct disqualification.</li>
+                                      <li>Participants should carry the stationary material such as pen, pencil, etc.</li>
+
+                             </div>
                                 </div>
                             </section>
 
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+            <div class="row" id="prizemoney">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+                                <div class="icon pull-left">
+
+                                </div>
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                       </div>
+                                </div>
+                            </section>
                         </div>
                     </div>
                 </div>
             </div>
-
-            <div class="row" id="writtentest">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> GAME FORMAT</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                            <b>Competition Method:</b> 5 vs. 5<br>
-                                            <b>Players:</b> Total 10 (5 on each team)<br>
-                                            <b>Rounds:</b> 30 rounds for regulation play<br>
-                                            <b>Max Rounds Format:</b> 15 rounds as Offense, and 15 rounds as Defense per team
-                                            until the victory condition is met.<br>
-                                            <b>Victory Condition:</b> The first team to win 16 rounds in regulation or the team that
-                                            wins the overtime period.<br>
-                                            <b>Buy time:</b> 15 seconds<br>
-                                            <b>Start money:</b> $800 for regulation play, $10,000 for overtime periods<br>
-                                            <b>Freeze time:</b> 10 seconds<br>
-                                            <b>C4 Timer:</b> 45 seconds<br>
-                                            <b>Spectator:</b> Spectate is OFF, Fade to Black is ON<br>
-                                            <b>Friendly Fire:</b> ON, Team killers will not be banned.<br>
-                                            <b>Banned Weapons:</b><br>
-                                            Terrorist- Krieg 552, D3/AU-1;<br>
-                                            
-                                            Counter Terrorist- Bullpup, Krieg 550 Commando, Tactical Shield. (In case if
-                                            purchased by mistake, they will have to drop it immediately.)<br>
-                                            
-                                            
-                                            
-                                            <b>Map Pool (2 will be selected):</b>
-                                            <ol>
-                                                    <li>de_dust2</li>
-                                                    <li>de_inferno</li>
-                                                    <li>de_train</li>
-                                                    <li>de_nuke</li>
-                                                    <li>de_mirage</li>
-                                                    <li>de_cache</li>
-                                                    <li>awp_india (for tie breaker)</li>
-                                            </ol>
-                                            
-							 </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div><div class="row" id="writtentest">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> VIOLATIONS</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                            <li>Silent or unreachable bomb plants – The bomb must be audible and
-                                                    planted in a position that is accessible without a boost.</li>
-                                            <li>Crouch Hoping is not allowed.</li>
-                                            <li>Flashbang exploits - No flashbang exploits will be allowed.</li>
-                                            <li>Use of any unapproved textures or models - Only default CS 1.6 models will
-                                                    be allowed.</li>
-                                            <li>Strict action will be taken if you violate the rule.</li>
-							 </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div><div class="row" id="writtentest">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> UNINTENTIONAL ISSUES</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                            <li>Server Crashes: If disconnection occurs during the match then scores till
-                                            the last round will continue and starting money will be decided by the
-                                            
-                                            organizers.</li>
-                                            
-                                      
-                                            
-                                            <li>Player's computer crashes or net disconnects: The respected team must
-                                            look over this and call substitute to join the server, if not they have to play
-                                            4v5 match.</li>
-							 </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div><div class="row" id="writtentest">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> RULES CHANGE</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                            <li>The Administrators reserve the right to modify the rules as needed. This
-                                            includes changes due to software updates or releases, event organizer
-                                            decisions and all other changes deemed necessary to run a successful
-                                            tournament. Teams are responsible to check the rules on a regular basis and
-                                            prior to the event to ensure they are in complete compliance. Teams must
-                                            understand that rules listed are guidelines to ensure fair and competitive play
-                                            and are subject to interpretation by the administrators based on the spirit of
-                                            the game. Admin’s decision are final, you have no right to argue.</li>
-                                            <li>Good luck & Have fun!</li>
-							 </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
             <div id="RegisterContainer">
                 <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
-           
 
-		
+
+
             <div class="row" id="contact">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -405,7 +263,7 @@ the organizers can form up a team as they seem fit.
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <center>
@@ -426,15 +284,15 @@ the organizers can form up a team as they seem fit.
                                                         <div class="Number">
                                                             +91-8464995273
                                                         </div>
-                                                    </div> -->
+                                                    </div>
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            
+                                                            SUVOG BORKAR
                                                         </div>
                                                         <div class="Number">
-                                                            
+                                                            +91-9011743948
                                                         </div>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </center>
@@ -445,10 +303,10 @@ the organizers can form up a team as they seem fit.
                     </div>
                 </div>
             </div>
-		
+
         </div>
-        
-									
+
+
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog" style="width: 90%;max-width: 90%;">
             <!-- Modal content-->
@@ -480,7 +338,7 @@ the organizers can form up a team as they seem fit.
                                 <div class="col-md-12">
                                     <center>
                                         <input type="text" name="teamName"  placeholder="Team Name" style="color: white;font-size: 17px;max-width: 40%;" id="inputValidationEx" class="form-control validate" required="true" />
-                                        <input type="text" name="eventName" value="CREPIDO" hidden />
+                                        <input type="text" name="eventName" value="COUNTER STRIKE" hidden />
                                     </center>
                                 </div>
                             </div>
@@ -491,7 +349,7 @@ the organizers can form up a team as they seem fit.
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -558,7 +416,7 @@ the organizers can form up a team as they seem fit.
                                 <div>You can have team of 4 or less.</div>
                             </center>
                             <br />
-                            
+
 
                             <div class="row">
                                 <div class="col-md-12">
@@ -642,16 +500,16 @@ the organizers can form up a team as they seem fit.
     <script type="text/javascript">
         if (typeof(Storage) !== "undefined")
         {
-            sessionStorage.setItem("path", "events/construction_and_design/crepido.html");
-            sessionStorage.setItem("formPath","../../form.html");
+            sessionStorage.setItem("path", "events/construction_and_design/COUNTER STRIKE.html");
+            sessionStorage.setItem("formPath","../../../form.html");
         }
     </script>
 
-    <script src="../../www.gstatic.com/firebasejs/5.7.0/firebase.js"></script>
-    <script src="../../js/login.js" ></script>
-    <script src="../registration.js"></script>
-    <script src="../events.js"></script>
+    <script src="../../../www.gstatic.com/firebasejs/5.7.0/firebase.js"></script>
+    <script src="../../../js/login.js" ></script>
+    <script src="../../registration.js"></script>
+    <script src="../../events.js"></script>
 </body>
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/crepido.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/COUNTER STRIKE.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
 </html>
