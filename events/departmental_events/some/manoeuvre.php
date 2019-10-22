@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mind The Mind</title>
+    <title>Manoeuvre</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -26,28 +26,29 @@
 </head>
 <body>
 
-    <div id="wrapper" >
+    <div id="wrapper">
           <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-                   
+
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Team Specification</a></li>
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
-                    <li><a href="#testingofbridge3"><i class="fa fa-universal-access"></i>Round 3</a></li>
                     
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
  
-                    <li><a href="https://drive.google.com/open?id=1iqwcQyieLVBrlLfIJAanRHcNnkHYFcBL" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/open?id=1POzBQlr8ZkTrQYVbcCpzurIfOTm-0mAE" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-
+                
             </div>
+        </nav>
+
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">MIND THE MIND</div>
+                    <div class="eventHeading" style="text-align: center;">MANOEUVRE</div>
                     
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -68,16 +69,12 @@
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                       It’s a team event which consists of 3 rounds.
-The first round is selection of teams via an aptitude test consisting
-of various types of questions.
-Top 12 teams move to second round which is a twisted
-Snake and Ladders game, in which team’s problem solving
-abilities would be tested.
-Top 6 teams from the second round move to third round
-which consists of chess with a twist in rules and have to earn
-components in the game which is to be used to make a circuit.
-Team with highest points would win.
+                                       Focusing on every move you make, every pick and every place as accurate as
+possible, “MANOEUVRE”, around the obstacle, with elegance.
+Pave the path of your own victory, literally. Its all about mastering our controls
+to move the bot as you wish it to.
+So fabricate a bot that can pick, place and move all while having a bumpy ride
+on an off road track.
                                     </div>
                                 </div>
                             </section>
@@ -97,8 +94,8 @@ Team with highest points would win.
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    Team may contain maximum of 4 members.
-(A team may contain members from different colleges too.)
+                                     A team may contain maximum of 4 members, no minimum limit
+                                    (A team may consist of members from different colleges too).
 
                                     </div>
                                 </div>
@@ -123,18 +120,44 @@ Team with highest points would win.
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-                                       <p>Paper pen based General Aptitude Test including questions on
+                                       <p><b><u> Technical Inspection</u></b> (T.I.)
                                         </p>
 
 
-                                       <li> Basic Electronics</li>
-                                        <li> Current Affairs</li>
+
                                         
+• 
+
+
+                                       <li>  In this round, the bot made by the participants will be subjected to a thorough technical inspection.</li>
+                                        <li> This isn’t a judging parameter; hence no points are awarded for this round. Bots not meeting the displayed specifications will be disqualified immediately and the participating team wouldn’t proceed to next round(s).</li>
                                         
-                                        <li>Quantitative Analysis</li>
-<li>Qualitative Analysis</li>
-<li>Verbal Communication</li>
- 
+                                        <p><b><u> Dimensions & Fabrication of Robot</u></b></p>
+                                        <li>The dimensions of the bot should be less than or equal to 30cm X 20cm X
+30cm (lxbxh) failing which the team will be disqualified from the
+competition. The bot arm can, however, extend once the run starts. An
+error of (+5%/-5%) is Permitted.</li>
+<li>The dimensions of the remote are not included in the size constraint of the
+bot.</li>
+<li>The bot must be controlled manually.<b>(Please ensure that the legth of the
+arm on closing should be at least 15cms.Maximum distance on
+stretching is left for the participating teams)</b></li>
+<li>Teams can use both wired as well as wireless control mechanisms. In case
+of wired bots, the length of wire should be such that the wire remains slack
+at any instant of time. In case of wireless bots frequency should be
+changeable, prefer at-least 2 changeable frequencies, unable to change your
+frequency may lead to disqualification.</li>
+<li>The Bot must have an on-board power supply in any case.</li>
+<li>The power supply should be electric and should not exceed 24V DC
+potential difference between any two points during the complete run.</li>
+<li>Participants are not supposed to use any readymade Lego components or
+readymade grippingmechanism. However, the participants are allowed to
+use readymade gear assemblies.</li>
+<li>Irrespective of the mechanism used, only one person will be allowed to
+control the bot.</li>
+<li>Failing to meet any of the above specifications will lead to immediate
+disqualification.</li>
+                                    
 
                                     </div>
                                 </div>
@@ -156,27 +179,35 @@ Team with highest points would win.
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        <p>There will be an arena of Snakes and Ladders having amplifiers in
-place of ladders and attenuators in place of snakes. There will be
-capacitors and inductors also in some blocks. One member of each
-team will be sent to the starting point of the arena who will move
-according to the number on the dice.</p>
+                                        <p><b><u>Gameplay</u></b></p>
 
-                                    <li>Teams will be assigned AC or DC value randomly in the starting.</li>
-                                    <li>Three sets of 4 teams will be formed in the starting of the roundand
-they will be seated according to the number and set provided to them.
+                                    <li>Bridge model will be loaded till failure. The maximum deflection at the point of yielding and The load at that moment will be used to evaluate the structure.The bot will be required to cross a track filled with obstacle and cavities in
+minimum amount of time.</li>
+                                    <li>The cavities will have to be fill before furthur progression of the bot.
                                     </li>
-                                    <li>Questions will be asked from 3 teams simultaneously from each set.
-1 min will be provided to answer the question.
+                                    <li>The track wiil be an off-road one.
                                     </li>
-                                    <li>The teams who will answer correctly will be provided a chance to
-throw dice and their representative in the arena will move accordingly.</li>
-                                    <li>If the representative will land on attenuator or amplifier, he/she will
-have to move backward or forward according to the factor of attenuator
-or amplifier.</li>
-<li>AC/DC will be blocked by capacitors and inductors and to remove
-that blockage teams will have to answer an additional question.</li>
-<p>12 questions will be asked from each team. Top 6 teams go to next round.</p>
+                                    <li>The blocks needed to fill the cavities will be provided on site.</li>
+                                    <li>The points will be provided based on the type of hurdle crossed, but points
+to fill cavities will be same for all the cavities.</li>
+<li>In case a bot gets stuck on an obstacle, it will be allowed to skip the
+obstacle by human intervention, although a specified penalty will be
+applied on the bot.</li>
+<li>The bot will not be allowed to slide the blocks against the ground except
+for some fine adjustments.</li>
+<li>Maximum time of 10 minutes will be given to each team.</li>
+<p><b><u>General Rules</u></b></p>
+<li>Bot that don’t clear the technical inspection will not be allowed to proceed
+into the gameplay.</li>
+<li>Only one team member is allowed to handle the bot. No other team
+member is allowed to enter the arena.</li>
+<li>Any kind of damage done to the arena or blocks by the bot will lead to its
+disqualification.</li>
+<li>In case of any discrepencies, the decision of the judges will be ultimate
+and any furthur arguements will not be entertained.</li>
+<li>The organizers reserve the right to change any or all the rules as they
+deem fit. In case a change is made it will be notified to the registered team
+through mail.</li>
                                     </div>
                                 </div>
                             </section>
@@ -187,44 +218,6 @@ that blockage teams will have to answer an additional question.</li>
             </div>
             
            
-           <div class="row" id="testingofbridge3">
-             <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                        <p>Three sets of 2 teams will be formed randomly and they will play
-chess with each other. Chess rules will be a bit altered. Each piece
-of chess will be assigned an electronic component and each
-component will be assigned some points. Team having maximum
-points will be considered winner.</p>
-
-                                    <li>Teams will have to play chess according to the altered rules.
-They will earn components by cutting corresponding piece of other team.</li>
-                                    <li>After half an hour, each team will be provided all the components
-and circuit diagrams. To make the earned components active,
-teams have to design a working circuit using those components.
-                                    </li>
-                                    <li>One hour will be provided for making circuits. Addition of
-the points corresponding to earned components will be
-done.
-                                    </li>
-                                    
-                                    </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-
            <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -269,15 +262,30 @@ done.
                                         <center>
                                             <div class="container">
                                                 <div class="row">
-                                                    <div class="col-md-12 col-lg-12 col-sm-12 contactDetails">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            T Yathindra Rao
+                                                            Harvindra Singh Dhaka
                                                         </div>
                                                         <div class="Number">
-                                                            +91-832063370
+                                                            +91-872958885
                                                         </div>
                                                     </div>
-                                               
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Manik Gupta
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-7696015509
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Devansh Kumar
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-7087231287
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </center>

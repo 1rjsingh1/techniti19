@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mind The Mind</title>
+    <title>Web Design</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -26,28 +26,32 @@
 </head>
 <body>
 
-    <div id="wrapper" >
-          <?php include('../../../navbar.php'); ?>
+    <div id="wrapper">
+          
+            <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
                    
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
-                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Team Specification</a></li>
+                   
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
-                    <li><a href="#testingofbridge3"><i class="fa fa-universal-access"></i>Round 3</a></li>
-                    
+
+                    <li><a href="#details"><i class="fa fa-universal-access"></i>Other Details</a></li>
+
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
  
-                    <li><a href="https://drive.google.com/open?id=1iqwcQyieLVBrlLfIJAanRHcNnkHYFcBL" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/open?id=1KDQ-rFP57qmCfXFYd96h7HARXI0kCq9q" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-
+                
             </div>
+        </nav>
+
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">MIND THE MIND</div>
+                    <div class="eventHeading" style="text-align: center;">WEB DESIGN</div>
                     
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -68,16 +72,8 @@
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                       It’s a team event which consists of 3 rounds.
-The first round is selection of teams via an aptitude test consisting
-of various types of questions.
-Top 12 teams move to second round which is a twisted
-Snake and Ladders game, in which team’s problem solving
-abilities would be tested.
-Top 6 teams from the second round move to third round
-which consists of chess with a twist in rules and have to earn
-components in the game which is to be used to make a circuit.
-Team with highest points would win.
+                                       It is time that you show off your creativity with code. This event will ask you to design a
+web page on a particular topic. Team with the most impressive design takes it all away.
                                     </div>
                                 </div>
                             </section>
@@ -86,28 +82,7 @@ Team with highest points would win.
                     </div>
                 </div>
             </div>
-                <div class="row" id="storyline">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Team Specification </h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                    Team may contain maximum of 4 members.
-(A team may contain members from different colleges too.)
-
-                                    </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
             
 
             <br />
@@ -123,18 +98,8 @@ Team with highest points would win.
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-                                       <p>Paper pen based General Aptitude Test including questions on
-                                        </p>
-
-
-                                       <li> Basic Electronics</li>
-                                        <li> Current Affairs</li>
-                                        
-                                        
-                                        <li>Quantitative Analysis</li>
-<li>Qualitative Analysis</li>
-<li>Verbal Communication</li>
- 
+                                       Given a Picture. Implement the exact web page. Maybe add animations or something to
+show your own creativity   
 
                                     </div>
                                 </div>
@@ -156,27 +121,13 @@ Team with highest points would win.
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        <p>There will be an arena of Snakes and Ladders having amplifiers in
-place of ladders and attenuators in place of snakes. There will be
-capacitors and inductors also in some blocks. One member of each
-team will be sent to the starting point of the arena who will move
-according to the number on the dice.</p>
-
-                                    <li>Teams will be assigned AC or DC value randomly in the starting.</li>
-                                    <li>Three sets of 4 teams will be formed in the starting of the roundand
-they will be seated according to the number and set provided to them.
-                                    </li>
-                                    <li>Questions will be asked from 3 teams simultaneously from each set.
-1 min will be provided to answer the question.
-                                    </li>
-                                    <li>The teams who will answer correctly will be provided a chance to
-throw dice and their representative in the arena will move accordingly.</li>
-                                    <li>If the representative will land on attenuator or amplifier, he/she will
-have to move backward or forward according to the factor of attenuator
-or amplifier.</li>
-<li>AC/DC will be blocked by capacitors and inductors and to remove
-that blockage teams will have to answer an additional question.</li>
-<p>12 questions will be asked from each team. Top 6 teams go to next round.</p>
+                                       Implement a web page on the given theme. Themes will be disclosed during the event.
+                                       <p><b><u>Rules</u></b></p>
+                                       <li>At most 2 participant per team are allowed. You will have 2 hours to build the web page[s].</li>
+                                       <li>Participant should register at techNITi’19 website in order to participate.</li>
+                                       <li>Participants must fill Google form for participation in this event.</li>
+                                       <li>Use any among these as required html, CSS, bootstrap, google material, JavaScript. JQuery.</li>
+                                       <li>No frameworks are allowed.</li>
                                     </div>
                                 </div>
                             </section>
@@ -186,35 +137,29 @@ that blockage teams will have to answer an additional question.</li>
                 </div>
             </div>
             
-           
-           <div class="row" id="testingofbridge3">
+           <div class="row" id="details">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Other Details</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        <p>Three sets of 2 teams will be formed randomly and they will play
-chess with each other. Chess rules will be a bit altered. Each piece
-of chess will be assigned an electronic component and each
-component will be assigned some points. Team having maximum
-points will be considered winner.</p>
-
-                                    <li>Teams will have to play chess according to the altered rules.
-They will earn components by cutting corresponding piece of other team.</li>
-                                    <li>After half an hour, each team will be provided all the components
-and circuit diagrams. To make the earned components active,
-teams have to design a working circuit using those components.
-                                    </li>
-                                    <li>One hour will be provided for making circuits. Addition of
-the points corresponding to earned components will be
-done.
-                                    </li>
-                                    
+                                       
+                                       <p><b><u>Judgement Criteria</u></b></p>
+                                       The design and technology used for the development.
+                                       <p><b><u>Venue</u></b></p>
+                                       <li>Round 1 - Lecture Theatre</li>
+                                       <li>Round 2 - Computer Lab</li>
+                                       <p><b><u>Important Dates</u></b></p>
+                                       <li>Registrations until: 07/11/2019</li>
+                                       <li>
+                                           Contest: Round 1 - 05/11/2019
+Round 2 – 09/11/2019
+                                       </li>
                                     </div>
                                 </div>
                             </section>
@@ -223,8 +168,6 @@ done.
                     </div>
                 </div>
             </div>
-            
-
            <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -238,7 +181,9 @@ done.
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                
+                                <li>1st: 2000</li>
+                                <li>2nd: 1500</li>
+                                <li>3rd: 1000</li>
                                     </div>
                                 </div>
                             </section>
@@ -269,15 +214,30 @@ done.
                                         <center>
                                             <div class="container">
                                                 <div class="row">
-                                                    <div class="col-md-12 col-lg-12 col-sm-12 contactDetails">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            T Yathindra Rao
+                                                            Gaurav Sood
                                                         </div>
                                                         <div class="Number">
-                                                            +91-832063370
+                                                            +91-9876126242
                                                         </div>
                                                     </div>
-                                               
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Amrita Gupta
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-9465619190
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Harry
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-8699837998
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </center>

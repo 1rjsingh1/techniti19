@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mind The Mind</title>
+    <title>Rocket League</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -26,7 +26,7 @@
 </head>
 <body>
 
-    <div id="wrapper" >
+    <div id="wrapper">
           <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
@@ -34,20 +34,20 @@
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Team Specification</a></li>
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
-                    <li><a href="#testingofbridge3"><i class="fa fa-universal-access"></i>Round 3</a></li>
                     
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
  
-                    <li><a href="https://drive.google.com/open?id=1iqwcQyieLVBrlLfIJAanRHcNnkHYFcBL" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/open?id=1tLPkMVwcavOIblxVa26cA6MOuNotSwCD" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-
+                
             </div>
+        </nav>
+
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">MIND THE MIND</div>
+                    <div class="eventHeading" style="text-align: center;">ROCKET LEAGUE</div>
                     
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -68,16 +68,12 @@
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                       It’s a team event which consists of 3 rounds.
-The first round is selection of teams via an aptitude test consisting
-of various types of questions.
-Top 12 teams move to second round which is a twisted
-Snake and Ladders game, in which team’s problem solving
-abilities would be tested.
-Top 6 teams from the second round move to third round
-which consists of chess with a twist in rules and have to earn
-components in the game which is to be used to make a circuit.
-Team with highest points would win.
+                                       What is pride? A Rocket that emulates the stars. The science behind has been
+mythologized all out of proportion. It’s tough as rockets have a way of falling.
+But hey, we never said it was going to be easy. But science is all about asking
+questions and finding solutions, isn’t it?
+The challenge here is to push the essence of what’s impossible and design a
+water rocket. It will be a type of model rocket using water as its reaction mass.
                                     </div>
                                 </div>
                             </section>
@@ -97,8 +93,8 @@ Team with highest points would win.
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    Team may contain maximum of 4 members.
-(A team may contain members from different colleges too.)
+                                    A team may contain maximum of 4 members, no minimum limit
+(A team may consist of members from different colleges too).
 
                                     </div>
                                 </div>
@@ -123,18 +119,66 @@ Team with highest points would win.
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-                                       <p>Paper pen based General Aptitude Test including questions on
+                                       <p><b><u> Technical Inspection</u></b> (T.I.)
                                         </p>
 
 
-                                       <li> Basic Electronics</li>
-                                        <li> Current Affairs</li>
+
                                         
+• 
+
+
+                                       <li> A team may contain maximum of 4 members, no minimum limit
+(A team may consist of members from different colleges too).</li>
+                                       
                                         
-                                        <li>Quantitative Analysis</li>
-<li>Qualitative Analysis</li>
-<li>Verbal Communication</li>
- 
+                                        <p><b><u>General Guidelines</u></b></p>
+                                        <li>You have to construct a water propelled rocket which is to be
+pressurized with air.</li>
+<li>The dimensions of the remote are not included in the size constraint of the
+bot.Rockets should be self made; readymade rockets may lead to
+disqualification or a severe deduction in evaluation points.</li>
+<li>Water to be filled in the rockets will be provided by the organizers. A
+calculation regarding the amount of water to be used is left to the choice
+of the team.</li>
+<li>The water rocket must use only compressed atmospheric air as its
+source of energy. Pressure compressors (foot pump) shall be provided at
+the venue.</li>
+<li>Two trials will be given to each team and best of two will be taken into
+consideration.</li>
+<li>Teams are advised to get more than one water rocket, in case of any
+damage to one. But the water rockets must be identical.</li>
+<li>The rocket must be launched from a stationary position using a fixed
+launch pad. Slingshots, trebuchets, catapults, cannons, and all other
+devices that may assist launching are strictly prohibited. In other words,
+the internal pressure of the rocket must be the only source of energy for
+the rocket.</li>
+
+
+ <p><b><u>Design Guidelines</u></b></p>
+                                        <li>Use of electronic components and chemical explosives are banned.</li>
+<li>Thrust must come from expelling reaction mass/water, not from air
+discharge.</li>
+<li>The organizers will not provide a launcher, so the participating teams
+must prepare their own launchers.</li>
+<li>The rocket body should be made only with plastic bottles of aerated soft
+drinks. It should have suitable fins as the judging parameter of the event
+will be maximum time of flight, along with separate points for
+innovation, design of the rocket.</li>
+<li>Water rockets can have multiple stages.</li>
+<li>Parachutes or any other gliding mechanisms are not permitted.</li>
+
+                    
+<p><b><u>Gameplay</u></b></p>
+                                        <li>After the technical inspection, there will be a single round where the
+winners will be decided on the cumulative basis of.
+<li>Time of flight (More the time of flight, the better)</li>
+<li>Radial distance from the launch pad. (Lesser the horizontal distance
+travelled in the given time of flight, the better)</li>
+<li>Design & Innovation (Subjective)</li></li>
+
+<li>The point where the rocket hits the ground first will be taken as the
+point of landing and measurements will be taken considering this point.</li>                                   
 
                                     </div>
                                 </div>
@@ -145,86 +189,9 @@ Team with highest points would win.
                 </div>
             </div>
             
-            <div class="row" id="testingofbridge">
-             <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                        <p>There will be an arena of Snakes and Ladders having amplifiers in
-place of ladders and attenuators in place of snakes. There will be
-capacitors and inductors also in some blocks. One member of each
-team will be sent to the starting point of the arena who will move
-according to the number on the dice.</p>
-
-                                    <li>Teams will be assigned AC or DC value randomly in the starting.</li>
-                                    <li>Three sets of 4 teams will be formed in the starting of the roundand
-they will be seated according to the number and set provided to them.
-                                    </li>
-                                    <li>Questions will be asked from 3 teams simultaneously from each set.
-1 min will be provided to answer the question.
-                                    </li>
-                                    <li>The teams who will answer correctly will be provided a chance to
-throw dice and their representative in the arena will move accordingly.</li>
-                                    <li>If the representative will land on attenuator or amplifier, he/she will
-have to move backward or forward according to the factor of attenuator
-or amplifier.</li>
-<li>AC/DC will be blocked by capacitors and inductors and to remove
-that blockage teams will have to answer an additional question.</li>
-<p>12 questions will be asked from each team. Top 6 teams go to next round.</p>
-                                    </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+          
             
            
-           <div class="row" id="testingofbridge3">
-             <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                        <p>Three sets of 2 teams will be formed randomly and they will play
-chess with each other. Chess rules will be a bit altered. Each piece
-of chess will be assigned an electronic component and each
-component will be assigned some points. Team having maximum
-points will be considered winner.</p>
-
-                                    <li>Teams will have to play chess according to the altered rules.
-They will earn components by cutting corresponding piece of other team.</li>
-                                    <li>After half an hour, each team will be provided all the components
-and circuit diagrams. To make the earned components active,
-teams have to design a working circuit using those components.
-                                    </li>
-                                    <li>One hour will be provided for making circuits. Addition of
-the points corresponding to earned components will be
-done.
-                                    </li>
-                                    
-                                    </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-
            <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -269,15 +236,30 @@ done.
                                         <center>
                                             <div class="container">
                                                 <div class="row">
-                                                    <div class="col-md-12 col-lg-12 col-sm-12 contactDetails">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            T Yathindra Rao
+                                                            Harvindra Singh Dhaka
                                                         </div>
                                                         <div class="Number">
-                                                            +91-832063370
+                                                            +91-872958885
                                                         </div>
                                                     </div>
-                                               
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Manik Gupta
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-7696015509
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Devansh Kumar
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-7087231287
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </center>

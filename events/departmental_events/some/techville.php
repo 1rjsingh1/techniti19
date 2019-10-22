@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/crepido.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/Techville.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mind The Mind</title>
+    <title>Techville</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -14,11 +14,11 @@
     <link href="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-    
+
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../../local.css" />
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -26,29 +26,30 @@
 </head>
 <body>
 
-    <div id="wrapper" >
+    <div id="wrapper">
           <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-                   
-                    <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
-                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Team Specification</a></li>
-                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
-                    <li><a href="#testingofbridge3"><i class="fa fa-universal-access"></i>Round 3</a></li>
-                    
+
+                    <li><a href="#Problem"><i class="fa fa-globe"></i> Introduction</a></li>
+                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Objective</a></li>
+                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Programme outcome</a></li>
+                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>General guidelines</a></li>
+                    <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
- 
-                    <li><a href="https://drive.google.com/open?id=1iqwcQyieLVBrlLfIJAanRHcNnkHYFcBL" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+
+                    <li><a href="https://drive.google.com/file/d/1pj5EBr6EgvJeMAelozkFll107J9WvuEd/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-
+               
             </div>
+        </nav>
+
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">MIND THE MIND</div>
-                    
+                    <div class="eventHeading" style="text-align: center;">Techville</div>
+
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
                     </div> -->
@@ -56,28 +57,24 @@
             </div>
 
             <br/>
-           
+
             <div class="row" id="Problem">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i>Event description</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Introduction</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                       It’s a team event which consists of 3 rounds.
-The first round is selection of teams via an aptitude test consisting
-of various types of questions.
-Top 12 teams move to second round which is a twisted
-Snake and Ladders game, in which team’s problem solving
-abilities would be tested.
-Top 6 teams from the second round move to third round
-which consists of chess with a twist in rules and have to earn
-components in the game which is to be used to make a circuit.
-Team with highest points would win.
+                                      It's a Science Fair. <br>
+                                      Science is what makes humans stand tall among anything else. As a matter of fact, our
+relationship with science is something like “What one invents, the other discovers”. So, we
+thought the best way to decode what lies between the layers is with the help of living
+polymorphs around us. The students! <br>
+They are never too big to ask questions, never know too much to learn something new.
                                     </div>
                                 </div>
                             </section>
@@ -90,16 +87,15 @@ Team with highest points would win.
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Team Specification </h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Objective </h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    Team may contain maximum of 4 members.
-(A team may contain members from different colleges too.)
-
+                                      To show us your solution for various environmental concerns and measures for sustainable
+growth via working or non-working models.
                                     </div>
                                 </div>
                             </section>
@@ -108,7 +104,7 @@ Team with highest points would win.
                     </div>
                 </div>
             </div>
-            
+
 
             <br />
             <div class="row" id="rules">
@@ -116,25 +112,24 @@ Team with highest points would win.
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 1</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Programme outcome</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-                                       <p>Paper pen based General Aptitude Test including questions on
-                                        </p>
-
-
-                                       <li> Basic Electronics</li>
-                                        <li> Current Affairs</li>
-                                        
-                                        
-                                        <li>Quantitative Analysis</li>
-<li>Qualitative Analysis</li>
-<li>Verbal Communication</li>
- 
+                                        The idea is to help students understand the need of bio-diversity conservation and how
+science can come to the rescue.
+We are trying to provide a near perfect platform for students (participants), for them to
+show us (or to the whole mankind) their vision of a better future.
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12 col-sm-12">
+                                                <center>
+                                                    <!-- <img src="../../../images/events/Techville2.png" class="eventImage"> -->
+                                                </center>
+                                            </div>
+                                        </div>
 
                                     </div>
                                 </div>
@@ -144,39 +139,38 @@ Team with highest points would win.
                     </div>
                 </div>
             </div>
-            
+
             <div class="row" id="testingofbridge">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> General guidelines</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        <p>There will be an arena of Snakes and Ladders having amplifiers in
-place of ladders and attenuators in place of snakes. There will be
-capacitors and inductors also in some blocks. One member of each
-team will be sent to the starting point of the arena who will move
-according to the number on the dice.</p>
-
-                                    <li>Teams will be assigned AC or DC value randomly in the starting.</li>
-                                    <li>Three sets of 4 teams will be formed in the starting of the roundand
-they will be seated according to the number and set provided to them.
+                                    <li>The maximum number of participants in a team should not exceed 5.</li>
+                                    <li>A separate oral presentation time will be given to each participating team, to explain their
+model to the judges or technical experts. (The model submission and presentation will be
+done in the college campus, during the technical fest.)
                                     </li>
-                                    <li>Questions will be asked from 3 teams simultaneously from each set.
-1 min will be provided to answer the question.
+                                    <li>The presentation will be followed by some questions from the judges, regarding the
+model, its inspiration etc.
                                     </li>
-                                    <li>The teams who will answer correctly will be provided a chance to
-throw dice and their representative in the arena will move accordingly.</li>
-                                    <li>If the representative will land on attenuator or amplifier, he/she will
-have to move backward or forward according to the factor of attenuator
-or amplifier.</li>
-<li>AC/DC will be blocked by capacitors and inductors and to remove
-that blockage teams will have to answer an additional question.</li>
-<p>12 questions will be asked from each team. Top 6 teams go to next round.</p>
+                                    <li>
+                                      The model can be a working or static Project/ research paper/ model or any new
+invovated machine(no preference for any particular type).
+                                      </li>
+                                      <li> The event is open for all, be it school students from classes 6th to 12th, college students
+or graduates.
+                                      </li>
+                                      <li> The evaluation will be based on the necessity and social impact that the model creates.
+                                      </li>
+                                      <li> Registering your team is mandatory for participation. Link for registration is available on
+our Facebook page:
+                                      </li>
                                     </div>
                                 </div>
                             </section>
@@ -185,47 +179,62 @@ that blockage teams will have to answer an additional question.</li>
                     </div>
                 </div>
             </div>
-            
-           
-           <div class="row" id="testingofbridge3">
-             <div class="col-md-12">
+
+            <!-- <div class="row" id="judgingandscoring">
+                <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Judging And Scoring</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+                                <div class="icon pull-left">
+
+                                </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        <p>Three sets of 2 teams will be formed randomly and they will play
-chess with each other. Chess rules will be a bit altered. Each piece
-of chess will be assigned an electronic component and each
-component will be assigned some points. Team having maximum
-points will be considered winner.</p>
-
-                                    <li>Teams will have to play chess according to the altered rules.
-They will earn components by cutting corresponding piece of other team.</li>
-                                    <li>After half an hour, each team will be provided all the components
-and circuit diagrams. To make the earned components active,
-teams have to design a working circuit using those components.
-                                    </li>
-                                    <li>One hour will be provided for making circuits. Addition of
-the points corresponding to earned components will be
-done.
-                                    </li>
-                                    
+                                <li>First the structure will be reviewed to check if it violates any rules mentioned above.</li>
+                                <li>The bridge will be scored on how well the material has been used to support the load.</li>
+                                <li>The efficiency will be calculated as the ratio of ultimate load capacity and the bridge weight.</li>
+                                <li>The deflection of the bridge at the yielding will be noted. If the deflection increases more than 10 mm ,then the load at the deflection will be taken as ultimate load.</li>
+                                <li>Violating any of the conditions mentioned above ,penalty will be imposed or may lead to disqualification.</li>
+                                <li>Weight exceeds the limit - Penalty of 20% of total score</li>
+                                <li>Dimensional specifications are not met - Penalty of 10% of total score</li>
+                                <li>Use of materials ,except the one stated in rules penalty of 50% of total score or can lead to disqualification</li>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" id="writtentest">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i>Written Test</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                      <li>Any one member of the team has to appear for the written test succeded by the testing of the structure</li>
+                                      <li>The written test comprises of the questions on the basic Engineering Mechanics.</li>
+                                      <li>The total score of the team is calculated from the testing of the structure and the marks scored in the written test.</li>
+                                      <li>Written test is mandatory for all the teams participating in the event, if a team misses the written test, it may lead to direct disqualification.</li>
+                                      <li>Participants should carry the stationary material such as pen, pencil, etc.</li>
+
+                             </div>
                                 </div>
                             </section>
 
                         </div>
                     </div>
                 </div>
-            </div>
-            
-
-           <div class="row" id="judgingandscoring">
+            </div> -->
+            <div class="row" id="prizemoney">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
@@ -234,12 +243,11 @@ done.
                         <div class="panel-body">
                             <section class="feed-item">
                                 <div class="icon pull-left">
-                                   
+
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                
-                                    </div>
+                                      <li></li>  </div>
                                 </div>
                             </section>
                         </div>
@@ -247,14 +255,14 @@ done.
                 </div>
             </div>
 
-
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+
+                <a href="https://www.facebook.com/SocietyOfMechanicalEngineersnitj/posts/2503474569735592"class="semi-transparent-button" style="display: flex; justify-content: center"  id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
-           
 
-        
+
+
             <div class="row" id="contact">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -263,22 +271,37 @@ done.
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <center>
                                             <div class="container">
                                                 <div class="row">
-                                                    <div class="col-md-12 col-lg-12 col-sm-12 contactDetails">
+                                                    <!-- <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            T Yathindra Rao
+                                                            CHUNCHU PRAVALIKA
                                                         </div>
                                                         <div class="Number">
-                                                            +91-832063370
+                                                            +91-9172564108
                                                         </div>
                                                     </div>
-                                               
-                                                </div>
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            KASA LOHIT
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-8464995273
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            SUVOG BORKAR
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-9011743948
+                                                        </div>
+                                                    </div>
+                                                </div> -->
                                             </div>
                                         </center>
                                     </div>
@@ -288,10 +311,10 @@ done.
                     </div>
                 </div>
             </div>
-        
+
         </div>
-        
-                                    
+
+
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog" style="width: 90%;max-width: 90%;">
             <!-- Modal content-->
@@ -323,7 +346,7 @@ done.
                                 <div class="col-md-12">
                                     <center>
                                         <input type="text" name="teamName"  placeholder="Team Name" style="color: white;font-size: 17px;max-width: 40%;" id="inputValidationEx" class="form-control validate" required="true" />
-                                        <input type="text" name="eventName" value="CREPIDO" hidden />
+                                        <input type="text" name="eventName" value="Techville" hidden />
                                     </center>
                                 </div>
                             </div>
@@ -334,7 +357,7 @@ done.
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -401,7 +424,7 @@ done.
                                 <div>You can have team of 4 or less.</div>
                             </center>
                             <br />
-                            
+
 
                             <div class="row">
                                 <div class="col-md-12">
@@ -485,7 +508,7 @@ done.
     <script type="text/javascript">
         if (typeof(Storage) !== "undefined")
         {
-            sessionStorage.setItem("path", "events/construction_and_design/crepido.html");
+            sessionStorage.setItem("path", "events/construction_and_design/Techville.html");
             sessionStorage.setItem("formPath","../../../form.html");
         }
     </script>
@@ -496,5 +519,5 @@ done.
     <script src="../../events.js"></script>
 </body>
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/crepido.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/Techville.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
 </html>

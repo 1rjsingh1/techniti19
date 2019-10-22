@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mind The Mind</title>
+    <title>CYBER HUNT</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -14,11 +14,11 @@
     <link href="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-    
+
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../../local.css" />
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -26,29 +26,32 @@
 </head>
 <body>
 
-    <div id="wrapper" >
+    <div id="wrapper">
           <?php include('../../../navbar.php'); ?>
-          <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
+            <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-                   
+
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
-                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Team Specification</a></li>
-                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
-                    <li><a href="#testingofbridge3"><i class="fa fa-universal-access"></i>Round 3</a></li>
-                    
+
+                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Important Dates</a></li>
+                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Rules</a></li>
+
+                    <li><a href="#details"><i class="fa fa-universal-access"></i>Other Details</a></li>
+
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
- 
-                    <li><a href="https://drive.google.com/open?id=1iqwcQyieLVBrlLfIJAanRHcNnkHYFcBL" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+
+                    <li><a href="https://drive.google.com/file/d/1ilLWqWX5o5hbo78ilmvELOs-p9v7nGL6/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-
+               
             </div>
+        </nav>
+
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">MIND THE MIND</div>
-                    
+                    <div class="eventHeading" style="text-align: center;">CYBER HUNT</div>
+
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
                     </div> -->
@@ -56,7 +59,7 @@
             </div>
 
             <br/>
-           
+
             <div class="row" id="Problem">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -65,19 +68,14 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                       It’s a team event which consists of 3 rounds.
-The first round is selection of teams via an aptitude test consisting
-of various types of questions.
-Top 12 teams move to second round which is a twisted
-Snake and Ladders game, in which team’s problem solving
-abilities would be tested.
-Top 6 teams from the second round move to third round
-which consists of chess with a twist in rules and have to earn
-components in the game which is to be used to make a circuit.
-Team with highest points would win.
+                                      This contest will be held for 1st and 2nd year students only. The rules are simple, solve as
+                                      many puzzles as you can and take away your prize. The only thing to consider is that solution of
+                                      a puzzle would unlock the next puzzle or you are stuck. You can move to the next puzzle without
+                                      solving by paying an extra penalty for every puzzle you don’t solve. The clock is ticking, get set
+                                      go!!!
                                     </div>
                                 </div>
                             </section>
@@ -86,29 +84,8 @@ Team with highest points would win.
                     </div>
                 </div>
             </div>
-                <div class="row" id="storyline">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Team Specification </h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                    Team may contain maximum of 4 members.
-(A team may contain members from different colleges too.)
 
-                                    </div>
-                                </div>
-                            </section>
 
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
 
             <br />
             <div class="row" id="rules">
@@ -116,25 +93,18 @@ Team with highest points would win.
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 1</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Important Dates</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-                                       <p>Paper pen based General Aptitude Test including questions on
-                                        </p>
+                                      <li>Registrations until: 07/11/2019</li>
+<li>Contest:<ul> -Round 1 – 08/11/2019 (10:00 AM)</ul>
+  <ul>-Rules – 08/11/2019 (3:00 PM)</ul>
+</li>
 
-
-                                       <li> Basic Electronics</li>
-                                        <li> Current Affairs</li>
-                                        
-                                        
-                                        <li>Quantitative Analysis</li>
-<li>Qualitative Analysis</li>
-<li>Verbal Communication</li>
- 
 
                                     </div>
                                 </div>
@@ -144,39 +114,25 @@ Team with highest points would win.
                     </div>
                 </div>
             </div>
-            
+
             <div class="row" id="testingofbridge">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Rules</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        <p>There will be an arena of Snakes and Ladders having amplifiers in
-place of ladders and attenuators in place of snakes. There will be
-capacitors and inductors also in some blocks. One member of each
-team will be sent to the starting point of the arena who will move
-according to the number on the dice.</p>
 
-                                    <li>Teams will be assigned AC or DC value randomly in the starting.</li>
-                                    <li>Three sets of 4 teams will be formed in the starting of the roundand
-they will be seated according to the number and set provided to them.
-                                    </li>
-                                    <li>Questions will be asked from 3 teams simultaneously from each set.
-1 min will be provided to answer the question.
-                                    </li>
-                                    <li>The teams who will answer correctly will be provided a chance to
-throw dice and their representative in the arena will move accordingly.</li>
-                                    <li>If the representative will land on attenuator or amplifier, he/she will
-have to move backward or forward according to the factor of attenuator
-or amplifier.</li>
-<li>AC/DC will be blocked by capacitors and inductors and to remove
-that blockage teams will have to answer an additional question.</li>
-<p>12 questions will be asked from each team. Top 6 teams go to next round.</p>
+                                       <!-- <p><b><u>Rules</u></b></p> -->
+                                       <li>Individual participation in the event.</li>
+<li>Teams should register at techNITi’19 website in order to participate.</li>
+<li>The number of puzzles is unlimited, but time is not.</li>
+<li>You either solve a puzzle to move to next puzzle or you pay a penalty in order to advance.</li>
+<li>The team with maximum points will win.</li>
                                     </div>
                                 </div>
                             </section>
@@ -185,36 +141,26 @@ that blockage teams will have to answer an additional question.</li>
                     </div>
                 </div>
             </div>
-            
-           
-           <div class="row" id="testingofbridge3">
+
+           <div class="row" id="details">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Other Details</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        <p>Three sets of 2 teams will be formed randomly and they will play
-chess with each other. Chess rules will be a bit altered. Each piece
-of chess will be assigned an electronic component and each
-component will be assigned some points. Team having maximum
-points will be considered winner.</p>
 
-                                    <li>Teams will have to play chess according to the altered rules.
-They will earn components by cutting corresponding piece of other team.</li>
-                                    <li>After half an hour, each team will be provided all the components
-and circuit diagrams. To make the earned components active,
-teams have to design a working circuit using those components.
-                                    </li>
-                                    <li>One hour will be provided for making circuits. Addition of
-the points corresponding to earned components will be
-done.
-                                    </li>
-                                    
+                                       <p><b><u>Judgement Criteria</u></b></p>
+                                       Maximum number of puzzles solved in least amount of time.
+                                       <p><b><u>Venue</u></b></p>
+                                       <li>Round 1 - Conference Hall (IT Building)</li>
+<li>Round 2 - Computer Lab</li>
+
+
                                     </div>
                                 </div>
                             </section>
@@ -223,8 +169,6 @@ done.
                     </div>
                 </div>
             </div>
-            
-
            <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -234,11 +178,13 @@ done.
                         <div class="panel-body">
                             <section class="feed-item">
                                 <div class="icon pull-left">
-                                   
+
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                
+                                <li>1st: 2000</li>
+                                <li>2nd: 1500</li>
+                                <li>3rd: 1000</li>
                                     </div>
                                 </div>
                             </section>
@@ -252,9 +198,9 @@ done.
                 <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
-           
 
-        
+
+
             <div class="row" id="contact">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -263,21 +209,44 @@ done.
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <center>
                                             <div class="container">
                                                 <div class="row">
-                                                    <div class="col-md-12 col-lg-12 col-sm-12 contactDetails">
+                                                    <div class="col-md-3 col-lg-3 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            T Yathindra Rao
+                                                            Jayesh Bhalla
                                                         </div>
                                                         <div class="Number">
-                                                            +91-832063370
+                                                            +91-9815020189
                                                         </div>
                                                     </div>
-                                               
+                                                    <div class="col-md-3 col-lg-3 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                          Abhishek Verma
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-7889138367
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3 col-lg-3 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Sahil Goyal
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-8872811501
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-3 col-lg-3 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                          Jagmeet Singh
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-8146815858
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </center>
@@ -288,10 +257,10 @@ done.
                     </div>
                 </div>
             </div>
-        
+
         </div>
-        
-                                    
+
+
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog" style="width: 90%;max-width: 90%;">
             <!-- Modal content-->
@@ -334,7 +303,7 @@ done.
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -401,7 +370,7 @@ done.
                                 <div>You can have team of 4 or less.</div>
                             </center>
                             <br />
-                            
+
 
                             <div class="row">
                                 <div class="col-md-12">

@@ -231,7 +231,7 @@
         </div>
       </div>
 
-      <a href="events/category.html">
+      <a href="events/megaEvents.html">
         <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2500">
           <div class="carousel-inner">
 
@@ -1233,8 +1233,8 @@ $result=mysqli_query($con,$_SESSION['regquer']);
         </div>
 
         <a href="#" class="navLink"><i class="icon-home"></i> Home</a>
-        <a href="#" class="navLink"><i class="icon-star"></i> Deaprtmental Events</a>
-        <a href="#" class="navLink"><i class="icon-star"></i> Mega Events</a>
+        <a href="events/deptcategory.html" class="navLink"><i class="icon-star"></i> Departmental Events</a>
+        <a href="events/megaEvents.html" class="navLink"><i class="icon-star"></i> Mega Events</a>
        <!-- <a href="#" target="__blank"  class="navLink"><i class="icon-globe"></i> MUN</a>
         <a href="#" class="navLink"><i class="icon-bag"></i> Guest Lectures</a>
         <a href="#" class="navLink"><i class="icon-list"></i> Workshops</a>
@@ -1243,8 +1243,7 @@ $result=mysqli_query($con,$_SESSION['regquer']);
         <a href="#" class="navLink"><i class="icon-address"></i>Sponsors</a>
         <!--<a href="#" class="navLink"><i class="icon-help"></i> Social Initiatives</a>-->
         <a href="#" class="navLink"><i class="icon-document"></i> Gallery</a>
-        <a href="#" class="navLink"><i class="icon-users"></i> Core Team</a>
-        <a href="#" class="navLink"><i class="icon-users"></i> Developers</a>
+        <a href="team.html" class="navLink"><i class="icon-users"></i> Core Team</a>
         <a href="#" class="navLink"><i class="icon-help"></i> Contact Us</a>
 
         <div class="dropup">
