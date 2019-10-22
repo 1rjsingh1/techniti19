@@ -2,11 +2,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/crepido.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tex-Capes</title>
+    <title>Tricky Circuits</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -27,16 +26,19 @@
 <body>
 
     <div id="wrapper">
-          
-                    <?php include('../../../navbar.php'); ?>
+           <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
-                <ul id="active" class="nav navbar-nav side-nav" style="background: black;"> 
+                <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
+                   
+                    <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
+                    
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
+                    <li><a href="#rules2"><i class="fa fa-list-ol"></i> Round 2</a></li>
+                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Other Details</a></li>
                     
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
  
-                    <li><a href="https://drive.google.com/open?id=15abAMyjeZ6_ccN8Q6yOdq9K5rOLtlbZ8" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/open?id=1onnuaGLZE8TweTlRzQeNlwLto4AFVO4O" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
                 
@@ -46,7 +48,7 @@
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">TEX-CAPES</div>
+                    <div class="eventHeading" style="text-align: center;">TRICKY CIRCUITS</div>
                     
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -55,8 +57,33 @@
             </div>
 
             <br/>
+           
+            <div class="row" id="Problem">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i>Event description</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+                                 
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo" >
+                                      IN THIS THEY WILL BE PROVIDED WITH TRICKY CIRCUITS COMPRISING OF
+RESISTANCES, GATES, AND OTHER ELECTRONIC DEVICES AND TELL THE OUTPUT.
+THERE WILL BE SEMI, AND FINALS.
+AS THE EVENT GOES CIRCUIT BECOMES MORE AND MORE DIFFICULT.
+                                    </div>
+                                </div>
+                            </section>
 
+                        </div>
+                    </div>
+                </div>
+            </div>
+              
 
+            <br />
             <div class="row" id="rules">
 
                 <div class="col-md-12">
@@ -69,10 +96,12 @@
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-                                        <p>Participants have to draw Apparel Designing on the sheets provided with the help of
-pencils, colors, sketch pens etc.
-                                                   
-
+                                       
+THIS ROUND WILL BE A CIRCUIT SOLVING ROUND. CIRCUIT COMPONENTS WILL
+BE GIVEN AND THE CIRCUIT WILL BE CONSTRUCTED ON THE SPOT WITH HELP
+FROM THE CIRCUIT DIAGRAMS PROVIDED.
+                                       
+                                        
                                     </div>
                                 </div>
                             </section>
@@ -82,9 +111,10 @@ pencils, colors, sketch pens etc.
                 </div>
             </div>
             
-            <div class="row" id="testingofbridge">
-             <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
+            <div class="row" id="rules2">
+
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
                             <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2</h3>
                         </div>
@@ -92,18 +122,32 @@ pencils, colors, sketch pens etc.
                             <section class="feed-item">
                                  
                                 <div class="feed-item-body">
+                                    <div class="text eventInfo"">
+THIS ROUND WILL BE A CIRCUIT SOLVING ROUND. CIRCUIT COMPONENTS WILL BE
+GIVEN AND THE CIRCUIT WILL BE CONSTRUCTED ON THE SPOT WITH HELP FROM THE
+CIRCUIT DIAGRAMS PROVIDED. 
+                                        
+                                    </div>
+                                </div>
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="testingofbridge">
+             <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Other Details</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+                                 
+                                <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        <p>Participants has to decorate their made apparel designing with the help of various
-decorative items like buttons, beads etc.</p>
-                                        <p><b><u>Rules</u></b></p>
+                                        <p><b><u>Number of days: 1</u></b></p>
 
-                                    <li>Single Entry or max. 3 members in one team.</li>
-                                    <li>Use of mobile is allowed.
-                                    </li>
-                                    <li>Participants have to complete the design within given time period at the moment.</li>
-                                    <p><b><u>Judgement Criteria</u></b></p>
-
-                                    Winners will be decided on the basis of creativity of the design made.
                                     </div>
                                 </div>
                             </section>
@@ -160,21 +204,21 @@ decorative items like buttons, beads etc.</p>
                                                 <div class="row">
                                                     <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Maninder Singh
+                                                            Vishal Bansal
                                                         </div>
                                                         <div class="Number">
-                                                            +91-8284937062
+                                                            +91-9815245121
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Mani Ratnam
+                                                            Saurav Loach
                                                         </div>
                                                         <div class="Number">
-                                                            +91-9568903956
+                                                            +91-7696405626
                                                         </div>
                                                     </div>
-                                                    
+                                                   
                                                 </div>
                                             </div>
                                         </center>
