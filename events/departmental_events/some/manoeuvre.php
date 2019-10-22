@@ -1,4 +1,7 @@
+<?php
+        include('../conn.php');
 
+  ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,11 +17,11 @@
     <link href="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-    
+
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../../local.css" />
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -35,13 +38,13 @@
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Team Specification</a></li>
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
-                    
+
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
- 
+
                     <li><a href="https://drive.google.com/open?id=1POzBQlr8ZkTrQYVbcCpzurIfOTm-0mAE" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -49,7 +52,7 @@
            <div class="row">
                 <div class="col-md-12">
                     <div class="eventHeading" style="text-align: center;">MANOEUVRE</div>
-                    
+
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
                     </div> -->
@@ -57,7 +60,7 @@
             </div>
 
             <br/>
-           
+
             <div class="row" id="Problem">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -66,7 +69,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
                                        Focusing on every move you make, every pick and every place as accurate as
@@ -91,7 +94,7 @@ on an off road track.
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                      A team may contain maximum of 4 members, no minimum limit
@@ -105,7 +108,7 @@ on an off road track.
                     </div>
                 </div>
             </div>
-            
+
 
             <br />
             <div class="row" id="rules">
@@ -117,21 +120,16 @@ on an off road track.
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
                                        <p><b><u> Technical Inspection</u></b> (T.I.)
-                                        </p>
 
-
-
-                                        
-• 
 
 
                                        <li>  In this round, the bot made by the participants will be subjected to a thorough technical inspection.</li>
                                         <li> This isn’t a judging parameter; hence no points are awarded for this round. Bots not meeting the displayed specifications will be disqualified immediately and the participating team wouldn’t proceed to next round(s).</li>
-                                        
+
                                         <p><b><u> Dimensions & Fabrication of Robot</u></b></p>
                                         <li>The dimensions of the bot should be less than or equal to 30cm X 20cm X
 30cm (lxbxh) failing which the team will be disqualified from the
@@ -157,7 +155,7 @@ use readymade gear assemblies.</li>
 control the bot.</li>
 <li>Failing to meet any of the above specifications will lead to immediate
 disqualification.</li>
-                                    
+
 
                                     </div>
                                 </div>
@@ -167,7 +165,7 @@ disqualification.</li>
                     </div>
                 </div>
             </div>
-            
+
             <div class="row" id="testingofbridge">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -176,7 +174,7 @@ disqualification.</li>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <p><b><u>Gameplay</u></b></p>
@@ -216,8 +214,8 @@ through mail.</li>
                     </div>
                 </div>
             </div>
-            
-           
+
+
            <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -227,11 +225,11 @@ through mail.</li>
                         <div class="panel-body">
                             <section class="feed-item">
                                 <div class="icon pull-left">
-                                   
+
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                
+
                                     </div>
                                 </div>
                             </section>
@@ -245,9 +243,9 @@ through mail.</li>
                 <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
-           
 
-        
+
+
             <div class="row" id="contact">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -256,7 +254,7 @@ through mail.</li>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <center>
@@ -296,10 +294,10 @@ through mail.</li>
                     </div>
                 </div>
             </div>
-        
+
         </div>
-        
-                                    
+
+
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog" style="width: 90%;max-width: 90%;">
             <!-- Modal content-->
@@ -342,7 +340,7 @@ through mail.</li>
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -409,7 +407,7 @@ through mail.</li>
                                 <div>You can have team of 4 or less.</div>
                             </center>
                             <br />
-                            
+
 
                             <div class="row">
                                 <div class="col-md-12">

@@ -1,8 +1,4 @@
 <?php
-session_unset();
-
-// destroy the session
-session_destroy();
-
+unset($_SESSION['name']);
 header("Location:index.php");
  ?>
