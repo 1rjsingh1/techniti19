@@ -277,7 +277,7 @@
         </div>
       </div>
 
-      <a href="events/megaEvents.html">
+      <a href="events/category.html">
         <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2500">
           <div class="carousel-inner">
 
