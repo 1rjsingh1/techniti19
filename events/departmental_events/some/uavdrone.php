@@ -42,7 +42,7 @@
                     <li><a href="https://drive.google.com/open?id=1EOkopht8Xy5sR__KxH2mJ5NT_ndfxk2M" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -588,7 +588,7 @@ the website regularly.</li>
 <body>
 
     <div id="wrapper">
-          
+
 
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Problem Statement</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Description</a></li>
@@ -600,7 +600,7 @@ the website regularly.</li>
                     <li><a href="https://drive.google.com/open?id=1EOkopht8Xy5sR__KxH2mJ5NT_ndfxk2M" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
