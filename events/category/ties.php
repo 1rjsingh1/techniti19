@@ -3,6 +3,7 @@
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=windows-1251" /><!-- /Added by HTTrack -->
 <head>
+    <link rel="icon" type="image/ico" href="../../images/favlogo.ico">
     <meta charset="windows-1251">
     <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="../../cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" rel="stylesheet">
