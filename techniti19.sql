@@ -1,13 +1,15 @@
 -- phpMyAdmin SQL Dump
--- version 4.6.5.2
+-- version 4.7.0
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 22, 2019 at 12:22 PM
--- Server version: 10.1.21-MariaDB
--- PHP Version: 5.6.30
+-- Generation Time: Oct 22, 2019 at 04:07 PM
+-- Server version: 10.1.25-MariaDB
+-- PHP Version: 7.1.7
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
 SET time_zone = "+00:00";
 
 
@@ -184,7 +186,11 @@ CREATE TABLE `groupe` (
 
 INSERT INTO `groupe` (`eid`, `tname`, `email`) VALUES
 (52, 'Rj', 'rj@gmail.com'),
-(52, 'Rj', 'ashihs@gmail.com');
+(52, 'Rj', 'ashihs@gmail.com'),
+(52, 'Rj', 'rj@gmail.com'),
+(52, 'Rj', 'rj@gmIK.COM'),
+(29, 'as', 'fdfs@sf'),
+(29, 'as', 'ff@ff');
 
 -- --------------------------------------------------------
 
@@ -248,8 +254,8 @@ INSERT INTO `societies` (`sid`, `sname`) VALUES
 
 CREATE TABLE `user` (
   `userid` int(11) NOT NULL,
-  `Name` varchar(20) NOT NULL,
-  `Email` varchar(20) NOT NULL,
+  `Name` varchar(50) NOT NULL,
+  `Email` varchar(50) NOT NULL,
   `College` varchar(40) NOT NULL,
   `Phone` bigint(20) NOT NULL,
   `Password` text NOT NULL
@@ -283,7 +289,8 @@ ALTER TABLE `user`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;COMMIT;
+
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
