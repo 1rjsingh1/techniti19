@@ -30,7 +30,146 @@
                 <h1 class="heading">Mega Events</h1>
                 <p class="description"></p>
 
-        <a class="card" href="http://www.nitj.ac.in/techniti19/hacknitj/">
+        
+    
+          <a class="card" href="construction_and_design/crepido.html">
+            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
+              <p id="check">CS 1.6 WarZone</p>
+            </div>
+            <div class="back">
+              <div>
+                <p  class="categoryContent">CS 1.6 WarZone</p>
+                <button class="button">Click Here</button>
+              </div>
+            </div>
+          </a>
+
+
+
+                  <a class="card" href="construction_and_design/crepido.html">
+            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
+              <p>FIFA 18</p>
+            </div>
+            <div class="back">
+              <div>
+                <p  class="categoryContent">FIFA 18</p>
+                <button class="button">Click Here</button>
+              </div>
+            </div>
+          </a>
+
+
+          <a class="card" href="construction_and_design/crepido.html">
+            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
+               <p>NFS Most Wanted</p>
+            </div>
+            <div class="back">
+              <div>
+                <p  class="categoryContent">NFS Most Wanted</p>
+                <button class="button">Click Here</button>
+              </div>
+            </div>
+          </a> 
+
+          <a class="card" href="badlav.html">
+                    <div class="front" style="background-image: url('../images/mega_events/badlav.jpg');">
+                      <p>BADLAV</p>
+                    </div>
+                    <div class="back">
+                      <div>
+                        <p  class="categoryContent">BADLAV</b></p>
+                        <button class="button">Click Here</button>
+                      </div>
+                    </div>
+                  </a> 
+
+                  <a class="card" href="construction_and_design/crepido.html">
+            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
+               <p>MUN</p>
+            </div>
+            <div class="back">
+              <div>
+                <p  class="categoryContent">MUN</p>
+                <button class="button">Click Here</button>
+              </div>
+            </div>
+          </a>    
+
+          <a class="card" href="construction_and_design/crepido.html">
+            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
+               <p>Symposium</p>
+            </div>
+            <div class="back">
+              <div>
+                <p  class="categoryContent">Symposium</p>
+                <button class="button">Click Here</button>
+              </div>
+            </div>
+          </a>       
+
+
+          <a class="card" href="construction_and_design/crepido.html">
+            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
+               <p>NITJ GATE</p>
+            </div>
+            <div class="back">
+              <div>
+                <p  class="categoryContent">NITJ GATE</p>
+                <button class="button">Click Here</button>
+              </div>
+            </div>
+          </a>        
+        
+          <a class="card" href="construction_and_design/crepido.html">
+            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
+               <p>B-Plan</p>
+            </div>
+            <div class="back">
+              <div>
+                <p  class="categoryContent">B-Plan</p>
+                <button class="button">Click Here</button>
+              </div>
+            </div>
+          </a> 
+
+          <a class="card" href="construction_and_design/crepido.html">
+            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
+               <p>The Next CEO</p>
+            </div>
+            <div class="back">
+              <div>
+                <p  class="categoryContent">The Next CEO</p>
+                <button class="button">Click Here</button>
+              </div>
+            </div>
+          </a> 
+
+          <a class="card" href="construction_and_design/crepido.html">
+            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
+               <p>Kya Tu beer Hai?</p>
+            </div>
+            <div class="back">
+              <div>
+                <p  class="categoryContent">Kya Tu Beer hai?</p>
+                <button class="button">Click Here</button>
+              </div>
+            </div>
+          </a> 
+
+          <a class="card" href="construction_and_design/crepido.html">
+            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
+               <p>Design For Impact</p>
+            </div>
+            <div class="back">
+              <div>
+                <p  class="categoryContent">Design For Impact</p>
+                <button class="button">Click Here</button>
+              </div>
+            </div>
+          </a> 
+
+
+                  <a class="card" href="http://www.nitj.ac.in/techniti19/hacknitj/">
             <div class="front" style="background-image: url('../images/mega_events/hacknitj.png');">
               <p>HACK@NITJ</p>
             </div>
@@ -41,194 +180,6 @@
               </div>
             </div>
           </a>
-    
-          <a class="card" href="construction_and_design/crepido.html">
-            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
-              <p>PAPER PRESENTATION</p>
-            </div>
-            <div class="back">
-              <div>
-                <p  class="categoryContent">Coming Soon</p>
-                <button class="button">Click Here</button>
-              </div>
-            </div>
-          </a>
-    
-          <a class="card" href="#">
-            <div class="front" style="background-image: url('../images/event_categories/construction_and_design.jpg');">
-              <p>OPEN DAY</p>
-            </div>
-            <div class="back">
-              <div>
-                <p  class="categoryContent">Coming Soon</p>
-                <button class="button">Click Here</button>
-              </div>
-            </div>
-          </a>
-    
-          <a class="card" href="#">
-            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
-              <p>STARTUP WEEKEND</p>
-            </div>
-            <div class="back">
-              <div>
-                <p  class="categoryContent">Coming Soon</p>
-                <button class="button">Click Here</button>
-              </div>
-            </div>
-          </a>
-    
-          <a class="card" href="#">
-            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
-              <p>MUN</p>
-            </div>
-            <div class="back">
-              <div>
-                <p  class="categoryContent">Coming Soon</p>
-                <button class="button">Click Here</button>
-              </div>
-            </div>
-          </a>
-    
-          <a class="card" href="#">
-            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
-              <p>Endurance (Solar Power Vehicle)</p>
-            </div>
-            <div class="back">
-              <div>
-                <p  class="categoryContent">Coming Soon</p>
-                <button class="button">Click Here</button>
-              </div>
-            </div>
-          </a>
-    
-          <a class="card" href="#">
-            <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
-              <p>UAV (Drone pickup and Place)</p>
-            </div>
-            <div class="back">
-              <div>
-                <p  class="categoryContent">Coming Soon</p>
-                <button class="button">Click Here</button>
-              </div>
-            </div>
-    
-            <a class="card" href="#">
-              <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
-                <p>Treasure Hunt</p>
-              </div>
-              <div class="back">
-                <div>
-                  <p  class="categoryContent">Coming Soon</p>
-                  <button class="button">Click Here</button>
-                </div>
-              </div>
-    
-              <a class="card" href="#">
-                <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
-                  <p>CODING MEGA EVENTS</p>
-                </div>
-                <div class="back">
-                  <div>
-                    <p  class="categoryContent">Coming Soon</p>
-                    <button class="button">Click Here</button>
-                  </div>
-                </div>
-    
-                <a class="card" href="#">
-                  <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
-                    <p>TECH VILLE</p>
-                  </div>
-                  <div class="back">
-                    <div>
-                      <p  class="categoryContent">Coming Soon</p>
-                      <button class="button">Click Here</button>
-                    </div>
-                  </div>
-    
-                  <a class="card" href="badlav.html">
-                    <div class="front" style="background-image: url('../images/mega_events/badlav.jpg');">
-                      <p>BADLAV</p>
-                    </div>
-                    <div class="back">
-                      <div>
-                        <p  class="categoryContent">A revolution to overcome any problem is always started by an individual. So presenting you to the golden opportunity to be the sunshine of your own through the most awaited pre event of techNITi'19. <b>Be the Change.</b></p>
-                        <button class="button">Click Here</button>
-                      </div>
-                    </div>
-                  </a>
-    
-                  <a class="card" href="badlav.html">
-                    <div class="front" style="background-image: url('../images/mega_events/badlav.jpg');">
-                      <p>BRIDGE IT</p>
-                    </div>
-                    <div class="back">
-                      <div>
-                        <p  class="categoryContent">A revolution to overcome any problem is always started by an individual. So presenting you to the golden opportunity to be the sunshine of your own through the most awaited pre event of techNITi'19. <b>Be the Change.</b></p>
-                        <button class="button">Click Here</button>
-                      </div>
-                    </div>
-                  </a>
-    
-                  <a class="card" href="badlav.html">
-                    <div class="front" style="background-image: url('../images/mega_events/badlav.jpg');">
-                      <p>NITJ GATE</p>
-                    </div>
-                    <div class="back">
-                      <div>
-                        <p  class="categoryContent">A revolution to overcome any problem is always started by an individual. So presenting you to the golden opportunity to be the sunshine of your own through the most awaited pre event of techNITi'19. <b>Be the Change.</b></p>
-                        <button class="button">Click Here</button>
-                      </div>
-                    </div>
-                  </a>
-    
-                  <a class="card" href="badlav.html">
-                    <div class="front" style="background-image: url('../images/mega_events/badlav.jpg');">
-                      <p>WORKSHOPS</p>
-                    </div>
-                    <div class="back">
-                      <div>
-                        <p  class="categoryContent">A revolution to overcome any problem is always started by an individual. So presenting you to the golden opportunity to be the sunshine of your own through the most awaited pre event of techNITi'19. <b>Be the Change.</b></p>
-                        <button class="button">Click Here</button>
-                      </div>
-                    </div>
-                  </a>
-    
-                  <a class="card" href="badlav.html">
-                    <div class="front" style="background-image: url('../images/mega_events/badlav.jpg');">
-                      <p>EXPERT LECTURE SERIES</p>
-                    </div>
-                    <div class="back">
-                      <div>
-                        <p  class="categoryContent">A revolution to overcome any problem is always started by an individual. So presenting you to the golden opportunity to be the sunshine of your own through the most awaited pre event of techNITi'19. <b>Be the Change.</b></p>
-                        <button class="button">Click Here</button>
-                      </div>
-                    </div>
-                  </a>
-    
-                  <a class="card" href="badlav.html">
-                    <div class="front" style="background-image: url('../images/mega_events/badlav.jpg');">
-                      <p>SMART TEX-STYLES</p>
-                    </div>
-                    <div class="back">
-                      <div>
-                        <p  class="categoryContent">A revolution to overcome any problem is always started by an individual. So presenting you to the golden opportunity to be the sunshine of your own through the most awaited pre event of techNITi'19. <b>Be the Change.</b></p>
-                        <button class="button">Click Here</button>
-                      </div>
-                    </div>
-                  </a>
-    
-                  <a class="card" href="badlav.html">
-                    <div class="front" style="background-image: url('../images/mega_events/badlav.jpg');">
-                      <p>LAN GAMING</p>
-                    </div>
-                    <div class="back">
-                      <div>
-                        <p  class="categoryContent">A revolution to overcome any problem is always started by an individual. So presenting you to the golden opportunity to be the sunshine of your own through the most awaited pre event of techNITi'19. <b>Be the Change.</b></p>
-                        <button class="button">Click Here</button>
-                      </div>
-                    </div>
-                  </a>
     
           
     
