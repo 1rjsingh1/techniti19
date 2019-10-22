@@ -135,86 +135,65 @@ input[type=submit]:hover {
 <body>
 
 
-
 <div class="register">
   <form method="post" enctype="multipart/form-data">
-
     <div style="font-size: 25px; color: black; font-family: arial;"><b>Register your team</b></div>
     <br>
-    <label class="fname1">Team Name *</label>
+    <label class="fname">Team Name *</label>
     <input type="text" id="teamname" name="teamname" placeholder="Team Name">
 
-    <label class="fname1">Team Leader's Name *</label>
+    <label class="fname">Team Leader's Name *</label>
     <input type="text" id="leadername" name="leadername" required  placeholder="Team Leader's Name">
 
-    <label class="fname1">Team Leader's Email ID *</label>
+    <label class="fname">Team Leader's Email ID *</label>
     <input type="email" id="leaderid" name="leaderid" required placeholder="Team Leader's Email ID">
 
-    <label class="fname1">Member 1 Name</label>
+    <label class="fname">Member 1 Name</label>
     <input type="text" id="m1name" name="m1name" required placeholder="Member 1">
 
-    <label class="fname1">Member 1 Email ID</label>
+    <label class="fname">Member 1 Email ID</label>
     <input type="email" id="m1email" name="m1email" required placeholder="Member 1">
 
-    <label class="fname1">Member 2 Name</label>
+    <label class="fname">Member 2 Name</label>
     <input type="text" id="m2name" name="m2name" placeholder="Member 2">
 
-    <label class="fname1">Member 2 Email ID</label>
+    <label class="fname">Member 2 Email ID</label>
     <input type="email" id="m2email" name="m2email" placeholder="Member 2">
 
-    <label class="fname1">Member 3 Name</label>
+    <label class="fname">Member 3 Name</label>
     <input type="text" id="m3name" name="m3name" placeholder="Member 3">
 
-    <label class="fname1">Member 3 Email ID</label>
+    <label class="fname">Member 3 Email ID</label>
     <input type="email" id="m3email" name="m3email" placeholder="Member 3">
 
-    <label class="fname1">Member 4 Name</label>
+    <label class="fname">Member 4 Name</label>
     <input type="text" id="m4name" name="m4name" placeholder="Member 4">
 
-    <label class="fname1">Member 4 Email ID</label>
+    <label class="fname">Member 4 Email ID</label>
     <input type="email" id="m4email" name="m4email" placeholder="Member 4">
 
-    <label class="fname1">Member 5 Name</label>
+    <label class="fname">Member 5 Name</label>
     <input type="text" id="m5name" name="m5name" placeholder="Member 5">
 
-    <label class="fname1">Member 5 Email ID</label>
+    <label class="fname">Member 5 Email ID</label>
     <input type="email" id="m5email" name="m5email" placeholder="Member 5">
 
-    <label class="fname1">Member 6 Name</label>
+    <label class="fname">Member 6 Name</label>
     <input type="text" id="m6name" name="m6name" placeholder="Member 6">
 
-    <label class="fname1">Member 6 Email ID</label>
+    <label class="fname">Member 6 Email ID</label>
     <input type="email" id="m6email" name="m6email" placeholder="Member 6">
 
-    <label class="fname1">Member 7 Name</label>
+    <label class="fname">Member 7 Name</label>
     <input type="text" id="m7name" name="m7name" placeholder="Member 7">
 
-    <label class="fname1">Member 7 Email ID</label>
+    <label class="fname">Member 7 Email ID</label>
     <input type="email" id="m7email" name="m7email" placeholder="Member 7">
 
 
-
     <input style="background-color: black;" name="final5" type="submit" value="Register">
-
   </form>
 </div>
-</div>
-
 
 </body>
 </html>
-
-
-                            <script type="text/javascript">
-                                if (typeof(Storage) !== "undefined")
-                                {
-                                    sessionStorage.setItem("path", "events/construction_and_design/crepido.html");
-                                    sessionStorage.setItem("formPath","../../form.html");
-                                }
-                            </script>
-
-                            <script src="../../www.gstatic.com/firebasejs/5.7.0/firebase.js"></script>
-                            <script src="../../js/login.js" ></script>
-                            <script src="../registration.js"></script>
-                            <script src="../events.js"></script>
-                        </body>
