@@ -134,15 +134,11 @@ input[type=submit]:hover {
 </style>
 <body>
 
-<<<<<<< HEAD
-<div class="container" style="width: 87%; margin-left: 45px;">
-    <div class="register">
-  <form action="/action_page.php">
-=======
+
 
 <div class="register">
   <form method="post" enctype="multipart/form-data">
->>>>>>> ea181c5f0284714b1b45c40ca1cf7ee465e3a72b
+
     <div style="font-size: 25px; color: black; font-family: arial;"><b>Register your team</b></div>
     <br>
     <label class="fname1">Team Name *</label>
