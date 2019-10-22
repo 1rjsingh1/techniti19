@@ -2,12 +2,12 @@
  include('conn.php');
 if(! isset($_SESSION['name']))
 {
-  echo $_SESSION['name'];
+
   echo "<script>alert('Please Log In!!!')</script>";
   echo "here";
   $_SESSION['reg']=1;
 
-//  header("Location:../../index.php");
+header("Location:../../index.php");
 } ?>
 <?php
     // session_start();
@@ -49,7 +49,7 @@ if($_POST['m7email']!=0){
 
         if ($r2t) {
           $_SESSION['suck']=1;
-        
+
           header("Location:../../index1.php");
      }
       }
@@ -101,13 +101,13 @@ input[type=text], input[type=email], select {
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-  font-size: 10px;
+  font-size: large;
   color: black;
 }
 
 input[type=submit] {
   width: 100%;
-  background-color: #4CAF50;
+  background-color: black;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
