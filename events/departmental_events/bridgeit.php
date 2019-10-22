@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>techNITi19 EVEN - CIRCUIT HUNT - SoECE </title>
+    <title>Bridge It </title>
     <link rel="icon" type="image/ico" href="../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -26,43 +26,28 @@
 </head>
 <body>
 
+       
+
     <div id="wrapper">
-          <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background: black;">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="../../index.html"> techNITi'19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-            </div>
-            <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
+          <?php include('../../navbar.php'); ?>
+          <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
                    
                     <li><a href="#EventDescription"><i class="fa fa-globe"></i> Event Description:</a></li>
                     <li><a href="#TeamSpecification"><i class="fa fa-gamepad"></i>Team Specification:</a></li>
                     <li><a href="#DescriptionOfRounds"><i class="fa fa-list-ol"></i> Description of Rounds:</a></li>
                     <li><a href="#GeneralRules"><i class="fa fa-list-ol"></i> General Rules:</a></li>
-                    
+                    <li><a href="#GUIDELINESfORbRIDGEmAKING"><i class="fa fa-list-ol"></i> GUIDELINES FOR BRIDGE MAKING:</a></li>
                     <li><a href="#EventHead"><i class="fa fa-universal-access"></i>Event Head:</a></li>
                 </ul>
-                <ul class="nav navbar-nav navbar-left navbar-user">
-
-                    <li class="dropdown user-dropdown">
-                        <a href="../../index.html" >Home</a>
-                    </li>
-                    <li class="dropdown user-dropdown">
-                        <a href="../category.html" >Events</a>
-                    </li>
-                </ul>
+                
             </div>
         </nav>
 
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">CIRCUIT HUNT - SoECE</div>
+                    <div class="eventHeading" style="text-align: center;">BRIDGE IT</div>
                     
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -83,15 +68,18 @@
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                           <p>The event consists of 3 rounds in which first two rounds are
-                                            meant to test programming skills of participants and their
-                                            problem solving capabilities.</p>
-                                            <p>These two rounds are to be organized online, where top 16 teams
-                                            from first round move to second round.</p>
-                                            <p>From second round 8 teams move ahead to the final round, which
-                                            is the main attraction of the Event.</p>
-                                            <p>In the third round circuit analyzing and synthesis ability of
-                                            participants would be tested.</p>
+                                           <p> Bridges are crucial transportation links that carry road and rail traffic across rivers, gorges or
+                                            other roads. When a bridge collapses or closes for repairs, it can cause massive traffic problems
+                                            or strand people altogether, especially if they live on an island.</p><br><br>
+                                            <p>Some of the most massive and expensive engineering projects in history have involved building
+                                            bridges. Every bridge presents complicated factors that must be taken into consideration, such
+                                            as the geology of the surrounding area, the amount of traffic, weather and construction
+                                            materials. Sometimes these factors are miscalculated, or something occurs that the bridge
+                                            designers didn't expect. The result can be tragic.</p><br><br>
+                                           <p> Deterioration mechanisms of structure due to numerous loading condition and various
+                                            unanticipated loads have highly complexity. The most deteriorated factor include catastrophic
+                                            event such as seismic and floods, and also due to nature phenomenon such as aging, weather,
+                                            fatigue, overload and structural settlement.</p>
                                     </div>
                                 </div>
                             </section>
@@ -111,9 +99,7 @@
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                            Team may contain maximum of 4 members
-                                            (A team may contain members from different colleges too.)
-                                            
+                                            A Team may consist of maximum 5 members and minimum 3 members.
                                   </div>
                                 </div>
                             </section>
@@ -137,15 +123,25 @@
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-                                            <p>Round 1: It would be an online round where each team would be
-                                            given brain teasers, which on solving would grab them points.
-                                            Top 16 teams move to next round.</p><br>
-                                            <p> Round 2: It would be an online event with simple
-                                            programming questions. The answer of one question would
-                                            lead key to second question. Top 8 teams move to next round.</p>
-                                           <p>Round 3: In this round each team will be given a circuit. The
-                                            round would be a “Circuit hunt” with the components of circuit at
-                                            different locations of College. The timing would be judging criteria.</p>
+                                           <h3> ROUND 1: MODEL EXHIBITION ROUND</h3>
+                          <li> Bridge constructed with the given guidelines shall be tested in this round.</li>
+                          <li> It is an elimination round.</li>
+                          <li> Bridge shall be subjected to the below mentioned tests.</li>
+                          <li>Participants qualifying this round shall appear in the next round.</li>
+                                        <h3>ROUND 2: REASONING ROUND</h3>
+                          <li> Detailed analysis of bridge will be tested in this round.</li>
+                         <li> Participants will have to give reasoning for choosing a particular bridge type for their
+model by means of verbal presentation.</li>
+                         <li>Judges shall question the participants on their modelled bridge.</li>
+                        <li> Candidates are required to be prepared on the following grounds:
+                            <li>1. What are the causes of the structural problem leading to bridge failures in such
+situation? Identify the mechanisms. </li>
+<li>2. What are the measures to be taken to control the development of structural
+problems? If developed, identify the methods to mitigate the hazards arising out
+of them.</li>
+  <li>3. Identify and describe NDT (Non-destructive testing) Techniques for condition
+assessment and health monitoring of structural components of bridges.</li>
+  <li>4. How to use this data to identify permissible limits for loads, stress and strains.</li> 
                                     </div>
                                 </div>
                             </section>
@@ -166,7 +162,27 @@
                                  
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                            The Team reporting with complete circuit would be the winner
+                                            <li> The bridge will be scored on how well the material has been used to support the load.
+                                            The efficiency will be calculated as the ratio of ultimate load capacity and the bridge
+                                            weight.</li>
+                                            <li> The bridge will also be scored on aesthetics. The judges will judge the bridge based
+                                            on the detail to connections and members, the uniqueness of the design and its overall
+                                            look.</li>
+                                            <li> The load sustained by bridge at notable yielding will be taken as the ultimate load.</li>
+                                            <li> For the first round efficiency shall be the judging criteria.</li>
+                                            <li> In second round reasoning and aesthetics shall be evaluated.</li>
+                                            <li> Overall winner shall be decided by the combined score of first and second round.</li>
+                                            <li> In scoring criteria weightage for different categories are as follows:
+                                            Efficiency = 50%<br>
+                                            Aesthetics = 25%<br>
+                                            Reasoning = 25%</li>
+                                            <li> Penalty for rule violation shall be as follows:
+                                            Dimensional specifications are not met (Penalty of 10% of the total score).<br>
+                                            Use of material, except the ones stated in rules (Penalty of 50% of the total score or
+                                            can lead to disqualification as decided by the judges).<br>
+                                            <li> In case of any discrepancies, the decision taken by the judges and the council will be
+                                            the final verdict.</li>
+                                            
 									</div>
                                 </div>
                             </section>
@@ -175,7 +191,38 @@
                     </div>
                 </div>
             </div>
-
+            <div class="row" id="GUIDELINESfORbRIDGEmAKING">
+                    <div class="col-md-12">
+                        <div class="panel panel-primary" style="border: black" >
+                            <div class="panel-heading" style="background: black;">
+                                <h3 class="panel-title"><i class="fa fa-rss"></i> GUIDELINES FOR BRIDGE MAKING:</h3>
+                            </div>
+                            <div class="panel-body">
+                                <section class="feed-item">
+                                     
+                                    <div class="feed-item-body">
+                                        <div class="text eventInfo" >
+                                                <li> Use Popsicle sticks (ice cream sticks) only.</li>
+ <li>Sticks can be altered physically by cutting or notching at any angle.</li>
+  <li> Only Fevicol can be used as adhesive, use of other adhesives will lead to
+disqualifications.</li>
+<li> Threads can be used during construction, however should not be present in the final
+structure.</li>
+<li> Overall Dimensions:
+The Popsicle Bridge dimensions should be within the specified limits of:-
+Length= 50-70 cm; Width = 12-15 cm; Height = 12-16 cm</li>
+<li> The members of the bridge can be built by grouping a maximum of 3 sticks together.</li>
+<li> Sticks can be stacked together length-wise to form stronger structural elements or to
+make long span elements. The overlapping between two sticks should not be more
+than 40%. Maximum number of sticks that can stacked together is three.  </li>                 
+                                        </div>
+                                    </div>
+                                </section>
+    
+                            </div>
+                        </div>
+                    </div>
+                </div>
 			
             
             
@@ -196,7 +243,8 @@
                                      
                                     <div class="feed-item-body">
                                         <div class="text eventInfo" >
-                                                Divesh Joshi (9592490189)
+                                                Mukesh Kumar (8288892876)<br><br>
+                                                Shubham Goyal (9803337334)
                              
                                         </div>
                                     </div>
@@ -310,10 +358,25 @@
                                         </div>
                                     </div>
                                     <br />
-                                    
+                                    <div class="row">
+                                            <div class="col-md-3 flex-center">
+                                                <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Member 5</span>
+                                            </div>
+                                            <div class="col-md-3">
+                                              <input type="text"  name="name5" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate"/>
+                                            </div>
+                                            <div class="col-md-3">
+                                              <input type="text" name="id5" placeholder="techNITi19 ID" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate"/>
+                                            </div>
+                                            <div class="col-md-3">
+                                              <input type="email" name="email5" placeholder="Email" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
+                                            </div>
+                                        </div>
+                                        <br />
+                            
 
                             <center>
-                                <div>You can have team of maximum 4 members</div>
+                                <div>You can have team of 2 or 3</div>
                             </center>
                             <br />
                             
@@ -327,35 +390,6 @@
                                 </div>
                             </div>
                             <div style="visibility: hidden;">
-                                <div class="row">
-                                    <div class="col-md-2 flex-center">
-                                        <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Member 5</span>
-
-                                    </div>
-
-                                    <div class="col-md-2">
-                                      <input type="text"  name="name5" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-
-                                    </div>
-                                    <div class="col-md-2">
-                                      <input type="text" name="id5" placeholder="techNITi19 ID" style="color:white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-
-                                    </div>
-                                    <div class="col-md-2">
-                                      <input type="email" name="email5" placeholder="Email" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-
-                                    </div>
-                                    <div class="col-md-2">
-                                      <input type="text" name="contact5" placeholder="Contact No." style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-
-                                    </div>
-                                    <div class="col-md-2">
-                                      <input type="text" name="college5" placeholder="College" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
-
-                                    </div>
-                                </div>
-
-                                <br />
                                 <div class="row">
                                     <div class="col-md-2 flex-center">
                                         <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Member 6</span>
@@ -380,6 +414,35 @@
                                     </div>
                                     <div class="col-md-2">
                                       <input type="text" name="college6" placeholder="College" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
+
+                                    </div>
+                                </div>
+
+                                <br />
+                                <div class="row">
+                                    <div class="col-md-2 flex-center">
+                                        <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Member7</span>
+
+                                    </div>
+
+                                    <div class="col-md-2">
+                                      <input type="text"  name="name7" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
+
+                                    </div>
+                                    <div class="col-md-2">
+                                      <input type="text" name="id7" placeholder="techNITi19 ID" style="color:white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
+
+                                    </div>
+                                    <div class="col-md-2">
+                                      <input type="email" name="email7" placeholder="Email" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
+
+                                    </div>
+                                    <div class="col-md-2">
+                                      <input type="text" name="contact7" placeholder="Contact No." style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
+
+                                    </div>
+                                    <div class="col-md-2">
+                                      <input type="text" name="college7" placeholder="College" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" />
 
                                     </div>
                                 </div>
