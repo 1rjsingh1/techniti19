@@ -30,21 +30,11 @@
                 <h1 class="heading">Mega Events</h1>
                 <p class="description"></p>
 
-        <a class="card" href="http://www.nitj.ac.in/techniti19/hacknitj/">
-            <div class="front" style="background-image: url('../images/mega_events/hacknitj.png');">
-              <p>HACK@NITJ</p>
-            </div>
-            <div class="back">
-              <div>
-                <p class="categoryContent">It's time to show off your skills and talent by providing solution to the pressing problem of Smart Campus. Be a part of the megaevent and earn the recognition for yourself.Win amazing prizes and goodies!</p>
-                <button class="button">Click Here</button>
-              </div>
-            </div>
-          </a>
+        
     
           <a class="card" href="construction_and_design/crepido.html">
             <div class="front" style="background-image: url('../images/event_categories/software_and_electronics.jpg');">
-              <p>PAPER PRESENTATION</p>
+              <p>CS 1.6 WarZone</p>
             </div>
             <div class="back">
               <div>
@@ -229,6 +219,18 @@
                       </div>
                     </div>
                   </a>
+
+                  <a class="card" href="http://www.nitj.ac.in/techniti19/hacknitj/">
+            <div class="front" style="background-image: url('../images/mega_events/hacknitj.png');">
+              <p>HACK@NITJ</p>
+            </div>
+            <div class="back">
+              <div>
+                <p class="categoryContent">It's time to show off your skills and talent by providing solution to the pressing problem of Smart Campus. Be a part of the megaevent and earn the recognition for yourself.Win amazing prizes and goodies!</p>
+                <button class="button">Click Here</button>
+              </div>
+            </div>
+          </a>
     
           
     
