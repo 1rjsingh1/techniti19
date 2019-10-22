@@ -6,7 +6,7 @@
           echo "here";
           $_SESSION['reg']=1;
 
-          echo "<script>window.location='../../index.php';";
+          header("Location:../../index.php");
         }
         else {
         $eid=$_GET['id'];

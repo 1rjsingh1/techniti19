@@ -1,4 +1,60 @@
+<?php
+ include('conn.php');
+if(! isset($_SESSION['name']))
+{
+  echo $_SESSION['name'];
+  echo "<script>alert('Please Log In!!!')</script>";
+  echo "here";
+  $_SESSION['reg']=1;
 
+//  header("Location:../../index.php");
+} ?>
+<?php
+    // session_start();
+
+if(isset($_POST['final5']))
+{
+  extract($_POST);
+  $i=$_GET['id'];
+
+    $q1="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['leaderid']."\")";
+    $r1t=mysqli_query($con,$q1);
+
+    $q2="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m1email']."\")";
+    $r2t=mysqli_query($con,$q2);
+if($_POST['m2email']!=0){
+    $q3="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m2email']."\")";
+    $r3t=mysqli_query($con,$q3);
+  }
+if($_POST['m3email']!=0){
+    $q4="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m3email']."\")";
+    $r4t=mysqli_query($con,$q4);
+}
+if($_POST['m4email']!=0){
+    $q5="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m4email']."\")";
+    $r5t=mysqli_query($con,$q5);
+}
+if($_POST['m5email']!=0){
+    $q6="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m5email']."\")";
+    $r6t=mysqli_query($con,$q6);
+}
+if($_POST['m6email']!=0){
+    $q7="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m6email']."\")";
+    $r7t=mysqli_query($con,$q7);
+}
+if($_POST['m7email']!=0){
+    $q8="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m7email']."\")";
+    $r8t=mysqli_query($con,$q8);
+}
+
+        if ($r2t) {
+          $_SESSION['suck']=1;
+        
+          header("Location:../../index1.php");
+     }
+      }
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -78,25 +134,31 @@ input[type=submit]:hover {
 </style>
 <body>
 
+<<<<<<< HEAD
 <div class="container" style="width: 87%; margin-left: 45px;">
     <div class="register">
   <form action="/action_page.php">
+=======
+
+<div class="register">
+  <form method="post" enctype="multipart/form-data">
+>>>>>>> ea181c5f0284714b1b45c40ca1cf7ee465e3a72b
     <div style="font-size: 25px; color: black; font-family: arial;"><b>Register your team</b></div>
     <br>
     <label class="fname">Team Name *</label>
     <input type="text" id="teamname" name="teamname" placeholder="Team Name">
 
     <label class="fname">Team Leader's Name *</label>
-    <input type="text" id="leadername" name="leadername" placeholder="Team Leader's Name">
+    <input type="text" id="leadername" name="leadername" required  placeholder="Team Leader's Name">
 
     <label class="fname">Team Leader's Email ID *</label>
-    <input type="email" id="leaderid" name="leaderid" placeholder="Team Leader's Email ID">
+    <input type="email" id="leaderid" name="leaderid" required placeholder="Team Leader's Email ID">
 
     <label class="fname">Member 1 Name</label>
-    <input type="text" id="m1name" name="m1name" placeholder="Member 1">
+    <input type="text" id="m1name" name="m1name" required placeholder="Member 1">
 
     <label class="fname">Member 1 Email ID</label>
-    <input type="email" id="m1email" name="m1email" placeholder="Member 1">
+    <input type="email" id="m1email" name="m1email" required placeholder="Member 1">
 
     <label class="fname">Member 2 Name</label>
     <input type="text" id="m2name" name="m2name" placeholder="Member 2">
@@ -134,8 +196,10 @@ input[type=submit]:hover {
     <label class="fname">Member 7 Email ID</label>
     <input type="email" id="m7email" name="m7email" placeholder="Member 7">
 
-  
-    <input style="background-color: black;" type="submit" value="Register">
+
+
+    <input style="background-color: black;" name="final5" type="submit" value="Register">
+
   </form>
 </div>
 </div>

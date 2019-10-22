@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 22, 2019 at 08:13 AM
+-- Generation Time: Oct 22, 2019 at 12:22 PM
 -- Server version: 10.1.21-MariaDB
 -- PHP Version: 5.6.30
 
@@ -169,6 +169,47 @@ INSERT INTO `events` (`eid`, `ename`) VALUES
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `groupe`
+--
+
+CREATE TABLE `groupe` (
+  `eid` int(11) NOT NULL,
+  `tname` text NOT NULL,
+  `email` text NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `groupe`
+--
+
+INSERT INTO `groupe` (`eid`, `tname`, `email`) VALUES
+(52, 'Rj', 'rj@gmail.com'),
+(52, 'Rj', 'ashihs@gmail.com');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `ind`
+--
+
+CREATE TABLE `ind` (
+  `eid` int(11) NOT NULL,
+  `userid` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `ind`
+--
+
+INSERT INTO `ind` (`eid`, `userid`) VALUES
+(43, 8),
+(43, 1),
+(43, 1),
+(43, 1);
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `societies`
 --
 
@@ -221,7 +262,8 @@ CREATE TABLE `user` (
 INSERT INTO `user` (`userid`, `Name`, `Email`, `College`, `Phone`, `Password`) VALUES
 (1, 'Rupinderjeet', '1rjsingh1@gmail.com', 'NITJ', 9888298877, '123'),
 (6, 'Abhishek', 'abhi@gmail.com', 'NITJ', 8489489498, '123'),
-(7, 'Ashish', 'ashish@gmail.com', 'NITJ', 8648694695, '123');
+(7, 'Ashish', 'ashish@gmail.com', 'NITJ', 8648694695, '123'),
+(8, 'Sukhdeep', 'suk@gmail.com', 'NITH', 4548948949, '132');
 
 --
 -- Indexes for dumped tables
@@ -241,7 +283,7 @@ ALTER TABLE `user`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
