@@ -24,6 +24,7 @@
     </style>
     <link rel="icon" type="image/ico" href="../images/favlogo.ico">
   </head>
+  <?php include('../navbar.php'); ?>
   <body>
 
     <!-- <div class="content">
