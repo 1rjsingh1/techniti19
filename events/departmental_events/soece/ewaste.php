@@ -1,4 +1,3 @@
-@@ -0,0 +1,516 @@
 
 <!DOCTYPE html>
 <html lang="en">
@@ -240,7 +239,7 @@ appropriate modifications directed by them.</p>
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=51" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 

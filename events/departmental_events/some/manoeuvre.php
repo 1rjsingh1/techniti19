@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/crepido.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -240,7 +240,7 @@ through mail.</li>
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=27" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 

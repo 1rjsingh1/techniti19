@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/Drishya.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

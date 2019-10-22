@@ -257,7 +257,7 @@ our Facebook page:
 
             <div id="RegisterContainer">
 
-                <a href="https://www.facebook.com/SocietyOfMechanicalEngineersnitj/posts/2503474569735592"class="semi-transparent-button" style="display: flex; justify-content: center"  id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=24" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 
