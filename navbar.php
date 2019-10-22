@@ -38,7 +38,7 @@
                         <a href="../../../index.html" ></a>
                     </li> 
                     <li class="dropdown user-dropdown">
-                        <a href="../../../index.html" >Home</a>
+                        <a href="../../../index.php" >Home</a>
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../category.html" >Departmental Events</a>
