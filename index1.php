@@ -950,7 +950,7 @@ unset($_SESSION['suck']);
  <?php
 
       echo $_SESSION['name']; ?>
-      
+
     <button onclick="mov()" class="btn btn-outline-dark" style="width:auto;">Logout</button>
     </div>
    <!-- <div class="logon axisLOGIN" id="axisLOGIN" title="user">
@@ -984,7 +984,7 @@ unset($_SESSION['suck']);
         <!--<a href="#" class="navLink"><i class="icon-help"></i> Social Initiatives</a>-->
         <a href="#" class="navLink"><i class="icon-document"></i> Gallery</a>
         <a href="#" class="navLink"><i class="icon-users"></i> Core Team</a>
-        <a href="#" class="navLink"><i class="icon-users"></i> Developers</a>
+        <!-- <a href="#" class="navLink"><i class="icon-users"></i> Developers</a> -->
         <a href="#" class="navLink"><i class="icon-help"></i> Contact Us</a>
 
         <div class="dropup">
