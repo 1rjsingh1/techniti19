@@ -135,7 +135,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Mind The Mind </b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 17px;">
               The event consists of 3 rounds in which first two rounds are meant to test programming skills of participants and their problem solving capabilities.
 
       These two rounds are to be organized online, where top 16 teams from first round move to second round.
@@ -164,7 +164,7 @@
                     <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">E-Waste</b>
             <p class="comment__date"></p>
-            <p class="comment__text">To implement the given circuit by encountering the bugs in it. It will be a team game. Each team will have maximum 3
+            <p class="comment__text" style="font-size: 17px;">To implement the given circuit by encountering the bugs in it. It will be a team game. Each team will have maximum 3
 
 members.
 
@@ -191,7 +191,7 @@ In final round, a circuit will be given and team has to kill the bugs in circuit
                 <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Circuit Hunt</b>
             <p class="comment__date"></p>
-            <p class="comment__text"><p>The event consists of 3 rounds in which first two rounds are
+            <p class="comment__text" style="font-size: 17px;"><p>The event consists of 3 rounds in which first two rounds are
                                             meant to test programming skills of participants and their
                                             problem solving capabilities.</p>
                                             <p>These two rounds are to be organized online, where top 16 teams

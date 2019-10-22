@@ -133,7 +133,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Counter Strike </b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 17px;">
                We are the gamers; we are the warriors who will etch their name in history.
 Keeping this is mind we are conducting a counter strike gaming tournament so that
 we can find the most skilled and dominating team which will rise up the charts and

@@ -134,7 +134,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Endurance </b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 17px;">
               Students have to prepare their own Solar car and pass the obstacles of the race track as fast as they
 could keeping in mind certain penalties that are being offered in track.</p>
                 <p>
@@ -159,7 +159,7 @@ could keeping in mind certain penalties that are being offered in track.</p>
 <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Best Engineer </b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 17px;">
               Problems existing in the college campus identified by the participants and a solution to the problem
                                             given by another participant.</p>
                 <p>

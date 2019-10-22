@@ -133,7 +133,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Patagonia </b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 17px;">
               In this event the participants will be provided a crossword which shall be filled with
 
 the names of famous textile brands. Logos of the brands will be provided for the hints.</p>
@@ -158,7 +158,7 @@ the names of famous textile brands. Logos of the brands will be provided for the
                     <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Tax-Ogle</b>
             <p class="comment__date"></p>
-            <p class="comment__text">Participants will be provided with some riddles indicating hints about different
+            <p class="comment__text" style="font-size: 17px;">Participants will be provided with some riddles indicating hints about different
 
 locations in the college. They have to identify the correct locations and accordingly top teams
 will be qualified to next round.
@@ -180,7 +180,7 @@ will be qualified to next round.
                   <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Tex-Scapes</b>
             <p class="comment__date"></p>
-            <p class="comment__text">Participants have to draw Apparel Designing on the sheets provided with the help of
+            <p class="comment__text" style="font-size: 17px;">Participants have to draw Apparel Designing on the sheets provided with the help of
 pencils, colors, sketch pens etc.
 </p>
  

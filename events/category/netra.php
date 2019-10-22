@@ -134,7 +134,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Drishya </b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 17px;">
               iv class="text eventInfo">
                                       It is an exquisite photography exhibition – a collection of a beautiful
   photographs from all over the nation. Moreover , it’s not just an exhibition ,
@@ -161,7 +161,7 @@
                     <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Nazar</b>
             <p class="comment__date"></p>
-            <p class="comment__text">Use your creativity to click theme based photos. Send us entry from the
+            <p class="comment__text" style="font-size: 17px;">Use your creativity to click theme based photos. Send us entry from the
 theme given.
 </p>
  
@@ -181,7 +181,7 @@ theme given.
                <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Photo Manipulation</b>
             <p class="comment__date"></p>
-            <p class="comment__text">You just don't take a Photograph, you make it’’ manipulation involves
+            <p class="comment__text" style="font-size: 17px;">You just don't take a Photograph, you make it’’ manipulation involves
   transforming or altering a photograph using various methods and
   techniques .The event aims to provoke strong opinions among
   photographers.
@@ -203,7 +203,7 @@ theme given.
         <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Weekend Diaries</b>
             <p class="comment__date"></p>
-            <p class="comment__text">There is only you and your camera. The limitations in your photography are
+            <p class="comment__text" style="font-size: 17px;">There is only you and your camera. The limitations in your photography are
   in yourself, for what we see is what we are.” The event indulges you to click
   amazing pictures this Techniti and send them to us and let the world see what
   the fest means to you .The best entries , clicked during three days of the fest ,
@@ -226,7 +226,7 @@ theme given.
         <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Photo Treasure Hunt</b>
             <p class="comment__date"></p>
-            <p class="comment__text">A treasure hunt centered around photography ! Figure out the
+            <p class="comment__text" style="font-size: 17px;">A treasure hunt centered around photography ! Figure out the
 locations of the photos given to you . Along with your team , click
 photos of each location that you hunt down.
 </p>

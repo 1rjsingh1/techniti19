@@ -135,7 +135,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Micro Robowar</b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 17px;">
               CONTESTANT TEAMS WILL BE COMPETING HEAD ON IN A 1 VS 1 MATCH. BOTH TEAMS WILL HAVE MADE RC/NON-RC VEHICLES(BOTS) LESS THAN 6KG IN WEIGHT AND NOT LARGER THAN 20X20X20 CM. THEY WILL TRY TO GAIN POINTS BY PUSHING THE OTHER TEAM’S BOT INTO PITS IN THE ARENA OR BY PRESSING THEM AGAISNT THE WEAPONS IN THE ARENA AS WELL. THE ARENA WILL BE 1.5X1.5 METERS.</p>
                 <p>
 
@@ -158,7 +158,7 @@
                     <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Tricky Circuits</b>
             <p class="comment__date"></p>
-            <p class="comment__text"> IN THIS THEY WILL BE PROVIDED WITH TRICKY CIRCUITS COMPRISING OF
+            <p class="comment__text" style="font-size: 17px;"> IN THIS THEY WILL BE PROVIDED WITH TRICKY CIRCUITS COMPRISING OF
 RESISTANCES, GATES, AND OTHER ELECTRONIC DEVICES AND TELL THE OUTPUT.
 THERE WILL BE SEMI, AND FINALS.
 AS THE EVENT GOES CIRCUIT BECOMES MORE AND MORE DIFFICULT.

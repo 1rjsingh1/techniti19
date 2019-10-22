@@ -135,7 +135,7 @@
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Survey Hunt</b>
             <p class="comment__date"></p>
-            <p class="comment__text">
+            <p class="comment__text" style="font-size: 17px;">
               “Exploration is curiosity put into action.”
 
 Survey Hunt aims to hit exactly at inquisitiveness of participants allowing them to recall their
@@ -161,7 +161,7 @@ common observances of the places around them and effectively guess the clues off
                     <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Bridge It</b>
             <p class="comment__date"></p>
-            <p class="comment__text">Bridges are crucial transportation links that carry road and rail traffic across rivers, gorges or
+            <p class="comment__text" style="font-size: 17px;">Bridges are crucial transportation links that carry road and rail traffic across rivers, gorges or
                                             other roads. When a bridge collapses or closes for repairs, it can cause massive traffic problems
                                             or strand people altogether, especially if they live on an island.
 </p>
