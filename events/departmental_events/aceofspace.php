@@ -27,7 +27,7 @@
 <body>
 
     <div id="wrapper">
-         <?php include('../../navbar.php'); ?>
+         <?php include('../../navbar2.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
                     <li><a href="#Team"><i class="fa fa-globe"></i> Team Specification:</a></li>
@@ -37,7 +37,7 @@
                     <li><a href="#EventStudentHead"><i class="fa fa-gamepad"></i>Event Student Head:</a></li>
 
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -75,7 +75,7 @@
                     </div>
                 </div>
             </div>
-                
+
 
 
             <br />
@@ -115,7 +115,7 @@
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                             <p>There will be 2 round in this Quiz.</p><br>
-                                    
+
                                             <p><b>Prelims-</b> This is preliminary round. Total of 8-10 teams will make it to next round. The screening will be
                                                 done on basis of questions and marking scheme.</p><br>
 
@@ -169,7 +169,7 @@
                             </div>
                             <div class="panel-body">
                                 <section class="feed-item">
-    
+
                                     <div class="feed-item-body">
                                         <div class="text eventInfo">
                                             Kumar Shivam (8727039236)
@@ -177,7 +177,7 @@
                                         </div>
                                     </div>
                                 </section>
-    
+
                             </div>
                         </div>
                     </div>
