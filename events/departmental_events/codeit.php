@@ -14,11 +14,11 @@
     <link href="../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
     <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-    
+
     <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
     <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../local.css" />
     <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -27,20 +27,20 @@
 <body>
 
     <div id="wrapper">
-         <?php include('../../navbar.php'); ?>
+         <?php include('../../navbar2.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-                   
+
                     <li><a href="#Problem"><i class="fa fa-globe"></i>Event Description</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Participation</a></li>
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Important Dates</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Guidelines</a></li>
                     <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Prize Distribution</a></li>
- 
+
                     <li><a href="https://drive.google.com/open?id=1bLY_I3POsjqyyqNROYbOdt7tyj4foctQ" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Event Organisers</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -48,7 +48,7 @@
            <div class="row">
                 <div class="col-md-12">
                     <div class="eventHeading" style="text-align: center;">CODE IT</div>
-                    
+
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
                     </div> -->
@@ -56,7 +56,7 @@
             </div>
 
             <br/>
-           
+
             <div class="row" id="Problem">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -65,7 +65,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
                                         Design a truss bridge using Popsicle Sticks and Fevicol
@@ -85,7 +85,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                       A rise in demand of coal, oil and other minerals was envisaged by the government of a thriving state. They, after days of discussion opted for the use of railroads to transport the minerals and oils. It was favoured as it would allow to transport greater amount of goods in a less time. Moreover, it avoided roadway congestion. A government contractor was assigned the project to lay down railway tracks to facilitate the transport of minerals and oils to the state. But the railway lines could not be connected as they encountered a river. Engineers decided to connect the railway lines through a truss bridge over the river which would have the strength to bear a heavy freight locomotive.
@@ -99,7 +99,7 @@
                     </div>
                 </div>
             </div>
-            
+
 
             <br />
             <div class="row" id="rules">
@@ -111,7 +111,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
                                        <li>  The structure made (Trussed Bridge) will be tested on the day of event.</li>
@@ -143,7 +143,7 @@
                     </div>
                 </div>
             </div>
-			
+
 			<div class="row" id="testingofbridge">
 			 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -152,7 +152,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
 									<li>Bridge model will be loaded till failure. The maximum deflection at the point of yielding and The load at that moment will be used to evaluate the structure.</li>
@@ -168,7 +168,7 @@
                     </div>
                 </div>
             </div>
-			
+
 			<div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -178,7 +178,7 @@
                         <div class="panel-body">
                             <section class="feed-item">
                                 <div class="icon pull-left">
-                                   
+
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
@@ -187,7 +187,7 @@
                                 <li>3rd – ₹ 2,000</li>
                                 <p>Apart from regular 3 prizes, there will be 2 more special prizes-</p>
 
-<li>For girl participants ( ₹500)</li> 
+<li>For girl participants ( ₹500)</li>
 <li> To be disclosed onsite(₹500)</li>
                                     </div>
                                 </div>
@@ -197,16 +197,16 @@
                 </div>
             </div>
 
-           
+
 
 
             <div id="RegisterContainer">
                 <a class="semi-transparent-button" href="register.php?id=41" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
-           
 
-		
+
+
             <div class="row" id="contact">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -215,7 +215,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <center>
@@ -242,7 +242,7 @@
                                                             Sahil
                                                         </div>
                                                         <div class="Number">
-                                                            +91-9878343619 
+                                                            +91-9878343619
                                                         </div>
                                                     </div>
                                                 </div>
@@ -255,10 +255,10 @@
                     </div>
                 </div>
             </div>
-		
+
         </div>
-        
-									
+
+
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog" style="width: 90%;max-width: 90%;">
             <!-- Modal content-->
@@ -301,7 +301,7 @@
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -368,7 +368,7 @@
                                 <div>You can have team of 4 or less.</div>
                             </center>
                             <br />
-                            
+
 
                             <div class="row">
                                 <div class="col-md-12">

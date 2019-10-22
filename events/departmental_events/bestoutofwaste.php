@@ -14,11 +14,11 @@
     <link href="../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
     <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-    
+
     <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
     <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../local.css" />
     <script type="text/javascript" src="../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -27,8 +27,8 @@
 <body>
 
     <div id="wrapper">
-          
-                   <?php include('../../navbar.php'); ?>
+
+                   <?php include('../../navbar2.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
                     <li><a href="#EventDescription"><i class="fa fa-globe"></i> Event Description:</a></li>
@@ -37,7 +37,7 @@
                     <li><a href="#GeneralRules"><i class="fa fa-list-ol"></i> General Rules:</a></li>
                     <li><a href="#EventHead"><i class="fa fa-universal-access"></i>Event Head:</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -45,12 +45,12 @@
            <div class="row">
                 <div class="col-md-12">
                     <div class="eventHeading" style="text-align: center;">BEST OUT OF WASTE</div>
-                  
+
                 </div>
             </div>
 
             <br/>
-           
+
             <div class="row" id="EventDescription">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -59,13 +59,13 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
                                         It is the game of designing the equipment which can solve the real life
                                         problems using the materials which are treated as waste in current scenario.
                                         Participants are advised to develop prototype with low cost and of high practical
-                                        viability and social importance.   
+                                        viability and social importance.
                                     </div>
                                 </div>
                             </section>
@@ -82,7 +82,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                             A team may contain maximum of 2 members,no minimum limit.
@@ -94,7 +94,7 @@
                     </div>
                 </div>
             </div>
-            
+
 
             <br />
             <div class="row" id="Details">
@@ -106,12 +106,12 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-                                      <li>Maximum of 20 minutes given to one team to explain their prototype</li> 
-                                      <li>Prototype have to be based on some innovative Engineering based concept</li>     
-                                      <li>One Detailed document about working prototype and materials used have to be submitted at the time of event</li>     
+                                      <li>Maximum of 20 minutes given to one team to explain their prototype</li>
+                                      <li>Prototype have to be based on some innovative Engineering based concept</li>
+                                      <li>One Detailed document about working prototype and materials used have to be submitted at the time of event</li>
                                     </div>
                                 </div>
                             </section>
@@ -120,7 +120,7 @@
                     </div>
                 </div>
             </div>
-			
+
 			<div class="row" id="GeneralRules">
 			 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -129,7 +129,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                            <li>Any kind of damage  done to the arena by the prototype will leads to its disqualification.</li>
@@ -143,11 +143,11 @@
                     </div>
                 </div>
             </div>
-			
-            
-            
-       
-            
+
+
+
+
+
             <div id="RegisterContainer">
                     <a class="semi-transparent-button" href="team_register.php?id=50" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
                   </div>
@@ -160,14 +160,14 @@
                             </div>
                             <div class="panel-body">
                                 <section class="feed-item">
-                                     
+
                                     <div class="feed-item-body">
                                         <div class="text eventInfo" >
-                                            Vishali Garg- 9041069079  
+                                            Vishali Garg- 9041069079
                                         </div>
                                     </div>
                                 </section>
-    
+
                             </div>
                         </div>
                     </div>
@@ -175,7 +175,7 @@
 
 
 
-									
+
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog" style="width: 90%;max-width: 90%;">
             <!-- Modal content-->
@@ -218,7 +218,7 @@
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -247,15 +247,15 @@
                             </div>
                             <br />
 
-                    
 
-                            
+
+
 
                             <center>
                                 <div>You can have team of 2 </div>
                             </center>
                             <br />
-                            
+
 
                             <div class="row">
                                 <div class="col-md-12">
