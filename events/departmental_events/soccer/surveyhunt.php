@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/crepido.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/SURVEY HUNT.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tax-Ogle</title>
+    <title>techNITi19 EVENT -  SURVEY HUNT</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -14,11 +14,11 @@
     <link href="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-    
+
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../../local.css" />
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -27,28 +27,28 @@
 <body>
 
     <div id="wrapper">
-         
-                   <?php include('../../../navbar.php'); ?>
+          <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
-                <ul id="active" class="nav navbar-nav side-nav" style="background: black;"> 
-                    
-                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
-                    
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
- 
-                    <li><a href="https://drive.google.com/open?id=1vMi7wxJShWsScLkBo-ZkO_MGyr6uQ6fL" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
+                    <li><a href="#Problem"><i class="fa fa-globe"></i> EVENT DESCRIPTION</a></li>
+                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>TEAM SPECIFICATIONS:</a></li>
+                    <li><a href="#rules"><i class="fa fa-list-ol"></i> ROUND 1: EXPLORE THE RIDDLES</a></li>
+                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>ROUND 2: QUIZ ‘O’ MANIA</a></li>
+                    <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
+                    <li><a href="#prizemoney"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+
+                    <li><a href="https://drive.google.com/file/d/1amUMLJWKKqEuHeo3hV0S4IX_c8mOZc_b/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                \
+
             </div>
         </nav>
 
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">TAX-OGLE</div>
-                    
+                    <div class="eventHeading" style="text-align: center;">SURVEY HUNT</div>
+
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
                     </div> -->
@@ -57,24 +57,77 @@
 
             <br/>
 
+            <div class="row" id="Problem">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> EVENT DESCRIPTION</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
 
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo" >
+                                      “Exploration is curiosity put into action.”
+
+Survey Hunt aims to hit exactly at inquisitiveness of participants allowing them to recall their
+common observances of the places around them and effectively guess the clues offered to them.
+                                    </div>
+                                </div>
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+                <div class="row" id="storyline">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> TEAM SPECIFICATIONS: </h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                      A Team may consist of maximum 4 members and no minimum limit.
+
+                                    </div>
+                                </div>
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <br />
             <div class="row" id="rules">
 
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 1</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> ROUND 1: EXPLORE THE RIDDLES</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo"">
-                                        <p>Participants will be provided with some riddles indicating hints about different
 
-locations in the college. They have to identify the correct locations and accordingly top teams
-will be qualified to next round.
-                                                   
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                      <li>This will be an elimination round.</li>
+<li>In this round clues and riddles (paheli) will be provided to the teams.</li>
+<li>Clues will be related to the structure, color, size, shape or any other relevant
+description of buildings present in the campus.</li>
+<li>Participants solving all the clues within the time constraint will qualify for next round.</li>
+                                        <div class="row">
+                                            <div class="col-md-12 col-lg-12 col-sm-12">
+                                                <center>
+                                                    <!-- <img src="../../../images/events/SURVEY HUNT2.png" class="eventImage"> -->
+                                                </center>
+                                            </div>
+                                        </div>
 
                                     </div>
                                 </div>
@@ -84,48 +137,92 @@ will be qualified to next round.
                     </div>
                 </div>
             </div>
-            
+
             <div class="row" id="testingofbridge">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> ROUND 2: QUIZ ‘O’ MANIA</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        <p>Qualified teams will be provided with a bowl containing chits. Chits will contain
-simple topics related to <b>textile technology</b>. A leader from the team will have to think on the
-topic for 2 minutes and has to speak for 1 minute.</p>
-                                        <p><b><u>Rules</u></b></p>
+                                      <li>This round will be like an audio-visual round.</li>
+                                    <li>In this event the participants will be shown certain images and they have to guess
+                                      about it.</li>
+                                    <li>Mild technical questions related to general awareness in field of civil engineering
+                                      might be included in the AV round.</li>
+                                    <li>Team with maximum score shall win the event.</li>
+                                    <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+                                     href="https://drive.google.com/file/d/1amUMLJWKKqEuHeo3hV0S4IX_c8mOZc_b/view?usp=sharing">Click here</a> to view rule book.
 
-                                    <li>All teams must have at least 3 members and not more than 5.</li>
-                                    <li>Each team will be given clues about locations all around the campus. All members of
-particular team must stay together at location to complete the task.
-                                    </li>
-                                    <li>The team will be disqualified if found interfering with other teams or their members in any
-way.</li>
-                                    <p><b><u>Judgement Criteria</u></b></p>
-
-                                    <li>Teams completing task given in first round in given time will qualify for second round.</li>
-                                    <li>Teams providing most accurate and precise explanation for given topic in provided time will
-win the event.</li>
                                     </div>
                                 </div>
-                                <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
-                                    <a style="color:white; text-decoration:underline;"
- href="https://drive.google.com/open?id=1vMi7wxJShWsScLkBo-ZkO_MGyr6uQ6fL">Click here</a> to view rule book.
                             </section>
 
                         </div>
                     </div>
                 </div>
             </div>
-            
-           
-           <div class="row" id="judgingandscoring">
+
+          <!-- <div class="row" id="judgingandscoring">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Judging And Scoring</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+                                <div class="icon pull-left">
+
+                                </div>
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                <li>First the structure will be reviewed to check if it violates any rules mentioned above.</li>
+                                <li>The bridge will be scored on how well the material has been used to support the load.</li>
+                                <li>The efficiency will be calculated as the ratio of ultimate load capacity and the bridge weight.</li>
+                                <li>The deflection of the bridge at the yielding will be noted. If the deflection increases more than 10 mm ,then the load at the deflection will be taken as ultimate load.</li>
+                                <li>Violating any of the conditions mentioned above ,penalty will be imposed or may lead to disqualification.</li>
+                                <li>Weight exceeds the limit - Penalty of 20% of total score</li>
+                                <li>Dimensional specifications are not met - Penalty of 10% of total score</li>
+                                <li>Use of materials ,except the one stated in rules penalty of 50% of total score or can lead to disqualification</li>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+            <!-- <div class="row" id="writtentest">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i>Written Test</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                      <li>Any one member of the team has to appear for the written test succeded by the testing of the structure</li>
+                                      <li>The written test comprises of the questions on the basic Engineering Mechanics.</li>
+                                      <li>The total score of the team is calculated from the testing of the structure and the marks scored in the written test.</li>
+                                      <li>Written test is mandatory for all the teams participating in the event, if a team misses the written test, it may lead to direct disqualification.</li>
+                                      <li>Participants should carry the stationary material such as pen, pencil, etc.</li>
+
+                             </div>
+                                </div>
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+            <div class="row" id="prizemoney">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
@@ -134,12 +231,12 @@ win the event.</li>
                         <div class="panel-body">
                             <section class="feed-item">
                                 <div class="icon pull-left">
-                                   
+
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                
-                                    </div>
+
+                                        </div>
                                 </div>
                             </section>
                         </div>
@@ -149,12 +246,12 @@ win the event.</li>
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" href="../team_register.php?id=38" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=35" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
-           
 
-        
+
+
             <div class="row" id="contact">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -163,29 +260,36 @@ win the event.</li>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <center>
                                             <div class="container">
                                                 <div class="row">
-                                                    <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Maninder Singh
+                                                          Manveer Singh
                                                         </div>
                                                         <div class="Number">
-                                                            +91-8284937062
+                                                            +91-9872100797
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Mani Ratnam
+                                                            Ramandeep Kaur
                                                         </div>
                                                         <div class="Number">
-                                                            +91-9568903956
+                                                            +91-7710574136
                                                         </div>
                                                     </div>
-                                                    
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Sukhrippen Singh
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-7087359104
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </center>
@@ -196,10 +300,10 @@ win the event.</li>
                     </div>
                 </div>
             </div>
-        
+
         </div>
-        
-                                    
+
+
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog" style="width: 90%;max-width: 90%;">
             <!-- Modal content-->
@@ -231,7 +335,7 @@ win the event.</li>
                                 <div class="col-md-12">
                                     <center>
                                         <input type="text" name="teamName"  placeholder="Team Name" style="color: white;font-size: 17px;max-width: 40%;" id="inputValidationEx" class="form-control validate" required="true" />
-                                        <input type="text" name="eventName" value="CREPIDO" hidden />
+                                        <input type="text" name="eventName" value="SURVEY HUNT" hidden />
                                     </center>
                                 </div>
                             </div>
@@ -242,7 +346,7 @@ win the event.</li>
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -309,7 +413,7 @@ win the event.</li>
                                 <div>You can have team of 4 or less.</div>
                             </center>
                             <br />
-                            
+
 
                             <div class="row">
                                 <div class="col-md-12">
@@ -393,7 +497,7 @@ win the event.</li>
     <script type="text/javascript">
         if (typeof(Storage) !== "undefined")
         {
-            sessionStorage.setItem("path", "events/construction_and_design/crepido.html");
+            sessionStorage.setItem("path", "events/construction_and_design/SURVEY HUNT.html");
             sessionStorage.setItem("formPath","../../../form.html");
         }
     </script>
@@ -404,5 +508,5 @@ win the event.</li>
     <script src="../../events.js"></script>
 </body>
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/crepido.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/SURVEY HUNT.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
 </html>
