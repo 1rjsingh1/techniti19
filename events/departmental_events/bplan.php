@@ -26,36 +26,20 @@
 
                         </head>
                         <body>
-                          <?php include('../../navbar2.php'); ?>
+
                             <div id="wrapper">
-                                  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background: black;">
-                                    <div class="navbar-header">
-                                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                                            <span class="sr-only">Toggle navigation</span>
-                                            <span class="icon-bar"></span>
-                                            <span class="icon-bar"></span>
-                                            <span class="icon-bar"></span>
-                                        </button>
-                                        <a class="navbar-brand" href="../../index.html"> techNITi'19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-                                    </div>
-                                    <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
-                                        <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
+                              <?php include('../../navbar2.php'); ?>
+                              <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
+                                    <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
 
                                             <li><a href="#EventDescription"><i class="fa fa-globe"></i> Event Description:</a></li>
                                             <li><a href="#EventHead"><i class="fa fa-gamepad"></i>Event Head:</a></li>
 
-                                        </ul>
-                                        <ul class="nav navbar-nav navbar-left navbar-user">
+                                          </ul>
 
-                                            <li class="dropdown user-dropdown">
-                                                <a href="../../index1.php" >Home</a>
-                                            </li>
-                                            <li class="dropdown user-dropdown">
-                                                <a href="../category.html" >Events</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </nav>
+                                      </div>
+                                  </nav>
+
 
                                 <div id="page-wrapper">
                                    <div class="row">
