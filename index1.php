@@ -984,7 +984,7 @@ unset($_SESSION['suck']);
         <!--<a href="#" class="navLink"><i class="icon-help"></i> Social Initiatives</a>-->
         <a href="#" class="navLink"><i class="icon-document"></i> Gallery</a>
         <a href="team.php" class="navLink"><i class="icon-users"></i> Core Team</a>
-        <!-- <a href="#" class="navLink"><i class="icon-users"></i> Developers</a> -->
+        <a href="developers.html" class="navLink"><i class="icon-users"></i> Developers</a>
         <a href="#" class="navLink"><i class="icon-help"></i> Contact Us</a>
 
         <div class="dropup">

@@ -61,6 +61,9 @@
                         <li class="dropdown user-dropdown active">
                             <a href="#" >Core Team</a>
                         </li>
+                        <li class="dropdown user-dropdown">
+                            <a href="developers.html" >Developers</a>
+                        </li>
 
                         <li class="dropdown user-dropdown">
                             <a href="#" >Contact</a>
