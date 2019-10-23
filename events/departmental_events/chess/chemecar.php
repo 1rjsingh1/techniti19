@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/CHEM-E-TRIX.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/CHEM-E-CAR.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>techNITi19 EVENT -  CHEM-E-TRIX</title>
+    <title>techNITi19 EVENT -  CHEM-E-CAR</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -35,9 +35,9 @@
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> DETAILS</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>GENERAL RULES</a></li>
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#prizemoney"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/file/d/17GyrQoExHG-JYDFV7_3S8MfKtVMWRfZI/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/file/d/1iBTREKqDxUHaeiw-UfKNNdjhQHI1eTcD/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
 
@@ -47,7 +47,7 @@
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">CHEM-E-TRIX</div>
+                    <div class="eventHeading" style="text-align: center;">CHEM-E-CAR</div>
 
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -68,13 +68,12 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                      This event is designed in two steps:
+                                      To provide Chemical engineering students with the opportunity to participate in a team- oriented- hands on design and construction of a small chemical powered model car.
 
-<li>Pen paper test will be qualifying round having simple questions related to general Physics, Chemistry & Mathematics.</li>
+To design and construct a car that is powered by chemical reaction, cover a certain distance and then stop.
 
-<li>In Second round there is Treasure hunt.</li>
+Evaluation will be based on distance covered by car, safety measures provided and design of car.
 
-Puzzles will be given to reach at particular location & puzzles will be based on chemical Engineering and Logical thinking.
 
                                     </div>
                                 </div>
@@ -95,9 +94,10 @@ Puzzles will be given to reach at particular location & puzzles will be based on
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                      A team may contain maximum of 3 members, no minimum limit.
+                                      A team may contain maximum of 3 members, no minimum limit
 
-<li>One Girl participant is mandatory.</li>
+  (A team may consist of members from different colleges too).
+
 
 
                                     </div>
@@ -122,36 +122,25 @@ Puzzles will be given to reach at particular location & puzzles will be based on
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
-                                      Round 1:
+                                    <div class="text eventInfo">
+                                      <li>Only source of energy for propulsion of the car is a chemical reaction.</li>
+<li>No obnoxious odor discharge is allowed.</li>
 
-<li>30 minutes will be given for pen & paper test.</li>
+<li>No commercial batteries are allowed as power source.</li>
+<li>Stopping mechanism has to be controlled by a chemical reaction.</li>
 
-<li>Questions will be based on PHYSICS, CHEMISTRY &
+<li>No Brakes, mechanical or electronic timing devices are allowed.</li>
+<li>Cars not meeting the requirements will be directly disqualified.</li>
 
-MATHEMATICS.</li>
+<li>	One detailed document of reaction, materials used, amount of components and size specifications of car has to be submitted at the time of event.</li>
 
-<li>Teams qualifying round 1 will move further for round 2.</li>
-
-Round 2:
-
-
-<li>This round is a Treasure hunt round.</li>
-
-<li>Puzzles will be given to solve to reach the required location.</li>
-
-<li>Puzzles will be based on Chemical Engineering & Logical thinking.</li>
-
-<li>Team reached to location at first will be the winner.</li>
-
-<li>Further details will be given at a time.</li>
 
 
 
                                         <div class="row">
                                             <div class="col-md-12 col-lg-12 col-sm-12">
                                                 <center>
-                                                    <!-- <img src="../../../images/events/CHEM-E-TRIX2.png" class="eventImage"> -->
+                                                    <!-- <img src="../../../images/events/CHEM-E-CAR2.png" class="eventImage"> -->
                                                 </center>
                                             </div>
                                         </div>
@@ -176,10 +165,20 @@ Round 2:
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                      <li>No Registration fee.</li>
+
+
+<li>Only one team member is allowed to handle the car. No other team member is allowed to enter the arena.</li>
+
+<li>Any kind of damage done to the arena by the car will lead to its disqualification.</li>
+
+<li>In case of any discrepencies, the decision of the judges will be ultimate and any furthur arguements will not be entertained.</li>
 
 <li>The organizers reserve the right to change any or all the rules as they deem fit. In case a change is made it will be notified to the registered team through mail.</li>
 
+
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+<a style="color:white; text-decoration:underline;"
+href="https://drive.google.com/file/d/1iBTREKqDxUHaeiw-UfKNNdjhQHI1eTcD/view?usp=sharing">Click here</a> to view rule book.
 
                                     </div>
                                 </div>
@@ -252,12 +251,10 @@ Round 2:
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
 
-                                </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-
+Prize Money worth Rs 2200/-
                                         </div>
                                 </div>
                             </section>
@@ -268,7 +265,7 @@ Round 2:
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=49" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 
@@ -290,10 +287,10 @@ Round 2:
                                                 <div class="row">
                                                     <div class="col-md-12 col-lg-12 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                      Ravi Meena
+                                                    VISHALI
                                                         </div>
                                                         <div class="Number">
-                                                            +91-9413589373
+                                                            +91-9041069079
                                                         </div>
                                                     </div>
 
@@ -343,7 +340,7 @@ Round 2:
                                 <div class="col-md-12">
                                     <center>
                                         <input type="text" name="teamName"  placeholder="Team Name" style="color: white;font-size: 17px;max-width: 40%;" id="inputValidationEx" class="form-control validate" required="true" />
-                                        <input type="text" name="eventName" value="CHEM-E-TRIX" hidden />
+                                        <input type="text" name="eventName" value="CHEM-E-CAR" hidden />
                                     </center>
                                 </div>
                             </div>
@@ -505,7 +502,7 @@ Round 2:
     <script type="text/javascript">
         if (typeof(Storage) !== "undefined")
         {
-            sessionStorage.setItem("path", "events/construction_and_design/CHEM-E-TRIX.html");
+            sessionStorage.setItem("path", "events/construction_and_design/CHEM-E-CAR.html");
             sessionStorage.setItem("formPath","../../../form.html");
         }
     </script>
@@ -516,5 +513,5 @@ Round 2:
     <script src="../../events.js"></script>
 </body>
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/CHEM-E-TRIX.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/CHEM-E-CAR.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
 </html>

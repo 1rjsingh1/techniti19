@@ -19,9 +19,10 @@ if(isset($_POST['final5']))
 
     $q1="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['leaderid']."\")";
     $r1t=mysqli_query($con,$q1);
-
+if($_POST['m1email']!=""){
     $q2="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m1email']."\")";
     $r2t=mysqli_query($con,$q2);
+  }
 if($_POST['m2email']!=""){
     $q3="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m2email']."\")";
     $r3t=mysqli_query($con,$q3);
@@ -47,7 +48,7 @@ if($_POST['m7email']!=""){
     $r8t=mysqli_query($con,$q8);
 }
 
-        if ($r2t) {
+        if ($r1t) {
           $_SESSION['suck']=1;
 
           header("Location:../../index1.php");

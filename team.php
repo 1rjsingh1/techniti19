@@ -339,7 +339,7 @@
                     </td>
                     <td >
                         <div class="clientName">
-                            <h6>Rupinderjeet, ECE</h6>
+                            <h6>Rupinderjeet, ECE <br><br>Parteek Goyal, ECE </h6>
                         </div>
                     </td>
                     <tr>
