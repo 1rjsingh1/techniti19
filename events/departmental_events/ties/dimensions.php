@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Endurance</title>
+    <title>Dimensions</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -48,7 +48,7 @@
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">Endurance</div>
+                    <div class="eventHeading" style="text-align: center;">Dimensions</div>
 
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -232,7 +232,7 @@ There will be a race among the teams after removing the battery connection (usin
                                  </div>
                                  <div class="feed-item-body">
                                      <div class="text eventInfo">
-Prizes worth Rs. 2200
+
                                      </div>
                                  </div>
                              </section>

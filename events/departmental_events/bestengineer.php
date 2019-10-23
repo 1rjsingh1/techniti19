@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>techNITi19 EVENT -  BEST ENGINEER </title>
+    <title>BEST ENGINEER </title>
     <link rel="icon" type="image/ico" href="../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -155,7 +155,7 @@
                                  </div>
                                  <div class="feed-item-body">
                                      <div class="text eventInfo">
-
+Prizes worth Rs. 2200
                                      </div>
                                  </div>
                              </section>
