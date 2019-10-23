@@ -125,6 +125,23 @@
 
 <p style="font-size: 20px;">"You don't take a photograph; you make it". <br>The Photography Club fosters and encourages growth of artistic vision and technical knowledge, exploring the connection between the eye, the camera, and the spirit. For more information&#44;<a href="https://www.instagram.com/nitj_photography_club/"> click here</a></p>
 
+<div class="preview-info__content">
+        <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
+        <ul class="preview-info__team">
+                            <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Dilip Kumar</span><br>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-8872382503</span>
+                </li>
+
+                <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Jalam Rathore</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-9079775726</span>
+                </li>
+            
+
+        </ul>
+        
+    </div>
     </div>
 
 </div>

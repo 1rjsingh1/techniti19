@@ -123,7 +123,23 @@
 
 
 <p style="font-size: 20px;">Welcome to the world of gaming.
+<div class="preview-info__content">
+        <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
+        <ul class="preview-info__team">
+                            <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Vinay Yadav</span><br>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-9983336345</span>
+                </li>
 
+                <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Arpit Gupta</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-9571538393</span>
+                </li>
+            
+
+        </ul>
+        
+    </div>
     </div>
 
 </div>

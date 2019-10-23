@@ -125,7 +125,23 @@
 
 
 <p style="font-size: 20px;">This is the society of Mechanical Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
+<div class="preview-info__content">
+        <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
+        <ul class="preview-info__team">
+                            <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Vishal Bansal</span><br>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-9815245121</span>
+                </li>
 
+                <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Saurav Loach</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-7696405626</span>
+                </li>
+            
+
+        </ul>
+        
+    </div>
     </div>
 
 </div>
