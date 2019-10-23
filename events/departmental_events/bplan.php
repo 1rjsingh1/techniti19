@@ -32,8 +32,15 @@
                               <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                                     <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
 
-                                            <li><a href="#EventDescription"><i class="fa fa-globe"></i> Event Description:</a></li>
-                                            <li><a href="#EventHead"><i class="fa fa-gamepad"></i>Event Head:</a></li>
+                                      <li><a href="#EventDescription"><i class="fa fa-globe"></i> EVENT DESCRIPTION</a></li>
+                                      <li><a href="#rules"><i class="fa fa-gamepad"></i>Round 1:</a></li>
+                                      <li><a href="#testingofbridge"><i class="fa fa-list-ol"></i> ROUND 2</a></li>
+                                      <li><a href="#r3"><i class="fa fa-universal-access"></i>ROUND 3</a></li>
+                                      <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
+                                      <li><a href="#prizemoney"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+
+                                      <li><a href="https://drive.google.com/open?id=10nQK_UGGIHzOXS2TNc78ocPRdQc0CYNV" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                                      <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
 
                                           </ul>
 
@@ -65,36 +72,13 @@
 
                                                         <div class="feed-item-body">
                                                             <div class="text eventInfo" >
-                                                                    Vision :To create awareness about startup ecosystem and providing stage to leaders so they can nurture their
-                                                                    startup<br>
-                                                                    Targeted audience : open to all<br>
-                                                                    <b>Round 1:</b>
-                                                                    Student have to chose any problem statement and send us solution of problem statement
-                                                                    (Screening round)
-                                                                    <b>Round 2:</b>
-                                                                    Workshop on How to create B-Plan
-                                                                    Topics we're covering
-                                                                    <li>The problem in the market you are looking to address.</li>
-                                                                    <li>The solution you are providing.</li>
-                                                                    <li>Traction and what you have achieved till now.</li>
-                                                                    <li> Market opportunity.</li>
-                                                                    <li> Competitive landscape and how you have an edge.</li>
-                                                                    <li> Revenue streams.</li>
-                                                                    <li> Your team, information about founders including their experience, commitment level, the salary they are
-                                                                    drawing (even if 0) and investment they have made in the company so far.</li>
-                                                                    <li> Funds you are looking to raise and how they will be utilised</li>
-                                                                    Student will send their B-Plan and we'll evaluate B-Plan on various parameters
-                                                                    <li> Problem statement</li>
-                                                                    <li> How innovative is solution</li>
-                                                                    <li> Technology they are using</li>
-                                                                    <li> Strength of Founding team</li>
-                                                                    <li>Fund raised till date</li>
+                                                                    To create awareness about startup ecosystem and providing stage to leaders so they can nurture their
+                                                                    startup.<br>
+                                                                    Targeted audience : open to all.<br>
+                                                                    Team can consist of 2-5 members.
 
-                                                                    <b>Round 3:</b>
-                                                                    Shortlisted student will pitch their idea on event date in front of investor's and delegates.
-                                                                    <li>Best startup award</li>
-                                                                    <li> Best innovative startup award</li>
-                                                                   <li> Best NITJ startup award</li>
+
+
                                                             </div>
                                                         </div>
                                                     </section>
@@ -104,12 +88,132 @@
                                         </div>
                                     </div>
 
+                                    <div class="row" id="rules">
 
+                                        <div class="col-md-12">
+                                            <div class="panel panel-primary" style="border: black">
+                                                <div class="panel-heading" style="background: black;">
+                                                    <h3 class="panel-title"><i class="fa fa-rss"></i> ROUND 1</h3>
+                                                </div>
+                                                <div class="panel-body">
+                                                    <section class="feed-item">
 
+                                                        <div class="feed-item-body">
+                                                            <div class="text eventInfo">
+                                                              <li>This will be a screening round.</li>
+                                  <li>Student have to chose any problem statement and send us solution of problem statement.
+                                  </li>
+                                                                <div class="row">
+                                                                    <div class="col-md-12 col-lg-12 col-sm-12">
+                                                                        <center>
+                                                                            <!-- <img src="../../../images/events/SURVEY HUNT2.png" class="eventImage"> -->
+                                                                        </center>
+                                                                    </div>
+                                                                </div>
 
+                                                            </div>
+                                                        </div>
+                                                    </section>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row" id="testingofbridge">
+                                     <div class="col-md-12">
+                                            <div class="panel panel-primary" style="border: black" >
+                                                <div class="panel-heading" style="background: black;">
+                                                    <h3 class="panel-title"><i class="fa fa-rss"></i> ROUND 2</h3>
+                                                </div>
+                                                <div class="panel-body">
+                                                    <section class="feed-item">
+
+                                                        <div class="feed-item-body">
+                                                            <div class="text eventInfo">
+                                                              Workshop on How to create B-Plan
+                                                              Topics we're covering
+                                                              <li>The problem in the market you are looking to address.</li>
+                                                              <li>The solution you are providing.</li>
+                                                              <li>Traction and what you have achieved till now.</li>
+                                                              <li> Market opportunity.</li>
+                                                              <li> Competitive landscape and how you have an edge.</li>
+                                                              <li> Revenue streams.</li>
+                                                              <li> Your team, information about founders including their experience, commitment level, the salary they are
+                                                              drawing (even if 0) and investment they have made in the company so far.</li>
+                                                              <li> Funds you are looking to raise and how they will be utilised</li>
+                                                              Student will send their B-Plan and we'll evaluate B-Plan on various parameters
+                                                              <li> Problem statement</li>
+                                                              <li> How innovative is solution</li>
+                                                              <li> Technology they are using</li>
+                                                              <li> Strength of Founding team</li>
+                                                              <li>Fund raised till date</li>
+                                                            </div>
+                                                        </div>
+                                                    </section>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="row" id="r3">
+
+                                        <div class="col-md-12">
+                                            <div class="panel panel-primary" style="border: black">
+                                                <div class="panel-heading" style="background: black;">
+                                                    <h3 class="panel-title"><i class="fa fa-rss"></i> ROUND 3</h3>
+                                                </div>
+                                                <div class="panel-body">
+                                                    <section class="feed-item">
+
+                                                        <div class="feed-item-body">
+                                                            <div class="text eventInfo">
+                                                              Shortlisted student will pitch their idea on event date in front of investor's and delegates.
+                                                              <li>Best startup award</li>
+                                                              <li> Best innovative startup award</li>
+                                                             <li> Best NITJ startup award</li>
+                                                             <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3> <a style="color:white; text-decoration:underline;" href="https://drive.google.com/open?id=10nQK_UGGIHzOXS2TNc78ocPRdQc0CYNV">Click here</a> to view rule book.
+                                                                <div class="row">
+                                                                    <div class="col-md-12 col-lg-12 col-sm-12">
+                                                                        <center>
+                                                                            <!-- <img src="../../../images/events/SURVEY HUNT2.png" class="eventImage"> -->
+                                                                        </center>
+                                                                    </div>
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </section>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="row" id="prizemoney">
+                                        <div class="col-md-12">
+                                            <div class="panel panel-primary" style="border: black" >
+                                                <div class="panel-heading" style="background: black;">
+                                                    <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
+                                                </div>
+                                                <div class="panel-body">
+                                                    <section class="feed-item">
+                                                        <div class="icon pull-left">
+
+                                                        </div>
+                                                        <div class="feed-item-body">
+                                                            <div class="text eventInfo">
+
+                                                                </div>
+                                                        </div>
+                                                    </section>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
 
                                     <div id="RegisterContainer">
-                                        <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+                                        <a class="semi-transparent-button" href="team_register.php?id=20" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
                                       </div>
 
                                       <div class="row" id="EventHead">
