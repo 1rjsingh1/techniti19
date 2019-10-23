@@ -35,6 +35,7 @@
                     <li><a href="#EventLevel"><i class="fa fa-gamepad"></i>Event Level:</a></li>
                     <li><a href="#Rules"><i class="fa fa-list-ol"></i> Rules:</a></li>
                     <li><a href="#EventCoordinators"><i class="fa fa-universal-access"></i>Event Coordinators</a></li>
+                    <li><a href="#prize"><i class="fa fa-universal-access"></i>Prize Money</a></li>
                 </ul>
 
             </div>
@@ -118,12 +119,19 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                             Participating students should be of same college.<br><br>
                                             Well framed and valid problem statement is accepted and the problem must be taken from college.<br><br>
                                             Individual Participation for level 1 and then a team of 2 members to be formed.<br><br>
                                             The formation of problem statements and approach to taken to solve it carries much weightage.<br><br>
 
+
+<br>
+<br>
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=1yGiXNghYHvzBNirA6306YvdXsSrkC8I1">Click here</a> to view rule book.
+                            
                                     </div>
                                 </div>
                             </section>
@@ -132,6 +140,29 @@
                     </div>
                 </div>
             </div>
+
+
+            <div class="row" id="prize">
+                 <div class="col-md-12">
+                     <div class="panel panel-primary" style="border: black" >
+                         <div class="panel-heading" style="background: black;">
+                             <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
+                         </div>
+                         <div class="panel-body">
+                             <section class="feed-item">
+                                 <div class="icon pull-left">
+
+                                 </div>
+                                 <div class="feed-item-body">
+                                     <div class="text eventInfo">
+
+                                     </div>
+                                 </div>
+                             </section>
+                         </div>
+                     </div>
+                 </div>
+             </div>
 
 
 
