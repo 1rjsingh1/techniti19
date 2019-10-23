@@ -34,12 +34,12 @@
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Game Play</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Details of Individual Rounds</a></li>
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Worth</a></li>
 
                     <li><a href="https://drive.google.com/file/d/1vntKTAH4zBFVB10jF14GoteR2bB9BNoj/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -136,7 +136,7 @@ systems capable of fighting a one on one tournament.
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                       <li>Match duration and type:</li>
 
                                       Matches will consist of 2 or 3 minutes of active fight inclusive of 30 second time-
@@ -293,16 +293,14 @@ time of the event.
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Worth</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
 
-                                </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-
+Prizes worth Rs. 70,000/-
                                         </div>
                                 </div>
                             </section>
@@ -313,7 +311,7 @@ time of the event.
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" href="../team_register.php?id=25" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="https://docs.google.com/forms/d/e/1FAIpQLSf1Of5b5XX2M_kSBgeXe6L4qGwxZ-nqgZqEAp44d7fHWAqJeQ/viewform" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 

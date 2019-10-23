@@ -227,12 +227,10 @@ through mail.</li>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
 
-                                </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-
+Prize money Rs. 12,000/-
                                     </div>
                                 </div>
                             </section>
@@ -243,7 +241,7 @@ through mail.</li>
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" href="../team_register.php?id=27" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="https://docs.google.com/forms/d/e/1FAIpQLSf1Of5b5XX2M_kSBgeXe6L4qGwxZ-nqgZqEAp44d7fHWAqJeQ/viewform" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 

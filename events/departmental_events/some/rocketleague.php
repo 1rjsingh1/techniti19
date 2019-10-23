@@ -14,11 +14,11 @@
     <link href="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-    
+
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../../local.css" />
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -30,17 +30,17 @@
           <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-                   
+
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Team Specification</a></li>
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
-                    
+
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
- 
+
                     <li><a href="https://drive.google.com/open?id=1tLPkMVwcavOIblxVa26cA6MOuNotSwCD" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -48,7 +48,7 @@
            <div class="row">
                 <div class="col-md-12">
                     <div class="eventHeading" style="text-align: center;">ROCKET LEAGUE</div>
-                    
+
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
                     </div> -->
@@ -56,7 +56,7 @@
             </div>
 
             <br/>
-           
+
             <div class="row" id="Problem">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -65,7 +65,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
                                        What is pride? A Rocket that emulates the stars. The science behind has been
@@ -90,7 +90,7 @@ water rocket. It will be a type of model rocket using water as its reaction mass
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                     A team may contain maximum of 4 members, no minimum limit
@@ -104,7 +104,7 @@ water rocket. It will be a type of model rocket using water as its reaction mass
                     </div>
                 </div>
             </div>
-            
+
 
             <br />
             <div class="row" id="rules">
@@ -116,7 +116,7 @@ water rocket. It will be a type of model rocket using water as its reaction mass
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
                                        <p><b><u> Technical Inspection</u></b> (T.I.)
@@ -124,14 +124,14 @@ water rocket. It will be a type of model rocket using water as its reaction mass
 
 
 
-                                        
-• 
+
+•
 
 
                                        <li> A team may contain maximum of 4 members, no minimum limit
 (A team may consist of members from different colleges too).</li>
-                                       
-                                        
+
+
                                         <p><b><u>General Guidelines</u></b></p>
                                         <li>You have to construct a water propelled rocket which is to be
 pressurized with air.</li>
@@ -168,7 +168,7 @@ innovation, design of the rocket.</li>
 <li>Water rockets can have multiple stages.</li>
 <li>Parachutes or any other gliding mechanisms are not permitted.</li>
 
-                    
+
 <p><b><u>Gameplay</u></b></p>
                                         <li>After the technical inspection, there will be a single round where the
 winners will be decided on the cumulative basis of.
@@ -178,7 +178,7 @@ travelled in the given time of flight, the better)</li>
 <li>Design & Innovation (Subjective)</li></li>
 
 <li>The point where the rocket hits the ground first will be taken as the
-point of landing and measurements will be taken considering this point.</li>                                   
+point of landing and measurements will be taken considering this point.</li>
 
                                     </div>
                                 </div>
@@ -188,10 +188,10 @@ point of landing and measurements will be taken considering this point.</li>
                     </div>
                 </div>
             </div>
-            
-          
-            
-           
+
+
+
+
            <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -200,12 +200,10 @@ point of landing and measurements will be taken considering this point.</li>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
-                                   
-                                </div>
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                
+Prize money Rs. 4500/-
                                     </div>
                                 </div>
                             </section>
@@ -216,12 +214,12 @@ point of landing and measurements will be taken considering this point.</li>
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" href="../team_register.php?id=28" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="https://docs.google.com/forms/d/e/1FAIpQLSf1Of5b5XX2M_kSBgeXe6L4qGwxZ-nqgZqEAp44d7fHWAqJeQ/viewform" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
-           
 
-        
+
+
             <div class="row" id="contact">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -230,7 +228,7 @@ point of landing and measurements will be taken considering this point.</li>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <center>
@@ -270,10 +268,10 @@ point of landing and measurements will be taken considering this point.</li>
                     </div>
                 </div>
             </div>
-        
+
         </div>
-        
-                                    
+
+
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog" style="width: 90%;max-width: 90%;">
             <!-- Modal content-->
@@ -316,7 +314,7 @@ point of landing and measurements will be taken considering this point.</li>
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -383,7 +381,7 @@ point of landing and measurements will be taken considering this point.</li>
                                 <div>You can have team of 4 or less.</div>
                             </center>
                             <br />
-                            
+
 
                             <div class="row">
                                 <div class="col-md-12">
