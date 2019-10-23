@@ -30,10 +30,7 @@
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
 
                     <li><a href="#event"><i class="fa fa-globe"></i> Event description</a></li>
-                        <!-- <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
-                        <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li> -->
-                    <!-- <li><a href="#generalrules"><i class="fa fa-universal-access"></i>General Rules</a></li>
-                    <li><a href="#team"><i class="fa fa-gamepad"></i>Team Specification</a></li> -->
+                       
                     <li><a href="#judge"><i class="fa fa-gamepad">Judgement Criteria </i>
 
                     <li><a href="#prize"><i class=" fa fa-clock-o"></i> Prize Money</a></li>

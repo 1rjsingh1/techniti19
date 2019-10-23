@@ -31,8 +31,7 @@
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
 
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
-                    <!-- <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li> -->
+                    
                     <li><a href="#generalrules"><i class="fa fa-universal-access"></i>General Rules</a></li>
                     <li><a href="#team"><i class="fa fa-gamepad"></i>Team Specification</a></li>
                     <li><a href="#judge"><i class="fa fa-gamepad">Judgement Criteria </i>
@@ -182,31 +181,7 @@
                     </div>
 
 
-           <div class="row" id="generalrules">
-             <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> General Rules</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                        <li>The B-Plan must be related to Biotech, either directly or have potential uses in Biotechnology filed (which are to be made clear in the presentation). </li>
-                                        <li>The presentation must include points such as raw materials required, equipements, possible future prospects, scalability and viability, both concept-wise and economy-wise.</li>
-                                        <li>Ruling of judges will be binding and final. </li>
-                                        <li>Time limit- 15 minutes
- </li>
-                                    </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
+        
 
            <div class="row" id="prize">
                 <div class="col-md-12">
