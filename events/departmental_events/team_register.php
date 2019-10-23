@@ -127,6 +127,7 @@ input[type=submit]:hover {
   width: auto;
   position: relative;
 }
+
 .fname{
     color: black;
     font-size: 15px;
@@ -143,7 +144,7 @@ input[type=submit]:hover {
     <label class="fname">Team Name *</label>
     <input type="text" id="teamname" name="teamname" placeholder="Team Name">
 
-    <label class="fname">Team Leader's Name *</label>
+    <label class="fname" >Team Leader's Name *</label>
     <input type="text" id="leadername" name="leadername" required  placeholder="Team Leader's Name">
 
     <label class="fname">Team Leader's Email ID *</label>
