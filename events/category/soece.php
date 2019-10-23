@@ -114,7 +114,7 @@
             Society Of Electronics and Communication Engineers</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -124,10 +124,10 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">This is the society of Electronics and Communication Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.&#44;</p>
 
     </div>
-    
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
@@ -146,7 +146,7 @@
       In the third round circuit analyzing and synthesis ability of participants would be tested.</p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/soece/mindthemind.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -175,7 +175,7 @@ The first round will test the visual interpretation. The second round is- creati
 
 In final round, a circuit will be given and team has to kill the bugs in circuit first and have to implement that circuit.
 </p>
- 
+
 <form method="get" action="../departmental_events/soece/ewaste.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -188,7 +188,7 @@ In final round, a circuit will be given and team has to kill the bugs in circuit
                         <div class="comment__underline"></div>
 
         </div>
-                
+
                 <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Circuit Hunt</b>
             <p class="comment__date"></p>
@@ -198,7 +198,7 @@ In final round, a circuit will be given and team has to kill the bugs in circuit
                                             <p>These two rounds are to be organized online, where top 16 teams
                                             from first round move to second round.
 </p>
- 
+
 <form method="get" action="../departmental_events/circuithunt.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -210,7 +210,7 @@ In final round, a circuit will be given and team has to kill the bugs in circuit
 
                         <div class="comment__underline"></div>
 
-        </div>    
+        </div>
 </div>
 
 </div>
@@ -245,7 +245,7 @@ In final round, a circuit will be given and team has to kill the bugs in circuit
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>

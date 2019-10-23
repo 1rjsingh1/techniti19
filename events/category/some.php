@@ -124,7 +124,7 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">This is the society of Mechanical Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.&#44;</p>
 
     </div>
 
