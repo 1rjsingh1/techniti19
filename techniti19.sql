@@ -1,15 +1,13 @@
 -- phpMyAdmin SQL Dump
--- version 4.7.0
+-- version 4.6.5.2
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 22, 2019 at 05:17 PM
--- Server version: 10.1.25-MariaDB
--- PHP Version: 7.1.7
+-- Generation Time: Oct 23, 2019 at 10:35 PM
+-- Server version: 10.1.21-MariaDB
+-- PHP Version: 5.6.30
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
-START TRANSACTION;
 SET time_zone = "+00:00";
 
 
@@ -21,6 +19,37 @@ SET time_zone = "+00:00";
 --
 -- Database: `techniti19`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `checka`
+--
+
+CREATE TABLE `checka` (
+  `eid` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `checka`
+--
+
+INSERT INTO `checka` (`eid`) VALUES
+(37),
+(41),
+(42),
+(43),
+(6),
+(8),
+(9),
+(10),
+(12),
+(13),
+(16),
+(18),
+(17),
+(19),
+(21);
 
 -- --------------------------------------------------------
 
@@ -121,8 +150,8 @@ INSERT INTO `events` (`eid`, `ename`) VALUES
 (8, 'Nazar'),
 (9, 'Photo Manipulation'),
 (10, 'Weekend Diaries'),
-(11, 'CS 1.6 War Zone'),
-(12, 'FIFA 18'),
+(11, 'CS Go'),
+(12, 'FIFA 20'),
 (13, 'NFS MOST WANTED'),
 (14, 'Refubrish The Moment'),
 (15, 'Fix the Glitch'),
@@ -185,16 +214,31 @@ CREATE TABLE `groupe` (
 --
 
 INSERT INTO `groupe` (`eid`, `tname`, `email`) VALUES
-(52, 'Rj', 'rj@gmail.com'),
-(52, 'Rj', 'ashihs@gmail.com'),
-(52, 'Rj', 'rj@gmail.com'),
-(52, 'Rj', 'rj@gmIK.COM'),
-(29, 'as', 'fdfs@sf'),
-(29, 'as', 'ff@ff'),
-(25, 'ws', 'xdx@c'),
-(25, 'ws', 'xe@x'),
-(51, 'dc', 'vfvf@fff'),
-(51, 'dc', 'cv@c');
+(51, 'Singh', 'Rj@gmail.com'),
+(51, 'Singh', 'ashish@gmaik.com'),
+(51, 'Singh', 'ritiak@gmaik.com'),
+(51, 'Singh', 'baba@gmail.com'),
+(44, 'Singh', 'rj@gmail.com'),
+(44, 'Singh', 'ashiah@gnail.com'),
+(47, 'Rj', 'Rjs@gmail.com'),
+(47, 'Rj', ''),
+(47, 'Rj', 'Singh1@GMAIK.COM'),
+(47, 'Rj', 'Singh1@GMAIK.COM'),
+(47, 'Singh', 'Singh@gmail.com'),
+(49, 'yadav', 'yadav@gmaik.com'),
+(54, 'Rj', 'rj@123.com'),
+(54, 'Rj', 'saj@gmail.com'),
+(56, 'Singh', 'Singh@123c.om'),
+(56, 'Singh', 'Rj@gmail.com'),
+(55, 'Rj', 'Rj@123.com'),
+(55, 'Rj', 'Singh@123.com'),
+(7, 'Rj', 'Rj@ghmil.com'),
+(7, 'Rj', 'Asiha@gmaik.com'),
+(7, 'Rj', 'asd@gmaik.com'),
+(7, 'Rj', 'f@gmail.com'),
+(7, 'Rj', 'as@gmail.com'),
+(15, 'Rjk', 'jsf@gskl.com'),
+(15, 'Rjk', 'gfkjsn@bmfs.om');
 
 -- --------------------------------------------------------
 
@@ -212,10 +256,13 @@ CREATE TABLE `ind` (
 --
 
 INSERT INTO `ind` (`eid`, `userid`) VALUES
-(43, 8),
 (43, 1),
-(43, 1),
-(43, 1);
+(42, 1),
+(41, 1),
+(6, 1),
+(8, 1),
+(9, 1),
+(10, 1);
 
 -- --------------------------------------------------------
 
@@ -258,12 +305,23 @@ INSERT INTO `societies` (`sid`, `sname`) VALUES
 
 CREATE TABLE `user` (
   `userid` int(11) NOT NULL,
-  `Name` varchar(50) NOT NULL,
-  `Email` varchar(50) NOT NULL,
+  `Name` varchar(20) NOT NULL,
+  `Email` varchar(20) NOT NULL,
   `College` varchar(40) NOT NULL,
   `Phone` bigint(20) NOT NULL,
   `Password` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `user`
+--
+
+INSERT INTO `user` (`userid`, `Name`, `Email`, `College`, `Phone`, `Password`) VALUES
+(1, 'Rupinderjeet', '1rjsingh1@gmail.com', 'NITJ', 9888298877, '123'),
+(6, 'Abhishek', 'abhi@gmail.com', 'NITJ', 8489489498, '123'),
+(7, 'Ashish', 'ashish@gmail.com', 'NITJ', 8648694695, '123'),
+(8, 'Sukhdeep', 'suk@gmail.com', 'NITH', 4548948949, '132'),
+(9, 'abhi', '123@gmail.com', 'nit', 1234567890, '123');
 
 --
 -- Indexes for dumped tables
@@ -283,8 +341,7 @@ ALTER TABLE `user`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;COMMIT;
-
+  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

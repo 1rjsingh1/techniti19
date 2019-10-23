@@ -54,6 +54,7 @@ $q1="Select ename from events where eid=".$_SESSION['eid'];
 
     <tr>
       <th scope="col">Serail No</th>
+      <th scope="col">Team Name</th>
       <th scope="col">Name</th>
       <th scope="col">Email</th>
       <th scope="col">College</th>
@@ -68,7 +69,7 @@ $q1="Select ename from events where eid=".$_SESSION['eid'];
 
   <tbody>
     <?php
-      $que="Select name,email,college,phone from user,ind where user.userid=ind.userid and eid=".$_SESSION['eid'];
+      $que="Select tname,name,email,college,phone from user,groupe where user.email=groupe.email and eid=".$_SESSION['eid'];
 
       $r1t=mysqli_query($con,$que);
       $count=mysqli_num_rows($r1t);
@@ -78,6 +79,7 @@ $q1="Select ename from events where eid=".$_SESSION['eid'];
         }
         else
         {
+$fetch=mysqli_fetch_assoc($r1t);
 
           $t=0;
           while($fetch=mysqli_fetch_assoc($r1t))
@@ -85,6 +87,7 @@ $q1="Select ename from events where eid=".$_SESSION['eid'];
               $t=$t+1;
               echo "<tr>";
           echo "<td>".$t."</td>";
+            echo "<td>".$fetch['tname']."</td>";
             echo "<td>".$fetch['name']."</td>";
             echo "<td>".$fetch['email']."</td>";
             echo "<td>".$fetch['college']."</td>";

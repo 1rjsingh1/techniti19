@@ -1,0 +1,192 @@
+.ex1 {
+    width: 100%;
+    height:30%;
+    overflow: auto;
+    font-size: 0.8em;
+    color: black !important;
+}
+ul {
+    list-style-type: none;
+    line-height: 80%;
+    float:left;
+}
+.listing{
+
+      list-style-type: none;
+      line-height: 100%;
+      float:left;
+
+}
+.ex2 {
+    width: 100%;
+    height: 50%;
+    overflow: auto;
+}
+#aframe{
+  overflow: hidden;
+
+}
+
+
+.ex1 button{
+  background: #eee;
+  border: none;
+  font-size: 1.5em;
+}
+body {
+  margin-top: 80px;
+  background-repeat: no-repeat;
+  color: black !important;
+  cursor:  pointer;
+  font-family: sans-serif;
+}
+
+.wrapper {
+	margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.form-signin {
+  max-width: 380px;
+  padding: 15px 35px 45px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,0.1);
+
+  .form-signin-heading,
+	.checkbox {
+	  margin-bottom: 30px;
+	}
+
+	.checkbox {
+	  font-weight: normal;
+	}
+
+	.form-control {
+	  position: relative;
+	  font-size: 16px;
+	  height: auto;
+	  padding: 10px;
+		@include box-sizing(border-box);
+
+		&:focus {
+		  z-index: 2;
+		}
+	}
+
+	input[type="text"] {
+	  margin-bottom: -1px;
+	  border-bottom-left-radius: 0;
+	  border-bottom-right-radius: 0;
+	}
+
+	input[type="password"] {
+	  margin-bottom: 20px;
+	  border-top-left-radius: 0;
+	  border-top-right-radius: 0;
+	}
+}
+
+#alert{
+  float: right;
+  position: relative;
+  right:190px;
+  margin-bottom: 0px;
+  color:black !important;
+
+
+}
+
+#lit li:last-child{
+  display: none;
+}
+
+.media-center{
+
+margin-left: 25%;
+}
+.sidenav {
+    font-family: sans-serif;
+  cursor: auto;
+  margin-top: 60px;
+    height: 100%;
+    width: 18%;
+
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+#group{
+  padding: 6px 8px 6px 6px;
+  border: 0.00001px white solid;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 25%;
+}
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    /* text-align: center; */
+    font-size: 1.0em;
+    margin-left: 15%
+    text-align: center;
+    color: darkblue;
+    display: block;
+    font-family: sans-serif;
+}
+
+.sidenav a:hover {
+    color: darkblue;
+}
+
+.main {
+    margin-left: 18%; /* Same width as the sidebar + left position in px */
+     /* Increased text to enable scrolling */
+    padding: 0px ;
+}
+#hello{
+  text-align: center;
+
+  font: 'Oswald';
+  font-size: 1.3em;
+}
+#name :hover{
+  color:red;
+}
+#name{
+
+  text-align: center;
+
+  font: 'Oswald';
+  font-size: 1 em;
+
+}
+
+#box{
+  position: relative;
+  left: 18%;
+  width: 50%;
+  float: left;
+}
+
+.box2{
+  border-radius: 5px;
+  margin: 1% 1% 1% 18%;
+  height: 50%;
+  width: 20%;
+  float: right;
+  background-color: #eaedfe;
+
+}
+.box3{
+  border-radius: 5px;
+  margin: 1% 4% 1% 1%;
+  height: 50%;
+  width: 25%;
+  float: right;
+  background-color: #eaedfe;
+}
