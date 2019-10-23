@@ -69,7 +69,8 @@ $q1="Select ename from events where eid=".$_SESSION['eid'];
 
   <tbody>
     <?php
-      $que="Select tname,name,email,college,phone from user,groupe where user.email=groupe.email and eid=".$_SESSION['eid'];
+      $que="Select tname,name,user.email,college,phone from user,groupe where user.email=groupe.email and eid=".$_SESSION['eid'];
+     
 
       $r1t=mysqli_query($con,$que);
       $count=mysqli_num_rows($r1t);
@@ -79,7 +80,7 @@ $q1="Select ename from events where eid=".$_SESSION['eid'];
         }
         else
         {
-$fetch=mysqli_fetch_assoc($r1t);
+
 
           $t=0;
           while($fetch=mysqli_fetch_assoc($r1t))

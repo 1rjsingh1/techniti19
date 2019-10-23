@@ -34,10 +34,12 @@
       $_SESSION['dept']=$name;
       $_SESSION['eid']=$pass;
       $q1="Select * from checka where eid=".$pass;
-      $r1=mysqli_fetch_assoc($conn,$q1);
-
-      if($r1)
-    {
+    
+$r1t=mysqli_query($con,$q1);
+      $count=mysqli_num_rows($r1t);
+      if($count>0)
+        {
+    
         header("Location:data.php");
       }
 

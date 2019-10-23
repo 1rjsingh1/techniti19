@@ -144,7 +144,8 @@ input[type=submit]:hover {
   <form method="post" enctype="multipart/form-data">
     <div style="font-size: 30px; color: black; font-family: arial;"><b>Register your team</b></div>
     <br>
-    <p style="color: black; size: 25px;"><b style="color: darkred; font-size:large;">Note:</b> Enter the number of members as mentioned in event description or else the team will be disqualified.</p>
+    <b style="color: darkred; font-size: 25px;">Note:-</b><li> <b style=" font-size:large;">Enter the number of members as mentioned in event description.</b></li>
+    <li> <b style=" font-size:large;">All the members must be registered with the techniti website or else the team will be disqualified.</b></li>
     <label style="color:black;" class="fname" >Team Name</label>
     <input type="text" id="teamname" name="teamname" placeholder="Team Name">
 
