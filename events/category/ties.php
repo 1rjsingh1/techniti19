@@ -94,7 +94,6 @@
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
                     </li>
-
                     <li class="dropdown user-dropdown">
                         <a href="#" >Contact</a>
                     </li>
@@ -177,8 +176,7 @@ could keeping in mind certain penalties that are being offered in track.</p>
             <b class="comment__author" style="font-size: 30px;">Best Engineer </b>
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 17px;">
-              Problems existing in the college campus identified by the participants and a solution to the problem
-                                            given by another participant.</p>
+              Problems existing in the college campus identified by the participants and a solution to the problem given by another participant.</p>
                 <p>
 
 

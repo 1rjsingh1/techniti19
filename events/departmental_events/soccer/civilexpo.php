@@ -154,8 +154,13 @@ It is a technical event where you have a chance to showcase your abilities to pr
                                       <li>Marks will be deducted, if there is no innovation. </li>
                                         Judging criteria:<li>Innovation (30 marks)</li> <li>Presentation (50 marks)</li> <li>Model to aid presentation will fetch extra score of 25</li><li>Question/ Answer Round ( 20 marks)</li>
                                   Decision of the judges shall be final and abiding.
+
+
                                     </div>
                                 </div>
+                                <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+                                     href="https://drive.google.com/file/d/1amUMLJWKKqEuHeo3hV0S4IX_c8mOZc_b/view?usp=sharing">Click here</a> to view rule book.
                             </section>
 
                         </div>
@@ -241,7 +246,7 @@ It is a technical event where you have a chance to showcase your abilities to pr
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=36" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 
