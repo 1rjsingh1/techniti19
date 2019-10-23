@@ -52,6 +52,9 @@
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
                     </li>
+                    <li class="dropdown user-dropdown">
+                        <a href="../../developers.html" >Developers</a>
+                    </li>
 
                     <li class="dropdown user-dropdown">
                         <a href="#" >Contact</a>
