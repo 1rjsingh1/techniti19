@@ -213,6 +213,8 @@
                                 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
                                    <b> Registration fee : Rs. 2500</b><br>
                                 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                   <b> Minimum 15 and maximum 20 members</b><br>
+                                <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
                                     <a style="color:white; text-decoration:underline;"
  href="esthetique.pdf">Click here</a> to view rule book.
 
