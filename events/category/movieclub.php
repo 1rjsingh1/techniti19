@@ -88,7 +88,7 @@
                         <a href="../category.html" >Mega Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="#" >Sponsors</a>
+                        <a href="../../sponsors.html" >Sponsors</a>
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
