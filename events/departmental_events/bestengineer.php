@@ -34,8 +34,9 @@
                     <li><a href="#EventDescription"><i class="fa fa-globe"></i> Event Description:</a></li>
                     <li><a href="#EventLevel"><i class="fa fa-gamepad"></i>Event Level:</a></li>
                     <li><a href="#Rules"><i class="fa fa-list-ol"></i> Rules:</a></li>
-                    <li><a href="#EventCoordinators"><i class="fa fa-universal-access"></i>Event Coordinators</a></li>
+                    <li><a href="https://drive.google.com/open?id=1yGiXNghYHvzBNirA6306YvdXsSrkC8I1"><i class="fa fa-universal-access"></i>Rule Book</a></li>
                     <li><a href="#prize"><i class="fa fa-universal-access"></i>Prize Money</a></li>
+                    <li><a href="#EventCoordinators"><i class="fa fa-universal-access"></i>Contacts</a></li>
                 </ul>
 
             </div>

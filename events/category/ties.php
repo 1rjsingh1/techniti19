@@ -200,7 +200,7 @@ could keeping in mind certain penalties that are being offered in track.</p>
             <b class="comment__author" style="font-size: 30px;">Dimensions </b>
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 17px;">
-              Problems existing in the college campus identified by the participants and a solution to the problem given by another participant.</p>
+              Soap Carving is the aim with the help of                 cutter and scale provided by organizer as                   per the given dimensions.</p>
                 <p>
 
 

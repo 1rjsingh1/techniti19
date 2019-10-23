@@ -38,7 +38,7 @@
                     <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Round 4</a></li>
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/open?id=1bLY_I3POsjqyyqNROYbOdt7tyj4foctQ" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/open?id=1QYmfBRFayLNx2-zBYT1en3kXEKB2eZJh" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
                 
@@ -194,31 +194,6 @@ There will be a race among the teams after removing the battery connection (usin
                 </div>
             </div>
 
-            <!-- <div class="row" id="writtentest">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i>Written Test</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                      <li>Any one member of the team has to appear for the written test succeded by the testing of the structure</li>
-                                      <li>The written test comprises of the questions on the basic Engineering Mechanics.</li>
-                                      <li>The total score of the team is calculated from the testing of the structure and the marks scored in the written test.</li>
-                                      <li>Written test is mandatory for all the teams participating in the event, if a team misses the written test, it may lead to direct disqualification.</li>
-                                      <li>Participants should carry the stationary material such as pen, pencil, etc.</li>
-
-                             </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div> -->
             <div class="row" id="judgingandscoring">
                  <div class="col-md-12">
                      <div class="panel panel-primary" style="border: black" >
@@ -232,7 +207,7 @@ There will be a race among the teams after removing the battery connection (usin
                                  </div>
                                  <div class="feed-item-body">
                                      <div class="text eventInfo">
-Prizes worth Rs. 2200
+Prizes worth Rs. 10,000
                                      </div>
                                  </div>
                              </section>
