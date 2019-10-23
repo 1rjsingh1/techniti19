@@ -228,11 +228,10 @@ coveted competition and take home all the glories.
              </div>
              <div class="panel-body">
                  <section class="feed-item">
-                     <div class="icon pull-left">
 
-                     </div>
                      <div class="feed-item-body">
                          <div class="text eventInfo">
+                           <li>Worth Rs 1 <b>.</b> 2 Lac (Including trip to Singapore)</li>
                             </div>
                      </div>
                  </section>

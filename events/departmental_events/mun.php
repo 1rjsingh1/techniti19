@@ -175,12 +175,12 @@ the topics which were set by the Secretariat prior the conference.</li>
                                                 </div>
                                                 <div class="panel-body">
                                                     <section class="feed-item">
-                                                        <div class="icon pull-left">
-
-                                                        </div>
+                                                      
                                                         <div class="feed-item-body">
                                                             <div class="text eventInfo">
-PRIZES WORTH RS 30, 000 /-
+<li> Best Delegate: Rs. 6000/-  </li>
+<li> High Commendation: Rs. 3000/- </li>
+<li> Special Mentions(2 each): Rs. 2000/- </li>
                                                                 </div>
                                                         </div>
                                                     </section>

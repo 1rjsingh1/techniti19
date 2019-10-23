@@ -40,7 +40,7 @@
                     <li><a href="https://drive.google.com/file/d/1YhjlS6-4G01hBXJ-ZZi7yDwKUcM_GotL/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-               
+
             </div>
         </nav>
 
@@ -49,7 +49,7 @@
                 <div class="col-md-12">
                     <div class="eventHeading" style="text-align: center;">COUNTER STRIKE</div>
 
-                    
+
                 </div>
             </div>
 
@@ -89,7 +89,7 @@ become the KING OF THE HILL.
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    Rs 300/- per team.
+                                    Rs 500/- per team.
                                     </div>
                                 </div>
                             </section>
@@ -112,8 +112,8 @@ become the KING OF THE HILL.
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
-                                      A team must contain maximum 5 members and if there is no team formed up then
+                                    <div class="text eventInfo">
+                                      A team must contain 5 members and if there is no team formed up then
 the organizers can form up a team as they seem fit.  <div class="row">
                                             <div class="col-md-12 col-lg-12 col-sm-12">
                                                 <center>
@@ -174,9 +174,7 @@ wins first wins.</li>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
-
-                                </div>
+                              
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                 <li>You are responsible for your actions and equipment. We are not liable for

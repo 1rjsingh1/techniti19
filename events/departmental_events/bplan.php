@@ -198,12 +198,10 @@
                                                 </div>
                                                 <div class="panel-body">
                                                     <section class="feed-item">
-                                                        <div class="icon pull-left">
 
-                                                        </div>
                                                         <div class="feed-item-body">
                                                             <div class="text eventInfo">
-
+   <li>Worth Rs 2 <b>.</b> 5 Lac (Including trip to Singapore)</li>
                                                                 </div>
                                                         </div>
                                                     </section>
@@ -216,7 +214,7 @@
                                         <a class="semi-transparent-button" href="team_register.php?id=20" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
                                       </div>
 
-                                      <div class="row" id="EventHead">
+                                      <div class="row" id="contact">
                                         <div class="col-md-12">
                                             <div class="panel panel-primary" style="border: black" >
                                                 <div class="panel-heading" style="background: black;">
