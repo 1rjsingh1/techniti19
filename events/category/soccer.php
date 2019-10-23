@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=windows-1251" /><!-- /Added by HTTrack -->
@@ -94,6 +93,8 @@
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
+                    </li> <li class="dropdown user-dropdown">
+                        <a href="../../developers.html" >Developers</a>
                     </li>
 
                     <li class="dropdown user-dropdown">
@@ -137,10 +138,10 @@
                     <span class="preview-info__name" style="font-size: 20px;">Manveer Singh</span><br>
                  <span class="preview-info__role style=" style="font-size: 20px;">+91-9872100797</span>
                 </li>
-            
+
 
         </ul>
-        
+
     </div>
     </div>
 

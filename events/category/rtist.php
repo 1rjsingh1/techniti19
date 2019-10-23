@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=windows-1251" /><!-- /Added by HTTrack -->
@@ -32,6 +31,7 @@
 <link href="bitrix/cache/css/s1/neurohive/template/template_6f5efa8a81bc2b376995e8406bd5943b838b.css?1529696666150584" type="text/css" data-template-style="true" rel="stylesheet" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="style.css">
+
 
 
 </head>
@@ -93,8 +93,6 @@
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
-                    </li> <li class="dropdown user-dropdown">
-                        <a href="../../developers.html" >Developers</a>
                     </li>
 
                     <li class="dropdown user-dropdown">
@@ -105,14 +103,14 @@
         </nav>
 <div id="webgl-output"></div>
 <main class="preview-page">
-    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/chem.jpeg);background-size: cover;
+    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/ice.jpg);background-size: cover;
     background-position: center;
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 4</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 2</span>
         <h1 class="preview__name" style="font-size: 40px;">
-            Society Of Chemical Engineers</h1>
+            Society Of Civil Engineers</h1>
 
     </div>
 
@@ -125,24 +123,23 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">This is the society of Chemical Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
-
+<p style="font-size: 20px;">This is the society of Civil Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 <div class="preview-info__content">
         <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
         <ul class="preview-info__team">
                             <li class="preview-info__member">
-                    <span class="preview-info__name" style="font-size: 20px;">Vishali</span><br>
-                 <span class="preview-info__role" style="font-size: 20px;">+91-9041069079</span>
+                    <span class="preview-info__name" style="font-size: 20px;">Shubham Goyal</span><br>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-9803337334</span>
                 </li>
 
                 <li class="preview-info__member">
-                    <span class="preview-info__name" style="font-size: 20px;">Aashish Yadav</span><br>
-                 <span class="preview-info__role style=" style="font-size: 20px;">+91-9079775726</span>
+                    <span class="preview-info__name" style="font-size: 20px;">Manveer Singh</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-9872100797</span>
                 </li>
-
+            
 
         </ul>
-
+        
     </div>
     </div>
 
@@ -152,18 +149,17 @@
     <div class="comments__content">
         <div class="comments__left">
             <div class="comment comment--first">
-            <b class="comment__author" style="font-size: 30px;">Heat Exchanger </b>
+            <b class="comment__author" style="font-size: 30px;">Survey Hunt</b>
             <p class="comment__date"></p>
-            <p class="comment__text" style="font-size: 15px;">
-              The event consist of two parts:
-              <p>
-<li> Design of the heat exchanger.</li>
-<li>To present the technical details of the design. (ppt)</li>
-Participants are expected to come with innovative prototype of the heat exchanger which has high efficiency , high heat duty and no leakge.</p>
+            <p class="comment__text" style="font-size: 17px;">
+              “Exploration is curiosity put into action.”
+
+Survey Hunt aims to hit exactly at inquisitiveness of participants allowing them to recall their
+common observances of the places around them and effectively guess the clues offered to them.</p>
                 <p>
 
 
-<form method="get" action="../departmental_events/chess/heatexchanger.php">
+<form method="get" action="../departmental_events/soccer/surveyhunt.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
     border: solid;
@@ -178,18 +174,15 @@ Participants are expected to come with innovative prototype of the heat exchange
 
                 <div class="comment__underline"></div>
         </div>
-                 <div class="comment comment--first">
-            <b class="comment__author" style="font-size: 30px;">Best Out of Waste </b>
+                    <div class="comment comment--first">
+            <b class="comment__author"  style="font-size: 30px;">Bridge It</b>
             <p class="comment__date"></p>
-            <p class="comment__text" style="font-size: 15px;">
-             It is the game of designing the equipment which can solve the real life
-                                        problems using the materials which are treated as waste in current scenario.
-                                        Participants are advised to develop prototype with low cost and of high practical
-                                        viability and social importance.
-                <p>
+            <p class="comment__text" style="font-size: 17px;">Bridges are crucial transportation links that carry road and rail traffic across rivers, gorges or
+                                            other roads. When a bridge collapses or closes for repairs, it can cause massive traffic problems
+                                            or strand people altogether, especially if they live on an island.
+</p>
 
-
-<form method="get" action="../departmental_events/bestoutofwaste.php">
+<form method="get" action="../departmental_events/bridgeit.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
     border: solid;
@@ -198,58 +191,34 @@ Participants are expected to come with innovative prototype of the heat exchange
     overflow: hidden; ">Register</button>
 </form>
 
+                        <div class="comment__underline"></div>
 
-
-
-
-                <div class="comment__underline"></div>
         </div>
-        <div class="comment comment--first">
-   <b class="comment__author" style="font-size: 30px;">CHEM-E-CAR </b>
-   <p class="comment__date"></p>
-   <p class="comment__text" style="font-size: 15px;">
-  To provide Chemical engineering students with the opportunity to participate in a team- oriented- hands on design and construction of a small chemical powered model car. To design and construct a car that is powered by chemical reaction, cover a certain distance and then stop. Evaluation will be based on distance covered by car, safety measures provided and design of car.
-
-       <p>
-
-
-<form method="get" action="../departmental_events/chess/chemecar.php">
-<button type="submit" style="background-color: Transparent;
-background-repeat:no-repeat;
-border: solid;
-cursor:pointer;
-border-radius: 10px;
-overflow: hidden; ">Register</button>
-</form>
-
-<div class="comment__underline"></div>
-</div>
-
 
 <div class="comment comment--first">
-<b class="comment__author" style="font-size: 30px;">CHEM-E-TRIX </b>
-<p class="comment__date"></p>
-<p class="comment__text" style="font-size: 15px;">
-  This event is designed in two steps:
-  <li> Pen paper test will be qualifying round having simple questions related to general Physics, Chemistry & Mathematics.
-  </li> <li> In Second round there is Treasure hunt.
-  </li> Puzzles will be given to reach at particular location & puzzles will be based on chemical Engineering and Logical thinking.
-<p>
+            <b class="comment__author" style="font-size: 30px;">Civil Expo</b>
+            <p class="comment__date"></p>
+            <p class="comment__text" style="font-size: 17px;">
+             “We just see, don’t observe!” isn’t that right? Well, prove us wrong! Pick up a problem and uproot its cause!
+It is a technical event where you have a chance to showcase your abilities to present universal ideas & innovative solutions to various problems. The problems should be related to daily life civil aspects.</p>
+                <p>
 
 
-<form method="get" action="../departmental_events/chess/chemetrix.php">
-<button type="submit" style="background-color: Transparent;
-background-repeat:no-repeat;
-border: solid;
-cursor:pointer;
-border-radius: 10px;
-overflow: hidden; ">Register</button>
+<form method="get" action="../departmental_events/soccer/civilexpo.php">
+    <button type="submit" style="background-color: Transparent;
+    background-repeat:no-repeat;
+    border: solid;
+    cursor:pointer;
+    border-radius: 10px;
+    overflow: hidden; ">Register</button>
 </form>
 
 
 
 
 
+                <div class="comment__underline"></div>
+        </div>
 </div>
 
 </div>

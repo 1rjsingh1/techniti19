@@ -92,6 +92,8 @@
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
+                    </li> <li class="dropdown user-dropdown">
+                        <a href="../../developers.html" >Developers</a>
                     </li>
 
                     <li class="dropdown user-dropdown">
@@ -122,7 +124,7 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">Welcome to the Movie club! <br>It is the place to be, when you want to showcase what you have got. It helps you to discover your own talent and work on it to bring out a better 'you'. For more information 
+<p style="font-size: 20px;">Welcome to the Movie club! <br>It is the place to be, when you want to showcase what you have got. It helps you to discover your own talent and work on it to bring out a better 'you'. For more information
 &#44;<a href="https://www.instagram.com/nitj.movie_club/"> click here</a></p>
 
 <div class="preview-info__content">
@@ -137,10 +139,10 @@
                     <span class="preview-info__name" style="font-size: 20px;">Shankar</span><br>
                  <span class="preview-info__role style=" style="font-size: 20px;">+91-8872390498</span>
                 </li>
-            
+
 
         </ul>
-        
+
     </div>
     </div>
 
