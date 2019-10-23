@@ -196,6 +196,30 @@ common observances of the places around them and effectively guess the clues off
 
         </div>
 
+<div class="comment comment--first">
+            <b class="comment__author" style="font-size: 30px;">Civil Expo</b>
+            <p class="comment__date"></p>
+            <p class="comment__text" style="font-size: 17px;">
+             “We just see, don’t observe!” isn’t that right? Well, prove us wrong! Pick up a problem and uproot its cause!
+It is a technical event where you have a chance to showcase your abilities to present universal ideas & innovative solutions to various problems. The problems should be related to daily life civil aspects.</p>
+                <p>
+
+
+<form method="get" action="../departmental_events/soccer/civilexpo.php">
+    <button type="submit" style="background-color: Transparent;
+    background-repeat:no-repeat;
+    border: solid;
+    cursor:pointer;
+    border-radius: 10px;
+    overflow: hidden; ">Register</button>
+</form>
+
+
+
+
+
+                <div class="comment__underline"></div>
+        </div>
 </div>
 
 </div>
