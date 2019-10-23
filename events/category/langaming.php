@@ -88,7 +88,7 @@
                         <a href="../category.html" >Mega Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="#" >Sponsors</a>
+                        <a href="../../sponsors.html" >Sponsors</a>
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
@@ -112,7 +112,7 @@
             LAN Gaming</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -122,10 +122,10 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">Welcome to the world of gaming.
 
     </div>
-    
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
@@ -141,7 +141,7 @@ we can find the most skilled and dominating team which will rise up the charts a
 become the KING OF THE HILL.</p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/langaming/counterstrike.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -155,7 +155,55 @@ become the KING OF THE HILL.</p>
 
 
 
-              
+
+</div>
+<br>
+<div class="comment comment--first">
+<b class="comment__author" style="font-size: 30px;">NFS </b>
+<p class="comment__date"></p>
+<p class="comment__text" style="font-size: 17px;">
+  Welcome to the world of speed</p>
+    <p>
+
+
+<form method="get" action="../departmental_events/langaming/nfs.php">
+<button type="submit" style="background-color: Transparent;
+background-repeat:no-repeat;
+border: solid;
+cursor:pointer;
+border-radius: 10px;
+overflow: hidden; ">Register</button>
+</form>
+
+
+
+
+
+
+</div>
+<br>
+<div class="comment comment--first">
+<b class="comment__author" style="font-size: 30px;">Fifa  20 </b>
+<p class="comment__date"></p>
+<p class="comment__text" style="font-size: 17px;">
+   Welcome to the world of FIFA.</p>
+    <p>
+
+
+<form method="get" action="../departmental_events/langaming/fifa.php">
+<button type="submit" style="background-color: Transparent;
+background-repeat:no-repeat;
+border: solid;
+cursor:pointer;
+border-radius: 10px;
+overflow: hidden; ">Register</button>
+</form>
+
+
+
+
+
+
 </div>
 
 </div>
@@ -190,7 +238,7 @@ become the KING OF THE HILL.</p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>

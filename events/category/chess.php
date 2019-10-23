@@ -89,7 +89,7 @@
                         <a href="../category.html" >Mega Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="#" >Sponsors</a>
+                        <a href="../../sponsors.html" >Sponsors</a>
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
@@ -108,12 +108,12 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 2</span>
         <h1 class="preview__name" style="font-size: 40px;">
             Society Of Chemical Engineers</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -123,10 +123,10 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">This is the society of Chemical Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 
     </div>
-    
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
@@ -143,7 +143,7 @@
 Participants are expected to come with innovative prototype of the heat exchanger which has high efficiency , high heat duty and no leakge.</p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/chess/heatexchanger.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -166,10 +166,10 @@ Participants are expected to come with innovative prototype of the heat exchange
              It is the game of designing the equipment which can solve the real life
                                         problems using the materials which are treated as waste in current scenario.
                                         Participants are advised to develop prototype with low cost and of high practical
-                                        viability and social importance. 
+                                        viability and social importance.
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/bestoutofwaste.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -184,8 +184,8 @@ Participants are expected to come with innovative prototype of the heat exchange
 
 
                 <div class="comment__underline"></div>
-        </div>    
-                    
+        </div>
+
 </div>
 
 </div>
@@ -220,7 +220,7 @@ Participants are expected to come with innovative prototype of the heat exchange
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>

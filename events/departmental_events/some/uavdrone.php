@@ -42,7 +42,7 @@
                     <li><a href="https://drive.google.com/open?id=1EOkopht8Xy5sR__KxH2mJ5NT_ndfxk2M" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -119,7 +119,7 @@ avoiding certain obstacles.
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                       <h4>TECHNICAL INSPECTION (T.I.) :-</h4>
                                        <li>  In this round, the drone made by the participants will be subjected to a thorough
 technical inspection.</li>
@@ -296,7 +296,7 @@ the website regularly.</li>
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" href="../team_register.php?id=26" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="https://docs.google.com/forms/d/e/1FAIpQLSf1Of5b5XX2M_kSBgeXe6L4qGwxZ-nqgZqEAp44d7fHWAqJeQ/viewform" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 
@@ -588,7 +588,7 @@ the website regularly.</li>
 <body>
 
     <div id="wrapper">
-          
+
 
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Problem Statement</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Description</a></li>
@@ -600,7 +600,7 @@ the website regularly.</li>
                     <li><a href="https://drive.google.com/open?id=1EOkopht8Xy5sR__KxH2mJ5NT_ndfxk2M" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -858,13 +858,9 @@ the website regularly.</li>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
 
-                                </div>
                                 <div class="feed-item-body">
-                                    <!-- <div class="text eventInfo">
-                                      <li>Prizes Worth Rs. 2000</li>  </div>
-                                </div> -->
+                                  Prize Money Rs. 30,000/-
                             </section>
                         </div>
                     </div>
