@@ -137,8 +137,9 @@ input[type=submit]:hover {
 
 <div class="register">
   <form method="post" enctype="multipart/form-data">
-    <div style="font-size: 25px; color: black; font-family: arial;"><b>Register your team</b></div>
+    <div style="font-size: 30px; color: black; font-family: arial;"><b>Register your team</b></div>
     <br>
+    <p style="color: black; size: 25px;"><b style="color: red;">Note:</b> Enter the number of members as mentioned in event description or else the team will be disqualified.</p>
     <label class="fname">Team Name *</label>
     <input type="text" id="teamname" name="teamname" placeholder="Team Name">
 
