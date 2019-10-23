@@ -40,7 +40,7 @@
                     <li><a href="https://drive.google.com/file/d/1QDcyvhHVR8HzLNltwjZPXYZoFt7dWcTu/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -112,7 +112,7 @@ theme given.
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                        <li> All the entries mailed must have subject as NAZAR_NAME_THEME</li>
                                         <li> The mail must have participants Name, College Name, Contact
 Number and FB Id Link , Instagram username, and a good caption .</li>
@@ -125,6 +125,9 @@ demanded.</li>
 <li>The decision taken by the judges shall be final and binding. In case of
 any disputes NIT Jalandhar reserves the rights in its sole discretion.</li>
                                       <li>Submit your entry at : photography@nitj.ac.in</li>
+                                      <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                          <a style="color:white; text-decoration:underline;"
+                                      href="https://drive.google.com/file/d/1QDcyvhHVR8HzLNltwjZPXYZoFt7dWcTu/view?usp=sharing">Click here</a> to view rule book.
 
 
                                         <!-- <div class="row">

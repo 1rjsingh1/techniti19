@@ -37,7 +37,7 @@
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Guidelines</a></li>
                     <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Prize Distribution</a></li>
 
-                    <li><a href="https://drive.google.com/open?id=1bLY_I3POsjqyyqNROYbOdt7tyj4foctQ" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/file/d/1H3tIHJGARLWt9n0FuAE1qNK6UFroHd9Z/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Event Organisers</a></li>
                 </ul>
 
@@ -68,7 +68,13 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                        Design a truss bridge using Popsicle Sticks and Fevicol
+                                      The mega event organised by OpenGeest is a two-phase competitive competition It is time check how good
+you are at coding and how good is your team. It is a team event. Register individually, teams will beformed
+onsite.First Round will be eliminator round for participants, shortlisted participants will have to appear for
+Onsite round during TechNITI’19.
+The teams will be solving a set of competitive coding questions but with a twist. A member would code for 20
+minutes and then another member would continue the code. This cycle will go on for a period of 2 hours and
+the team having maximum score will win.
                                     </div>
                                 </div>
                             </section>
@@ -88,9 +94,8 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                      A rise in demand of coal, oil and other minerals was envisaged by the government of a thriving state. They, after days of discussion opted for the use of railroads to transport the minerals and oils. It was favoured as it would allow to transport greater amount of goods in a less time. Moreover, it avoided roadway congestion. A government contractor was assigned the project to lay down railway tracks to facilitate the transport of minerals and oils to the state. But the railway lines could not be connected as they encountered a river. Engineers decided to connect the railway lines through a truss bridge over the river which would have the strength to bear a heavy freight locomotive.
-                                      Now, imagine yourself in their position and construct a truss bridge using. Use your inventiveness to make a sturdy and aesthetically pleasing bridge.
-
+                                      Code-IT is an individual event in the first phase and a team-event in the final phase where
+  participants need to qualify the first round in order to appear for the onsite finale.
                                     </div>
                                 </div>
                             </section>
@@ -114,23 +119,12 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                       <li>  The structure made (Trussed Bridge) will be tested on the day of event.</li>
-                                        <li> Popsicle sticks can be altered physically by cutting or notching at any angle.</li>
-                                        <li> Only Fevicol can be used as adhesive ,use of other adhesive may lead to disqualification.</li>
-                                        <li> Maximum number of sticks that can be stack together is Three. </li>
-                                        <li> Base of the bridge should not be made as shown in the figure.</li>
-                                        <li> Use of any other adhesive material than Fevicol is not allowed.</li>
-                                        <li> Thickness of base (deck) should not be more than thickness of Three sticks</li>
-                                        <li> Use of Threads and Nails is not allowed. </li>
-                                        <li> Bridge dimensions should be within specified limits as given in the figure.</li>
-										<li>Thickness of the base of the bridge should not exceed 2cm.(i.e. thickness equals to three sticks stacked together) </li>
-                                        <li>Weight of bridge should not exceed the weight of 600 popsicle sticks.</li>
-                                        <li>Maximum 4 students per team.</li>
-                                        <li>Any one of the team member will have to appear for the written test after the testing of bridge</li>
-                                        <div class="row">
+                                       <li>  04 November 2019 – First Round (Phase 1)</li>
+                                        <li>08 November 2019 – Onsite finale at NIT Jalandhar, Punjab (Phase 2)</li>
+                                          <div class="row">
                                             <div class="col-md-12 col-lg-12 col-sm-12">
                                                 <center>
-                                                    <img src="../../images/events/crepido2.png" class="eventImage">
+                                                
                                                 </center>
                                             </div>
                                         </div>
@@ -155,14 +149,14 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-									<li>Bridge model will be loaded till failure. The maximum deflection at the point of yielding and The load at that moment will be used to evaluate the structure.</li>
-                                    <li>If it happens that the structure reaches the threshold deflection of 1.0 cm then the evaluation will be made on the same load. (At this case the structure will not be tested further.)
+									<li>Participants should register on the techNITi’19 website.</li>
+                                    <li>Participants must fill Google form for participation in this event.
                                     </li>
-                                    <li>Even if a single member of structure fails then evaluation will be made on the same load.
+                                    <li>Open for 1st, 2nd, 3rd year students of all branches.
                                     </li>
                                     <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
                                         <a style="color:white; text-decoration:underline;"
-                                    href="https://drive.google.com/open?id=1bLY_I3POsjqyyqNROYbOdt7tyj4foctQ">Click here</a> to view rule book.
+                                    href="https://drive.google.com/file/d/1H3tIHJGARLWt9n0FuAE1qNK6UFroHd9Z/view?usp=sharing">Click here</a> to view rule book.
 									</div>
                                 </div>
                             </section>

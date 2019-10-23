@@ -34,6 +34,7 @@
                     <li><a href="#EventDescription"><i class="fa fa-list-ol"></i> Event Description:</a></li>
                     <li><a href="#DescriptionOfRounds"><i class="fa fa-universal-access"></i>Description Of Rounds:</a></li>
                     <li><a href="#GeneralRules"><i class="fa fa-vcard-o"></i>General Rules:</a></li>
+                    <li><a href="#prize"><i class="fa fa-vcard-o"></i>Prize Money:</a></li>
                     <li><a href="#EventStudentHead"><i class="fa fa-gamepad"></i>Event Student Head:</a></li>
 
                 </ul>
@@ -90,7 +91,7 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                             This Quiz is related to the Space Science and will give students to explore the Planets, Research Organisations
                                             and various Universe facts.
 
@@ -143,7 +144,11 @@
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                            Top 3 will be declared as the winners of this quiz.
+                                            Top 3 will be declared as the winners of this quiz. <br>
+                                            <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                                <a style="color:white; text-decoration:underline;"
+                                            href="https://drive.google.com/file/d/10-EvGOKFeY26KTPMWtZ9b77OEePIyLCQ/view?usp=sharing">Click here</a> to view rule book.
+
                                     </div>
                                 </div>
                             </section>
@@ -152,7 +157,27 @@
                 </div>
             </div>
 
+            <div class="row" id="prize">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money:</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+                                <div class="icon pull-left">
 
+                                </div>
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                     Prizes worth Rs. 10,000 /-
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
             <div id="RegisterContainer">
@@ -172,8 +197,8 @@
 
                                     <div class="feed-item-body">
                                         <div class="text eventInfo">
-                                            Kumar Shivam (8727039236)
-                                            Snehil Aggarwal (9958344105)
+                                        <li>    Kumar Shivam (8727039236) </li>
+                                          <li>  Snehil Aggarwal (9958344105) </li>
                                         </div>
                                     </div>
                                 </section>
