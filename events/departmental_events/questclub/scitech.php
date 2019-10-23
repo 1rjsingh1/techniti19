@@ -222,11 +222,10 @@ the basis of respective marking scheme. <br>
              </div>
              <div class="panel-body">
                  <section class="feed-item">
-                     <div class="icon pull-left">
 
-                     </div>
                      <div class="feed-item-body">
                          <div class="text eventInfo">
+                           Prize Money worth Rs. 10,000 /-
                             </div>
                      </div>
                  </section>
@@ -256,7 +255,7 @@ the basis of respective marking scheme. <br>
                                         <center>
                                             <div class="container">
                                                 <div class="row">
-                                                    <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
                                                             Retik Gupta
                                                         </div>
@@ -264,7 +263,15 @@ the basis of respective marking scheme. <br>
                                                             +91-(8360156674)
                                                         </div>
                                                     </div>
-                                                     <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Chikku Kumar
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-(9534567582)
+                                                        </div>
+                                                    </div>
+                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
                                                             Swati
                                                         </div>

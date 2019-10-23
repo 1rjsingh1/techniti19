@@ -124,7 +124,7 @@ the team having maximum score will win.
                                           <div class="row">
                                             <div class="col-md-12 col-lg-12 col-sm-12">
                                                 <center>
-                                                    <img src="../../images/events/crepido2.png" class="eventImage">
+                                                
                                                 </center>
                                             </div>
                                         </div>

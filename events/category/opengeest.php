@@ -206,9 +206,7 @@ web page on a particular topic. Team with the most impressive design takes it al
                <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Code It</b>
             <p class="comment__date"></p>
-            <p class="comment__text" style="font-size: 17px;">A rise in demand of coal, oil and other minerals was envisaged by the government of a thriving state. They, after days of discussion opted for the use of railroads to transport the minerals and oils. It was favoured as it would allow to transport greater amount of goods in a less time. Moreover, it avoided roadway congestion. A government contractor was assigned the project to lay down railway tracks to facilitate the transport of minerals and oils to the state. But the railway lines could not be connected as they encountered a river. Engineers decided to connect the railway lines through a truss bridge over the river which would have the strength to bear a heavy freight locomotive.
-                                      Now, imagine yourself in their position and construct a truss bridge using. Use your inventiveness to make a sturdy and aesthetically pleasing bridge.
-</p>
+            <p class="comment__text" style="font-size: 17px;">The mega event organised by OpenGeest is a two-phase competitive competition It is time check how good you are at coding and how good is your team. It is a team event. Register individually, teams will beformed onsite.First Round will be eliminator round for participants, shortlisted participants will have to appear for Onsite round during TechNITI’19. The teams will be solving a set of competitive coding questions but with a twist. A member would code for 20 minutes and then another member would continue the code. This cycle will go on for a period of 2 hours and the team having maximum score will win.</p>
 
 <form method="get" action="../departmental_events/codeit.php">
     <button type="submit" style="background-color: Transparent;
