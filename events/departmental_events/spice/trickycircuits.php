@@ -149,12 +149,16 @@ CIRCUIT DIAGRAMS PROVIDED.
                                         <p><b><u>Number of days: 1</u></b></p>
 
                                     </div>
+                                    <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=1onnuaGLZE8TweTlRzQeNlwLto4AFVO4O">Click here</a> to view rule book.
                                 </div>
                             </section>
 
                         </div>
                     </div>
                 </div>
+
             </div>
             
            

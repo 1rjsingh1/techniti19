@@ -127,6 +127,9 @@ competition.</li>
                                     
                                     </div>
                                 </div>
+                                <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=1qfd84TO_r969A3V55rAOk0YNQ8y8G2hA">Click here</a> to view rule book.
                             </section>
 
                         </div>

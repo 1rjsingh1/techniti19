@@ -106,6 +106,9 @@ decorative items like buttons, beads etc.</p>
                                     Winners will be decided on the basis of creativity of the design made.
                                     </div>
                                 </div>
+                                <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=15abAMyjeZ6_ccN8Q6yOdq9K5rOLtlbZ8">Click here</a> to view rule book.
                             </section>
 
                         </div>
