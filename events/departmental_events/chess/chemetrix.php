@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/CHEM-E-TRIX.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Heat Exchanger</title>
+    <title>techNITi19 EVENT -  CHEM-E-TRIX</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -27,28 +27,31 @@
 <body>
 
     <div id="wrapper">
-        <?php include('../../../navbar.php'); ?>
+          <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-
-                    <li><a href="#Problem"><i class="fa fa-globe"></i> Event Description</a></li>
-                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Team Specifications</a></li>
-                    <li><a href="#rules"><i class="fa fa-list-ol"></i>Round 1</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
+                    <li><a href="#Problem"><i class="fa fa-globe"></i> EVENT DESCRIPTION</a></li>
+                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>TEAM SPECIFICATIONS:</a></li>
+                    <li><a href="#rules"><i class="fa fa-list-ol"></i> DETAILS</a></li>
+                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>GENERAL RULES</a></li>
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
                     <li><a href="#prize"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/file/d/15uIjhgtjyjgsQkTZrKxsUASTdnhOFVdX/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/file/d/17GyrQoExHG-JYDFV7_3S8MfKtVMWRfZI/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
+
             </div>
+        </nav>
 
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">Heat Exchanger</div>
+                    <div class="eventHeading" style="text-align: center;">CHEM-E-TRIX</div>
 
-
+                    <!-- <div id="RegisterContainer">
+                      <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
+                    </div> -->
                 </div>
             </div>
 
@@ -58,22 +61,21 @@
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Event Description</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> EVENT DESCRIPTION</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                        The event consist of two parts: <br>
-                                        <ul>
-                              <li>
-                              1. Design of the heat exchanger.</li>
-                              <li>
-                              2. To present the technical details of the design. (ppt)</li>
-                                        </ul>
-                                        Participants are expected to come with innovative prototype of the heat exchanger which has high efficiency
-                                        , high heat duty and no leakge.
+                                      This event is designed in two steps:
+
+<li>Pen paper test will be qualifying round having simple questions related to general Physics, Chemistry & Mathematics.</li>
+
+<li>In Second round there is Treasure hunt.</li>
+
+Puzzles will be given to reach at particular location & puzzles will be based on chemical Engineering and Logical thinking.
+
                                     </div>
                                 </div>
                             </section>
@@ -86,7 +88,7 @@
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Team Specifications </h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> TEAM SPECIFICATIONS: </h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
@@ -94,6 +96,10 @@
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                       A team may contain maximum of 3 members, no minimum limit.
+
+<li>One Girl participant is mandatory.</li>
+
+
                                     </div>
                                 </div>
                             </section>
@@ -110,21 +116,42 @@
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i>Round 1</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> DETAILS</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                       <li>  Prorotype of heat exchanger has to be presented.</li>
-                                        <li> This round will be non-eliminating round. LMTD, Heat duty and any leakage will be checked in this round.</li>
-                                        <li> Two fluids (Hot & Cold), Pumps, Pipes will be provided by us.</li>
-                                        <li>Remaining rules can be found in the rule book. (link in the sidebar)</li>
+                                      Round 1:
+
+<li>30 minutes will be given for pen & paper test.</li>
+
+<li>Questions will be based on PHYSICS, CHEMISTRY &
+
+MATHEMATICS.</li>
+
+<li>Teams qualifying round 1 will move further for round 2.</li>
+
+Round 2:
+
+
+<li>This round is a Treasure hunt round.</li>
+
+<li>Puzzles will be given to solve to reach the required location.</li>
+
+<li>Puzzles will be based on Chemical Engineering & Logical thinking.</li>
+
+<li>Team reached to location at first will be the winner.</li>
+
+<li>Further details will be given at a time.</li>
+
+
+
                                         <div class="row">
                                             <div class="col-md-12 col-lg-12 col-sm-12">
                                                 <center>
-                                                    <!-- <img src="../../../images/events/Heat Exchanger2.png" class="eventImage"> -->
+                                                    <!-- <img src="../../../images/events/CHEM-E-TRIX2.png" class="eventImage"> -->
                                                 </center>
                                             </div>
                                         </div>
@@ -142,23 +169,20 @@
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> GENERAL RULES</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    <li>This round consists of ppt presentation on heat exchanger with all details about material, cost and proper calculations of all parameters.</li>
-                                    <li>Any one team member will be allowed to give presentation.</li>
-                                    <li>Only 10 minutes will be given.
-                                    </li>
-                                    <li>All team members have to be present for ppt to face quesitons asked by judges.</li>
-                                    <br><br>
-                                    <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
-                                    <a style="color:white; text-decoration:underline;"
- href="https://drive.google.com/open?id=15uIjhgtjyjgsQkTZrKxsUASTdnhOFVdX">Click here</a> to view rule book.
+                                      <li>No Registration fee.</li>
 
+<li>The organizers reserve the right to change any or all the rules as they deem fit. In case a change is made it will be notified to the registered team through mail.</li>
+
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+<a style="color:white; text-decoration:underline;"
+href="https://drive.google.com/file/d/17GyrQoExHG-JYDFV7_3S8MfKtVMWRfZI/view?usp=sharing">Click here</a> to view rule book.
 
                                     </div>
                                 </div>
@@ -169,33 +193,84 @@
                 </div>
             </div>
 
+          <!-- <div class="row" id="judgingandscoring">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Judging And Scoring</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+                                <div class="icon pull-left">
 
+                                </div>
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                <li>First the structure will be reviewed to check if it violates any rules mentioned above.</li>
+                                <li>The bridge will be scored on how well the material has been used to support the load.</li>
+                                <li>The efficiency will be calculated as the ratio of ultimate load capacity and the bridge weight.</li>
+                                <li>The deflection of the bridge at the yielding will be noted. If the deflection increases more than 10 mm ,then the load at the deflection will be taken as ultimate load.</li>
+                                <li>Violating any of the conditions mentioned above ,penalty will be imposed or may lead to disqualification.</li>
+                                <li>Weight exceeds the limit - Penalty of 20% of total score</li>
+                                <li>Dimensional specifications are not met - Penalty of 10% of total score</li>
+                                <li>Use of materials ,except the one stated in rules penalty of 50% of total score or can lead to disqualification</li>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
 
+            <!-- <div class="row" id="writtentest">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i>Written Test</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                      <li>Any one member of the team has to appear for the written test succeded by the testing of the structure</li>
+                                      <li>The written test comprises of the questions on the basic Engineering Mechanics.</li>
+                                      <li>The total score of the team is calculated from the testing of the structure and the marks scored in the written test.</li>
+                                      <li>Written test is mandatory for all the teams participating in the event, if a team misses the written test, it may lead to direct disqualification.</li>
+                                      <li>Participants should carry the stationary material such as pen, pencil, etc.</li>
+
+                             </div>
+                                </div>
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </div> -->
             <div class="row" id="prize">
-                 <div class="col-md-12">
-                     <div class="panel panel-primary" style="border: black" >
-                         <div class="panel-heading" style="background: black;">
-                             <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
-                         </div>
-                         <div class="panel-body">
-                             <section class="feed-item">
-                                 <div class="icon pull-left">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
 
-                                 </div>
-                                 <div class="feed-item-body">
-                                     <div class="text eventInfo">
-                              Prize Money Worth Rs 2200/-
-                                     </div>
-                                 </div>
-                             </section>
-                         </div>
-                     </div>
-                 </div>
-             </div>
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+Prize money worth Rs 2200/-
+                                        </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" href="../team_register.php?id=47" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=48" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
-
 
 
 
@@ -215,28 +290,14 @@
                                                 <div class="row">
                                                     <div class="col-md-12 col-lg-12 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Aashish Yadav
+                                                      Ravi Meena
                                                         </div>
                                                         <div class="Number">
-                                                            +91-8058374641
+                                                            +91-9413589373
                                                         </div>
                                                     </div>
-                                                    <!-- <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
-                                                        <div class="Name">
-                                                            KASA LOHIT
-                                                        </div>
-                                                        <div class="Number">
-                                                            +91-8464995273
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
-                                                        <div class="Name">
-                                                            SUVOG BORKAR
-                                                        </div>
-                                                        <div class="Number">
-                                                            +91-9011743948
-                                                        </div>
-                                                    </div> -->
+
+
                                                 </div>
                                             </div>
                                         </center>
@@ -282,7 +343,7 @@
                                 <div class="col-md-12">
                                     <center>
                                         <input type="text" name="teamName"  placeholder="Team Name" style="color: white;font-size: 17px;max-width: 40%;" id="inputValidationEx" class="form-control validate" required="true" />
-                                        <input type="text" name="eventName" value="Heat Exchanger" hidden />
+                                        <input type="text" name="eventName" value="CHEM-E-TRIX" hidden />
                                     </center>
                                 </div>
                             </div>
@@ -444,7 +505,7 @@
     <script type="text/javascript">
         if (typeof(Storage) !== "undefined")
         {
-            sessionStorage.setItem("path", "events/construction_and_design/Heat Exchanger.html");
+            sessionStorage.setItem("path", "events/construction_and_design/CHEM-E-TRIX.html");
             sessionStorage.setItem("formPath","../../../form.html");
         }
     </script>
@@ -455,5 +516,5 @@
     <script src="../../events.js"></script>
 </body>
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/Heat Exchanger.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/CHEM-E-TRIX.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
 </html>

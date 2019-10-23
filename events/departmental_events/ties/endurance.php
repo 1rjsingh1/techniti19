@@ -232,7 +232,7 @@ There will be a race among the teams after removing the battery connection (usin
                                  </div>
                                  <div class="feed-item-body">
                                      <div class="text eventInfo">
-
+Prizes worth Rs. 2200
                                      </div>
                                  </div>
                              </section>

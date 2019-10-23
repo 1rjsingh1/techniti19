@@ -141,7 +141,7 @@
                                     <a style="color:white; text-decoration:underline;"
  href="https://drive.google.com/open?id=1AmWIcdNhY2ZwLf-QkPE1CcDGn-coKQwX">Click here</a> to view rule book.
 
-                                    
+
                                     </div>
                                 </div>
                             </section>
@@ -150,7 +150,7 @@
                     </div>
                 </div>
             </div>
-            
+
 
             <div class="row" id="prize">
                  <div class="col-md-12">
@@ -160,19 +160,17 @@
                          </div>
                          <div class="panel-body">
                              <section class="feed-item">
-                                 <div class="icon pull-left">
 
-                                 </div>
                                  <div class="feed-item-body">
                                      <div class="text eventInfo">
-
+Prize money Rs 2200/-
                                      </div>
                                  </div>
                              </section>
                          </div>
                      </div>
                  </div>
-             </div>            
+             </div>
 
 
 

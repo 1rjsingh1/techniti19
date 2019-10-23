@@ -107,7 +107,7 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 2</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
         <h1 class="preview__name" style="font-size: 40px;">
             The Industrial Engineer's Society</h1>
 
@@ -181,6 +181,30 @@ could keeping in mind certain penalties that are being offered in track.</p>
 
 
 <form method="get" action="../departmental_events/bestengineer.php">
+    <button type="submit" style="background-color: Transparent;
+    background-repeat:no-repeat;
+    border: solid;
+    cursor:pointer;
+    border-radius: 10px;
+    overflow: hidden; ">Register</button>
+</form>
+
+
+
+
+
+                <div class="comment__underline"></div>
+        </div>
+
+<div class="comment comment--first">
+            <b class="comment__author" style="font-size: 30px;">Dimensions </b>
+            <p class="comment__date"></p>
+            <p class="comment__text" style="font-size: 17px;">
+              Problems existing in the college campus identified by the participants and a solution to the problem given by another participant.</p>
+                <p>
+
+
+<form method="get" action="../departmental_events/ties/dimensions.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
     border: solid;

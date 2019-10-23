@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/CHEM-E-CAR.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/Endurance.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>techNITi19 EVENT -  CHEM-E-CAR</title>
+    <title>Dimensions</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -27,27 +27,28 @@
 <body>
 
     <div id="wrapper">
-          <?php include('../../../navbar.php'); ?>
+        <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-                    <li><a href="#Problem"><i class="fa fa-globe"></i> EVENT DESCRIPTION</a></li>
-                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>TEAM SPECIFICATIONS:</a></li>
-                    <li><a href="#rules"><i class="fa fa-list-ol"></i> DETAILS</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>GENERAL RULES</a></li>
-                    <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
+          
+                    <li><a href="#Problem"><i class="fa fa-globe"></i> Problem Statement</a></li>
+                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Round 1</a></li>
+                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 2</a></li>
+                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 3</a></li>
+                    <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Round 4</a></li>
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/file/d/1iBTREKqDxUHaeiw-UfKNNdjhQHI1eTcD/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/open?id=1bLY_I3POsjqyyqNROYbOdt7tyj4foctQ" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-
+                
             </div>
         </nav>
 
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">CHEM-E-CAR</div>
+                    <div class="eventHeading" style="text-align: center;">Dimensions</div>
 
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -61,20 +62,15 @@
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> EVENT DESCRIPTION</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Problem Statement</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                      To provide Chemical engineering students with the opportunity to participate in a team- oriented- hands on design and construction of a small chemical powered model car.
-
-To design and construct a car that is powered by chemical reaction, cover a certain distance and then stop.
-
-Evaluation will be based on distance covered by car, safety measures provided and design of car.
-
-
+                                      Students have to prepare their own Solar car and pass the obstacles of the race track as fast as they
+could keeping in mind certain penalties that are being offered in track.
                                     </div>
                                 </div>
                             </section>
@@ -87,19 +83,18 @@ Evaluation will be based on distance covered by car, safety measures provided an
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> TEAM SPECIFICATIONS: </h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 1: Technical Inspection and Static Round </h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                      A team may contain maximum of 3 members, no minimum limit
-
-  (A team may consist of members from different colleges too).
-
-
-
+                                    <li>Max dimensions of Car – 400mm X 300mm X 150mm</li>
+                                    <li>Battery – 12V, 5AH (single)</li>
+                                    <li>Motor Capacity – Geared motor – Grade A quality – 600rpm.</li>
+                                    <li>Maximum weight should not exceed 8kg.</li>
+                                    <li>An oral presentation of innovation in design.</li>
                                     </div>
                                 </div>
                             </section>
@@ -116,32 +111,28 @@ Evaluation will be based on distance covered by car, safety measures provided an
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> DETAILS</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2: Dynamic Round</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                      <li>Only source of energy for propulsion of the car is a chemical reaction.</li>
-<li>No obnoxious odor discharge is allowed.</li>
-
-<li>No commercial batteries are allowed as power source.</li>
-<li>Stopping mechanism has to be controlled by a chemical reaction.</li>
-
-<li>No Brakes, mechanical or electronic timing devices are allowed.</li>
-<li>Cars not meeting the requirements will be directly disqualified.</li>
-
-<li>	One detailed document of reaction, materials used, amount of components and size specifications of car has to be submitted at the time of event.</li>
-
-
-
-
-                                        <div class="row">
+                                      The teams that pass round 1 will enter round 2. It will consist of race track and participant must
+cross it as soon as possible. <br>
+Instructions for Round 1 and Round 2- <br>
+                                       <li>  Each teams have to provide a Xerox copy of their battery and motor specification sheet.</li>
+                                        <li>Solar Panel can be self designed or readily available. (In case of self designed provide a design
+report.)</li>
+                                        <li> There should be no overhanging of solar panel.</li>
+                                        <li> Wiring should not be loosely connected. </li>
+                                        Above mentioned instructions should be followed as violation of above accounts for negative
+points.
+                                                <div class="row">
                                             <div class="col-md-12 col-lg-12 col-sm-12">
                                                 <center>
-                                                    <!-- <img src="../../../images/events/CHEM-E-CAR2.png" class="eventImage"> -->
-                                                </center>
+                                                    <!-- <img src="../../../images/events/Endurance2.png" class="eventImage">
+                                                </center> -->
                                             </div>
                                         </div>
 
@@ -158,25 +149,15 @@ Evaluation will be based on distance covered by car, safety measures provided an
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> GENERAL RULES</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-
-
-<li>Only one team member is allowed to handle the car. No other team member is allowed to enter the arena.</li>
-
-<li>Any kind of damage done to the arena by the car will lead to its disqualification.</li>
-
-<li>In case of any discrepencies, the decision of the judges will be ultimate and any furthur arguements will not be entertained.</li>
-
-<li>The organizers reserve the right to change any or all the rules as they deem fit. In case a change is made it will be notified to the registered team through mail.</li>
-
-
-
+                                      Qualifying teams of round 2 will give appropriate suggestions to other teams about their respective
+    cars.
                                     </div>
                                 </div>
                             </section>
@@ -186,11 +167,11 @@ Evaluation will be based on distance covered by car, safety measures provided an
                 </div>
             </div>
 
-          <!-- <div class="row" id="judgingandscoring">
+            <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Judging And Scoring</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 4</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
@@ -199,21 +180,19 @@ Evaluation will be based on distance covered by car, safety measures provided an
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                <li>First the structure will be reviewed to check if it violates any rules mentioned above.</li>
-                                <li>The bridge will be scored on how well the material has been used to support the load.</li>
-                                <li>The efficiency will be calculated as the ratio of ultimate load capacity and the bridge weight.</li>
-                                <li>The deflection of the bridge at the yielding will be noted. If the deflection increases more than 10 mm ,then the load at the deflection will be taken as ultimate load.</li>
-                                <li>Violating any of the conditions mentioned above ,penalty will be imposed or may lead to disqualification.</li>
-                                <li>Weight exceeds the limit - Penalty of 20% of total score</li>
-                                <li>Dimensional specifications are not met - Penalty of 10% of total score</li>
-                                <li>Use of materials ,except the one stated in rules penalty of 50% of total score or can lead to disqualification</li>
-                                    </div>
+                                <li>Final race by implementing the suggestions and improvements.</li>
+                                <li>Solar Run-
+There will be a race among the teams after removing the battery connection (using solar energy)</li>
+                                  </div>
                                 </div>
+                                <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=1QYmfBRFayLNx2-zBYT1en3kXEKB2eZJh">Click here</a> to view rule book.
                             </section>
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div>
 
             <!-- <div class="row" id="writtentest">
                 <div class="col-md-12">
@@ -240,31 +219,31 @@ Evaluation will be based on distance covered by car, safety measures provided an
                     </div>
                 </div>
             </div> -->
-            <div class="row" id="prizemoney">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                <div class="icon pull-left">
+            <div class="row" id="judgingandscoring">
+                 <div class="col-md-12">
+                     <div class="panel panel-primary" style="border: black" >
+                         <div class="panel-heading" style="background: black;">
+                             <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
+                         </div>
+                         <div class="panel-body">
+                             <section class="feed-item">
+                                 <div class="icon pull-left">
 
-                                </div>
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
+                                 </div>
+                                 <div class="feed-item-body">
+                                     <div class="text eventInfo">
 
-                                        </div>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                                     </div>
+                                 </div>
+                             </section>
+                         </div>
+                     </div>
+                 </div>
+             </div>
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=31" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 
@@ -286,14 +265,28 @@ Evaluation will be based on distance covered by car, safety measures provided an
                                                 <div class="row">
                                                     <div class="col-md-12 col-lg-12 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                    VISHALI
+                                                            Sagar Mittal
                                                         </div>
                                                         <div class="Number">
-                                                            +91-9041069079
+                                                            +91-9461458833
                                                         </div>
                                                     </div>
-
-
+                                                    <!-- <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            KASA LOHIT
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-8464995273
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            SUVOG BORKAR
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-9011743948
+                                                        </div> -->
+                                                    </div>
                                                 </div>
                                             </div>
                                         </center>
@@ -339,7 +332,7 @@ Evaluation will be based on distance covered by car, safety measures provided an
                                 <div class="col-md-12">
                                     <center>
                                         <input type="text" name="teamName"  placeholder="Team Name" style="color: white;font-size: 17px;max-width: 40%;" id="inputValidationEx" class="form-control validate" required="true" />
-                                        <input type="text" name="eventName" value="CHEM-E-CAR" hidden />
+                                        <input type="text" name="eventName" value="Endurance" hidden />
                                     </center>
                                 </div>
                             </div>
@@ -501,7 +494,7 @@ Evaluation will be based on distance covered by car, safety measures provided an
     <script type="text/javascript">
         if (typeof(Storage) !== "undefined")
         {
-            sessionStorage.setItem("path", "events/construction_and_design/CHEM-E-CAR.html");
+            sessionStorage.setItem("path", "events/construction_and_design/Endurance.html");
             sessionStorage.setItem("formPath","../../../form.html");
         }
     </script>
@@ -512,5 +505,5 @@ Evaluation will be based on distance covered by car, safety measures provided an
     <script src="../../events.js"></script>
 </body>
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/CHEM-E-CAR.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/Endurance.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
 </html>
