@@ -93,6 +93,8 @@
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
+                    </li> <li class="dropdown user-dropdown">
+                        <a href="../../developers.html" >Developers</a>
                     </li>
 
                     <li class="dropdown user-dropdown">
@@ -108,9 +110,9 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 2</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
         <h1 class="preview__name" style="font-size: 40px;">
-            Society Of Civil Engineers</h1>
+            R-TIST</h1>
 
     </div>
 
@@ -123,23 +125,23 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">This is the society of Civil Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
+<p style="font-size: 20px;">This is the society of R-TIST which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 <div class="preview-info__content">
         <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
         <ul class="preview-info__team">
                             <li class="preview-info__member">
-                    <span class="preview-info__name" style="font-size: 20px;">Shubham Goyal</span><br>
-                 <span class="preview-info__role" style="font-size: 20px;">+91-9803337334</span>
+                    <span class="preview-info__name" style="font-size: 20px;">Shubham Yadav</span><br>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-8437641024</span>
                 </li>
 
                 <li class="preview-info__member">
-                    <span class="preview-info__name" style="font-size: 20px;">Manveer Singh</span><br>
-                 <span class="preview-info__role style=" style="font-size: 20px;">+91-9872100797</span>
+                    <span class="preview-info__name" style="font-size: 20px;">Prasad Jadhav</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-9175929323</span>
                 </li>
-            
+
 
         </ul>
-        
+
     </div>
     </div>
 
@@ -149,17 +151,17 @@
     <div class="comments__content">
         <div class="comments__left">
             <div class="comment comment--first">
-            <b class="comment__author" style="font-size: 30px;">Survey Hunt</b>
+            <b class="comment__author" style="font-size: 30px;">Numbery Route</b>
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 17px;">
-              “Exploration is curiosity put into action.”
-
-Survey Hunt aims to hit exactly at inquisitiveness of participants allowing them to recall their
-common observances of the places around them and effectively guess the clues offered to them.</p>
+              In Numbery route the team of participants has to Build a autonomous line follower robot which should 
+              also be able to count the no. of boxes placed parallel along the route and also to count the number of 
+              boxes of same height.
+</p>
                 <p>
 
 
-<form method="get" action="../departmental_events/soccer/surveyhunt.php">
+<form method="get" action="../departmental_events/rtist/numberRoute.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
     border: solid;
@@ -175,14 +177,13 @@ common observances of the places around them and effectively guess the clues off
                 <div class="comment__underline"></div>
         </div>
                     <div class="comment comment--first">
-            <b class="comment__author"  style="font-size: 30px;">Bridge It</b>
+            <b class="comment__author"  style="font-size: 30px;">Smack That</b>
             <p class="comment__date"></p>
-            <p class="comment__text" style="font-size: 17px;">Bridges are crucial transportation links that carry road and rail traffic across rivers, gorges or
-                                            other roads. When a bridge collapses or closes for repairs, it can cause massive traffic problems
-                                            or strand people altogether, especially if they live on an island.
-</p>
+            <p class="comment__text" style="font-size: 17px;">
+            There will be a fixed size arena in which BOT has to perform a particular tasks.
+             The competition is comprises of two events. Team may contain maximum of 4 members.</p>
 
-<form method="get" action="../departmental_events/bridgeit.php">
+<form method="get" action="../departmental_events/rtist/smackthat.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
     border: solid;
@@ -196,15 +197,15 @@ common observances of the places around them and effectively guess the clues off
         </div>
 
 <div class="comment comment--first">
-            <b class="comment__author" style="font-size: 30px;">Civil Expo</b>
+            <b class="comment__author" style="font-size: 30px;">Arduino Workshop</b>
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 17px;">
-             “We just see, don’t observe!” isn’t that right? Well, prove us wrong! Pick up a problem and uproot its cause!
-It is a technical event where you have a chance to showcase your abilities to present universal ideas & innovative solutions to various problems. The problems should be related to daily life civil aspects.</p>
-                <p>
+            The  concept of this event is to give brief introduction of microcontroller board 
+like Arduino to the participants and also test their problem solving skills.
+   <p>
 
 
-<form method="get" action="../departmental_events/soccer/civilexpo.php">
+<form method="get" action="../departmental_events/rtist/arduino.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
     border: solid;

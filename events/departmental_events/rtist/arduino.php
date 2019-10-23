@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -30,17 +29,16 @@
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
 
-                    <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
-                    <!-- <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li> -->
-                    <li><a href="#generalrules"><i class="fa fa-universal-access"></i>General Rules</a></li>
-                    <li><a href="#team"><i class="fa fa-gamepad"></i>Team Specification</a></li>
+                    <li><a href="#event"><i class="fa fa-globe"></i> Event description</a></li>
+                        <!-- <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
+                        <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li> -->
+                    <!-- <li><a href="#generalrules"><i class="fa fa-universal-access"></i>General Rules</a></li>
+                    <li><a href="#team"><i class="fa fa-gamepad"></i>Team Specification</a></li> -->
                     <li><a href="#judge"><i class="fa fa-gamepad">Judgement Criteria </i>
-</a></li>
 
                     <li><a href="#prize"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="numberRoute.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="arduino.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
 
@@ -48,7 +46,7 @@
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">Numbery Route</div>
+                    <div class="eventHeading" style="text-align: center;">ARDUINO WORKSHOP</div>
 
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -58,7 +56,7 @@
 
             <br/>
 
-            <div class="row" id="Problem">
+            <div class="row" id="event">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
@@ -70,17 +68,21 @@
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
 
-                                    <p>In Numbery route the team of participants has to Build a autonomous line follower robot which should also 
-                                    be able to count the no. of boxes placed parallel along the route and also to count the 
-                                    number of boxes of same height.</p>
+                                    <p>The  concept of this event is to give brief introduction of microcontroller
+                                         board like Arduino to the participants and also test their problem 
+                                         solving skills.</p>
 
-                                    <p>Boxes of three different Heights will be placed Randomly along the route ,the bot has
-                                         to count the no. of boxes  of each type while following the line .</p>
-                                    <p>The bot should be autonomous i.e. it should it controlled via wired or wireless medium .</p>
-                                    <p>All this data along with the time of journey should be 
-                                        displayed on the LCD screen embedded into the bot.</p>
-                                    <p>Numbery Route will contain only one round .  </p>
-                                   <center> <img src="number_route.png">  </center>
+                                        <b> ROUND 1</b>
+<li>All students will be given a workshop of about 2 -3 hours on the basics of Arduino and some sensors interfacing will be taught to them.</li>
+<li>Then a MCQ test will be organized which would be of 30 min.</li>
+<li>Students will be shortlisted on the basis of their scores in the test.</li>
+<b>ROUND 2</b>
+<li>Then, each team of participants have to perform the task as per the problem statement shared.</li>
+<li>Problem statement will include the interfacing of the sensors taught on the workshop.</li>
+
+
+
+
                                     </div>
                                     </div>
                             </section>
@@ -90,21 +92,27 @@
                 </div>
             </div>
 
-                <div class="row" id="generalrules">
+                <div class="row" id="judge">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> General Rules </h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"> Judgement Criteria</i></h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                   <li>Bot will be given only three chances  to be replaced if it misses the track </li>
-                                   <li>It should display the number of blocks of each height .</li>
-                                   <li>It should the display the travel time .</li>
-                                   <li>Bot would have to follow a black line on a white Background</li>
+                                    
+                                    <li>For the workshop the students will be shortlisted based on the result of 
+                                        quiz of round 1.</li>
+                                    <li>In the round 2 the result will be decided on the basis of best performing 
+                                        team (shortest time and optimized code).</li>
+
+                                        <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+ <a style="color:white; text-decoration:underline;"
+  href="arduino.pdf">Click here</a> to view rule book.
+
 
                                     </div>
                                 </div>
@@ -117,95 +125,7 @@
 
 
             <br />
-
-            <div class="row" id="team">
-                    <div class="col-md-12">
-                        <div class="panel panel-primary" style="border: black" >
-                            <div class="panel-heading" style="background: black;">
-                                <h3 class="panel-title"><i class="fa fa-rss"></i>Team Specification</h3>
-                            </div>
-                            <div class="panel-body">
-                                <section class="feed-item">
-    
-                                    <div class="feed-item-body">
-                                        <div class="text eventInfo">
-                                                    <li>Bot Specification : 30cm  x 25 cm  (maximum)</li>
-                                                    <li>Track Specifications :  3m x 4cm </li>
-                                                    <li>Width of black line to be followed :  4 cm</li>
-                                                    <li>Distance between boxes : 10 cm – 40 cm</li>
-                                                    <li>Height of Boxes  :
-                                                       <ol>
-                                                            <li>30 cm</li>
-                                                            <li>25 cm</li>
-                                                            <li>10 cm</li>
-                                                       </ol> 
-                                                    </li>
-                                            
-                                        </div>
-                                    </div>
-                                </section>
-    
-                            </div>
-                        </div>
-                    </div>
-                </div>    
-                
-                <div class="row" id="judge">
-                        <div class="col-md-12">
-                            <div class="panel panel-primary" style="border: black" >
-                                <div class="panel-heading" style="background: black;">
-                                    <h3 class="panel-title"><i class="fa fa-rss"></i>Judgement Criteria</h3>
-                                </div>
-                                <div class="panel-body">
-                                    <section class="feed-item">
-        
-                                        <div class="feed-item-body">
-                                            <div class="text eventInfo">
-                                                    <li> Bot must follow the line. </li>
-                                                    <li> The number of blocks of each type must be counted. </li>
-                                                    <li> Priority will be given to the bot who will count  the details correctly time correctly. </li>
-                                                    <li> If the bots in competition completes all above criteria then time of completion will be taken in consideration.  </li>
-                                                    <li> In Situations of any Dispute/Tie  the final decision of the organizers will be valid .</li>	
-                                                     
-                                                
- <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
- <a style="color:white; text-decoration:underline;"
-  href="numberRoute.pdf">Click here</a> to view rule book.
-                                                
-                                                </div>
-                                        </div>
-                                    </section>
-        
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-           <div class="row" id="generalrules">
-             <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> General Rules</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                        <li>The B-Plan must be related to Biotech, either directly or have potential uses in Biotechnology filed (which are to be made clear in the presentation). </li>
-                                        <li>The presentation must include points such as raw materials required, equipements, possible future prospects, scalability and viability, both concept-wise and economy-wise.</li>
-                                        <li>Ruling of judges will be binding and final. </li>
-                                        <li>Time limit- 15 minutes
- </li>
-                                    </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+   
 
 
            <div class="row" id="prize">
@@ -219,7 +139,7 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        
+                                    <p>4000/- Rs. or Goodies. </p>
                                     </div>
                                 </div>
                             </section>

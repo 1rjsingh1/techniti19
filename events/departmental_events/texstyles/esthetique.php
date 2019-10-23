@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>E-Waste Makerthon</title>
+    <title>Esthetique - The Smart Textile</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -30,15 +30,15 @@
           <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-                    <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
-                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Team Specification</a></li>
-                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
-                    <li><a href="#testingofbridge3"><i class="fa fa-universal-access"></i>Round 3</a></li>
 
-                    <li><a href="#judgingandscoring"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#rules"><i class="fa fa-list-ol"></i>Event Description</a></li>
+                    <li><a href="#themes"><i class="fa fa-universal-access"></i>Themes</a></li>
+                    <li><a href="#techrules"><i class="fa fa-universal-access"></i>Technical Rules</a></li>
+                    <li><a href="#general"><i class="fa fa-universal-access"></i>General Rules</a></li>
+                    <li><a href="#judge"><i class="fa fa-universal-access"></i>Judgement Criteria</a></li>
+                    <li><a href="#prizemoney"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/file/d/1JgAQU67l7qK8-wzabxQFRN6W9BBMfON-/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="esthetique.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
 
@@ -48,7 +48,7 @@
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">E-Waste Makerthon</div>
+                    <div class="eventHeading" style="text-align: center;">Esthetique - The Smart Textile</div>
 
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -58,90 +58,20 @@
 
             <br/>
 
-            <div class="row" id="Problem">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i>Event description</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
 
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo" >
-                                      Both Software and Hardware prototypes on E-Waste management are
-welcomed.
-The event consists of 3 rounds where first two rounds are online
-assesment . First round is meant to test the knowledge of condidates
-on E - Waste and Basics of Electronics.
-Selected students from the first round have to send the detailed
-presentation of their idea.
-Presentation will be assesed in detail by the veterans and selected
-teams are invited for the offiline round which is being held at
-Dr. B R Ambedkar National Institute of Technology, Jalandhar.
-Extra points weill be awarded for innovation.
-                                    </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-                <div class="row" id="storyline">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Team Specification </h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                      Team may contain maximum of 4 members.(Minimum of 2 members)
-  (A team may contain members from different colleges too.)
-
-                                    </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-            <br />
             <div class="row" id="rules">
 
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 1</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Event Description</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                       <p>It will be an online assessment where each team is being
-evaluated on the basis of merit, questions will be of type MCQs and one
-word. <br>
-Test include questions on :
-                                        </p>
-
-
-                                       <li> Effects and Impacts of E-Waste.</li>
-                                        <li> E-Waste Mangement.</li>
-
-
-                                        <li>Current affairs related to E-Waste.</li>
-<li>Basics of Electronics.</li>
-Test will be of 30min and will be held on Google Forms and results will
-be published on below link and will be informed personally.
-
-
+                                        People intertwine to bring the best out of their minds. As fibres are drafted, the apparels are crafted, the statutory delight of watching fashionable people with technical badges worth belong to the gasping eyes of the crowd. ESTHETIQUE - The Smart Textile calls upon you to set the runway on fire to give us some of the most memorable freeze frames of our lives. It's time that we welcome all the handsome hunks and gorgeous ladies to showcase the magma of their personality spliced with creativity and audacity to be judged.
                                     </div>
                                 </div>
                             </section>
@@ -151,33 +81,30 @@ be published on below link and will be informed personally.
                 </div>
             </div>
 
-            <div class="row" id="testingofbridge">
+            <div class="row" id="themes">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Themes : Smart Textiles</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        <p>Selected Teams have to send a detailed presentation of
-their idea. Implementaions of their idea can be of both the form, either
-Software (Web Applications,Android Applications) or Hardware. <br> PPT should contain:</p>
+                                        
 
-                                    <li>Team Details.</li>
-                                    <li>Idea/ Approach Details <br>
-(Describe your Use Cases/Measurable Impact) <br>
-(Describe your Idea/ Solution/ Prototype) <br>
-(Technology Stack in case of Software)<br>
-(Details of the Hardware used) <br>
-<li>Present your idea using Flowcharts/ Block diagrams.
-Extra points will be awared for innovations.
-Presentaion can be sent either in ppt or pdf format (size should not
-exceed 2mb and slides should not exceed 10 pages) </li>
+                                    <li>Protective clothing (Fire Fighting, Space Suit)</li>
+                                    <li>Camouflage (Defence apparels)
+                                    </li>
+                                    <li>Resistive Textiles (Soil Repellent, Water Repellent, Self-Cleaning,  Anti-Microbial)</li>
+                                    <li>Wearable Electronics</li>
+                                    <li>Sensitive Textiles (Heat Sensitive, Temperature Sensitive, Motion Sensitive)</li>
+                                    <li>Recyclable Textiles</li>
+
                                     </div>
                                 </div>
+                                
                             </section>
 
                         </div>
@@ -185,41 +112,122 @@ exceed 2mb and slides should not exceed 10 pages) </li>
                 </div>
             </div>
 
-
-           <div class="row" id="testingofbridge3">
+            <div class="row" id="techrules">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Technical Rules</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        <p>Evaluation of ppt will be done by the veterans and
-shortlisted teams are invited to Dr. B R Ambedkar National Instiute of
-technology, Jalandhar (NITJ) for next round.
-This will be 6hrs Makerthon where teams have to present their idea
-along with the prototype confront of judges and need to assert
-appropriate modifications directed by them.</p>
+                                        
 
+                                    <li>Teams can choose at least two domains from the above themes and should well informed to the organising committee beforehand.</li>
+                                    <li>The clothes worn should contain technical relevance which can either be depicted directly or otherwise passively demonstrated.
+                                    </li>
+                                    <li>The apparel parameters are as follows:
+                                        <li>Aesthetic (appearance)</li>
+                                        <li>Wearability (usability)</li>
+                                        <li>Technicality (specific purpose or application as per your chosen domain)</li>
+                                    </li>
+                                    
 
+                                    </div>
+                                </div>
+                                
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" id="general">
+             <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i>General Rules and Instructions</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                        
+
+                                    <li>ESTHETIQUE - The Smart Textile is a Technical Theme-Based Fashion show open to college students of any program with valid id proofs.</li>
+                                    <li>Each team must be composed of Max. 15 members and Min. 10 members, including one person for the sound. The team should contain both boys and girls.
+                                    </li>
+                                    <li>No person should be a part of multiple teams.</li>
+                                    <li>Swapping or changing of the team member is prohibited.</li>
+                                    <li>Crossover teams can be formed between students of at most 2 colleges, all having valid college ID cards for the current year.</li>
+                                    <li>No branding on clothes should be there. Sponsors of colleges will be given announcements only.</li>
+                                    <li>Team can take help of people outside the college such as designers, choreographers, makeup artists, but these professionals will not be a part of the team and will not be eligible for the best designer or best choreographer.</li>
+                                    <li>Use of cigarettes, alcohol, water, fire and animals in any form will not be allowed on the stage or on the ramp. Any unfair means is strongly prohibited.</li>
+                                    <li>The teams are required to bring in their own music in pen drives and one back up in CD and should hand it over to the organizers at least 2 hours before the event commences. The organizers will be providing the audio equipment to play the music.</li>
+                                    <li>If lighting facility is to be availed, one person of the group can supervise the lighting. Otherwise it will be up to the lights group.</li>
+                                    <li>For the use of props (if any). The team must consult the organizing committee beforehand.</li>
+                                    <li>Rooms will be provided to teams for dressing up and rehearsal.</li>
+                                    <li>Every team will be allowed 20-22 min to showcase all their models (empty stage to empty stage).</li>
+                                    <li>Points will be deducted on exceeding the time limit.</li>
+                                    <li>Use of National Flag and army uniforms during the performance is strictly prohibited, violation of this rule will lead to disqualification of the team.</li>
+                                    <li>Team must not have any performer without college ID card of the registered college. This Rule will be strictly followed during registration and after the performance.</li>
+                                    <li>Vulgarity of any kind would lead to disqualification from the event. Hence, if the team feels that any stunt or costume design can deemed as vulgar it is strictly advised to consult the coordinators before performing.</li>
+                                    <li>Any social or current issue around the world should not be exhibited by the team. The theme should be strictly technical.</li>
+                                    </div>
+                                </div>
+                                
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" id="judge">
+             <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i>Judgement Criteria</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                    Teams will be judged on the basis of: 
+
+                                    <li> Technowear</li>
+                                    <li>Aesthetic </li>
+                                    <li>Decency</li>
+                                    <li>Expressions</li>
+                                    <li>Originality and confidence</li>
+                                    <li>Originality and confidence</li>
+                                    <li>Clarity of Depiction</li>
+                                   The decision of the event coordinator and judges will be final and binding on all.
                                     </div>
                                 </div>
                                 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                   <b> Registration fee : Rs. 2500</b><br>
+                                <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                   <b> Minimum 15 and maximum 20 members</b><br>
+                                <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
                                     <a style="color:white; text-decoration:underline;"
- href="https://drive.google.com/file/d/1JgAQU67l7qK8-wzabxQFRN6W9BBMfON-/view?usp=sharing">Click here</a> to view rule book.
+ href="esthetique.pdf">Click here</a> to view rule book.
+
                             </section>
 
                         </div>
                     </div>
                 </div>
-
             </div>
 
 
-           <div class="row" id="judgingandscoring">
+
+           <div class="row" id="prizemoney">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
@@ -227,12 +235,10 @@ appropriate modifications directed by them.</p>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
 
-                                </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-Prize money worth Rs. 15000
+Prizes worth Rs. 50000
                                     </div>
                                 </div>
                             </section>
@@ -243,7 +249,7 @@ Prize money worth Rs. 15000
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" href="../team_register.php?id=51" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=37" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 
@@ -265,18 +271,18 @@ Prize money worth Rs. 15000
                                                 <div class="row">
                                                     <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            T Yathindra Rao
+                                                            Maninder Singh
                                                         </div>
                                                         <div class="Number">
-                                                            +91-8332063370
+                                                            +91-8284937062
                                                         </div>
                                                     </div>
                                                     <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Dhivesh Joshi
+                                                            Abhishek Bajpai
                                                         </div>
                                                         <div class="Number">
-                                                            +91 9592490189
+                                                            +91-7986695677
                                                         </div>
                                                     </div>
 

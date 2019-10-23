@@ -34,11 +34,10 @@
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Problem Statement</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Round 1</a></li>
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 2</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 3</a></li>
-                    <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Round 4</a></li>
+                    <li><a href="#judgingandscoring"><i class="fa fa-list-ol"></i> Judgement Criteria</a></li> 
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/open?id=1bLY_I3POsjqyyqNROYbOdt7tyj4foctQ" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="dimensions.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
                 
@@ -69,8 +68,7 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                      Students have to prepare their own Solar car and pass the obstacles of the race track as fast as they
-could keeping in mind certain penalties that are being offered in track.
+                                      Soap Carving is the aim with the help of                 cutter and scale provided by organizer as                   per the given dimensions.
                                     </div>
                                 </div>
                             </section>
@@ -83,18 +81,19 @@ could keeping in mind certain penalties that are being offered in track.
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 1: Technical Inspection and Static Round </h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 1</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    <li>Max dimensions of Car – 400mm X 300mm X 150mm</li>
-                                    <li>Battery – 12V, 5AH (single)</li>
-                                    <li>Motor Capacity – Geared motor – Grade A quality – 600rpm.</li>
-                                    <li>Maximum weight should not exceed 8kg.</li>
-                                    <li>An oral presentation of innovation in design.</li>
+                                        An Aptitude test will be there 
+                                        <p>
+                                    <li>Test Duration: 1 hour </li>
+                                    <li>Part A & B : 25 questions each part (Quantitative Aptitude, Logical Reasoning, General Vocabulary and Data Interpretation). </li>
+                                    <li>Part A & B : 25 questions each part (Quantitative Aptitude, Logical Reasoning, General Vocabulary and Data Interpretation). </li>
+                                    <li>Top 10 teams will go for round 2. </li>
                                     </div>
                                 </div>
                             </section>
@@ -111,23 +110,19 @@ could keeping in mind certain penalties that are being offered in track.
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2: Dynamic Round</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                      The teams that pass round 1 will enter round 2. It will consist of race track and participant must
-cross it as soon as possible. <br>
-Instructions for Round 1 and Round 2- <br>
-                                       <li>  Each teams have to provide a Xerox copy of their battery and motor specification sheet.</li>
-                                        <li>Solar Panel can be self designed or readily available. (In case of self designed provide a design
-report.)</li>
-                                        <li> There should be no overhanging of solar panel.</li>
-                                        <li> Wiring should not be loosely connected. </li>
-                                        Above mentioned instructions should be followed as violation of above accounts for negative
-points.
+                                      Soap Carving is the aim of this round <br>
+                                       <li> They would be provided with 2 rectangular soap blocks, a cutter, a pencil and a scale. </li>
+                                        <li> They would be given the dimensions of 2 disassembled parts in the problem sheet with accurate dimensions on it. </li>
+                                        <li>  The contestants would then shape the 2 rectangulare soaps into the appropriate dimensions as provided and then they are supposed to assemble them. </li>
+                                        <li>  The best assembled model matching the dimensions provided would be declared as the winner. </li>
+                                        
                                                 <div class="row">
                                             <div class="col-md-12 col-lg-12 col-sm-12">
                                                 <center>
@@ -145,81 +140,32 @@ points.
                 </div>
             </div>
 
-            <div class="row" id="testingofbridge">
+            <div class="row" id="judgingandscoring">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Judgement Criteria</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                      Qualifying teams of round 2 will give appropriate suggestions to other teams about their respective
-    cars.
+                                      The best assembled model matching the dimensions provided would be declared as the winner. 
                                     </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row" id="judgingandscoring">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 4</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                <div class="icon pull-left">
-
-                                </div>
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                <li>Final race by implementing the suggestions and improvements.</li>
-                                <li>Solar Run-
-There will be a race among the teams after removing the battery connection (using solar energy)</li>
-                                  </div>
                                 </div>
                                 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
                                     <a style="color:white; text-decoration:underline;"
- href="https://drive.google.com/open?id=1QYmfBRFayLNx2-zBYT1en3kXEKB2eZJh">Click here</a> to view rule book.
+ href="dimensions.pdf">Click here</a> to view rule book.
                             </section>
+
                         </div>
                     </div>
                 </div>
             </div>
 
-            <!-- <div class="row" id="writtentest">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i>Written Test</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                      <li>Any one member of the team has to appear for the written test succeded by the testing of the structure</li>
-                                      <li>The written test comprises of the questions on the basic Engineering Mechanics.</li>
-                                      <li>The total score of the team is calculated from the testing of the structure and the marks scored in the written test.</li>
-                                      <li>Written test is mandatory for all the teams participating in the event, if a team misses the written test, it may lead to direct disqualification.</li>
-                                      <li>Participants should carry the stationary material such as pen, pencil, etc.</li>
-
-                             </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-            <div class="row" id="judgingandscoring">
+          
+            <div class="row" id="prize">
                  <div class="col-md-12">
                      <div class="panel panel-primary" style="border: black" >
                          <div class="panel-heading" style="background: black;">
@@ -232,7 +178,7 @@ There will be a race among the teams after removing the battery connection (usin
                                  </div>
                                  <div class="feed-item-body">
                                      <div class="text eventInfo">
-
+Prize money worth Rs. 2,200
                                      </div>
                                  </div>
                              </section>
@@ -243,7 +189,7 @@ There will be a race among the teams after removing the battery connection (usin
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" href="../team_register.php?id=31" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=32" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 
