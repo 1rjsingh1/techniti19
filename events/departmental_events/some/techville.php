@@ -36,12 +36,12 @@
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Programme outcome</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>General guidelines</a></li>
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Worth</a></li>
 
                     <li><a href="https://drive.google.com/file/d/1pj5EBr6EgvJeMAelozkFll107J9WvuEd/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-               
+
             </div>
         </nav>
 
@@ -238,16 +238,14 @@ our Facebook page:
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prizes Worth</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
 
-                                </div>
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                      <li></li>  </div>
+                                  Prizes worth Rs. 20,000/-
+                                
                                 </div>
                             </section>
                         </div>
@@ -257,7 +255,7 @@ our Facebook page:
 
             <div id="RegisterContainer">
 
-                <a class="semi-transparent-button" href="../team_register.php?id=24" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="https://docs.google.com/forms/d/e/1FAIpQLSeLgFfbWlCEoeaaIQ5rTYOg_q2Qln_i-bWRGzDYT_l34V0qrg/viewform" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 

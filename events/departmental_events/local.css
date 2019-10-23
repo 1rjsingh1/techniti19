@@ -20,7 +20,7 @@
     background: black;
     color: black;
   }
-   
+
   /* Handle */
   ::-webkit-scrollbar-thumb {
     background: #003333;
@@ -28,14 +28,14 @@
 
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #265940; 
-    box-shadow: inset 1px white; 
+    background: #265940;
+    box-shadow: inset 1px white;
   }
 @font-face {
   font-family: nexabold;
   src: url("../fonts/nexa/nexabold.otf") format("opentype");
 }
-  
+
 @font-face {
   font-family: nexalight;
   src: url("../fonts/nexa/nexalight.otf") format("opentype");
@@ -85,7 +85,7 @@
   color: white;
 }
     .semi-transparent-button {
-      padding:8px; 
+      padding:8px;
       box-sizing: border-box;
       margin: 0 auto;
       width: 80%;
@@ -97,7 +97,7 @@
       text-decoration: none;
       font-family: nexabold;
       transition: all 0.3s ease-out;
-      
+
     }
 
     .wow {
@@ -154,7 +154,7 @@
     .eventInfo{
         font-size: 15px;
         font-family: nexalight;
-        text-align: justify; 
+        text-align: justify;
         color: white;
     }
 

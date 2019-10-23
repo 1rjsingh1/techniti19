@@ -90,7 +90,7 @@
                         <a href="../category.html" >Mega Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="#" >Sponsors</a>
+                        <a href="../../sponsors.html" >Sponsors</a>
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
@@ -104,17 +104,17 @@
         </nav>
 <div id="webgl-output"></div>
 <main class="preview-page">
-    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/chess.jpg);background-size: cover;
+    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/soece.jpg);background-size: cover;
     background-position: center;
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 1</span>
         <h1 class="preview__name" style="font-size: 40px;">
-            Society Of Electronics and Communication Engineers</h1>
+            Society Of Biotech Engineers</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -124,30 +124,41 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">This is the society of Biotech Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 
+<div class="preview-info__content">
+        <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
+        <ul class="preview-info__team">
+                            <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Kushal Saini</span><br>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-8283030704</span>
+                </li>
+
+                <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Jashaninder Singh</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-842706248</span>
+                </li>
+            
+
+        </ul>
+        
     </div>
-    
+    </div>
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
     <div class="comments__content">
         <div class="comments__left">
             <div class="comment comment--first">
-            <b class="comment__author" style="font-size: 30px;">Mind The Mind </b>
+            <b class="comment__author" style="font-size: 30px;">Bio Entrepreneur  </b>
             <p class="comment__date"></p>
-            <p class="comment__text">
-              The event consists of 3 rounds in which first two rounds are meant to test programming skills of participants and their problem solving capabilities.
-
-      These two rounds are to be organized online, where top 16 teams from first round move to second round.
-
-      From second round 8 teams move ahead to the final round, which is the main attraction of the Event.
-
-      In the third round circuit analyzing and synthesis ability of participants would be tested.</p>
+            <p class="comment__text" style="font-size: 17px;">
+            The participants have to submit a powerpoint presentation on the basis of a B-Plan related to biotechnology and showcase it in the main event.</p>
                 <p>
 
-  
-<form method="get" action="../departmental_events/soece/mindthemind.php">
+
+<form method="get" action="../departmental_events/sober/bioe.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
     border: solid;
@@ -160,35 +171,8 @@
 
 
 
-                <div class="comment__underline"></div>
+              
         </div>
-                    <div class="comment comment--first">
-            <b class="comment__author"  style="font-size: 30px;">E-Waste</b>
-            <p class="comment__date"></p>
-            <p class="comment__text">To implement the given circuit by encountering the bugs in it. It will be a team game. Each team will have maximum 3
-
-members.
-
-The event consists of 3 rounds. There will be elimination at each round. 10 teams will be selected for second round and top 5 teams among them will make it to final round.
-
-The first round will test the visual interpretation. The second round is- creating imaginary shop and testing advertising skills.
-
-In final round, a circuit will be given and team has to kill the bugs in circuit first and have to implement that circuit.
-</p>
- 
-<form method="get" action="../departmental_events/soece/ewaste.php">
-    <button type="submit" style="background-color: Transparent;
-    background-repeat:no-repeat;
-    border: solid;
-    cursor:pointer;
-    border-radius: 10px;
-    overflow: hidden; ">Register</button>
-</form>
-
-                        <div class="comment__underline"></div>
-
-        </div>
-                    
 </div>
 
 </div>
@@ -223,7 +207,7 @@ In final round, a circuit will be given and team has to kill the bugs in circuit
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>

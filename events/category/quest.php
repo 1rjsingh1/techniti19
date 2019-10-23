@@ -92,7 +92,7 @@
                         <a href="../category.html" >Mega Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="#" >Sponsors</a>
+                        <a href="../../sponsors.html" >Sponsors</a>
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
@@ -129,7 +129,23 @@
 <p style="font-size: 20px;">Welcome to The Quest Club!<br>
 
 Are you a die-hard adventurer, a seeker of ancient mysteries and looking for thrills and excitement? For more information&#44;<a href="https://www.instagram.com/nitjquizclub/"> click here</a></p>
+<div class="preview-info__content">
+        <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
+        <ul class="preview-info__team">
+                            <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Chikku Kumar</span><br>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-9534567582</span>
+                </li>
 
+                <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Adarsh Agarwal</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-9041698681</span>
+                </li>
+            
+
+        </ul>
+        
+    </div>
     </div>
 
 </div>

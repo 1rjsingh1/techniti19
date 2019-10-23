@@ -89,7 +89,7 @@
                         <a href="../category.html" >Mega Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="#" >Sponsors</a>
+                        <a href="../../sponsors.html" >Sponsors</a>
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
@@ -125,6 +125,23 @@
 
 <p style="font-size: 20px;">This is the society of Chemical Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 
+<div class="preview-info__content">
+        <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
+        <ul class="preview-info__team">
+                            <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Vishali</span><br>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-9041069079</span>
+                </li>
+
+                <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Aashish Yadav</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-9079775726</span>
+                </li>
+            
+
+        </ul>
+        
+    </div>
     </div>
 
 </div>

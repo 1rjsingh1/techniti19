@@ -90,7 +90,7 @@
                         <a href="../category.html" >Mega Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="#" >Sponsors</a>
+                        <a href="../../sponsors.html" >Sponsors</a>
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
@@ -110,7 +110,7 @@
     background-attachment: fixed;">
     <div class="preview__inner">
         <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
-        <h1 class="preview__name" style="font-size: 40px;">
+        <h1 class="preview__name" style="font-size: 40px; width:50%">
             Society Of Electronics and Communication Engineers</h1>
 
     </div>
@@ -125,7 +125,23 @@
 
 
 <p style="font-size: 20px;">This is the society of Electronics and Communication Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
+<div class="preview-info__content">
+        <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
+        <ul class="preview-info__team">
+                            <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">T. Yathindra Rao</span><br>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-8332063370</span>
+                </li>
 
+                <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Dhivesh Joshi</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-7973322799</span>
+                </li>
+            
+
+        </ul>
+        
+    </div>
     </div>
 
 </div>

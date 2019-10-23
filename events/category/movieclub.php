@@ -88,7 +88,7 @@
                         <a href="../category.html" >Mega Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="#" >Sponsors</a>
+                        <a href="../../sponsors.html" >Sponsors</a>
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
@@ -125,6 +125,23 @@
 <p style="font-size: 20px;">Welcome to the Movie club! <br>It is the place to be, when you want to showcase what you have got. It helps you to discover your own talent and work on it to bring out a better 'you'. For more information 
 &#44;<a href="https://www.instagram.com/nitj.movie_club/"> click here</a></p>
 
+<div class="preview-info__content">
+        <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
+        <ul class="preview-info__team">
+                            <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">T. Cheena Sri Komal Naik</span><br>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-8179651996</span>
+                </li>
+
+                <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Shankar</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-8872390498</span>
+                </li>
+            
+
+        </ul>
+        
+    </div>
     </div>
 
 </div>

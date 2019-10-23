@@ -122,7 +122,7 @@ on an off road track.
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                        <p><b><u> Technical Inspection</u></b> (T.I.)
 
 
@@ -206,6 +206,9 @@ and any furthur arguements will not be entertained.</li>
 <li>The organizers reserve the right to change any or all the rules as they
 deem fit. In case a change is made it will be notified to the registered team
 through mail.</li>
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+<a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=1POzBQlr8ZkTrQYVbcCpzurIfOTm-0mAE">Click here</a> to view rule book.
                                     </div>
                                 </div>
                             </section>
@@ -224,12 +227,10 @@ through mail.</li>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
 
-                                </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-
+Prize money Rs. 12,000/-
                                     </div>
                                 </div>
                             </section>
@@ -240,7 +241,7 @@ through mail.</li>
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" href="../team_register.php?id=27" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="https://docs.google.com/forms/d/e/1FAIpQLSf1Of5b5XX2M_kSBgeXe6L4qGwxZ-nqgZqEAp44d7fHWAqJeQ/viewform" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 

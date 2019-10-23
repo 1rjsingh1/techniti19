@@ -88,7 +88,7 @@
                         <a href="../category.html" >Mega Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="#" >Sponsors</a>
+                        <a href="../../sponsors.html" >Sponsors</a>
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
@@ -122,8 +122,24 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">Welcome to the world of gaming.
+<div class="preview-info__content">
+        <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
+        <ul class="preview-info__team">
+                            <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Vinay Yadav</span><br>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-9983336345</span>
+                </li>
 
+                <li class="preview-info__member">
+                    <span class="preview-info__name" style="font-size: 20px;">Arpit Gupta</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-9571538393</span>
+                </li>
+
+
+        </ul>
+
+    </div>
     </div>
 
 </div>
@@ -149,6 +165,54 @@ become the KING OF THE HILL.</p>
     cursor:pointer;
     border-radius: 10px;
     overflow: hidden; ">Register</button>
+</form>
+
+
+
+
+
+
+</div>
+<br>
+<div class="comment comment--first">
+<b class="comment__author" style="font-size: 30px;">NFS </b>
+<p class="comment__date"></p>
+<p class="comment__text" style="font-size: 17px;">
+  Welcome to the world of speed</p>
+    <p>
+
+
+<form method="get" action="../departmental_events/langaming/nfs.php">
+<button type="submit" style="background-color: Transparent;
+background-repeat:no-repeat;
+border: solid;
+cursor:pointer;
+border-radius: 10px;
+overflow: hidden; ">Register</button>
+</form>
+
+
+
+
+
+
+</div>
+<br>
+<div class="comment comment--first">
+<b class="comment__author" style="font-size: 30px;">Fifa  20 </b>
+<p class="comment__date"></p>
+<p class="comment__text" style="font-size: 17px;">
+   Welcome to the world of FIFA.</p>
+    <p>
+
+
+<form method="get" action="../departmental_events/langaming/fifa.php">
+<button type="submit" style="background-color: Transparent;
+background-repeat:no-repeat;
+border: solid;
+cursor:pointer;
+border-radius: 10px;
+overflow: hidden; ">Register</button>
 </form>
 
 

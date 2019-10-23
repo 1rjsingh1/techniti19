@@ -2,11 +2,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/The Next CEO.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>techNITi19 EVENT -  The Next CEO</title>
+    <title>Kya Tu Beer Hai?</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -27,49 +26,27 @@
 <body>
 
     <div id="wrapper">
-          <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background: black;">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="../../../index.html"> techNITi'19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-            </div>
-            <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
-                <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
+      <?php include('../../../navbar.php'); ?>
+      <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
+            <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
 
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Event Description</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Round 1</a></li>
                     <li><a href="#rules"><i class="fa fa-list-ol"></i>Round 2</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 3</a></li>
-                    <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#prizemoney"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
                     <li><a href="https://drive.google.com/file/d/1K4S6sxlVQ8EHhDKQeCEFFEY0pX1P6DvB/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                <ul class="nav navbar-nav navbar-left navbar-user">
-
-                    <li class="dropdown user-dropdown">
-                        <a href="../../../index.html" >Home</a>
-                    </li>
-                    <li class="dropdown user-dropdown">
-                        <a href="../category.html" >Events</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-
+              </div>
+          </nav>
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">The Next CEO</div>
+                    <div class="eventHeading" style="text-align: center;">Kya Tu Beer Hai?</div>
 
-                    <!-- <div id="RegisterContainer">
-                      <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
-                    </div> -->
+                    
                 </div>
             </div>
 
@@ -86,12 +63,9 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                      Team Size : 1 to 5 <br>
-Techniti NIT Jalandhar brings to you the most awaited The Next CEO challenge the inner entrepreneur.
-Form your own teams of one to five, and go head to head against other teams in this three tier competition.
-Each level, more gruelling than the last, made to test every aspect from critical thinking to being able to
-socialise and connect. Never-Before-Organised, this event, puts you to test, which end up with unparalleled
-rewards, in addition to the memories and accolades.
+                                      Targeted audience: open to all
+<p>Team size: 4 to 5 members</p>
+
                                     </div>
                                 </div>
                             </section>
@@ -104,16 +78,14 @@ rewards, in addition to the memories and accolades.
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 1: Information Hunt </h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 1: </h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    <li>  The first round, Information Hunt, which has been divided into two sub-rounds which test your problem
-solving skills and critical thinking racing against the time. This round tests how well and dynamically you work
-with your teammates, and take a step towards grabbing that sweet victory. </li>
+                                    <li> Students will be provided with a startup company and provided with a budget (5 lakhs) for bidding.</li>
                                     </div>
                                 </div>
                             </section>
@@ -130,15 +102,24 @@ with your teammates, and take a step towards grabbing that sweet victory. </li>
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2: Investor Hunt</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 2</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
-                                       <li> The second round, Investor Hunt, revolves around quick thinking and takes you on a literal journey across the
-campus to “hunt” for your Investor to get the perfect pitch for your company.</li>
+                                    <div class="text eventInfo">
+                                        During bidding time, different teams will bid on different items that are in auction and useful for their startup as situation given in the first round.
+
+Evaluation of bidding will be done by judges on various parameters 
+<li>How team allocate the funds on different items</li>
+<li>Relevance of the items to the business that teams choose</li>
+<li>Risk factor for acquiring some items while biding</li>
+<li>Strength team work in the team</li>
+<li>Elimination of the teams for final round</li>
+<li>Final judgment by the judges</li>
+
+                                      
                                         <div class="row">
                                             <!-- <div class="col-md-12 col-lg-12 col-sm-12">
                                                 <center>
@@ -160,17 +141,24 @@ campus to “hunt” for your Investor to get the perfect pitch for your company
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3: Crisis Management</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Round 3</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    <li>The final round, Crisis Management, asks for your attention after you receive a grave news regarding your
-company. It is all about how you handle the situation while being grilled by the media to go on to win this
-coveted competition and take home all the glories.
-                                    </li>
+                                        Shortlisted student will bid and then then best bidder will be choose by the judges
+
+<li>Best Bidder award</li>
+<li> Best Risk taker Bidder award</li>
+<li>Best NIT J Bidder award</li>
+
+                                    
+                                    <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+                                     href="Bidding.docx">Click here</a> to view rule book.
+
                                     </div>
                                 </div>
                             </section>
@@ -180,62 +168,8 @@ coveted competition and take home all the glories.
                 </div>
             </div>
 
-            <!-- <div class="row" id="judgingandscoring">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Judging And Scoring</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-                                <div class="icon pull-left">
-
-                                </div>
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                <li>First the structure will be reviewed to check if it violates any rules mentioned above.</li>
-                                <li>The bridge will be scored on how well the material has been used to support the load.</li>
-                                <li>The efficiency will be calculated as the ratio of ultimate load capacity and the bridge weight.</li>
-                                <li>The deflection of the bridge at the yielding will be noted. If the deflection increases more than 10 mm ,then the load at the deflection will be taken as ultimate load.</li>
-                                <li>Violating any of the conditions mentioned above ,penalty will be imposed or may lead to disqualification.</li>
-                                <li>Weight exceeds the limit - Penalty of 20% of total score</li>
-                                <li>Dimensional specifications are not met - Penalty of 10% of total score</li>
-                                <li>Use of materials ,except the one stated in rules penalty of 50% of total score or can lead to disqualification</li>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row" id="writtentest">
-                <div class="col-md-12">
-                    <div class="panel panel-primary" style="border: black" >
-                        <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i>Written Test</h3>
-                        </div>
-                        <div class="panel-body">
-                            <section class="feed-item">
-
-                                <div class="feed-item-body">
-                                    <div class="text eventInfo">
-                                      <li>Any one member of the team has to appear for the written test succeded by the testing of the structure</li>
-                                      <li>The written test comprises of the questions on the basic Engineering Mechanics.</li>
-                                      <li>The total score of the team is calculated from the testing of the structure and the marks scored in the written test.</li>
-                                      <li>Written test is mandatory for all the teams participating in the event, if a team misses the written test, it may lead to direct disqualification.</li>
-                                      <li>Participants should carry the stationary material such as pen, pencil, etc.</li>
-
-                             </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
- -->
- <div class="row" id="prizemoney">
+       
+  <div class="row" id="prizemoney">
      <div class="col-md-12">
          <div class="panel panel-primary" style="border: black" >
              <div class="panel-heading" style="background: black;">
@@ -243,12 +177,11 @@ coveted competition and take home all the glories.
              </div>
              <div class="panel-body">
                  <section class="feed-item">
-                     <div class="icon pull-left">
 
-                     </div>
                      <div class="feed-item-body">
                          <div class="text eventInfo">
-                           <li>Prizes Worth Rs. 2000</li>  </div>
+                           <li>Worth Rs 1 <b>.</b> 2 Lac (Including trip to Singapore)</li>
+                            </div>
                      </div>
                  </section>
              </div>
@@ -256,9 +189,11 @@ coveted competition and take home all the glories.
      </div>
  </div>
 
-            <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
-              </div>
+
+ <div id="RegisterContainer">
+     <a class="semi-transparent-button" href="../team_register.php?id=22" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+   </div>
+
 
 
 

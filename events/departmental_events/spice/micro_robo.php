@@ -218,6 +218,9 @@ done.
                                     </li>
                                     
                                     </div>
+                                    <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=1iqwcQyieLVBrlLfIJAanRHcNnkHYFcBL">Click here</a> to view rule book.
                                 </div>
                             </section>
 
