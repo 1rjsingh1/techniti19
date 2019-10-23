@@ -275,31 +275,30 @@ our Facebook page:
                                         <center>
                                             <div class="container">
                                                 <div class="row">
-                                                    <!-- <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            CHUNCHU PRAVALIKA
+                                                            Harvindra Singh Dhaka
                                                         </div>
                                                         <div class="Number">
-                                                            +91-9172564108
+                                                            +91-872958885
                                                         </div>
                                                     </div>
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            KASA LOHIT
+                                                            Manik Gupta
                                                         </div>
                                                         <div class="Number">
-                                                            +91-8464995273
+                                                            +91-7696015509
                                                         </div>
                                                     </div>
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            SUVOG BORKAR
+                                                            Devansh Kumar
                                                         </div>
                                                         <div class="Number">
-                                                            +91-9011743948
+                                                            +91-7087231287
                                                         </div>
                                                     </div>
-                                                </div> -->
                                             </div>
                                         </center>
                                     </div>

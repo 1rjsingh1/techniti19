@@ -123,11 +123,6 @@ water rocket. It will be a type of model rocket using water as its reaction mass
                                         </p>
 
 
-
-
-•
-
-
                                        <li> A team may contain maximum of 4 members, no minimum limit
 (A team may consist of members from different colleges too).</li>
 
