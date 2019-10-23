@@ -110,7 +110,7 @@
     background-attachment: fixed;">
     <div class="preview__inner">
         <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 5</span>
-        <h1 class="preview__name" style="font-size: 40px;">
+        <h1 class="preview__name" style="font-size: 40px; width:60%">
             Society Of Mechanical Engineers (SOME)</h1>
 
     </div>
