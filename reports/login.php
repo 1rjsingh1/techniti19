@@ -16,9 +16,9 @@
       <form class="form-signin" method="post">
         <h1 class="form-signin-heading">Log-In </h1><br>
         <label for="Email1"><strong>Society Id </strong></label><br>
-        <input id="Email1" type="number" class="form-control" name="user" placeholder="Username" required>
+        <input id="Email1" type="number" class="form-control" name="user"  required>
           <label for="pass"><strong>Event Id</strong></label><br>
-        <input id="pass" type="number" class="form-control" name="pass" placeholder="Password" required/>
+        <input id="pass" type="number" class="form-control" name="pass"  required/>
         <br>
         <button id="button" class="btn btn-lg btn-primary btn-block" type="submit">Login </button>
       </form>
