@@ -149,6 +149,27 @@
     <h2 class="comments__header">List of Events</h2>
     <div class="comments__content">
         <div class="comments__left">
+
+            <div class="comment comment--first">
+            <b class="comment__author"  style="font-size: 30px;">Esthetique - The Smart Textile</b>
+            <p class="comment__date"></p>
+            <p class="comment__text" style="font-size: 17px;">People intertwine to bring the best out of their minds. As fibres are drafted, the apparels are crafted, the statutory delight of watching fashionable people with technical badges worth belong to the gasping eyes of the crowd. ESTHETIQUE - The Smart Textile calls upon you to set the runway on fire to give us some of the most memorable freeze frames of our lives. It's time that we welcome all the handsome hunks and gorgeous ladies to showcase the magma of their personality spliced with creativity and audacity to be judged.
+</p>
+
+<form method="get" action="../departmental_events/texstyles/esthetique.php">
+    <button type="submit" style="background-color: Transparent;
+    background-repeat:no-repeat;
+    border: solid;
+    cursor:pointer;
+    border-radius: 10px;
+    overflow: hidden; ">Register</button>
+</form>
+
+                        <div class="comment__underline"></div>
+
+        </div>
+
+
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Patagonia </b>
             <p class="comment__date"></p>
@@ -255,3 +276,5 @@ pencils, colors, sketch pens etc.
     <script src="main.js"></script>
 </body>
 </html>
+
+

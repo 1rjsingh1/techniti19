@@ -177,7 +177,7 @@
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-
+Prize money worth Rs. 2200
                                     </div>
                                 </div>
                             </section>

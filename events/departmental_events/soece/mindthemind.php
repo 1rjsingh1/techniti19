@@ -36,7 +36,7 @@
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
                     <li><a href="#testingofbridge3"><i class="fa fa-universal-access"></i>Round 3</a></li>
 
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#judgingandscoring"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
                     <li><a href="https://drive.google.com/open?id=1iqwcQyieLVBrlLfIJAanRHcNnkHYFcBL" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
@@ -240,7 +240,7 @@ done.
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-
+Prize money worth 2,200
                                     </div>
                                 </div>
                             </section>
