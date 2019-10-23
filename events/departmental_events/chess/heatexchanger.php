@@ -36,11 +36,11 @@
                     <li><a href="#rules"><i class="fa fa-list-ol"></i>Round 1</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#prize"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
                     <li><a href="https://drive.google.com/file/d/15uIjhgtjyjgsQkTZrKxsUASTdnhOFVdX/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
-                </ul> 
+                </ul>
             </div>
 
         <div id="page-wrapper">
@@ -48,7 +48,7 @@
                 <div class="col-md-12">
                     <div class="eventHeading" style="text-align: center;">Heat Exchanger</div>
 
-                    
+
                 </div>
             </div>
 
@@ -159,7 +159,7 @@
                                     <a style="color:white; text-decoration:underline;"
  href="https://drive.google.com/open?id=15uIjhgtjyjgsQkTZrKxsUASTdnhOFVdX">Click here</a> to view rule book.
 
-                                    
+
                                     </div>
                                 </div>
                             </section>
@@ -169,9 +169,9 @@
                 </div>
             </div>
 
-           
 
-            <div class="row" id="judgingandscoring">
+
+            <div class="row" id="prize">
                  <div class="col-md-12">
                      <div class="panel panel-primary" style="border: black" >
                          <div class="panel-heading" style="background: black;">
@@ -184,9 +184,7 @@
                                  </div>
                                  <div class="feed-item-body">
                                      <div class="text eventInfo">
-                                 <!-- <li>1st: 2000</li>
-                                 <li>2nd: 1500</li>
-                                 <li>3rd: 1000</li> -->
+                              Prize Money Worth Rs 2200/-
                                      </div>
                                  </div>
                              </section>

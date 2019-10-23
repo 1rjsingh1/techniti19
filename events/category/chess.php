@@ -108,7 +108,7 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 2</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 4</span>
         <h1 class="preview__name" style="font-size: 40px;">
             Society Of Chemical Engineers</h1>
 
@@ -137,10 +137,10 @@
                     <span class="preview-info__name" style="font-size: 20px;">Aashish Yadav</span><br>
                  <span class="preview-info__role style=" style="font-size: 20px;">+91-9079775726</span>
                 </li>
-            
+
 
         </ul>
-        
+
     </div>
     </div>
 
@@ -202,6 +202,51 @@ Participants are expected to come with innovative prototype of the heat exchange
 
                 <div class="comment__underline"></div>
         </div>
+        <div class="comment comment--first">
+   <b class="comment__author" style="font-size: 30px;">CHEM-E-CAR </b>
+   <p class="comment__date"></p>
+   <p class="comment__text" style="font-size: 15px;">
+  To provide Chemical engineering students with the opportunity to participate in a team- oriented- hands on design and construction of a small chemical powered model car. To design and construct a car that is powered by chemical reaction, cover a certain distance and then stop. Evaluation will be based on distance covered by car, safety measures provided and design of car.
+
+       <p>
+
+
+<form method="get" action="../departmental_events/chess/chemecar.php">
+<button type="submit" style="background-color: Transparent;
+background-repeat:no-repeat;
+border: solid;
+cursor:pointer;
+border-radius: 10px;
+overflow: hidden; ">Register</button>
+</form>
+
+<div class="comment__underline"></div>
+</div>
+
+
+<div class="comment comment--first">
+<b class="comment__author" style="font-size: 30px;">CHEM-E-TRIX </b>
+<p class="comment__date"></p>
+<p class="comment__text" style="font-size: 15px;">
+  This event is designed in two steps:
+  <li> Pen paper test will be qualifying round having simple questions related to general Physics, Chemistry & Mathematics.
+  </li> <li> In Second round there is Treasure hunt.
+  </li> Puzzles will be given to reach at particular location & puzzles will be based on chemical Engineering and Logical thinking.
+<p>
+
+
+<form method="get" action="../departmental_events/chess/chemetrix.php">
+<button type="submit" style="background-color: Transparent;
+background-repeat:no-repeat;
+border: solid;
+cursor:pointer;
+border-radius: 10px;
+overflow: hidden; ">Register</button>
+</form>
+
+
+
+
 
 </div>
 
