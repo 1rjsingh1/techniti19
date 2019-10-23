@@ -172,19 +172,19 @@ table .clientName h6{
   background-repeat: no-repeat;
 }
 .testimonials .client-section .web:nth-of-type(3) {
-  background-image: url("team/bhargav.jpg");
+  background-image: url("team/parteek.jpg");
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
 }
 .testimonials .client-section .web:nth-of-type(4) {
-  background-image: url("team/ajay.jpg");
+  background-image: url("team/bhargav.jpg");
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
 }
 .testimonials .client-section .web:nth-of-type(5) {
-  background-image: url("team/parteek.jpg");
+  background-image: url("team/ajay.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
