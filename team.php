@@ -257,60 +257,122 @@
 
     </div>
     </section>
-    <section class="webteam">
-      <div class="updateSection">
-        <h2>WEB TEAM</h2>
+    <br>
+    <br>
+    <section>
+      <div class="testimonials">
         <div class="testimonials">
-            <div class="client-section">
-                <div class="web">
-                    <div class="clientName">
-                        <h6>Ashish Yadav<br>Coordinator</h6>
-                    </div>
-                </div>
-                <div class="web">
-                    <div class="clientName">
-                        <h6>Rupinderjeet Singh<br>Co-Coordinator</h6>
-                    </div>
-                </div>
+        <h2 style="text-align: center">Other Team Members</h2><br>
+        <div>
+            <table border="bold" cellpadding="15px" align="center">
+                <tr>
+                    <td colspan="4">
+                        <div class="clientName">
+                            <h6>Marketing Secretary</h6>
+                        </div>
+                    </td>
+                    <td >
+                        <div class="clientName">
+                            <h6>Apoorv Tripathi, CE<br><br>Arpit Jain, CHE<br><br>Hardik Choudhary, CSE<br><br>Kamaldeep Kaur, CSE<br><br>Muskan Mehra, CSE<br><br>Parduman Mehra ,ME</h6>
+                        </div>
+                    </td>
+                    <tr>
+                    <td colspan="4">
+                        <div class="clientName">
+                            <h6>Event Management</h6>
+                        </div>
+                    </td>
+                    <td >
+                        <div class="clientName">
+                            <h6>Ankit Batra, TT<br><br>Manirattnam, TT<br><br>Prashant, TT<br><br>Sakshi, ECE<br><br>Maninder, TT<br><br>Dhananjay, TT</h6>
+                        </div>
+                    </td>
+                    <tr>
+                    <td colspan="4">
+                        <div class="clientName">
+                            <h6>Organising Secretary</h6>
+                        </div>
+                    </td>
+                    <td >
+                        <div class="clientName">
+                            <h6>Anuj Parmar, CSE<br><br>Pankush Mahajan, CSE<br><br>Tanya Bhola, ECE<br><br>Parul, CSE<br><br>Pratham, CSE</h6>
+                        </div>
+                    </td>
+                    <tr>
+                    <td colspan="4">
+                        <div class="clientName">
+                            <h6>Decoration Secretary</h6>
+                        </div>
+                    </td>
+                    <td >
+                        <div class="clientName">
+                            <h6>Amandeep, ECE<br><br>Jaideep Majithia, ME<br><br>Sandeep, CHE</h6>
+                        </div>
+                    </td>
+                    <tr>
+                    <td colspan="4">
+                        <div class="clientName">
+                            <h6>Publicity Secretary</h6>
+                        </div>
+                    </td>
+                    <td >
+                        <div class="clientName">
+                            <h6>Kushal, BT<br><br>Sannidhya, ECE<br><br>Supriya, ICE<br><br></h6>
+                        </div>
+                    </td>
+                    <tr>
+                    <td colspan="4">
+                        <div class="clientName">
+                            <h6>Creativity Secretary</h6>
+                        </div>
+                    </td>
+                    <td >
+                        <div class="clientName">
+                            <h6>Akshit Sodhi, ME<br><br>Sukhrippan, CE</h6>
+                        </div>
+                    </td>
+                    <tr>
+                    <td colspan="4">
+                        <div class="clientName">
+                            <h6>Web Secretary</h6>
+                        </div>
+                    </td>
+                    <td >
+                        <div class="clientName">
+                            <h6>Rupinderjeet, ECE</h6>
+                        </div>
+                    </td>
+                    <tr>
+                    <td colspan="4">
+                        <div class="clientName">
+                            <h6>Registration Secretary</h6>
+                        </div>
+                    </td>
+                    <td >
+                        <div class="clientName">
+                            <h6>Madhav Singla, IPE</h6>
+                        </div>
+                    </td>
+                    <tr>
+                    <td colspan="4">
+                        <div class="clientName">
+                            <h6>Mementos Secretary</h6>
+                        </div>
+                    </td>
+                    <td >
+                        <div class="clientName">
+                            <h6>Jami Harish, ECE<br><br>Bhargav Krishna, ECE</h6>
+                        </div>
+                    </td>
+                </tr>
 
-                <div class="web">
-                    <div class="clientName">
-                        <h6>Bhargav</h6>
-                    </div>
-                </div>
-
-                <div class="web">
-                    <div class="clientName">
-                        <h6>Ajay</h6>
-                    </div>
-                </div>
-                <div class="web">
-                    <div class="clientName">
-                        <h6>Ayushi Verma</h6>
-                    </div>
-                </div>
-
-                <div class="web">
-                    <div class="clientName">
-                        <h6>Parteek Goyal</h6>
-                    </div>
-                </div>
-                <div class="web">
-                    <div class="clientName">
-                        <h6>Noor</h6>
-                    </div>
-                </div>
-                <div class="web">
-                    <div class="clientName">
-                        <h6>Ritika Goyal</h6>
-                    </div>
-                </div>
-
-            </div>
+            </table>
         </div>
-
+        </div>
     </div>
+
     </section>
+
     <footer role="contentinfo" style=" padding-top: 40px; padding-bottom: 60px;">
 				<div style="margin-left :35%;">
 				 Website Developed and Maintained by TechNITi, NIT Jalandhar

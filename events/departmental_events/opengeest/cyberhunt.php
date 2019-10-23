@@ -99,7 +99,7 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                       <li>Registrations until: 07/11/2019</li>
 <li>Contest:<ul> -Round 1 – 08/11/2019 (10:00 AM)</ul>
   <ul>-Rules – 08/11/2019 (3:00 PM)</ul>
@@ -159,7 +159,9 @@
                                        <p><b><u>Venue</u></b></p>
                                        <li>Round 1 - Conference Hall (IT Building)</li>
 <li>Round 2 - Computer Lab</li>
-
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+    <a style="color:white; text-decoration:underline;"
+href="https://drive.google.com/file/d/1ilLWqWX5o5hbo78ilmvELOs-p9v7nGL6/view?usp=sharing">Click here</a> to view rule book.
 
                                     </div>
                                 </div>

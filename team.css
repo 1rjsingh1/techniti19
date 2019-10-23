@@ -286,7 +286,7 @@ table .clientName h6{
 }
 
 .testimonials .client-section .core:nth-of-type(9) {
-  background-image: url("team/ajay.jpeg");
+  background-image: url("team/ajaych.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -352,57 +352,9 @@ table .clientName h6{
   background-repeat: no-repeat;
 }
 .testimonials .client-section .core:nth-of-type(20) {
-  background-image: url("team/no.jpg");
+  background-image: url("team/sumanth.jpg");
   background-size: cover;
   background-position: center center;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .web:nth-of-type(1) {
-  background-image: url("team/ashishyadav.jpg");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .web:nth-of-type(2) {
-  background-image: url("team/rjsingh.jpg");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .web:nth-of-type(3) {
-  background-image: url("team/bhargav.jpg");
-  background-size: cover;
-  background-position: top;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .web:nth-of-type(4) {
-  background-image: url("team/ajay.jpg");
-  background-size: cover;
-  background-position: top;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .web:nth-of-type(5) {
-  background-image: url("team/ayushi.jpg");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .web:nth-of-type(6) {
-  background-image: url("team/parteek.jpg");
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .web:nth-of-type(7) {
-  background-image: url("team/noor.jpeg");
-  background-size: cover;
-  background-position: top;
-  background-repeat: no-repeat;
-}
-.testimonials .client-section .web:nth-of-type(8) {
-  background-image: url("team/ritika.jpg");
-  background-size: cover;
-  background-position: top;
   background-repeat: no-repeat;
 }
 .updateSection {

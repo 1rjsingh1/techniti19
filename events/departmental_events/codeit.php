@@ -113,7 +113,7 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                        <li>  The structure made (Trussed Bridge) will be tested on the day of event.</li>
                                         <li> Popsicle sticks can be altered physically by cutting or notching at any angle.</li>
                                         <li> Only Fevicol can be used as adhesive ,use of other adhesive may lead to disqualification.</li>
@@ -160,6 +160,9 @@
                                     </li>
                                     <li>Even if a single member of structure fails then evaluation will be made on the same load.
                                     </li>
+                                    <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                        <a style="color:white; text-decoration:underline;"
+                                    href="https://drive.google.com/open?id=1bLY_I3POsjqyyqNROYbOdt7tyj4foctQ">Click here</a> to view rule book.
 									</div>
                                 </div>
                             </section>

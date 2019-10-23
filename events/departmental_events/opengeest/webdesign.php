@@ -14,11 +14,11 @@
     <link href="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-    
+
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../../local.css" />
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -27,24 +27,24 @@
 <body>
 
     <div id="wrapper">
-          
+
             <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-                   
+
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Event description</a></li>
-                   
+
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
 
                     <li><a href="#details"><i class="fa fa-universal-access"></i>Other Details</a></li>
 
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
- 
+
                     <li><a href="https://drive.google.com/open?id=1KDQ-rFP57qmCfXFYd96h7HARXI0kCq9q" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -52,7 +52,7 @@
            <div class="row">
                 <div class="col-md-12">
                     <div class="eventHeading" style="text-align: center;">WEB DESIGN</div>
-                    
+
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
                     </div> -->
@@ -60,7 +60,7 @@
             </div>
 
             <br/>
-           
+
             <div class="row" id="Problem">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -69,7 +69,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
                                        It is time that you show off your creativity with code. This event will ask you to design a
@@ -82,8 +82,8 @@ web page on a particular topic. Team with the most impressive design takes it al
                     </div>
                 </div>
             </div>
-            
-            
+
+
 
             <br />
             <div class="row" id="rules">
@@ -95,11 +95,11 @@ web page on a particular topic. Team with the most impressive design takes it al
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                        Given a Picture. Implement the exact web page. Maybe add animations or something to
-show your own creativity   
+show your own creativity
 
                                     </div>
                                 </div>
@@ -109,7 +109,7 @@ show your own creativity
                     </div>
                 </div>
             </div>
-            
+
             <div class="row" id="testingofbridge">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -118,7 +118,7 @@ show your own creativity
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                        Implement a web page on the given theme. Themes will be disclosed during the event.
@@ -136,7 +136,7 @@ show your own creativity
                     </div>
                 </div>
             </div>
-            
+
            <div class="row" id="details">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -145,10 +145,10 @@ show your own creativity
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                       
+
                                        <p><b><u>Judgement Criteria</u></b></p>
                                        The design and technology used for the development.
                                        <p><b><u>Venue</u></b></p>
@@ -158,7 +158,10 @@ show your own creativity
                                        <li>Registrations until: 07/11/2019</li>
                                        <li>
                                            Contest: Round 1 - 05/11/2019
-Round 2 – 09/11/2019
+Round 2 – 09/11/2019 <br>
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+    <a style="color:white; text-decoration:underline;"
+href="https://drive.google.com/open?id=1KDQ-rFP57qmCfXFYd96h7HARXI0kCq9q">Click here</a> to view rule book.
                                        </li>
                                     </div>
                                 </div>
@@ -177,7 +180,7 @@ Round 2 – 09/11/2019
                         <div class="panel-body">
                             <section class="feed-item">
                                 <div class="icon pull-left">
-                                   
+
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
@@ -197,9 +200,9 @@ Round 2 – 09/11/2019
                 <a class="semi-transparent-button" href="../team_register.php?id=44" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
-           
 
-        
+
+
             <div class="row" id="contact">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -208,7 +211,7 @@ Round 2 – 09/11/2019
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <center>
@@ -248,10 +251,10 @@ Round 2 – 09/11/2019
                     </div>
                 </div>
             </div>
-        
+
         </div>
-        
-                                    
+
+
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog" style="width: 90%;max-width: 90%;">
             <!-- Modal content-->
@@ -294,7 +297,7 @@ Round 2 – 09/11/2019
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -361,7 +364,7 @@ Round 2 – 09/11/2019
                                 <div>You can have team of 4 or less.</div>
                             </center>
                             <br />
-                            
+
 
                             <div class="row">
                                 <div class="col-md-12">
