@@ -96,6 +96,8 @@
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
+                    </li> <li class="dropdown user-dropdown">
+                        <a href="../../developers.html" >Developers</a>
                     </li>
 
                     <li class="dropdown user-dropdown">
@@ -141,10 +143,10 @@ Are you a die-hard adventurer, a seeker of ancient mysteries and looking for thr
                     <span class="preview-info__name" style="font-size: 20px;">Adarsh Agarwal</span><br>
                  <span class="preview-info__role style=" style="font-size: 20px;">+91-9041698681</span>
                 </li>
-            
+
 
         </ul>
-        
+
     </div>
     </div>
 
