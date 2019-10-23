@@ -124,7 +124,7 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                            <h3> ROUND 1: MODEL EXHIBITION ROUND</h3>
                           <li> Bridge constructed with the given guidelines shall be tested in this round.</li>
                           <li> It is an elimination round.</li>
@@ -241,7 +241,7 @@ than 40%. Maximum number of sticks that can stacked together is three.  </li>
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-
+Prize money of Rs. 532
                                         </div>
                                 </div>
                             </section>

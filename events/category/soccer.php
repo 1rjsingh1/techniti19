@@ -130,7 +130,7 @@
         <ul class="preview-info__team">
                             <li class="preview-info__member">
                     <span class="preview-info__name" style="font-size: 20px;">Shubham Goyal</span><br>
-                 <span class="preview-info__role" style="font-size: 20px;">+91-980337334</span>
+                 <span class="preview-info__role" style="font-size: 20px;">+91-9803337334</span>
                 </li>
 
                 <li class="preview-info__member">

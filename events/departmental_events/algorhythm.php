@@ -144,6 +144,10 @@
                                                                     2. A total of 30 participants will be qualifying round 1 to appear for the onsite round.<br>
                                                                     3. Participants should register on the techNITi’19 website.<br>
                                                                     4. Participants must fill Google form for participation in this event.<br>
+                                                                    <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                                                        <a style="color:white; text-decoration:underline;"
+                                                                    href="https://drive.google.com/file/d/1MdrEu3BsDiG2Jwet-Lu0RZbjx_XHb_R6/view?usp=sharing">Click here</a> to view rule book.
+
                                                             </div>
                                                         </div>
                                                     </section>

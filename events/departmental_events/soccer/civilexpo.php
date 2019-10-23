@@ -113,7 +113,7 @@ It is a technical event where you have a chance to showcase your abilities to pr
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                       Round 1: Presentation Round
                                       <li>Each team will be given a total of 20 minutes for presentation (power point presentation).  </li>
   <li>The participants will be required to choose one problem statement from the given list below.  </li>
