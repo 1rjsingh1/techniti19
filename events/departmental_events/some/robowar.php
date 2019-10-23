@@ -224,8 +224,19 @@ and the winning team will face other winning teams. Points will be given on the 
 After the KNOCKOUT ROUND, there is a demolition derby round.This
 round is final round and would decide the winner. The winning bots will fight altogether in the arena. The bot that survives for the maximum time wins. Complete guidelines about Demolition Derby will be disclosed at the
 time of the event.
+<li>Remainig rules can be viewed in the rule book below</li>
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+<a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=1vntKTAH4zBFVB10jF14GoteR2bB9BNoj">Click here</a> to view rule book.
+ <div class="row">
+     <div class="col-md-12 col-lg-12 col-sm-12">
+         <center>
+           <h4>Arena</h4>
+             <img src="arena.jpg" class="eventImage">
 
-
+         </center>
+     </div>
+ </div>
                                     </div>
                                 </div>
                             </section>

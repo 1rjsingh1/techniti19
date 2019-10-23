@@ -119,7 +119,7 @@ avoiding certain obstacles.
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                       <h4>TECHNICAL INSPECTION (T.I.) :-</h4>
                                        <li>  In this round, the drone made by the participants will be subjected to a thorough
 technical inspection.</li>
