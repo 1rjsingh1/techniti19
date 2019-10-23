@@ -112,7 +112,7 @@
             LAN Gaming</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -125,7 +125,7 @@
 <p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
 
     </div>
-    
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
@@ -141,7 +141,7 @@ we can find the most skilled and dominating team which will rise up the charts a
 become the KING OF THE HILL.</p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/langaming/counterstrike.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -155,7 +155,7 @@ become the KING OF THE HILL.</p>
 
 
 
-              
+
 </div>
 
 </div>
@@ -190,7 +190,7 @@ become the KING OF THE HILL.</p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>
