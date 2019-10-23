@@ -88,7 +88,7 @@
                         <a href="../category.html" >Mega Events</a>
                     </li>
                     <li class="dropdown user-dropdown">
-                        <a href="#" >Sponsors</a>
+                        <a href="../../sponsors.html" >Sponsors</a>
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
@@ -159,17 +159,14 @@ become the KING OF THE HILL.</p>
 </div>
 <br>
 <div class="comment comment--first">
-<b class="comment__author" style="font-size: 30px;">Counter Strike </b>
+<b class="comment__author" style="font-size: 30px;">NFS </b>
 <p class="comment__date"></p>
 <p class="comment__text" style="font-size: 17px;">
-   We are the gamers; we are the warriors who will etch their name in history.
-Keeping this is mind we are conducting a counter strike gaming tournament so that
-we can find the most skilled and dominating team which will rise up the charts and
-become the KING OF THE HILL.</p>
+  Welcome to the world of speed</p>
     <p>
 
 
-<form method="get" action="../departmental_events/langaming/counterstrike.php">
+<form method="get" action="../departmental_events/langaming/nfs.php">
 <button type="submit" style="background-color: Transparent;
 background-repeat:no-repeat;
 border: solid;

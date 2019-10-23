@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FIFA 20</title>
+    <title>NFS</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -47,7 +47,7 @@
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">FIFA 20</div>
+                    <div class="eventHeading" style="text-align: center;">NFS</div>
 
 
                 </div>
@@ -67,9 +67,13 @@
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
                                       We are the gamers; we are the warriors who will etch their name in history.
-Keeping this is mind we are conducting a FIFA 20 gaming tournament so that
+Keeping this is mind we are conducting a NFS gaming tournament so that
 we can find the most skilled and dominating team which will rise up the charts and
 become the KING OF THE HILL.
+<br>
+Game Version: NFS Most Wanted 1.3
+<br>
+General Competition Method: 4 Players Room
                                     </div>
                                 </div>
                             </section>
@@ -117,7 +121,7 @@ become the KING OF THE HILL.
 the organizers can form up a team as they seem fit.  <div class="row">
                                             <div class="col-md-12 col-lg-12 col-sm-12">
                                                 <center>
-                                                    <!-- <img src="../../../images/events/FIFA 202.png" class="eventImage">
+                                                    <!-- <img src="../../../images/events/NFS2.png" class="eventImage">
                                                 </center> -->
                                             <!-- </div>
                                         </div>
@@ -142,10 +146,18 @@ the organizers can form up a team as they seem fit.  <div class="row">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                  <li>Competition will be held in knock-out stages till the very final.</li>
-<li>Byes will be given to players based on preferences ranked by goal difference
-in the preceding rounds. If two players have the same goal difference, the
-player with fewer goals conceded will be preferred.</li>
+                                      <b>Rules for 1st Round:- </b><br>
+<li> Game Type: Circuit, Sprint  </li>
+<li> The Circuit will have 2 laps. </li>
+Top 16 players from all the players will commence for 2nd round. The ranking will be done
+on the basis of average time in both the modes (circuit and sprint). <br>
+<b> Rules for 2nd Round:- </b> <br>
+<li> Game Type: Circuit (2 laps) </li>
+<li> Knockout Round: The winner in each match will commence to semi-finals. </li>
+<b> Rules for Final Round:- </b> <br>
+<li> Circuit (2 laps)- The 4th one will be eliminated. </li>
+<li> Sprint- Top 3 will be decided by rankings in the match. </li>
+
 
                                     </div>
                                 </div>
@@ -167,18 +179,16 @@ player with fewer goals conceded will be preferred.</li>
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                <li>Games will be held in 2 legs (Home & Away), each game of 4 minutes half.</li>
-                                <li>The player playing Home side will get to select a jersey of his choice, and
-the away player will select a contrasting coloured jersey accordingly.</li>
-                                <li>Each player will get maximum 5 minutes for team management and all other
-necessary settings at the beginning of the match.</li>
-                                <li>Matches will be played in Legendary difficulty, unless mutually agreed upon
-by both playing sides.</li>
-                                <li>During the match, a player can only pause the game to go into menu when
-the play stops in-game. (Outsides, corners, free-kicks etc).</li>
-<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
-<a style="color:white; text-decoration:underline;"
- href="fifa.pdf">Click here</a> to view rule book.
+                                <li>Host, client will be announced before the match or decided by coin toss.</li>
+                                <li>At the end of each match, players must maintain the final screens and receive confirmation
+from a referee and to note down the timing to complete the race.</li>
+                                <li>Gaming Controllers and Consoles will not be allowed.</li>
+                                <li>All Cars will be available. (Upgraded cars will be provided through save files by us)</li>
+                                <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                <a style="color:white; text-decoration:underline;"
+                                 href="nfs.pdf">Click here</a> to view rule book.
+
+
                                     </div>
                                 </div>
                             </section>
@@ -234,7 +244,7 @@ the play stops in-game. (Outsides, corners, free-kicks etc).</li>
                 </div>
             </div>
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" href="../register.php?id=12" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../register.php?id=13" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 
@@ -323,7 +333,7 @@ the play stops in-game. (Outsides, corners, free-kicks etc).</li>
                                 <div class="col-md-12">
                                     <center>
                                         <input type="text" name="teamName"  placeholder="Team Name" style="color: white;font-size: 17px;max-width: 40%;" id="inputValidationEx" class="form-control validate" required="true" />
-                                        <input type="text" name="eventName" value="FIFA 20" hidden />
+                                        <input type="text" name="eventName" value="NFS" hidden />
                                     </center>
                                 </div>
                             </div>
@@ -485,7 +495,7 @@ the play stops in-game. (Outsides, corners, free-kicks etc).</li>
     <script type="text/javascript">
         if (typeof(Storage) !== "undefined")
         {
-            sessionStorage.setItem("path", "events/construction_and_design/FIFA 20.html");
+            sessionStorage.setItem("path", "events/construction_and_design/NFS.html");
             sessionStorage.setItem("formPath","../../../form.html");
         }
     </script>
@@ -496,5 +506,5 @@ the play stops in-game. (Outsides, corners, free-kicks etc).</li>
     <script src="../../events.js"></script>
 </body>
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/FIFA 20.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/NFS.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
 </html>
