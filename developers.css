@@ -35,9 +35,9 @@ html {
   width: 100%;
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (minmax(3200px, 1fr))[auto-fit];
-      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  grid-gap: 40px;
+  -ms-grid-columns: (minmax(280px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 30px;
 }
 
 .testimonials .client-section .clients  {
@@ -103,8 +103,8 @@ html {
 .testimonials .client-section .web {
   border: 1px solid #333945;
   border-radius: 8px;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   color: white;
   margin-left: auto;
   margin-right: auto;
@@ -149,6 +149,9 @@ html {
     margin-inline-end: 0px;
     font-weight: bold;
     margin:5px;
+}
+table .clientName h6{
+  font-weight: 200 !important;
 }
 .testimonials .client-section .web:hover .clientInfo {
   display: block;
