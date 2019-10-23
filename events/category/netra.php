@@ -93,6 +93,8 @@
                     </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../team.php" >Core Team</a>
+                    </li> <li class="dropdown user-dropdown">
+                        <a href="../../developers.html" >Developers</a>
                     </li>
 
                     <li class="dropdown user-dropdown">
@@ -137,10 +139,10 @@
                     <span class="preview-info__name" style="font-size: 20px;">Jalam Rathore</span><br>
                  <span class="preview-info__role style=" style="font-size: 20px;">+91-9079775726</span>
                 </li>
-            
+
 
         </ul>
-        
+
     </div>
     </div>
 
