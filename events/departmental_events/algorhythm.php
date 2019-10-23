@@ -6,7 +6,7 @@
                         <head>
                             <meta charset="utf-8">
                             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                            <title>techNITi19 EVENT -  ALGO-RHYTHM</title>
+                            <title>ALGO-RHYTHM</title>
                             <link rel="icon" type="image/ico" href="../../images/favlogo.ico">
 
                             <link rel="stylesheet" href="../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -66,7 +66,7 @@
 
                                                         <div class="feed-item-body">
                                                             <div class="text eventInfo" >
-                                                                   <p>The mega event organised by OpenGeest is a two-phase competitive coding competition.
+                                                                   <p>The mega event organised by OpenGeest, in association with Coding Club NITJ, is a two-phase competitive coding competition.
 Individuals will have to register on the techNITi’19 website in order to participate.</p> <br>
                                                                     <p>The first phase will be an online coding competition that would be organised on the
 InterviewBit platform. Participants qualifying the phase 1 will then have to appear at NIT
@@ -145,7 +145,7 @@ Jalandhar, Punjab in order to appear for phase 2 that will be held onsite on the
                                                                     4. Participants must fill Google form for participation in this event.<br>
                                                                     <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
                                                                         <a style="color:white; text-decoration:underline;"
-                                                                    href="https://drive.google.com/file/d/1MdrEu3BsDiG2Jwet-Lu0RZbjx_XHb_R6/view?usp=sharing">Click here</a> to view rule book.
+                                                                    href="https://drive.google.com/open?id=1MdrEu3BsDiG2Jwet-Lu0RZbjx_XHb_R6">Click here</a> to view rule book.
 
                                                             </div>
                                                         </div>
