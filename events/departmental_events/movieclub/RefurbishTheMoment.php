@@ -35,12 +35,12 @@
                     <li><a href="#rules"><i class="fa fa-list-ol"></i>Prelims</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Final Round</a></li> -->
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#prizemoney"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
                     <li><a href="https://drive.google.com/file/d/15-kIZ6nozj9yz0xNV3NzbEnWQ2N9nF7F/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -74,14 +74,19 @@
   theme. Participants are required to submit the video clip the day before the event
   scheduled. <br>
 
-  Video clip duration: 5 - 10 minutes.  </div>
+  Video clip duration: 5 - 10 minutes.  <br> <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+  <a style="color:white; text-decoration:underline;"
+   href="https://drive.google.com/file/d/15-kIZ6nozj9yz0xNV3NzbEnWQ2N9nF7F/view?usp=sharing">Click here</a> to view rule book.
+  </div>
+
+  </div>
                                 </div>
                             </section>
 
                         </div>
                     </div>
                 </div>
-            </div>
+
                 <!-- <div class="row" id="storyline">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -224,11 +229,12 @@ the basis of respective marking scheme.
              </div>
              <div class="panel-body">
                  <section class="feed-item">
-                     <div class="icon pull-left">
 
-                     </div>
                      <div class="feed-item-body">
                          <div class="text eventInfo">
+                        <li>   1st - Rs. 1200/- </li>
+                        <li>   2nd - Rs. 800/- </li>
+                        <li>   3rd - Rs. 500/- </li>
                             </div>
                      </div>
                  </section>
@@ -263,7 +269,7 @@ the basis of respective marking scheme.
                                                             Komal naik
                                                         </div>
                                                         <div class="Number">
-
+8179651996
                                                         </div>
                                                     </div>
                                                      <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
