@@ -41,7 +41,7 @@
                     <li><a href="https://drive.google.com/file/d/1JgAQU67l7qK8-wzabxQFRN6W9BBMfON-/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-               
+
             </div>
         </nav>
 
@@ -124,7 +124,7 @@ Extra points weill be awarded for innovation.
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                        <p>It will be an online assessment where each team is being
 evaluated on the basis of merit, questions will be of type MCQs and one
 word. <br>
@@ -268,7 +268,7 @@ appropriate modifications directed by them.</p>
                                                             T Yathindra Rao
                                                         </div>
                                                         <div class="Number">
-                                                            +91-832063370
+                                                            +91-8332063370
                                                         </div>
                                                     </div>
                                                     <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
