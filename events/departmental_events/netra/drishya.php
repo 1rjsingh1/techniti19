@@ -125,6 +125,9 @@ Number and FB Id Link , Instagram username, and a good caption .</li>
 <li>The decision taken by the judges shall be final and binding. In case of
 any disputes NIT Jalandhar reserves the rights in its sole discretion.</li>
                                       <li>Submit your entry at : photography@nitj.ac.in</li>
+                                      <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                          <a style="color:white; text-decoration:underline;"
+                                      href="https://drive.google.com/file/d/1YW4D09QkOtv2Nui-thMpBZxW8YZ0pWwc/view?usp=sharing">Click here</a> to view rule book.
 
 
                                         <!-- <div class="row">

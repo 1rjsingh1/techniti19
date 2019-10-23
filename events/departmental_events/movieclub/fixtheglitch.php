@@ -43,7 +43,7 @@
                     <li><a href="https://drive.google.com/file/d/1nwVCI305YujyAf7K4G0BdVZgPFYao55F/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -52,7 +52,7 @@
                 <div class="col-md-12">
                     <div class="eventHeading" style="text-align: center;">Fix The Glitch</div>
 
-                    
+
                 </div>
             </div>
 
@@ -74,7 +74,10 @@
   have to make a short film out of this video only and the film should
   make sense. Length of the film should be 2-3 min. The one who
   qualifies the first round will go to a second round and in the second
-  round you need to make a proper video from the raw video .</div>
+  round you need to make a proper video from the raw video .
+<br>
+
+</div>
                                 </div>
                             </section>
 
@@ -208,6 +211,9 @@ should make sense.</li>
 disqualified.</li>
                                       <li>Team have to make a short film out of this video only and the film
 should make sense.</li>
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+<a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/file/d/1nwVCI305YujyAf7K4G0BdVZgPFYao55F/view?usp=sharing">Click here</a> to view rule book.
 
                              </div>
                                 </div>
@@ -226,11 +232,12 @@ should make sense.</li>
              </div>
              <div class="panel-body">
                  <section class="feed-item">
-                     <div class="icon pull-left">
 
-                     </div>
                      <div class="feed-item-body">
                          <div class="text eventInfo">
+                        <li>   1st - Rs. 1200/- </li>
+                        <li>   2nd - Rs. 800/- </li>
+                        <li>   3rd - Rs. 500/- </li>
                             </div>
                      </div>
                  </section>
@@ -265,7 +272,7 @@ should make sense.</li>
                                                             Komal naik
                                                         </div>
                                                         <div class="Number">
-
+8179651996
                                                         </div>
                                                     </div>
                                                      <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">

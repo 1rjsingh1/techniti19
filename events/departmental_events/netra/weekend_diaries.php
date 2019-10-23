@@ -40,7 +40,7 @@
                     <li><a href="https://drive.google.com/open?id=1ECZ0Iz6BO8MLa3C5zyvvnKioN5wUAKtq" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-               
+
             </div>
         </nav>
 
@@ -115,7 +115,7 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                        <li>  All the entries mailed must have subject as WEEKEND_NAME.</li>
                                         <li> The mail must have participants Name, College Name, Contact Number
 and FB Id Link, Instagram username and a good caption.</li>
@@ -124,6 +124,9 @@ and FB Id Link, Instagram username and a good caption.</li>
                                         <li> Submission before 10 NOV 4 PM.</li>
                                         <li> Photos clicked during techNITi’19.</li>
                                         <li>Submit your entry at : photography@nitj.ac.in</li>
+                                        <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                            <a style="color:white; text-decoration:underline;"
+                                        href="https://drive.google.com/open?id=1ECZ0Iz6BO8MLa3C5zyvvnKioN5wUAKtq">Click here</a> to view rule book.
 
 
                                         <!-- <div class="row">

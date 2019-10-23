@@ -40,7 +40,7 @@
                     <li><a href="https://drive.google.com/file/d/1HYjWTzs5qynvg4usn3lRw7CY5Rk8j9b8/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -113,7 +113,7 @@ photos of each location that you hunt down.
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                        <li> Teams must assemble at OAT at 10 AM. Each team must consist of 3-5
 members only.</li>
                                         <li> The event will consist of 3 rounds, where each round is further split.</li>
@@ -131,6 +131,10 @@ Round 1.</li>
 <li>Teams must reach the venue on time as rules will be disclosed in further
 detail at the venue.
 </li>
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+    <a style="color:white; text-decoration:underline;"
+href="https://drive.google.com/file/d/1HYjWTzs5qynvg4usn3lRw7CY5Rk8j9b8/view?usp=sharing">Click here</a> to view rule book.
+
 
 
                                         <!-- <div class="row">

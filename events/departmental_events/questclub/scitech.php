@@ -36,12 +36,12 @@
                     <li><a href="#rules"><i class="fa fa-list-ol"></i>Prelims</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Final Round</a></li>
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#prize"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
                     <li><a href="https://drive.google.com/file/d/1dfKzG9cN9b7AS5Nc7kU3YTR_xo1WtEvI/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-               
+
             </div>
         </nav>
 
@@ -114,7 +114,7 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                       This is preliminary round. Total of 8-10 teams will make it to next round. The screening will be
 done on basis of questions and marking scheme.
                                         <div class="row">
@@ -146,8 +146,10 @@ done on basis of questions and marking scheme.
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                     This is the Final Round and consists of various sub rounds and judgement will be done on
-the basis of respective marking scheme.
-
+the basis of respective marking scheme. <br>
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+<a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/file/d/1dfKzG9cN9b7AS5Nc7kU3YTR_xo1WtEvI/view?usp=sharing">Click here</a> to view rule book.
                                     </div>
                                 </div>
                             </section>
@@ -212,7 +214,7 @@ the basis of respective marking scheme.
                 </div>
             </div>
  -->
- <div class="row" id="prizemoney">
+ <div class="row" id="prize">
      <div class="col-md-12">
          <div class="panel panel-primary" style="border: black" >
              <div class="panel-heading" style="background: black;">
@@ -220,11 +222,10 @@ the basis of respective marking scheme.
              </div>
              <div class="panel-body">
                  <section class="feed-item">
-                     <div class="icon pull-left">
 
-                     </div>
                      <div class="feed-item-body">
                          <div class="text eventInfo">
+                           Prize Money worth Rs. 10,000 /-
                             </div>
                      </div>
                  </section>
@@ -254,7 +255,7 @@ the basis of respective marking scheme.
                                         <center>
                                             <div class="container">
                                                 <div class="row">
-                                                    <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
                                                             Retik Gupta
                                                         </div>
@@ -262,7 +263,15 @@ the basis of respective marking scheme.
                                                             +91-(8360156674)
                                                         </div>
                                                     </div>
-                                                     <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Chikku Kumar
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-(9534567582)
+                                                        </div>
+                                                    </div>
+                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
                                                             Swati
                                                         </div>

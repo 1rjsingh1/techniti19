@@ -104,7 +104,7 @@
         </nav>
 <div id="webgl-output"></div>
 <main class="preview-page">
-    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/soece.jpg);background-size: cover;
+    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url();background-size: cover;
     background-position: center;
     height: 100vh;
     background-attachment: fixed;">

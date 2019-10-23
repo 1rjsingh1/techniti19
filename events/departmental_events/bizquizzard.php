@@ -35,6 +35,7 @@
                     <li><a href="#TeamSpecification"><i class="fa fa-gamepad"></i>Team Specification:</a></li>
                     <li><a href="#DescriptionOfRounds"><i class="fa fa-list-ol"></i> Description of Rounds:</a></li>
                     <li><a href="#GeneralRules"><i class="fa fa-list-ol"></i> General Rules:</a></li>
+                      <li><a href="#prize"><i class="fa fa-vcard-o"></i>Prize Money:</a></li>
                     <li><a href="#EventHead"><i class="fa fa-universal-access"></i>Event Head:</a></li>
                 </ul>
 
@@ -109,7 +110,7 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                             There will be 3 rounds in this Quiz.<br>
                                             Prelims- This is the Preliminary Round. 10 teams of the total will make it to round 2. And 5 Teams in the 3rd
                                             round The screening will be done on basis of questions and marking scheme.<br>
@@ -135,7 +136,11 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                            Top 3 will be declared as the winners of this quiz.
+                                            Top 3 will be declared as the winners of this quiz. <br>
+                                            <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                                <a style="color:white; text-decoration:underline;"
+                                            href="https://drive.google.com/file/d/1kBJEb5RRWbP80EUaEO6Ro2GH9eEsOneh/view?usp=sharing">Click here</a> to view rule book.
+
 									</div>
                                 </div>
                             </section>
@@ -147,6 +152,27 @@
 
 
 
+            <div class="row" id="prize">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money:</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+                                <div class="icon pull-left">
+
+                                </div>
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+                                     Prizes worth Rs. 10,000 /-
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
             <div id="RegisterContainer">
