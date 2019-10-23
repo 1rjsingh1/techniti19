@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/Techville.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/CIVIL EXPO.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:35 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Techville</title>
+    <title>CIVIL EXPO</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -30,15 +30,14 @@
           <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-
-                    <li><a href="#Problem"><i class="fa fa-globe"></i> Introduction</a></li>
-                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>Objective</a></li>
-                    <li><a href="#rules"><i class="fa fa-list-ol"></i> Programme outcome</a></li>
-                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>General guidelines</a></li>
+                    <li><a href="#Problem"><i class="fa fa-globe"></i> EVENT DESCRIPTION</a></li>
+                    <li><a href="#storyline"><i class="fa fa-gamepad"></i>TEAM SPECIFICATIONS:</a></li>
+                    <li><a href="#rules"><i class="fa fa-list-ol"></i> DETAILS OF INDIVIDUAL ROUNDS</a></li>
+                    <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>GENERAL RULES</a></li>
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Worth</a></li>
+                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/file/d/1pj5EBr6EgvJeMAelozkFll107J9WvuEd/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/file/d/18jxRJIhSJjeg_B_TA5e29JM453XVqAxM/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
 
@@ -48,7 +47,7 @@
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">Techville</div>
+                    <div class="eventHeading" style="text-align: center;">CIVIL EXPO</div>
 
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
@@ -62,19 +61,15 @@
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Introduction</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> EVENT DESCRIPTION</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                      It's a Science Fair. <br>
-                                      Science is what makes humans stand tall among anything else. As a matter of fact, our
-relationship with science is something like “What one invents, the other discovers”. So, we
-thought the best way to decode what lies between the layers is with the help of living
-polymorphs around us. The students! <br>
-They are never too big to ask questions, never know too much to learn something new.
+                                      “We just see, don’t observe!” isn’t that right? Well, prove us wrong! Pick up a problem and uproot its cause!
+It is a technical event where you have a chance to showcase your abilities to present universal ideas & innovative solutions to various problems. The problems should be related to daily life civil aspects.
                                     </div>
                                 </div>
                             </section>
@@ -87,15 +82,15 @@ They are never too big to ask questions, never know too much to learn something 
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Objective </h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> TEAM SPECIFICATIONS: </h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                      To show us your solution for various environmental concerns and measures for sustainable
-growth via working or non-working models.
+                                    A Team may consist of maximum 5 members and no minimum limit.
+
                                     </div>
                                 </div>
                             </section>
@@ -112,21 +107,25 @@ growth via working or non-working models.
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black">
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Programme outcome</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> DETAILS OF INDIVIDUAL ROUNDS</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo"">
-                                        The idea is to help students understand the need of bio-diversity conservation and how
-science can come to the rescue.
-We are trying to provide a near perfect platform for students (participants), for them to
-show us (or to the whole mankind) their vision of a better future.
+                                      Round 1: Presentation Round
+                                      <li>Each team will be given a total of 20 minutes for presentation (power point presentation).  </li>
+  <li>The participants will be required to choose one problem statement from the given list below.  </li>
+  <li>Innovative solution to the problem is expected to be delivered.  </li>
+      <li>Fabricated/Working model will add more points to the presentation.  </li>
+      Round 2: Quesntionnaire
+      <li>  This will be a question answer round wherein the judges will ask the questions related to the model/presentation and the participants are expected to answer the same.</li>
+
                                         <div class="row">
                                             <div class="col-md-12 col-lg-12 col-sm-12">
                                                 <center>
-                                                    <!-- <img src="../../../images/events/Techville2.png" class="eventImage"> -->
+                                                    <!-- <img src="../../../images/events/CIVIL EXPO2.png" class="eventImage"> -->
                                                 </center>
                                             </div>
                                         </div>
@@ -144,35 +143,24 @@ show us (or to the whole mankind) their vision of a better future.
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> General guidelines</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> GENERAL RULES</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    <li>The maximum number of participants in a team should not exceed 5.</li>
-                                    <li>A separate oral presentation time will be given to each participating team, to explain their
-model to the judges or technical experts. (The model submission and presentation will be
-done in the college campus, during the technical fest.)
-                                    </li>
-                                    <li>The presentation will be followed by some questions from the judges, regarding the
-model, its inspiration etc.
-                                    </li>
-                                    <li>
-                                      The model can be a working or static Project/ research paper/ model or any new
-invovated machine(no preference for any particular type).
-                                      </li>
-                                      <li> The event is open for all, be it school students from classes 6th to 12th, college students
-or graduates.
-                                      </li>
-                                      <li> The evaluation will be based on the necessity and social impact that the model creates.
-                                      </li>
-                                      <li> Registering your team is mandatory for participation. Link for registration is available on
-our Facebook page:
-                                      </li>
+                                    <li>  Readymade or factory made model will not be accepted from any source. Model (if included) should be self-made.</li>
+                                      <li>Marks will be deducted, if there is no innovation. </li>
+                                        Judging criteria:<li>Innovation (30 marks)</li> <li>Presentation (50 marks)</li> <li>Model to aid presentation will fetch extra score of 25</li><li>Question/ Answer Round ( 20 marks)</li>
+                                  Decision of the judges shall be final and abiding.
+
+
                                     </div>
                                 </div>
+                                <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+                                     href="https://drive.google.com/file/d/1amUMLJWKKqEuHeo3hV0S4IX_c8mOZc_b/view?usp=sharing">Click here</a> to view rule book.
                             </section>
 
                         </div>
@@ -180,7 +168,7 @@ our Facebook page:
                 </div>
             </div>
 
-            <!-- <div class="row" id="judgingandscoring">
+          <!-- <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
@@ -207,9 +195,9 @@ our Facebook page:
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
-            <div class="row" id="writtentest">
+            <!-- <div class="row" id="writtentest">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
@@ -238,14 +226,17 @@ our Facebook page:
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
-                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prizes Worth</h3>
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
+                                <div class="icon pull-left">
 
+                                </div>
                                 <div class="feed-item-body">
-                                  Prizes worth Rs. 20,000/-
-                                
+                                    <div class="text eventInfo">
+
+                                        </div>
                                 </div>
                             </section>
                         </div>
@@ -253,9 +244,9 @@ our Facebook page:
                 </div>
             </div>
 
-            <div id="RegisterContainer">
 
-                <a class="semi-transparent-button" href="https://docs.google.com/forms/d/e/1FAIpQLSeLgFfbWlCEoeaaIQ5rTYOg_q2Qln_i-bWRGzDYT_l34V0qrg/viewform" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+            <div id="RegisterContainer">
+                <a class="semi-transparent-button" href="../team_register.php?id=36" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 
@@ -277,28 +268,29 @@ our Facebook page:
                                                 <div class="row">
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Harvindra Singh Dhaka
+                                                        Paras Garg
                                                         </div>
                                                         <div class="Number">
-                                                            +91-872958885
+                                                            +91-(7696479080)
                                                         </div>
                                                     </div>
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Manik Gupta
+                                                        Shubham Goyal
                                                         </div>
                                                         <div class="Number">
-                                                            +91-7696015509
+                                                            +91-(9803337334)
                                                         </div>
                                                     </div>
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Devansh Kumar
+                                                        Karanjeet Singh
                                                         </div>
                                                         <div class="Number">
-                                                            +91-7087231287
+                                                            +91-(7973802373)
                                                         </div>
                                                     </div>
+                                                </div>
                                             </div>
                                         </center>
                                     </div>
@@ -343,7 +335,7 @@ our Facebook page:
                                 <div class="col-md-12">
                                     <center>
                                         <input type="text" name="teamName"  placeholder="Team Name" style="color: white;font-size: 17px;max-width: 40%;" id="inputValidationEx" class="form-control validate" required="true" />
-                                        <input type="text" name="eventName" value="Techville" hidden />
+                                        <input type="text" name="eventName" value="CIVIL EXPO" hidden />
                                     </center>
                                 </div>
                             </div>
@@ -505,7 +497,7 @@ our Facebook page:
     <script type="text/javascript">
         if (typeof(Storage) !== "undefined")
         {
-            sessionStorage.setItem("path", "events/construction_and_design/Techville.html");
+            sessionStorage.setItem("path", "events/construction_and_design/CIVIL EXPO.html");
             sessionStorage.setItem("formPath","../../../form.html");
         }
     </script>
@@ -516,5 +508,5 @@ our Facebook page:
     <script src="../../events.js"></script>
 </body>
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/Techville.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
+<!-- Mirrored from www.axisvnit.org/events/construction_and_design/CIVIL EXPO.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
 </html>

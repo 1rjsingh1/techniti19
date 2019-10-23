@@ -38,6 +38,8 @@
                     <li><a href="#DescriptionOfRounds"><i class="fa fa-list-ol"></i> Description of Rounds:</a></li>
                     <li><a href="#GeneralRules"><i class="fa fa-list-ol"></i> General Rules:</a></li>
                     <li><a href="#GUIDELINESfORbRIDGEmAKING"><i class="fa fa-list-ol"></i> GUIDELINES FOR BRIDGE MAKING:</a></li>
+                    <li><a href="#prizemoney"><i class="fa fa-list-ol"></i> Prize Money</a></li>
+                    <li><a href="https://drive.google.com/open?id=17vjSXc5BmmdsaOLnmPOe75vPaDxaeb-L"><i class="fa fa-list-ol"></i>Rule Book</a></li>
                     <li><a href="#EventHead"><i class="fa fa-universal-access"></i>Event Head:</a></li>
                 </ul>
 
@@ -217,13 +219,36 @@ make long span elements. The overlapping between two sticks should not be more
 than 40%. Maximum number of sticks that can stacked together is three.  </li>
                                         </div>
                                     </div>
+                                    <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+                                     href="https://drive.google.com/open?id=17vjSXc5BmmdsaOLnmPOe75vPaDxaeb-L">Click here</a> to view rule book.
                                 </section>
 
                             </div>
                         </div>
                     </div>
                 </div>
+<div class="row" id="prizemoney">
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="border: black" >
+                        <div class="panel-heading" style="background: black;">
+                            <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
+                        </div>
+                        <div class="panel-body">
+                            <section class="feed-item">
+                                <div class="icon pull-left">
 
+                                </div>
+                                <div class="feed-item-body">
+                                    <div class="text eventInfo">
+
+                                        </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
 
