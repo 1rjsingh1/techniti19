@@ -108,7 +108,7 @@
         </nav>
 <div id="webgl-output"></div>
 <main class="preview-page">
-    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/coding.png);background-size: cover;
+    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/csejpg);background-size: cover;
     background-position: center;
     height: 100vh;
     background-attachment: fixed;">
@@ -116,8 +116,7 @@
         <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 4</span>
         <h1 class="preview__name" style="margin-bottom:0px; font-size: 40px; width:60%">
             Society Of Computer Science Engineers</h1>
-            <p>in association with</p>
-            <h1>Coding Club NITJ</h1>
+
 
     </div>
 
@@ -136,13 +135,13 @@
         <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
         <ul class="preview-info__team">
                             <li class="preview-info__member">
-                    <span class="preview-info__name" style="font-size: 20px;">Abhishek Kaushal (Final Year)</span><br>
+                    <span class="preview-info__name" style="font-size: 20px;">Abhishek Kaushal </span><br>
                  <span class="preview-info__role" style="font-size: 20px;">+91-8872387080</span>
                 </li>
 
                 <li class="preview-info__member">
-                    <span class="preview-info__name" style="font-size: 20px;">Arsh Goyal (3rd Year)</span><br>
-                 <span class="preview-info__role style=" style="font-size: 20px;">+91-9914047037</span>
+                    <span class="preview-info__name" style="font-size: 20px;">Shubham Singh</span><br>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-8727894929</span>
                 </li>
 
 
@@ -224,7 +223,7 @@ web page on a particular topic. Team with the most impressive design takes it al
         <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Algo-Rhythm</b>
             <p class="comment__date"></p>
-            <p class="comment__text" style="font-size: 17px;">The mega event organised by OpenGeest in association with Coding Club is a two-phase
+            <p class="comment__text" style="font-size: 17px;">The mega event organised by OpenGeest is a two-phase
                                                                     competitive coding competition. Individuals will have to register on the techNITi’19 website in
                                                                     order to participate.
 </p>
