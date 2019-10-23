@@ -294,7 +294,7 @@
             </div>
 
             <div class="item carouselImageContainer">
-              <img src="images/events/2.jpg" class="carouselImage">
+              <img src="images/nitj/5.jpg" class="carouselImage">
             </div>
 
             <div class="item carouselImageContainer">
@@ -414,7 +414,7 @@
             </div>
 
             <div class="item active carouselImageContainer" >
-              <img src="images/dept/1.jpg" class="carouselImage">
+              <img src="images/nitj/1.jpg" class="carouselImage">
             </div>
 
             <div class="item carouselImageContainer">
