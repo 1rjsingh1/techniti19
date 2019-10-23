@@ -124,7 +124,7 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">This is the society of Electronics and Communication Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.&#44;</p>
+<p style="font-size: 20px;">This is the society of Electronics and Communication Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 
     </div>
 
