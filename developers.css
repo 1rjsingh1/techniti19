@@ -1,0 +1,336 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+  background-color: white;
+  overflow-x: hidden;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.testimonials {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 50px 10%;
+  margin: 0;
+}
+
+.testimonials h5 {
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 5;
+  grid-column: 1/6;
+  color: #0a79df;
+  margin: 0;
+}
+
+.testimonials h2 {
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 5;
+  grid-column: 1/6;
+  font-size: 40px;
+}
+
+.testimonials .client-section {
+  width: 100%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(280px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 20px;
+}
+
+.testimonials .client-section .clients  {
+  border: 1px solid #333945;
+  border-radius: 8px;
+  width: 200px;
+  height: 200px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #0a79df;
+  position: relative;
+}
+
+.testimonials .client-section .clients .clientInfo  {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  border-radius: 6px;
+  display: none;
+}
+
+.testimonials .client-section .clients .clientInfo  p {
+  margin: 0;
+  padding-top: 30%;
+}
+
+.testimonials .client-section .clients .clientInfo a {
+  padding: 20px 0;
+  font-size: 30px;
+  color: white;
+}
+
+.testimonials .client-section .clients .clientName  {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  background-color: #333945;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.testimonials .client-section .clients .clientName h4 {
+  margin: 10px;
+}
+
+.testimonials .client-section .clients  .clientName h5 {
+  margin: 10px auto;
+  color: white;
+}
+
+.testimonials .client-section .clients:hover .clientInfo {
+  display: block;
+}
+
+.testimonials .client-section .clients:hover .clientName {
+  display: none;
+}
+.testimonials .client-section .web {
+  border: 1px solid #333945;
+  border-radius: 8px;
+  width: 200px;
+  height: 200px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #0a79df;
+  position: relative;
+}
+.testimonials .client-section .web .clientInfo  {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  border-radius: 6px;
+  display: none;
+}
+.testimonials .client-section .web .clientInfo p {
+  margin: 0;
+  padding-top: 30%;
+}
+
+.testimonials .client-section .web .clientInfo  a {
+  padding: 20px 0;
+  font-size: 30px;
+  color: white;
+}
+.testimonials .client-section .web .clientName  {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  background-color: #333945;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+.clientName h6 {
+    display: block;
+    font-size: 0.9em;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    margin:5px;
+}
+.testimonials .client-section .web:hover .clientInfo {
+  display: block;
+}
+.testimonials .client-section .web:hover .clientName {
+  display: none;
+}
+.testimonials .client-section .web:nth-of-type(1) {
+  background-image: url("team/ashishyadav.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .web:nth-of-type(2) {
+  background-image: url("team/rjsingh.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .web:nth-of-type(3) {
+  background-image: url("team/bhargav.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .web:nth-of-type(4) {
+  background-image: url("team/ajay.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .web:nth-of-type(5) {
+  background-image: url("team/parteek.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .web:nth-of-type(6) {
+  background-image: url("team/ritika.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+.updateSection {
+  width: 100vw;
+  height: -webkit-max-content;
+  height: -moz-max-content;
+  height: max-content;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 10%;
+  background-image: url("images/technology-785742__480.jpg") ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: white;
+}
+
+.updateSection h5 {
+  text-align: center;
+  font-size: 17px;
+  margin-top: 0;
+  color: #0a79df;
+}
+
+.updateSection h2 {
+  margin: 0 0 20px 0;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.updateSection .update-cards {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(300px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-row-gap: 20px;
+  grid-column-gap: 10px;
+}
+
+.updateSection .update-cards .new-update {
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.updateSection .update-cards .new-update img {
+  width: 300px;
+  height: 300px;
+  border-radius: 8px;
+}
+
+.updateSection .update-cards .new-update h4 {
+  margin-top: 10px;
+}
+
+.updateSection .update-cards .new-update h4 a {
+  font-weight: 200;
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+}
+
+.updateSection .update-cards .new-update h2 {
+  font-size: 30px;
+  text-align: left;
+}
+
+.updateSection .update-cards .new-update .learn-update {
+  border-radius: 50px;
+}
+
+.updateSection .update-cards .new-update .learn-update button {
+  background: rgba(255, 255, 255, 0);
+  width: 150px;
+  padding: 10px 20px;
+  color: white;
+  font-size: 15px;
+  border: 2px solid #0a79df;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.updateSection .update-cards .new-update .learn-update button:hover {
+  background-color: #0a79df;
+}
+
+.updateSection .update-cards .new-update .learn-update:hover {
+  background-color: #0a79df;
+}
+
+@media only screen and (max-width: 760px) {
+  .updateSection h2 {
+    font-size: 25px;
+  }
+  .updateSection .update-cards .new-update {
+    width: 80%;
+  }
+  .updateSection .update-cards .new-update img {
+    width: 80%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .updateSection .update-cards .new-update h4 {
+    font-size: 12px;
+  }
+  .updateSection .update-cards .new-update h2 {
+    font-size: 20px;
+  }
+  .updateSection .update-cards .new-update button {
+    font-size: 12px;
+  }
+}
+.image{
+  width:35%;
+  margin-left:5%;
+}
+.header{
+  background-color: #212529;
+  width:100%;
+  height:20%;
+}
+footer {
+  background: black;
+  color: white;
+
+}
+
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}
+}
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
+}
+
+
+/*# sourceMappingURL=style.css.map */
