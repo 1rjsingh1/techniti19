@@ -344,26 +344,26 @@ Prizes worth Rs. 70,000/-
                                                 <div class="row">
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-
+                                                            Harvindra Singh Dhaka
                                                         </div>
                                                         <div class="Number">
-
+                                                            +91-872958885
                                                         </div>
                                                     </div>
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-
+                                                            Manik Gupta
                                                         </div>
                                                         <div class="Number">
-
+                                                            +91-7696015509
                                                         </div>
                                                     </div>
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-
+                                                            Devansh Kumar
                                                         </div>
                                                         <div class="Number">
-
+                                                            +91-7087231287
                                                         </div>
                                                     </div>
                                                 </div>
