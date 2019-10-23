@@ -40,7 +40,7 @@
                     <li><a href="https://drive.google.com/file/d/1g8YdgQRnx7zJFxiaWSHU3KHB8lhfB4-2/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -114,7 +114,7 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                        <li> All the entries mailed must have subject as MANIPULATION_NAME</li>
                                         <li> The mail must have participants Name, College Name, Contact Number
 and FB Id Link , Instagram username.</li>

@@ -22,27 +22,27 @@ if(isset($_POST['final5']))
 
     $q2="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m1email']."\")";
     $r2t=mysqli_query($con,$q2);
-if($_POST['m2email']!=0){
+if($_POST['m2email']!=""){
     $q3="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m2email']."\")";
     $r3t=mysqli_query($con,$q3);
   }
-if($_POST['m3email']!=0){
+if($_POST['m3email']!=""){
     $q4="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m3email']."\")";
     $r4t=mysqli_query($con,$q4);
 }
-if($_POST['m4email']!=0){
+if($_POST['m4email']!=""){
     $q5="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m4email']."\")";
     $r5t=mysqli_query($con,$q5);
 }
-if($_POST['m5email']!=0){
+if($_POST['m5email']!=""){
     $q6="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m5email']."\")";
     $r6t=mysqli_query($con,$q6);
 }
-if($_POST['m6email']!=0){
+if($_POST['m6email']!=""){
     $q7="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m6email']."\")";
     $r7t=mysqli_query($con,$q7);
 }
-if($_POST['m7email']!=0){
+if($_POST['m7email']!=""){
     $q8="insert into groupe values(".$i.",\"".$_POST['teamname']."\",\"".$_POST['m7email']."\")";
     $r8t=mysqli_query($con,$q8);
 }
@@ -127,6 +127,7 @@ input[type=submit]:hover {
   width: auto;
   position: relative;
 }
+
 .fname{
     color: black;
     font-size: 15px;
@@ -143,7 +144,7 @@ input[type=submit]:hover {
     <label class="fname">Team Name *</label>
     <input type="text" id="teamname" name="teamname" placeholder="Team Name">
 
-    <label class="fname">Team Leader's Name *</label>
+    <label class="fname" >Team Leader's Name *</label>
     <input type="text" id="leadername" name="leadername" required  placeholder="Team Leader's Name">
 
     <label class="fname">Team Leader's Email ID *</label>
