@@ -116,7 +116,7 @@
             Quest Club</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -126,10 +126,12 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">Welcome to The Quest Club!<br>
+
+Are you a die-hard adventurer, a seeker of ancient mysteries and looking for thrills and excitement? For more information&#44;<a href="https://www.instagram.com/nitjquizclub/"> click here</a></p>
 
     </div>
-    
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
@@ -142,7 +144,7 @@
               This Quiz aims at testing the knowledge of students about the Science and Technology around the World.</p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/questclub/scitech.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -164,7 +166,7 @@
             <p class="comment__text" style="font-size: 17px;">This Quiz is related to the Space Science and will give students to explore the Planets, Research Organisations
                                             and various Universe facts.
 </p>
- 
+
 <form method="get" action="../departmental_events/aceofspace.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -183,7 +185,7 @@
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 17px;">This Quiz is related to the BUSINESS, Economics, Organisations LOGO’s, facts and other Business things.
 </p>
- 
+
 <form method="get" action="../departmental_events/bizquizzard.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -196,7 +198,7 @@
                         <div class="comment__underline"></div>
 
         </div>
-                    
+
 </div>
 
 </div>
@@ -231,7 +233,7 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>

@@ -108,12 +108,12 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 5</span>
         <h1 class="preview__name" style="font-size: 40px;">
             Netra</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -123,10 +123,10 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">"You don't take a photograph; you make it". <br>The Photography Club fosters and encourages growth of artistic vision and technical knowledge, exploring the connection between the eye, the camera, and the spirit. For more information&#44;<a href="https://www.instagram.com/nitj_photography_club/"> click here</a></p>
 
     </div>
-    
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
@@ -136,14 +136,13 @@
             <b class="comment__author" style="font-size: 30px;">Drishya </b>
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 17px;">
-              iv class="text eventInfo">
                                       It is an exquisite photography exhibition – a collection of a beautiful
   photographs from all over the nation. Moreover , it’s not just an exhibition ,
   it’s a photography competition as well as the best photographs will be
   awarded.</p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/netra/drishya.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -165,7 +164,7 @@
             <p class="comment__text" style="font-size: 17px;">Use your creativity to click theme based photos. Send us entry from the
 theme given.
 </p>
- 
+
 <form method="get" action="../departmental_events/netra/nazar.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -178,7 +177,7 @@ theme given.
                         <div class="comment__underline"></div>
 
         </div>
-               
+
                <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Photo Manipulation</b>
             <p class="comment__date"></p>
@@ -187,7 +186,7 @@ theme given.
   techniques .The event aims to provoke strong opinions among
   photographers.
 </p>
- 
+
 <form method="get" action="../departmental_events/netra/photomanipilation.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -210,7 +209,7 @@ theme given.
   the fest means to you .The best entries , clicked during three days of the fest ,
   shall be awarded.
 </p>
- 
+
 <form method="get" action="../departmental_events/netra/weekend_diaries.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -222,7 +221,7 @@ theme given.
 
                         <div class="comment__underline"></div>
 
-        </div>     
+        </div>
 
         <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Photo Treasure Hunt</b>
@@ -231,7 +230,7 @@ theme given.
 locations of the photos given to you . Along with your team , click
 photos of each location that you hunt down.
 </p>
- 
+
 <form method="get" action="../departmental_events/netra/phototreasurehunt.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -243,7 +242,7 @@ photos of each location that you hunt down.
 
                         <div class="comment__underline"></div>
 
-        </div>     
+        </div>
 </div>
 
 </div>
@@ -278,7 +277,7 @@ photos of each location that you hunt down.
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>

@@ -2,6 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content ="width= device-width,initial-scale=1,shrink-to-fit=no">
     <title>Our Team</title>
     <link rel="stylesheet" href="team.css">
     <link rel="stylesheet" href="maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -55,9 +56,9 @@
                             <a href="events/category.html" >Mega Events</a>
                         </li>
                         <li class="dropdown user-dropdown">
-                            <a href="#" >Sponsors</a>
+                            <a href="sponsors.html" >Sponsors</a>
                         </li>
-                        <li class="dropdown user-dropdown">
+                        <li class="dropdown user-dropdown active">
                             <a href="#" >Core Team</a>
                         </li>
 
