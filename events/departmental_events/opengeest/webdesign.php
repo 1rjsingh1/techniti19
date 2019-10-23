@@ -41,7 +41,7 @@
 
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/open?id=1KDQ-rFP57qmCfXFYd96h7HARXI0kCq9q" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="web.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
 
@@ -155,13 +155,13 @@ show your own creativity
                                        <li>Round 1 - Lecture Theatre</li>
                                        <li>Round 2 - Computer Lab</li>
                                        <p><b><u>Important Dates</u></b></p>
-                                       <li>Registrations until: 07/11/2019</li>
+                                       <li>Registrations until: 05/11/2019</li>
                                        <li>
-                                           Contest: Round 1 - 05/11/2019
+                                           Contest: Round 1 - 07/11/2019
 Round 2 – 09/11/2019 <br>
 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
     <a style="color:white; text-decoration:underline;"
-href="https://drive.google.com/open?id=1KDQ-rFP57qmCfXFYd96h7HARXI0kCq9q">Click here</a> to view rule book.
+href="web.pdf">Click here</a> to view rule book.
                                        </li>
                                     </div>
                                 </div>

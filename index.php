@@ -1099,8 +1099,8 @@
       }
       </style>
         <!-- <button type="button" class="btn btn-outline-dark">Sign In</button> -->
-        <button onclick="document.getElementById('id01').style.display='block'" class="btn btn-outline-dark" style="width:auto;">Login</button>
-        <button onclick="document.getElementById('id02').style.display='block'" class="btn btn-outline-dark" style="width:auto;">Sign Up</button>
+        <button  onclick="document.getElementById('id01').style.display='block'" class="btn btn-outline-dark" style="color:black; width:auto;" > Login</button>
+        <button onclick="document.getElementById('id02').style.display='block'" class="btn btn-outline-dark" style="color:black; width:auto;">Sign Up</button>
 
     <div id="id01" class="modal">
 

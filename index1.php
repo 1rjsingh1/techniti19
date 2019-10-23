@@ -951,7 +951,7 @@ unset($_SESSION['suck']);
 
       echo $_SESSION['name']; ?>
 
-    <button onclick="mov()" class="btn btn-outline-dark" style="width:auto;">Logout</button>
+    <button onclick="mov()" class="btn btn-outline-dark" style="color:black; width:auto;">Logout</button>
     </div>
    <!-- <div class="logon techniti19LOGIN" id="techniti19LOGIN" title="user">
       <div class="dropdown">

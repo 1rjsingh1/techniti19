@@ -66,12 +66,11 @@
 
                                                         <div class="feed-item-body">
                                                             <div class="text eventInfo" >
-                                                                   <p>The mega event organised by OpenGeest in association with Coding Club is a two-phase
-                                                                    competitive coding competition. Individuals will have to register on the techNITi’19 website in
-                                                                    order to participate.</p> <br>
+                                                                   <p>The mega event organised by OpenGeest is a two-phase competitive coding competition.
+Individuals will have to register on the techNITi’19 website in order to participate.</p> <br>
                                                                     <p>The first phase will be an online coding competition that would be organised on the
-                                                                        InterviewBit platform. Participants qualifying the phase 1 will then have to appear at NIT
-                                                                        Jalandhar, Punjab in order to appear for phase 2 that will be held onsite on the college premises.</p><br>
+InterviewBit platform. Participants qualifying the phase 1 will then have to appear at NIT
+Jalandhar, Punjab in order to appear for phase 2 that will be held onsite on the college premises.</p><br>
                                                             </div>
                                                         </div>
                                                     </section>
@@ -116,7 +115,7 @@
                                                     <section class="feed-item">
 
                                                         <div class="feed-item-body">
-                                                            <div class="text eventInfo"">
+                                                            <div class="text eventInfo">
                                                                     02 November 2019 – Online Coding Round (Phase 1)<br>
                                                                     10 November 2019 – Onsite finale at NIT Jalandhar, Punjab (Phase 2)
 
@@ -129,7 +128,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="row" id=">GeneralRules">
+                                    <div class="row" id="GeneralRules">
                                      <div class="col-md-12">
                                             <div class="panel panel-primary" style="border: black" >
                                                 <div class="panel-heading" style="background: black;">
