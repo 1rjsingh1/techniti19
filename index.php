@@ -58,8 +58,8 @@
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="techNITi19 '19 | Expanding Horizons" />
-    <meta name="keywords" content="axis, vnit, axisvnit, axis19, technical festival, nagpur, robowars, nagpur events, nagpur fest, techfest, workshops" />
-    <meta name="author" content="axisvnit" />
+    <meta name="keywords" content="techniti19, nit, techniti19nit, techniti1919, technical festival, nagpur, robowars, nagpur events, nagpur fest, techfest, workshops" />
+    <meta name="author" content="techniti19nit" />
     <meta property="og:title" content=""/>
     <meta property="og:image" content=""/>
     <meta property="og:url" content=""/>
@@ -195,7 +195,7 @@
                <button class="quickstart-sign-in" id="quickstart-sign-in" onmouseleave="this.style.color = 'gray'" onmouseenter="this.style.color = 'white'" style="background:transparent;border: none;"><span class="glyphicon glyphicon-user" style="border: 1px solid gray;border-radius: 50%;padding: 10px;"></span></button>
              </span>
 
-              <span class="axisLOGIN" style="visibility: hidden;">
+              <span class="techniti19LOGIN" style="visibility: hidden;">
                 <div class="dropdown" style="z-index: 5000;">
                   <button onmouseleave="this.style.color = 'gray'" onmouseenter="this.style.color = 'white'" class="dropbtn" style="background: transparent;border: none;font-size: 22px;">
                     <span class="glyphicon glyphicon-user" style="border: 1px solid gray;border-radius: 50%;padding: 10px;"></span>
@@ -224,14 +224,14 @@
       <div class="video-container">
 
         <div class="herologo">
-          <img src="images/logo.png" alt="axislogo">
+          <img src="images/logo.png" alt="techniti19logo">
         </div>
         <video src="vid/bgvid.mp4" autoplay muted loop poster="images/bg.png"></video>
       </div>
 
 
       <h1 id="tagline">techNITi'19</h1>
-      <h6 id="brandaxis">टैकनीति '१९ </h6>
+      <h6 id="brandtechniti19">टैकनीति '१९ </h6>
       <h4 id="dateline">Coz its All about Technology</h4>
 
 
@@ -804,7 +804,7 @@
                     </span>
                     <br>
                     <span class="counter-label" style="color:white;">
-                      <a href="mailto:sponsorship@axisvnit.org">sponsorship@axisvnit.org
+                      <a href="mailto:sponsorship@techniti19nit.org">sponsorship@techniti19nit.org
                       </a>
                     </span>
                   </div>
@@ -825,7 +825,7 @@
                     </span>
                     <br>
                     <span class="counter-label" style="color:white;">
-                      <a href="mailto:publicity@axisvnit.org">publicity@axisvnit.org
+                      <a href="mailto:publicity@techniti19nit.org">publicity@techniti19nit.org
                       </a>
                     </span>
                   </div>
@@ -1217,12 +1217,12 @@
 
 
 
-   <!-- <div class="logon axisLOGIN" id="axisLOGIN" title="user">
+   <!-- <div class="logon techniti19LOGIN" id="techniti19LOGIN" title="user">
       <div class="dropdown">
         <a href="#" class="dropbtn"><i class="icon-user"></i></a>
         <div class="dropdown-content">
           <div style="text-align: center;"><span class="clientName" id="clientName" title="name"></span></div>
-          <div style="text-align: center;"><span class="techNITi19id" id="techNITi19id" title="axis id"></span></div>
+          <div style="text-align: center;"><span class="techNITi19id" id="techNITi19id" title="techniti19 id"></span></div>
           <div style="text-align: center;"><button onclick="logout()" class="logout" title="logout">LOGOUT</button></div>
         </div>
       </div>
