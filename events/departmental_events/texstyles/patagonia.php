@@ -146,12 +146,10 @@ competition.</li>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
 
-                                </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-
+Prize money Rs. 3000/-
                                     </div>
                                 </div>
                             </section>
