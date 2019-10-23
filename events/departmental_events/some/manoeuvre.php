@@ -122,7 +122,7 @@ on an off road track.
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                        <p><b><u> Technical Inspection</u></b> (T.I.)
 
 
@@ -206,6 +206,9 @@ and any furthur arguements will not be entertained.</li>
 <li>The organizers reserve the right to change any or all the rules as they
 deem fit. In case a change is made it will be notified to the registered team
 through mail.</li>
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+<a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=1POzBQlr8ZkTrQYVbcCpzurIfOTm-0mAE">Click here</a> to view rule book.
                                     </div>
                                 </div>
                             </section>
