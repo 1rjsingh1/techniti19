@@ -103,6 +103,24 @@ html {
   background-position: center center;
   background-repeat: no-repeat;
 }
+.testimonials .client-section .core:nth-of-type(9) {
+  background-image: url("images/freeco2.jpg");
+  background-size: cover;
+  background-position: center ;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .core:nth-of-type(10) {
+  background-image: url("images/ISET 2020 Logo.png");
+  background-size: cover;
+  background-position: left;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .core:nth-of-type(11) {
+  background-image: url("images/Learning While Travelling_TM_22.03.2018.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
 footer {
   background: black;
   color: white;

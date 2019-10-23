@@ -135,10 +135,10 @@
                     <span class="preview-info__name" style="font-size: 20px;">Arpit Gupta</span><br>
                  <span class="preview-info__role style=" style="font-size: 20px;">+91-9571538393</span>
                 </li>
-            
+
 
         </ul>
-        
+
     </div>
     </div>
 

@@ -15,15 +15,15 @@
                 <img src="logo5.png" style="width: 100px; height: 50px;"> <a class="navbar-brand" href="../../../index.html" > </a></img>
             </div>
             <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
-                
+
 
                 <ul class="nav navbar-nav navbar-left navbar-user" >
                         <li class="dropdown user-dropdown">
                         <a href="../../../index.html" ></a>
-                    </li> 
+                    </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../../index.html" ></a>
-                    </li> 
+                    </li>
                     <li class="dropdown user-dropdown">
                         <a href="../../../index.html" >Home</a>
                     </li>
@@ -39,7 +39,7 @@
                     <li class="dropdown user-dropdown">
                         <a href="../category.html" >Core Team</a>
                     </li>
-                    
+
                     <li class="dropdown user-dropdown">
                         <a href="../category.html" >Contact</a>
                     </li>
