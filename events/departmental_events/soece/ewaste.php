@@ -207,11 +207,15 @@ appropriate modifications directed by them.</p>
 
                                     </div>
                                 </div>
+                                <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/file/d/1JgAQU67l7qK8-wzabxQFRN6W9BBMfON-/view?usp=sharing">Click here</a> to view rule book.
                             </section>
 
                         </div>
                     </div>
                 </div>
+
             </div>
 
 
