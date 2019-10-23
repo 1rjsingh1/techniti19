@@ -347,9 +347,9 @@
                 </div>
               </a>
 
-               
 
-                  
+
+
     </div><br><br><br>
 
     <div class="content">
@@ -378,7 +378,7 @@
             </div>
           </div>
 
-          
+
             <a class="card" href="category/netra.php">
               <div class="front" style="background-image: url('img/back_img/photography.jpg');">
                 <p>NETRA</p>
@@ -401,7 +401,7 @@
                   </div>
                 </div>
 
-                  
+
 
     </div>
   </body>

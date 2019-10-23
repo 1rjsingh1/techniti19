@@ -111,12 +111,12 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 4</span>
         <h1 class="preview__name" style="font-size: 40px;">
             Society Of Computer Science Engineers</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -126,10 +126,10 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">This is the society of Computer Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 
     </div>
-    
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
@@ -146,7 +146,7 @@
                                       go!!!</p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/opengeest/cyberhunt.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -168,7 +168,7 @@
             <p class="comment__text" style="font-size: 17px;">It is time that you show off your creativity with code. This event will ask you to design a
 web page on a particular topic. Team with the most impressive design takes it all away.
 </p>
- 
+
 <form method="get" action="../departmental_events/opengeest/webdesign.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -181,14 +181,14 @@ web page on a particular topic. Team with the most impressive design takes it al
                         <div class="comment__underline"></div>
 
         </div>
-               
+
                <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Code It</b>
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 17px;">A rise in demand of coal, oil and other minerals was envisaged by the government of a thriving state. They, after days of discussion opted for the use of railroads to transport the minerals and oils. It was favoured as it would allow to transport greater amount of goods in a less time. Moreover, it avoided roadway congestion. A government contractor was assigned the project to lay down railway tracks to facilitate the transport of minerals and oils to the state. But the railway lines could not be connected as they encountered a river. Engineers decided to connect the railway lines through a truss bridge over the river which would have the strength to bear a heavy freight locomotive.
                                       Now, imagine yourself in their position and construct a truss bridge using. Use your inventiveness to make a sturdy and aesthetically pleasing bridge.
 </p>
- 
+
 <form method="get" action="../departmental_events/codeit.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -209,7 +209,7 @@ web page on a particular topic. Team with the most impressive design takes it al
                                                                     competitive coding competition. Individuals will have to register on the techNITi’19 website in
                                                                     order to participate.
 </p>
- 
+
 <form method="get" action="../departmental_events/algorhythm.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -221,7 +221,7 @@ web page on a particular topic. Team with the most impressive design takes it al
 
                         <div class="comment__underline"></div>
 
-        </div>     
+        </div>
 </div>
 
 </div>
@@ -256,7 +256,7 @@ web page on a particular topic. Team with the most impressive design takes it al
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>

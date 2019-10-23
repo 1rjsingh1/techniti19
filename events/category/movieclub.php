@@ -112,7 +112,7 @@
             Movie Club</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -122,10 +122,11 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">Welcome to the Movie club! <br>It is the place to be, when you want to showcase what you have got. It helps you to discover your own talent and work on it to bring out a better 'you'. For more information 
+&#44;<a href="https://www.instagram.com/nitj.movie_club/"> click here</a></p>
 
     </div>
-    
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
@@ -140,7 +141,7 @@
   make sense. Length of the film should be 2-3 min. </p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/movieclub/fixtheglitch.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -163,9 +164,9 @@
 script and has to present it in front of audience. Script should contain
 some technical stuff.Time limit : 10min - 20min. No abusing or
 vulgarism is allowed, otherwise team will be disqualified. No plagiarism
-is allowed. 
+is allowed.
 </p>
- 
+
 <form method="get" action="../departmental_events/movieclub/fmoviecascader.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -186,9 +187,9 @@ is allowed.
   recreate that movie scene by their acting. Judging will be done on the basis of Direction,
   Acting, innovation in Screenplay, and Editing. Movie scene should be based on good
   theme. Participants are required to submit the video clip the day before the event
-  scheduled. 
+  scheduled.
 </p>
- 
+
 <form method="get" action="../departmental_events/movieclub/RefurbishTheMoment.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -201,7 +202,7 @@ is allowed.
                         <div class="comment__underline"></div>
 
         </div>
-                    
+
 </div>
 
 </div>
@@ -236,7 +237,7 @@ is allowed.
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>

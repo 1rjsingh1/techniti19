@@ -108,12 +108,12 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 2</span>
         <h1 class="preview__name" style="font-size: 40px;">
             The Industrial Engineer's Society</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -123,10 +123,10 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">This is the society of Industrial Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 
     </div>
-    
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
@@ -140,7 +140,7 @@
 could keeping in mind certain penalties that are being offered in track.</p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/ties/endurance.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -165,7 +165,7 @@ could keeping in mind certain penalties that are being offered in track.</p>
                                             given by another participant.</p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/bestengineer.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -182,7 +182,7 @@ could keeping in mind certain penalties that are being offered in track.</p>
                 <div class="comment__underline"></div>
         </div>
 
-                    
+
 </div>
 
 </div>
@@ -217,7 +217,7 @@ could keeping in mind certain penalties that are being offered in track.</p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>

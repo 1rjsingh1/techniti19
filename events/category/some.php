@@ -109,7 +109,7 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 5</span>
         <h1 class="preview__name" style="font-size: 40px;">
             Society Of Mechanical Engineers</h1>
 
@@ -124,7 +124,7 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">This is the society of Mechanical Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 
     </div>
 

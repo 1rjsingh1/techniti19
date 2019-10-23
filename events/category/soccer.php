@@ -109,12 +109,12 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 2</span>
         <h1 class="preview__name" style="font-size: 40px;">
             Society Of Civil Engineers</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -124,10 +124,10 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">This is the society of Civil Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 
     </div>
-    
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
@@ -143,7 +143,7 @@ Survey Hunt aims to hit exactly at inquisitiveness of participants allowing them
 common observances of the places around them and effectively guess the clues offered to them.</p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/soccer/surveyhunt.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -166,7 +166,7 @@ common observances of the places around them and effectively guess the clues off
                                             other roads. When a bridge collapses or closes for repairs, it can cause massive traffic problems
                                             or strand people altogether, especially if they live on an island.
 </p>
- 
+
 <form method="get" action="../departmental_events/bridgeit.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -179,7 +179,7 @@ common observances of the places around them and effectively guess the clues off
                         <div class="comment__underline"></div>
 
         </div>
-                    
+
 </div>
 
 </div>
@@ -214,7 +214,7 @@ common observances of the places around them and effectively guess the clues off
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>

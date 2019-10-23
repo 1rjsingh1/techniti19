@@ -109,12 +109,12 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 2</span>
         <h1 class="preview__name" style="font-size: 40px;">
             Society Of Instrumentation and Control Engineers</h1>
 
     </div>
-           
+
     </div>
 
 <div class="preview-info">
@@ -124,10 +124,10 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">For further details about the department faculty and facilities&#44;<a href="http://www.nitj.ac.in/index.php/nitj_cinfo/index/54"> click here</a></p>
+<p style="font-size: 20px;">This is the society of Mechanical Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 
     </div>
-    
+
 </div>
 <div class="comments" id="comments">
     <h2 class="comments__header">List of Events</h2>
@@ -140,7 +140,7 @@
               CONTESTANT TEAMS WILL BE COMPETING HEAD ON IN A 1 VS 1 MATCH. BOTH TEAMS WILL HAVE MADE RC/NON-RC VEHICLES(BOTS) LESS THAN 6KG IN WEIGHT AND NOT LARGER THAN 20X20X20 CM. THEY WILL TRY TO GAIN POINTS BY PUSHING THE OTHER TEAM’S BOT INTO PITS IN THE ARENA OR BY PRESSING THEM AGAISNT THE WEAPONS IN THE ARENA AS WELL. THE ARENA WILL BE 1.5X1.5 METERS.</p>
                 <p>
 
-  
+
 <form method="get" action="../departmental_events/spice/micro_robo.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -164,7 +164,7 @@ RESISTANCES, GATES, AND OTHER ELECTRONIC DEVICES AND TELL THE OUTPUT.
 THERE WILL BE SEMI, AND FINALS.
 AS THE EVENT GOES CIRCUIT BECOMES MORE AND MORE DIFFICULT.
 </p>
- 
+
 <form method="get" action="../departmental_events/spice/trickycircuits.php">
     <button type="submit" style="background-color: Transparent;
     background-repeat:no-repeat;
@@ -177,7 +177,7 @@ AS THE EVENT GOES CIRCUIT BECOMES MORE AND MORE DIFFICULT.
                         <div class="comment__underline"></div>
 
         </div>
-                    
+
 </div>
 
 </div>
@@ -212,7 +212,7 @@ AS THE EVENT GOES CIRCUIT BECOMES MORE AND MORE DIFFICULT.
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js">
     </script>
-  
+
 
     <script src="main.js"></script>
 </body>
