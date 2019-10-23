@@ -264,30 +264,30 @@ from a referee and to note down the timing to complete the race.</li>
                                         <center>
                                             <div class="container">
                                                 <div class="row">
+                                                  <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
+                                                      <div class="Name">
+                                                          Vinay Yadav
+                                                      </div>
+                                                      <div class="Number">
+                                                          +91-9983336345
+                                                      </div>
+                                                  </div>
+                                                  <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
+                                                      <div class="Name">
+                                                        Arpit Gupta
+                                                      </div>
+                                                      <div class="Number">
+                                                          +91-9571538393
+                                                      </div>
+                                                  </div>
                                                     <!-- <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
-                                                        <div class="Name">
-                                                            CHUNCHU PRAVALIKA
-                                                        </div>
-                                                        <div class="Number">
-                                                            +91-9172564108
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
-                                                        <div class="Name">
-                                                            KASA LOHIT
-                                                        </div>
-                                                        <div class="Number">
-                                                            +91-8464995273
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
                                                             SUVOG BORKAR
                                                         </div>
                                                         <div class="Number">
                                                             +91-9011743948
                                                         </div>
-                                                    </div> -->
+                                                    </div> --> 
                                                 </div>
                                             </div>
                                         </center>

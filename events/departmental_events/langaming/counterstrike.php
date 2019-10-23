@@ -174,7 +174,7 @@ wins first wins.</li>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                              
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                 <li>You are responsible for your actions and equipment. We are not liable for
@@ -190,6 +190,9 @@ fit.</li>
 grounds of match settings.</li>
                                 <li>Any intentional abuse of "pause" by a player on the server will be result in
 disciplinary action to be decided by an administrator.</li>
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+<a style="color:white; text-decoration:underline;"
+ href="csgo.pdf">Click here</a> to view rule book.
                                     </div>
                                 </div>
                             </section>
@@ -265,23 +268,23 @@ disciplinary action to be decided by an administrator.</li>
                                         <center>
                                             <div class="container">
                                                 <div class="row">
+                                                    <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Vinay Yadav
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-9983336345
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-lg-6 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                          Arpit Gupta
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-9571538393
+                                                        </div>
+                                                    </div>
                                                     <!-- <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
-                                                        <div class="Name">
-                                                            CHUNCHU PRAVALIKA
-                                                        </div>
-                                                        <div class="Number">
-                                                            +91-9172564108
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
-                                                        <div class="Name">
-                                                            KASA LOHIT
-                                                        </div>
-                                                        <div class="Number">
-                                                            +91-8464995273
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
                                                             SUVOG BORKAR
                                                         </div>
