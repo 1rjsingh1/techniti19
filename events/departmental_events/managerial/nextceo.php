@@ -27,41 +27,22 @@
 <body>
 
     <div id="wrapper">
-          <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background: black;">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="../../../index.html"> techNITi'19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-            </div>
-            <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
-                <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
+      <?php include('../../../navbar.php'); ?>
+      <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
+            <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
 
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Event Description</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Round 1</a></li>
                     <li><a href="#rules"><i class="fa fa-list-ol"></i>Round 2</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 3</a></li>
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#prizemoney"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
                     <li><a href="https://drive.google.com/file/d/1K4S6sxlVQ8EHhDKQeCEFFEY0pX1P6DvB/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                <ul class="nav navbar-nav navbar-left navbar-user">
-
-                    <li class="dropdown user-dropdown">
-                        <a href="../../../index.html" >Home</a>
-                    </li>
-                    <li class="dropdown user-dropdown">
-                        <a href="../category.html" >Events</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-
+              </div>
+          </nav>
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
@@ -136,7 +117,7 @@ with your teammates, and take a step towards grabbing that sweet victory. </li>
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                        <li> The second round, Investor Hunt, revolves around quick thinking and takes you on a literal journey across the
 campus to “hunt” for your Investor to get the perfect pitch for your company.</li>
                                         <div class="row">
@@ -171,6 +152,10 @@ campus to “hunt” for your Investor to get the perfect pitch for your company
 company. It is all about how you handle the situation while being grilled by the media to go on to win this
 coveted competition and take home all the glories.
                                     </li>
+                                    <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+                                     href="https://drive.google.com/file/d/1K4S6sxlVQ8EHhDKQeCEFFEY0pX1P6DvB/view?usp=sharing">Click here</a> to view rule book.
+
                                     </div>
                                 </div>
                             </section>
@@ -248,7 +233,7 @@ coveted competition and take home all the glories.
                      </div>
                      <div class="feed-item-body">
                          <div class="text eventInfo">
-                           <li>Prizes Worth Rs. 2000</li>  </div>
+                            </div>
                      </div>
                  </section>
              </div>
@@ -256,9 +241,10 @@ coveted competition and take home all the glories.
      </div>
  </div>
 
-            <div id="RegisterContainer">
-                <a class="semi-transparent-button" style="display: flex; justify-content: center"onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER HERE</a>
-              </div>
+ <div id="RegisterContainer">
+     <a class="semi-transparent-button" href="../team_register.php?id=21" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+   </div>
+
 
 
 
