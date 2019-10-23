@@ -14,11 +14,11 @@
     <link href="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/css/mdb.min.css" rel="stylesheet">
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
-    
+
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.2.0/js/mdb.min.js"></script>
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../../local.css" />
     <script type="text/javascript" src="../../../cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="../../../maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
@@ -27,19 +27,19 @@
 <body>
 
     <div id="wrapper">
-          
+
                     <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
-                <ul id="active" class="nav navbar-nav side-nav" style="background: black;"> 
+                <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 1</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 2</a></li>
-                    
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
- 
+
+                    <li><a href="#judgingandscoring"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+
                     <li><a href="https://drive.google.com/open?id=15abAMyjeZ6_ccN8Q6yOdq9K5rOLtlbZ8" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -47,7 +47,7 @@
            <div class="row">
                 <div class="col-md-12">
                     <div class="eventHeading" style="text-align: center;">TEX-CAPES</div>
-                    
+
                     <!-- <div id="RegisterContainer">
                       <a class="semi-transparent-button" onclick="checkIfLogin()" id="semi-transparent-button" >REGISTER </a>
                     </div> -->
@@ -66,12 +66,12 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                         <p>Participants have to draw Apparel Designing on the sheets provided with the help of
 pencils, colors, sketch pens etc.
-                                                   
+
 
                                     </div>
                                 </div>
@@ -81,7 +81,7 @@ pencils, colors, sketch pens etc.
                     </div>
                 </div>
             </div>
-            
+
             <div class="row" id="testingofbridge">
              <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -90,14 +90,14 @@ pencils, colors, sketch pens etc.
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <p>Participants has to decorate their made apparel designing with the help of various
 decorative items like buttons, beads etc.</p>
                                         <p><b><u>Rules</u></b></p>
 
-                                    <li>Single Entry or max. 3 members in one team.</li>
+                                    <li>Max. 3 members in one team.</li>
                                     <li>Use of mobile is allowed.
                                     </li>
                                     <li>Participants have to complete the design within given time period at the moment.</li>
@@ -115,8 +115,8 @@ decorative items like buttons, beads etc.</p>
                     </div>
                 </div>
             </div>
-            
-           
+
+
            <div class="row" id="judgingandscoring">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -125,12 +125,10 @@ decorative items like buttons, beads etc.</p>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
-                                   
-                                </div>
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                
+                                Prize money Rs. 3000/-
                                     </div>
                                 </div>
                             </section>
@@ -144,9 +142,9 @@ decorative items like buttons, beads etc.</p>
                 <a class="semi-transparent-button" href="../team_register.php?id=40" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
-           
 
-        
+
+
             <div class="row" id="contact">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
@@ -155,7 +153,7 @@ decorative items like buttons, beads etc.</p>
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                 
+
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                         <center>
@@ -177,7 +175,7 @@ decorative items like buttons, beads etc.</p>
                                                             +91-9568903956
                                                         </div>
                                                     </div>
-                                                    
+
                                                 </div>
                                             </div>
                                         </center>
@@ -188,10 +186,10 @@ decorative items like buttons, beads etc.</p>
                     </div>
                 </div>
             </div>
-        
+
         </div>
-        
-                                    
+
+
     <div id="myModal" class="modal fade" role="dialog">
         <div class="modal-dialog" style="width: 90%;max-width: 90%;">
             <!-- Modal content-->
@@ -234,7 +232,7 @@ decorative items like buttons, beads etc.</p>
                                 <div class="col-md-3 flex-center">
                                     <span class="flex-center" style="padding: 10px;font-size: 19px; vertical-align: baseline;text-decoration: none;"> Team Leader</span>
                                 </div>
-                                
+
                                 <div class="col-md-3">
                                   <input type="text"  name="name1" placeholder="Name" style="color: white;font-size: 17px;max-width: 90%;" id="inputValidationEx" class="form-control validate" required />
                                 </div>
@@ -301,7 +299,7 @@ decorative items like buttons, beads etc.</p>
                                 <div>You can have team of 4 or less.</div>
                             </center>
                             <br />
-                            
+
 
                             <div class="row">
                                 <div class="col-md-12">
