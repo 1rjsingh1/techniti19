@@ -118,7 +118,7 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                             <p>Round 1: It would be an online round where each team would be
                                             given brain teasers, which on solving would grab them points.
                                             Top 16 teams move to next round.</p><br>
@@ -148,7 +148,12 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                            The Team reporting with complete circuit would be the winner
+                                            The Team reporting with complete circuit would be the winner<br><br>
+
+                                            <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+<a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=1WWh-WB-ZH1kKlrE_iCcLqdVo1g1e4jPv">Click here</a> to view rule book.
+
 									</div>
                                 </div>
                             </section>

@@ -117,7 +117,7 @@ could keeping in mind certain penalties that are being offered in track.
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                       The teams that pass round 1 will enter round 2. It will consist of race track and participant must
 cross it as soon as possible. <br>
 Instructions for Round 1 and Round 2- <br>
@@ -187,7 +187,7 @@ There will be a race among the teams after removing the battery connection (usin
                                 </div>
                                 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
                                     <a style="color:white; text-decoration:underline;"
- href="https://drive.google.com/open?id=1iqwcQyieLVBrlLfIJAanRHcNnkHYFcBL">Click here</a> to view rule book.
+ href="https://drive.google.com/open?id=1QYmfBRFayLNx2-zBYT1en3kXEKB2eZJh">Click here</a> to view rule book.
                             </section>
                         </div>
                     </div>
