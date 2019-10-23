@@ -35,6 +35,7 @@
                     <li><a href="#TeamSpecification"><i class="fa fa-gamepad"></i>Team Specification:</a></li>
                     <li><a href="#Details"><i class="fa fa-list-ol"></i> Details:</a></li>
                     <li><a href="#GeneralRules"><i class="fa fa-list-ol"></i> General Rules:</a></li>
+                    <li><a href="#EventHead"><i class="fa fa-universal-access"></i>Prize Money</a></li>
                     <li><a href="#EventHead"><i class="fa fa-universal-access"></i>Event Head:</a></li>
                 </ul>
 
@@ -108,7 +109,7 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                       <li>Maximum of 20 minutes given to one team to explain their prototype</li>
                                       <li>Prototype have to be based on some innovative Engineering based concept</li>
                                       <li>One Detailed document about working prototype and materials used have to be submitted at the time of event</li>
@@ -135,7 +136,13 @@
                                            <li>Any kind of damage  done to the arena by the prototype will leads to its disqualification.</li>
                                            <li>In case of any descrepencies,the decision of judges will be ultimate and any further arguements not entertained</li>
                                            <li>The organizers reserve the right to change any or all the rules as they deem fit.In case a change is made notified to registered team via mail</li>
-									</div>
+									<br><br>
+                                    <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=1AmWIcdNhY2ZwLf-QkPE1CcDGn-coKQwX">Click here</a> to view rule book.
+
+                                    
+                                    </div>
                                 </div>
                             </section>
 
@@ -143,6 +150,29 @@
                     </div>
                 </div>
             </div>
+            
+
+            <div class="row" id="prize">
+                 <div class="col-md-12">
+                     <div class="panel panel-primary" style="border: black" >
+                         <div class="panel-heading" style="background: black;">
+                             <h3 class="panel-title"><i class="fa fa-rss"></i> Prize Money</h3>
+                         </div>
+                         <div class="panel-body">
+                             <section class="feed-item">
+                                 <div class="icon pull-left">
+
+                                 </div>
+                                 <div class="feed-item-body">
+                                     <div class="text eventInfo">
+
+                                     </div>
+                                 </div>
+                             </section>
+                         </div>
+                     </div>
+                 </div>
+             </div>            
 
 
 

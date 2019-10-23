@@ -116,7 +116,7 @@
                             <section class="feed-item">
 
                                 <div class="feed-item-body">
-                                    <div class="text eventInfo"">
+                                    <div class="text eventInfo">
                                        <li>  Prorotype of heat exchanger has to be presented.</li>
                                         <li> This round will be non-eliminating round. LMTD, Heat duty and any leakage will be checked in this round.</li>
                                         <li> Two fluids (Hot & Cold), Pumps, Pipes will be provided by us.</li>
@@ -154,6 +154,12 @@
                                     <li>Only 10 minutes will be given.
                                     </li>
                                     <li>All team members have to be present for ppt to face quesitons asked by judges.</li>
+                                    <br><br>
+                                    <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                    <a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/open?id=15uIjhgtjyjgsQkTZrKxsUASTdnhOFVdX">Click here</a> to view rule book.
+
+                                    
                                     </div>
                                 </div>
                             </section>
