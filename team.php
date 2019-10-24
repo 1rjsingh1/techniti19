@@ -320,7 +320,7 @@
                     </td>
                     <td >
                         <div class="clientName">
-                            <h6>Kushal, BT<br><br>Sannidhya, ECE<br><br>Supriya, ICE<br><br></h6>
+                            <h6>Kushal, BT<br><br>Sannidhya, ECE<br><br>Supriya, ICE</h6>
                         </div>
                     </td>
                     <tr>
