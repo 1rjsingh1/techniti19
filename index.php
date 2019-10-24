@@ -1121,7 +1121,7 @@
           <input type="email" placeholder="Enter Email" name="uname" required> <br>
 
           <label for="psw"><b>Password</b></label> <br>
-          <input type="password" placeholder="Enter Password" name="psw" required> <br>
+          <input type="password" minlength="6" placeholder="Enter Password" name="psw" required> <br>
 
           <button type="submit" class="btn btn-primary" style="color:black">Login</button>
           <!-- <label>
@@ -1165,7 +1165,7 @@
           <input type="tel" pattern="^\d{10}$"  placeholder="Enter Phone Number" name="phone" required> <br>
 
                     <label for="Password"><b>Password</b></label> <br>
-                        <input type="password" placeholder="Password" id="Password" name="Password" required="" /> <br>
+                        <input type="password" minlength="6" placeholder="Password" id="Password" name="Password" required="" /> <br>
 
 
                         <label for="ConfirmPassword"><b>Confirm Password</b></label> <br>
