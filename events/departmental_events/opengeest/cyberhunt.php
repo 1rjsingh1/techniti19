@@ -101,7 +101,7 @@
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                       <li>Registrations until: 07/11/2019</li>
-<li>Contest:<ul> -Round 1 – 08/11/2019 (10:00 AM)</ul>
+<li>Contest:<ul> -Round 1 – 08/11/2019 (09:00 AM)</ul>
   <ul>-Rules – 08/11/2019 (3:00 PM)</ul>
 </li>
 
