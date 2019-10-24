@@ -145,7 +145,7 @@ Jalandhar, Punjab in order to appear for phase 2 that will be held onsite on the
                                                                     4. Participants must fill Google form for participation in this event.<br>
                                                                     <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
                                                                         <a style="color:white; text-decoration:underline;"
-                                                                    href="https://drive.google.com/open?id=1MdrEu3BsDiG2Jwet-Lu0RZbjx_XHb_R6">Click here</a> to view rule book.
+                                                                    href="opengeest/algo.pdf">Click here</a> to view rule book.
 
                                                             </div>
                                                         </div>
