@@ -973,7 +973,7 @@ unset($_SESSION['suck']);
         </div>
 
         <a href="#" class="navLink"><i class="icon-home"></i> Home</a>
-        <a href="events/deptcategory.html" class="events"><i class="icon-star"></i> Departmental Events</a>
+        <a href="events/deptcategory.html" class="navLink"><i class="icon-star"></i> Departmental Events</a>
         <a href="events/category.html" class="navLink"><i class="icon-star"></i> Mega Events</a>
        <!-- <a href="#" target="__blank"  class="navLink"><i class="icon-globe"></i> MUN</a>
         <a href="#" class="navLink"><i class="icon-bag"></i> Guest Lectures</a>
