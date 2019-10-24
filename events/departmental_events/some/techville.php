@@ -171,6 +171,10 @@ or graduates.
                                       <li> Registering your team is mandatory for participation. Link for registration is available on
 our Facebook page:
                                       </li>
+                                      <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+                                      <a style="color:white; text-decoration:underline;"
+                                       href="https://drive.google.com/file/d/1pj5EBr6EgvJeMAelozkFll107J9WvuEd/view?usp=sharing">Click here</a> to view rule book.
+
                                     </div>
                                 </div>
                             </section>
@@ -245,7 +249,7 @@ our Facebook page:
 
                                 <div class="feed-item-body">
                                   Prizes worth Rs. 20,000/-
-                                
+
                                 </div>
                             </section>
                         </div>
