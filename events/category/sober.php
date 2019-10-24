@@ -114,7 +114,7 @@
     <div class="preview__inner">
         <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 1</span>
         <h1 class="preview__name" style="font-size: 40px;">
-            Society Of Biotech Engineers</h1>
+            Society Of Biotech Engineers And Researchers</h1>
 
     </div>
 
