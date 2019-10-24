@@ -150,7 +150,7 @@
 
 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
  <a style="color:white; text-decoration:underline;"
-  href="smack.pdf">Click here</a> to view rule book.
+  href="smack.pdf">Click here</a> to view rule book0.
 
                                             
                                         </div>

@@ -126,7 +126,7 @@
         <p style="font-size: 20px;"></p>
 
 
-<p style="font-size: 20px;">This is the society of Mechanical Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
+<p style="font-size: 20px;">This is the society of Instrumentation and Control Engineers which encourages and inspires like-minded people to showcase their talents and discover their passion.</p>
 <div class="preview-info__content">
         <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
         <ul class="preview-info__team">
