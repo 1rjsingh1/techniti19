@@ -70,7 +70,7 @@
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
                                       Team may contain maximum of 2-3members. <br>
-                                      We provide all teams 10-15 video clips. All team
+                                      <b>We provide all teams 10-15 video clips. </b>All team
   have to make a short film out of this video only and the film should
   make sense. Length of the film should be 2-3 min. The one who
   qualifies the first round will go to a second round and in the second
