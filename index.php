@@ -1264,7 +1264,7 @@
 
         <br>
         <a href="https://www.facebook.com/nitjtechniti/" target="_blank" class="navSocial" ><i class="icon-facebook"></i></a>
-        <a href="https://www.instagram.com/techniti_2k18/" target="_blank" class="navSocial" ><i class="icon-instagram"></i></a>
+        <a href="https://www.instagram.com/techniti_nitj/" target="_blank" class="navSocial" ><i class="icon-instagram"></i></a>
 
     </div>
   <!-- Navigation Code ends here -->
