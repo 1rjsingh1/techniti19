@@ -205,7 +205,7 @@
                                     <li>Decency</li>
                                     <li>Expressions</li>
                                     <li>Originality and confidence</li>
-                                    <li>Originality and confidence</li>
+                                    <li>Adherence to Theme</li>
                                     <li>Clarity of Depiction</li>
                                    The decision of the event coordinator and judges will be final and binding on all.
                                     </div>

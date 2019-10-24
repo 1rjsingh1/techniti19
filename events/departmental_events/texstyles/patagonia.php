@@ -82,7 +82,7 @@ the names of famous textile brands. Logos of the brands will be provided for the
 
 
 
-                                       <li> Teams for this event can have at least 2 members and maximum 3.</li>
+                                       <li> All teams must have at least 2 members and not more than 4.</li>
                                         <li> Use of mobile phones are prohibited for solving the hints.</li>
 
                                         <p><b><u> Judgement Criteria</u></b></p>
