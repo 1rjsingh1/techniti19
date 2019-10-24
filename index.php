@@ -1249,7 +1249,7 @@
         <a href="#" class="navLink"><i class="icon-document"></i> Gallery</a>
         <a href="team.php" class="navLink"><i class="icon-users"></i> Core Team</a>
         <a href="developers.html" class="navLink"><i class="icon-users"></i>Developers</a>
-        <a href="#" class="navLink"><i class="icon-help"></i> Contact Us</a>
+        <a href="contacts.html" class="navLink"><i class="icon-help"></i> Contact Us</a>
 
         <div class="dropup">
           <a href="#" class="navLink" class="dropbtn2"><i class="icon-home"></i> Accommodation</a>

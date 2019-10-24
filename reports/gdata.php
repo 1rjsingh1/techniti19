@@ -2,6 +2,8 @@
 <html lang="en" dir="ltr">
   <head>
     <title>Report</title>
+    <meta name="viewport" content ="width= device-width,initial-scale=1,shrink-to-fit=no">
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
     <script type="text/javascript" src="jquery.min.js" ></script>
@@ -70,7 +72,7 @@ $q1="Select ename from events where eid=".$_SESSION['eid'];
   <tbody>
     <?php
       $que="Select tname,name,user.email,college,phone from user,groupe where user.email=groupe.email and eid=".$_SESSION['eid'];
-     
+
 
       $r1t=mysqli_query($con,$que);
       $count=mysqli_num_rows($r1t);

@@ -95,10 +95,9 @@
                     </li> <li class="dropdown user-dropdown">
                         <a href="../../developers.html" >Developers</a>
                     </li>
-
-                    <li class="dropdown user-dropdown">
-                        <a href="#" >Contact</a>
-                    </li>
+                  </li> <li class="dropdown user-dropdown">
+                      <a href="../../contacts.html" >Contact Us</a>
+                  </li>
                 </ul>
             </div>
         </nav>
@@ -276,5 +275,3 @@ pencils, colors, sketch pens etc.
     <script src="main.js"></script>
 </body>
 </html>
-
-

@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+    <script>
+    function make()
+    {
+        document.getElementById("sizingaddon1").value = " ";
+        alert("Resposne Submitted");
+    }
+
+</script>
     <meta charset="utf-8">
     <title>Contact Us</title>
     <meta name="viewport" content ="width= device-width,initial-scale=1,shrink-to-fit=no">
@@ -15,7 +23,7 @@
     <link rel="stylesheet" href="maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../../local.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="../../local.css" /> -->
     <script type="text/javascript" src="cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -24,9 +32,10 @@
          rel="stylesheet">
          <link rel="icon" type="image/ico" href="images/favlogo.ico">
           <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
   </head>
 
-  <body>
+  <body style="background-color:#F4F7FA">
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background: black; ">
                 <div class="navbar-header" style=" margin-left: 40px;">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -73,24 +82,25 @@
             </nav>
             <br><br><br>
             <br>
-<div class="container" style="border:5px black solid;">
-            <section>
-<div class="md-form amber-textarea active-amber-textarea-2">
-  <i class="fas fa-pencil-alt prefix"></i>
-  <textarea id="form24" class="md-textarea form-control" rows="10"></textarea>
-  <label for="form24" style="font-size: 18px;">Your feedback..</label>
+
+            <div class="container" style="background-color:white; width:80%; border:1px solid black; border-radius:10px;">
+    <div >
+        <span id="sizing-addon1" style="font-size:large;">Your Feedback:</span>
+
+        <textarea style="display:block; height: 1% " rows="10" cols="50" id="sizingaddon1">
+              </textarea>
+        </div>
+
+    <br />
+
+
+
+    <div style="text-align:center; margin-left:-50px;" class="container">
+        <button type="button1" class="btn btn-default" onclick="make()"  > <span style="color:black">Submit </span> </button>
+    </div>
+    <br>
 </div>
-<button class="btn btn-primary" type="submit">Submit</button>
-</section>
-<br>
-<br>
-
-</div>
-<br>
-<br>
-<br>
-
-
+<br><br><br>
 
 <section class="contact">
   <div class="updateSection">
@@ -104,8 +114,8 @@
             <div class="card-body text-center">
               <h5 class="card-title mb-0">Alok Verma</h5>
             <h5 class="card-title mb-0">Convener</h5>
-            <h5 class="card-title mb-0">Email: </h5>
-            <h5 class="card-title mb-0">Phone No: </h5>
+            <h5 class="card-title mb-0">Email: vermaalok11212@gmail.com</h5>
+            <h5 class="card-title mb-0">Phone No: 8423145046</h5>
             </div>
           </div>
         </div>
@@ -115,8 +125,8 @@
             <div class="card-body text-center">
               <h5 class="card-title mb-0">Arvind Jain</h5>
               <h5 class="card-title mb-0">Co-Convener</h5>
-              <h5 class="card-title mb-0">Email: </h5>
-              <h5 class="card-title mb-0">Phone No: </h5>
+              <h5 class="card-title mb-0">Email: arvind7jain@gmail.com</h5>
+              <h5 class="card-title mb-0">Phone No: 9466033429</h5>
             </div>
           </div>
         </div>
@@ -126,19 +136,19 @@
             <div class="card-body text-center">
               <h5 class="card-title mb-0">Animesh</h5>
               <h5 class="card-title mb-0">Co-Convener</h5>
-              <h5 class="card-title mb-0">Email: </h5>
-              <h5 class="card-title mb-0">Phone No: </h5>
+              <h5 class="card-title mb-0">Email: animesh05071999@gmail.com</h5>
+              <h5 class="card-title mb-0">Phone No: 7271037102</h5>
             </div>
           </div>
         </div>
         <div class="col-xl-3 col-md-3 mb-3">
           <div class="card border-0 shadow">
             <img src="team/ashishyadav.jpg" class="card-img-top" alt="...">
-            <div class="card-body text-center"><br>
+            <div class="card-body text-center">
               <h5 class="card-title mb-0">Ashish Yadav</h5>
               <h5 class="card-title mb-0">Web Coordinator</h5>
-              <h5 class="card-title mb-0">Email: </h5>
-              <h5 class="card-title mb-0">Phone No: </h5>
+              <h5 class="card-title mb-0">Email: yadavashishkumar97@gmail.com</h5>
+              <h5 class="card-title mb-0">Phone No: 9690990580</h5>
             </div>
           </div>
         </div>
@@ -156,7 +166,11 @@
 <!-- Page Content -->
 
 <footer>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8099.801379656111!2d75.5343942301719!3d31.39905282101406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a51d30c180edf%3A0x5b7633718d17ef33!2sDr.%20B.R.%20Ambedkar%20National%20Institute%20of%20Technology!5e0!3m2!1sen!2sin!4v1571849463515!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+  <div class="container">
+
+
+<iframe style="border:2px solid black; border-radius:10px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8099.801379656111!2d75.5343942301719!3d31.39905282101406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a51d30c180edf%3A0x5b7633718d17ef33!2sDr.%20B.R.%20Ambedkar%20National%20Institute%20of%20Technology!5e0!3m2!1sen!2sin!4v1571849463515!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+</div>
 </footer>
   </body>
 </html>

@@ -55,6 +55,9 @@
                     <li class="dropdown user-dropdown">
                         <a href="../../developers.html" >Developers</a>
                     </li>
+                    <li class="dropdown user-dropdown">
+                        <a href="../../contacts.html" >Contact Us</a>
+                    </li>
 
                     <li class="dropdown user-dropdown">
                         <a href="#" >Contact</a>
