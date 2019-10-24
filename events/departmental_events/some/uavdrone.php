@@ -304,7 +304,7 @@ the website regularly.</li>
 
                                 <div class="feed-item-body">
                                   Prize Money Rs. 30,000/-
-                                
+
                                 </div>
                             </section>
                         </div>
@@ -368,10 +368,10 @@ the website regularly.</li>
                 </div>
             </div>
 
-        </div> 
+        </div>
 
 
-    
+
 
 
     <script type="text/javascript">

@@ -157,7 +157,7 @@
                                        <p><b><u>Judgement Criteria</u></b></p>
                                        Maximum number of puzzles solved in least amount of time.
                                        <p><b><u>Venue</u></b></p>
-                                       <li>Round 1 - Conference Hall (IT Building)</li>
+                                       <li>Round 1 - Lecture Hall (IT Building)</li>
 <li>Round 2 - Computer Lab</li>
 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
     <a style="color:white; text-decoration:underline;"
