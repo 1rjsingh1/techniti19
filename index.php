@@ -1251,7 +1251,7 @@
         <a href="developers.html" class="navLink"><i class="icon-users"></i>Developers</a>
         <a href="contacts.html" class="navLink"><i class="icon-help"></i> Contact Us</a>
 
-        <!-- <div class="dropup">
+       <div class="dropup">
           <a href="#" class="navLink" class="dropbtn2"><i class="icon-home"></i> Accommodation</a>
           <div class="dropup-content2">
             <a href="#" target="_blank">Accomodation Policy</a>
@@ -1259,7 +1259,7 @@
           </div>
         </div>
 
-        <a href="#" target="_blank" class="navLink" style=""><img src="images/shirt1.jpg" style="height: 60px;width: 60px;border-radius: 50%;"> T-SHIRT </a> -->
+        <a href="#" target="_blank" class="navLink" style=""><img src="images/shirt1.jpg" style="height: 60px;width: 60px;border-radius: 50%;"> T-SHIRT </a>
 
 
         <br>
