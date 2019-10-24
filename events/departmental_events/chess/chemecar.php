@@ -37,7 +37,7 @@
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
                     <li><a href="#prizemoney"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/file/d/1iBTREKqDxUHaeiw-UfKNNdjhQHI1eTcD/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="chemecar.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
 
@@ -97,7 +97,7 @@ Evaluation will be based on distance covered by car, safety measures provided an
                                       A team may contain maximum of 3 members, no minimum limit
 
   (A team may consist of members from different colleges too).
-
+<br><b>Registration fee: Rs. 100</b>
 
 
                                     </div>
@@ -178,7 +178,7 @@ Evaluation will be based on distance covered by car, safety measures provided an
 
 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
 <a style="color:white; text-decoration:underline;"
-href="https://drive.google.com/file/d/1iBTREKqDxUHaeiw-UfKNNdjhQHI1eTcD/view?usp=sharing">Click here</a> to view rule book.
+href="chemecar.pdf">Click here</a> to view rule book.
 
                                     </div>
                                 </div>

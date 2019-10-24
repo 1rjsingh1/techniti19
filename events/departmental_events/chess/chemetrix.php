@@ -37,7 +37,7 @@
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
                     <li><a href="#prize"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/file/d/17GyrQoExHG-JYDFV7_3S8MfKtVMWRfZI/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="chemetrix.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
 
@@ -98,7 +98,7 @@ Puzzles will be given to reach at particular location & puzzles will be based on
                                       A team may contain maximum of 3 members, no minimum limit.
 
 <li>One Girl participant is mandatory.</li>
-
+<br><b>Registration fee: Rs. 100</b>
 
                                     </div>
                                 </div>
@@ -182,7 +182,7 @@ Round 2:
 
 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
 <a style="color:white; text-decoration:underline;"
-href="https://drive.google.com/file/d/17GyrQoExHG-JYDFV7_3S8MfKtVMWRfZI/view?usp=sharing">Click here</a> to view rule book.
+href="chemetrix.pdf">Click here</a> to view rule book.
 
                                     </div>
                                 </div>
