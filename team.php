@@ -160,7 +160,7 @@
                 </div>
                 <div class="core">
                     <div class="clientName">
-                        <h6>Animesh Tiwari<br>Co-Convener</h6>
+                        <h6>Animesh<br>Co-Convener</h6>
                     </div>
                 </div>
 
