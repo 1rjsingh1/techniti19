@@ -99,10 +99,10 @@
                     </li> <li class="dropdown user-dropdown">
                         <a href="../../developers.html" >Developers</a>
                     </li>
+                  </li> <li class="dropdown user-dropdown">
+                      <a href="../../contacts.html" >Contact Us</a>
+                  </li>
 
-                    <li class="dropdown user-dropdown">
-                        <a href="#" >Contact</a>
-                    </li>
                 </ul>
             </div>
         </nav>
@@ -223,7 +223,7 @@ web page on a particular topic. Team with the most impressive design takes it al
         <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Algo-Rhythm</b>
             <p class="comment__date"></p>
-            <p class="comment__text" style="font-size: 17px;">The mega event organised by OpenGeest, in association with Coding Club NITJ, is a two-phase competitive coding competition. Individuals will have to register on the techNITi’19 website in order to participate.
+            <p class="comment__text" style="font-size: 17px;">The mega event organised by OpenGeest is a two-phase competitive coding competition. Individuals will have to register on the techNITi’19 website in order to participate.
 </p>
 
 <form method="get" action="../departmental_events/algorhythm.php">

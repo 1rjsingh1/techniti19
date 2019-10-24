@@ -96,10 +96,10 @@
                     </li> <li class="dropdown user-dropdown">
                         <a href="../../developers.html" >Developers</a>
                     </li>
+                  </li> <li class="dropdown user-dropdown">
+                      <a href="../../contacts.html" >Contact Us</a>
+                  </li>
 
-                    <li class="dropdown user-dropdown">
-                        <a href="#" >Contact</a>
-                    </li>
                 </ul>
             </div>
         </nav>
@@ -154,8 +154,8 @@
             <b class="comment__author" style="font-size: 30px;">Numbery Route</b>
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 17px;">
-              In Numbery route the team of participants has to Build a autonomous line follower robot which should 
-              also be able to count the no. of boxes placed parallel along the route and also to count the number of 
+              In Numbery route the team of participants has to Build a autonomous line follower robot which should
+              also be able to count the no. of boxes placed parallel along the route and also to count the number of
               boxes of same height.
 </p>
                 <p>
@@ -200,7 +200,7 @@
             <b class="comment__author" style="font-size: 30px;">Arduino Workshop</b>
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 17px;">
-            The  concept of this event is to give brief introduction of microcontroller board 
+            The  concept of this event is to give brief introduction of microcontroller board
 like Arduino to the participants and also test their problem solving skills.
    <p>
 

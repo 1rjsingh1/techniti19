@@ -97,10 +97,11 @@
                     </li> <li class="dropdown user-dropdown">
                         <a href="../../developers.html" >Developers</a>
                     </li>
+                  </li> <li class="dropdown user-dropdown">
+                      <a href="../../contacts.html" >Contact Us</a>
+                  </li>
 
-                    <li class="dropdown user-dropdown">
-                        <a href="#" >Contact</a>
-                    </li>
+
                 </ul>
             </div>
         </nav>
@@ -179,7 +180,7 @@ In final round, a circuit will be given and team has to kill the bugs in circuit
 
         </div>
 
-        
+
             <div class="comment comment--first">
             <b class="comment__author" style="font-size: 30px;">Mind The Mind </b>
             <p class="comment__date"></p>
@@ -209,7 +210,7 @@ In final round, a circuit will be given and team has to kill the bugs in circuit
 
                 <div class="comment__underline"></div>
         </div>
-                    
+
 
                 <div class="comment comment--first">
             <b class="comment__author"  style="font-size: 30px;">Circuit Hunt</b>
