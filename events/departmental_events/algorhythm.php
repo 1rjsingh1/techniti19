@@ -142,7 +142,6 @@ Jalandhar, Punjab in order to appear for phase 2 that will be held onsite on the
                                                                     1. Both phases of the contest will be following ICPC rules.<br>
                                                                     2. A total of 30 participants will be qualifying round 1 to appear for the onsite round.<br>
                                                                     3. Participants should register on the techNITi’19 website.<br>
-                                                                    4. Participants must fill Google form for participation in this event.<br>
                                                                     <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
                                                                         <a style="color:white; text-decoration:underline;"
                                                                     href="opengeest/algo.pdf">Click here</a> to view rule book.

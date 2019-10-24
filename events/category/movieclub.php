@@ -126,7 +126,7 @@
 
 
 <p style="font-size: 20px;">Welcome to the Movie club! <br>It is the place to be, when you want to showcase what you have got. It helps you to discover your own talent and work on it to bring out a better 'you'. For more information
-&#44;<a href="https://www.instagram.com/nitj.movie_club/"> click here</a></p>
+&#44;<a href="https://www.facebook.com/nitjmovieclub/"> click here</a></p>
 
 <div class="preview-info__content">
         <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
