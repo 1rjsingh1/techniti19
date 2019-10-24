@@ -236,7 +236,7 @@
     </div><br><br> -->
 
     <div class="content">
-      <h1 class="heading">DEPARTENTAL EVENTS</h1>
+      <h1 class="heading">DEPARTMENTAL EVENTS</h1>
       <p class="description"></p>
 
       <a class="card" href="category/some.php">
