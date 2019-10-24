@@ -158,7 +158,7 @@
             <p class="comment__text" style="font-size: 17px;">
               All team
   have to make a short film out of this video only and the film should
-  make sense. Length of the film should be 2-3 min. </p>
+  make sense. Length of the film should be 2-3 min. We provide all teams 10-15 video clips. </p>
                 <p>
 
 

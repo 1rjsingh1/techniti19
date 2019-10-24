@@ -284,6 +284,10 @@ The organizers reserve all rights to change any or all of the above rules.</li>
 <li>Changes will be highlighted on the website and will also be mailed to all
 the registered participants. However, you are suggested to keep checking
 the website regularly.</li>
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+<a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/file/d/1EOkopht8Xy5sR__KxH2mJ5NT_ndfxk2M/view?usp=sharing">Click here</a> to view rule book.
+
 
                              </div>
                                 </div>

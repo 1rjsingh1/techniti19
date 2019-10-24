@@ -110,7 +110,7 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 4</span>
         <h1 class="preview__name" style="font-size: 40px;">
             R-TIST</h1>
 
@@ -220,6 +220,35 @@ like Arduino to the participants and also test their problem solving skills.
 
                 <div class="comment__underline"></div>
         </div>
+
+
+        <div class="comment comment--first">
+            <b class="comment__author" style="font-size: 30px;">Amaze Us</b>
+            <p class="comment__date"></p>
+            <p class="comment__text" style="font-size: 17px;">
+            In Amaze US  the team of participants has to Build a autonomous line follower robot  with RGB sensor which should also be able to take 90 degree turn on detection of particular colour .
+Bot should also display the colour detected on LCD display screen.
+AmazeUs will contain only one round .
+   <p>
+
+
+<form method="get" action="../departmental_events/rtist/amazeus.php">
+    <button type="submit" style="background-color: Transparent;
+    background-repeat:no-repeat;
+    border: solid;
+    cursor:pointer;
+    border-radius: 10px;
+    overflow: hidden; ">Register</button>
+</form>
+
+
+
+
+
+                <div class="comment__underline"></div>
+        </div>
+
+
 </div>
 
 </div>

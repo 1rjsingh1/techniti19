@@ -174,6 +174,9 @@ travelled in the given time of flight, the better)</li>
 
 <li>The point where the rocket hits the ground first will be taken as the
 point of landing and measurements will be taken considering this point.</li>
+<h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
+<a style="color:white; text-decoration:underline;"
+ href="https://drive.google.com/file/d/1tLPkMVwcavOIblxVa26cA6MOuNotSwCD/view?usp=sharing">Click here</a> to view rule book.
 
                                     </div>
                                 </div>

@@ -241,7 +241,7 @@ than 40%. Maximum number of sticks that can stacked together is three.  </li>
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-Worth 10k
+Prize money worth Rs. 10000
                                         </div>
                                 </div>
                             </section>

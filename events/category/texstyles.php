@@ -108,7 +108,7 @@
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
-        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 3</span>
+        <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 4</span>
         <h1 class="preview__name" style="font-size: 40px;">
             Society Of Textile Engineers</h1>
 
@@ -217,7 +217,7 @@ will be qualified to next round.
         </div>
 
                   <div class="comment comment--first">
-            <b class="comment__author"  style="font-size: 30px;">Tex-Scapes</b>
+            <b class="comment__author"  style="font-size: 30px;">Tex-Capes</b>
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 17px;">Participants have to draw Apparel Designing on the sheets provided with the help of
 pencils, colors, sketch pens etc.
