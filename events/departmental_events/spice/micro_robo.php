@@ -40,7 +40,7 @@
                     
                     <li><a href="#prize"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
  
-                    <li><a href="https://drive.google.com/open?id=1onnuaGLZE8TweTlRzQeNlwLto4AFVO4O" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/open?id=16QiaHTFVV-9SPnJq855INXm1o8OgRRLe" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
                
@@ -129,7 +129,7 @@ POINTS IS KNOCKED OUT.</li>
                                 </div>
                                 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
                                     <a style="color:white; text-decoration:underline;"
- href="https://drive.google.com/open?id=1onnuaGLZE8TweTlRzQeNlwLto4AFVO4O">Click here</a> to view rule book.<br>
+ href="https://drive.google.com/open?id=16QiaHTFVV-9SPnJq855INXm1o8OgRRLe">Click here</a> to view rule book.<br>
  Maximum 5 members are allowed.
                             </section>
 

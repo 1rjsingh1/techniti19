@@ -130,7 +130,7 @@
 
 <p style="font-size: 20px;">Welcome to The Quest Club!<br>
 
-Are you a die-hard adventurer, a seeker of ancient mysteries and looking for thrills and excitement? For more information&#44;<a href="https://www.instagram.com/nitjquizclub/"> click here</a></p>
+Are you a die-hard adventurer, a seeker of ancient mysteries and looking for thrills and excitement? For more information&#44;<a href="https://www.facebook.com/QuriousCreatures"> click here</a></p>
 <div class="preview-info__content">
         <h3 class="preview-info__subheader" style="font-size: 20px;">Student Coordinator:</h3>
         <ul class="preview-info__team">
