@@ -55,7 +55,7 @@ $q1="Select ename from events where eid=".$_SESSION['eid'];
 
 
     <tr>
-      <th scope="col">Serail No</th>
+      <th scope="col">Serial No</th>
       <th scope="col">Team Name</th>
       <th scope="col">Name</th>
       <th scope="col">Email</th>
