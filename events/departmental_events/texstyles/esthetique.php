@@ -159,7 +159,7 @@
                                         
 
                                     <li>ESTHETIQUE - The Smart Textile is a Technical Theme-Based Fashion show open to college students of any program with valid id proofs.</li>
-                                    <li>Each team must be composed of Max. 15 members and Min. 10 members, including one person for the sound. The team should contain both boys and girls.
+                                    <li>Each team must be composed of Max. 20 members and Min. 15 members, including one person for the sound. The team should contain both boys and girls.
                                     </li>
                                     <li>No person should be a part of multiple teams.</li>
                                     <li>Swapping or changing of the team member is prohibited.</li>
