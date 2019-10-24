@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 23, 2019 at 10:35 PM
+-- Generation Time: Oct 24, 2019 at 07:23 AM
 -- Server version: 10.1.21-MariaDB
 -- PHP Version: 5.6.30
 
@@ -209,37 +209,6 @@ CREATE TABLE `groupe` (
   `email` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
---
--- Dumping data for table `groupe`
---
-
-INSERT INTO `groupe` (`eid`, `tname`, `email`) VALUES
-(51, 'Singh', 'Rj@gmail.com'),
-(51, 'Singh', 'ashish@gmaik.com'),
-(51, 'Singh', 'ritiak@gmaik.com'),
-(51, 'Singh', 'baba@gmail.com'),
-(44, 'Singh', 'rj@gmail.com'),
-(44, 'Singh', 'ashiah@gnail.com'),
-(47, 'Rj', 'Rjs@gmail.com'),
-(47, 'Rj', ''),
-(47, 'Rj', 'Singh1@GMAIK.COM'),
-(47, 'Rj', 'Singh1@GMAIK.COM'),
-(47, 'Singh', 'Singh@gmail.com'),
-(49, 'yadav', 'yadav@gmaik.com'),
-(54, 'Rj', 'rj@123.com'),
-(54, 'Rj', 'saj@gmail.com'),
-(56, 'Singh', 'Singh@123c.om'),
-(56, 'Singh', 'Rj@gmail.com'),
-(55, 'Rj', 'Rj@123.com'),
-(55, 'Rj', 'Singh@123.com'),
-(7, 'Rj', 'Rj@ghmil.com'),
-(7, 'Rj', 'Asiha@gmaik.com'),
-(7, 'Rj', 'asd@gmaik.com'),
-(7, 'Rj', 'f@gmail.com'),
-(7, 'Rj', 'as@gmail.com'),
-(15, 'Rjk', 'jsf@gskl.com'),
-(15, 'Rjk', 'gfkjsn@bmfs.om');
-
 -- --------------------------------------------------------
 
 --
@@ -250,19 +219,6 @@ CREATE TABLE `ind` (
   `eid` int(11) NOT NULL,
   `userid` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Dumping data for table `ind`
---
-
-INSERT INTO `ind` (`eid`, `userid`) VALUES
-(43, 1),
-(42, 1),
-(41, 1),
-(6, 1),
-(8, 1),
-(9, 1),
-(10, 1);
 
 -- --------------------------------------------------------
 
@@ -313,17 +269,6 @@ CREATE TABLE `user` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
--- Dumping data for table `user`
---
-
-INSERT INTO `user` (`userid`, `Name`, `Email`, `College`, `Phone`, `Password`) VALUES
-(1, 'Rupinderjeet', '1rjsingh1@gmail.com', 'NITJ', 9888298877, '123'),
-(6, 'Abhishek', 'abhi@gmail.com', 'NITJ', 8489489498, '123'),
-(7, 'Ashish', 'ashish@gmail.com', 'NITJ', 8648694695, '123'),
-(8, 'Sukhdeep', 'suk@gmail.com', 'NITH', 4548948949, '132'),
-(9, 'abhi', '123@gmail.com', 'nit', 1234567890, '123');
-
---
 -- Indexes for dumped tables
 --
 
@@ -341,7 +286,7 @@ ALTER TABLE `user`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
