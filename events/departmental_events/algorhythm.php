@@ -66,7 +66,7 @@
 
                                                         <div class="feed-item-body">
                                                             <div class="text eventInfo" >
-                                                                   <p>The mega event organised by OpenGeest, in association with Coding Club NITJ, is a two-phase competitive coding competition.
+                                                                   <p>The mega event organised by OpenGeest is a two-phase competitive coding competition.
 Individuals will have to register on the techNITi’19 website in order to participate.</p> <br>
                                                                     <p>The first phase will be an online coding competition that would be organised on the
 InterviewBit platform. Participants qualifying the phase 1 will then have to appear at NIT
