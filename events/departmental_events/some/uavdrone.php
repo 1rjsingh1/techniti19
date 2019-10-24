@@ -342,7 +342,7 @@ the website regularly.</li>
                                                             Harvindra Singh Dhaka
                                                         </div>
                                                         <div class="Number">
-                                                            +91-872958885
+                                                            +91-8872958885
                                                         </div>
                                                     </div>
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">

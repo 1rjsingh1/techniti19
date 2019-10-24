@@ -174,7 +174,7 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        
+                                        Prize worth Rs. 8000
                                     </div>
                                 </div>
                             </section>
@@ -185,7 +185,7 @@
 
 
             <div id="RegisterContainer">
-                <a class="semi-transparent-button" href="../team_register.php?id=45" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                <a class="semi-transparent-button" href="../team_register.php?id=2" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
               </div>
 
 

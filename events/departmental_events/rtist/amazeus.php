@@ -184,7 +184,7 @@ AmazeUs will contain only one round .
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                        
+                                   Prize worth Rs. 17000     
                                     </div>
                                 </div>
                             </section>

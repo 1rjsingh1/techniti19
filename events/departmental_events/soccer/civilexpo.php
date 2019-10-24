@@ -37,7 +37,7 @@
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
                     <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="https://drive.google.com/file/d/18jxRJIhSJjeg_B_TA5e29JM453XVqAxM/view?usp=sharing" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="https://drive.google.com/open?id=18jxRJIhSJjeg_B_TA5e29JM453XVqAxM" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
 
@@ -160,7 +160,7 @@ It is a technical event where you have a chance to showcase your abilities to pr
                                 </div>
                                 <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
                                     <a style="color:white; text-decoration:underline;"
-                                     href="https://drive.google.com/file/d/1amUMLJWKKqEuHeo3hV0S4IX_c8mOZc_b/view?usp=sharing">Click here</a> to view rule book.
+                                     href="https://drive.google.com/open?id=18jxRJIhSJjeg_B_TA5e29JM453XVqAxM">Click here</a> to view rule book.
                             </section>
 
                         </div>

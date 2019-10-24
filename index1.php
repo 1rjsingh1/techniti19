@@ -192,7 +192,7 @@ unset($_SESSION['suck']);
 
 
       <h1 id="tagline">techNITi'19</h1>
-      <h6 id="brandtechniti19">टैकनीति '१९ </h6>
+    <!--  <h6 id="brandtechniti19">टैकनीति '१९ </h6>-->
       <h4 id="dateline">Coz its All about Technology</h4>
 
 
@@ -987,15 +987,15 @@ unset($_SESSION['suck']);
         <a href="developers.html" class="navLink"><i class="icon-users"></i> Developers</a>
         <a href="contacts.html" class="navLink"><i class="icon-help"></i> Contact Us</a>
 
-        <div class="dropup">
+      <!--  <div class="dropup">
           <a href="#" class="navLink" class="dropbtn2"><i class="icon-home"></i> Accommodation</a>
           <div class="dropup-content2">
             <a href="#" target="_blank">Accomodation Policy</a>
             <a href="#" target="_blank">Accomodation Form</a>
           </div>
-        </div>
+        </div> -->
 
-        <a href="#" target="_blank" class="navLink" style=""><img src="images/shirt1.jpg" style="height: 60px;width: 60px;border-radius: 50%;"> T-SHIRT </a>
+        <a href="events/departmental_events/tshirt/tshirts.php" target="_blank" class="navLink" style=""><img src="images/shirt1.jpg" style="height: 60px;width: 60px;border-radius: 50%;"> T-SHIRT </a>
 
 
         <br>
