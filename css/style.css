@@ -6,7 +6,7 @@
     position: absolute;
     top: 40%;
   }
- 
+
 }
 
 @media screen and (max-width: 600px){
@@ -16,15 +16,15 @@
     font-size:0.5em;
     margin-top:0px;
   }
- #carouselHeading>#cats 
+ #carouselHeading>#cats
   {
   font-size:0.36em;
   }
 }
 
-#carouselHeading>div 
+#carouselHeading>div
   {
-    font-size:0.5em; text-shadow: 1px 1px #000000; 
+    font-size:0.5em; text-shadow: 1px 1px #000000;
   }
 .postText
   {
@@ -1425,7 +1425,7 @@ form label {
   color: white;
 }
 #tagline {
-  font-family: "govagent", Arial, serif !important;
+  font-family: "nexa", Arial, serif !important  ;
   z-index: -1;
   font-size: 50px !important;
   width: 100%;
