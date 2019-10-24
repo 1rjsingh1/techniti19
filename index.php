@@ -840,7 +840,7 @@
 
 
 
-       <div class="icon-bar" style="margin-left: 1300px;">
+       <div class="icon-bar" style="margin-left: 1460px;">
         <a href="https://www.facebook.com/nitjtechniti/" target="_blank">
           <i class="icon-facebook">
           </i>
