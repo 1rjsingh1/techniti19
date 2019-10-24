@@ -342,13 +342,6 @@ footer {
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
 }
-.card img, .img-fluid, .section .view, .section img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-    padding: 10%;
-    background-color: black;
-    color:white;
 
 
 /*# sourceMappingURL=style.css.map */
