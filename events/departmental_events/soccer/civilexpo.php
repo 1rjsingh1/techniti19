@@ -35,7 +35,7 @@
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> DETAILS OF INDIVIDUAL ROUNDS</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>GENERAL RULES</a></li>
                     <!-- <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Judging And Scoring</a></li> -->
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#prize"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
                     <li><a href="https://drive.google.com/open?id=18jxRJIhSJjeg_B_TA5e29JM453XVqAxM" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
@@ -222,7 +222,7 @@ It is a technical event where you have a chance to showcase your abilities to pr
                     </div>
                 </div>
             </div> -->
-            <div class="row" id="prizemoney">
+            <div class="row" id="prize">
                 <div class="col-md-12">
                     <div class="panel panel-primary" style="border: black" >
                         <div class="panel-heading" style="background: black;">
