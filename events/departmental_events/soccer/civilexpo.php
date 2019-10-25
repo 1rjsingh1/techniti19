@@ -235,7 +235,7 @@ It is a technical event where you have a chance to showcase your abilities to pr
                                 </div>
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-
+                                            Prize worth Rs. 2200/-
                                         </div>
                                 </div>
                             </section>
