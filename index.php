@@ -1282,9 +1282,9 @@
     <!-- // <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"></script> -->
     <script src="js/simplyCountdown.js"></script>
     <script src="js/main.js"></script>
-    <script src="www.gstatic.com/firebasejs/5.7.0/firebase.js"></script>
-    <script src="js/login.js" ></script>
-    <script type="text/javascript" src="events/registration.js"></script>
+    <!-- <script src="www.gstatic.com/firebasejs/5.7.0/firebase.js"></script> -->
+    <!-- <script src="js/login.js" ></script> -->
+    <!-- <script type="text/javascript" src="events/registration.js"></script> -->
     <script type="text/javascript" src="js/script.js"></script>
 
     <script type="text/javascript">
@@ -1307,14 +1307,14 @@
     </script>
 
     <script src="use.fontawesome.com/1744f3f671.js"></script>
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
       var testim = document.getElementById("testim"),
-        testimDots = Array.prototype.slice.call(
-          document.getElementById("testim-dots").children
-        ),
-        testimContent = Array.prototype.slice.call(
-          document.getElementById("testim-content").children
-        ),
+        // testimDots = Array.prototype.slice.call(
+        //   // document.getElementById("testim-dots").children
+        // ),
+        // testimContent = Array.prototype.slice.call(
+        //   document.getElementById("testim-content").children
+        // ),
         testimLeftArrow = document.getElementById("left-arrow"),
         testimRightArrow = document.getElementById("right-arrow"),
         testimSpeed = 4500,
@@ -1356,19 +1356,19 @@
           }, testimSpeed);
         }
 
-        testimLeftArrow.addEventListener("click", function() {
-          playSlide((currentSlide -= 1));
-        });
-
-        testimRightArrow.addEventListener("click", function() {
-          playSlide((currentSlide += 1));
-        });
-
-        for (var l = 0; l < testimDots.length; l++) {
-          testimDots[l].addEventListener("click", function() {
-            playSlide((currentSlide = testimDots.indexOf(this)));
-          });
-        }
+        // testimLeftArrow.addEventListener("click", function() {
+        //   playSlide((currentSlide -= 1));
+        // });
+        //
+        // testimRightArrow.addEventListener("click", function() {
+        //   playSlide((currentSlide += 1));
+        // });
+        //
+        // for (var l = 0; l < testimDots.length; l++) {
+        //   testimDots[l].addEventListener("click", function() {
+        //     playSlide((currentSlide = testimDots.indexOf(this)));
+        //   });
+        // }
 
         playSlide(currentSlide);
 
@@ -1414,7 +1414,7 @@
           }
         });
 
-    </script>
+    </script> -->
     <script type="text/javascript">
       $('.owl-carousel').owlCarousel({
       loop: true,
