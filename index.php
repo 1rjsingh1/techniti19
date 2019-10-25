@@ -230,7 +230,7 @@
       </div>
 
 
-      <h1 id="tagline">techNITi'19</h1>
+      <h1 id="tagline" style="">techNITi'19</h1>
      <!-- <h6 id="brandtechniti19">टैकनीति '१९ </h6>-->
       <h4 id="dateline">Coz its All about Technology</h4>
 
@@ -290,7 +290,7 @@
             </div>
 
             <div class="item active carouselImageContainer" >
-              <img src="images/events/1.jpg" class="carouselImage">
+              <img src="images/events/1.jpeg" class="carouselImage">
             </div>
 
             <div class="item carouselImageContainer">
@@ -366,7 +366,7 @@
 
 
             <div class="item carouselImageContainer">
-              <img style="opacity: 0.8" src="images/curtain_raiser/DSC_0843-min.jpg" class="carouselImage">
+              <img style="opacity: 0.8" src="images/curtain_raiser/DSC_0843-min.jpeg" class="carouselImage">
               <div style = 'padding-top:10px;'class="carousel-caption postText">
                 <div id="carouselHeading">
                   <span>TechNiTi'19 Events</span>
@@ -378,7 +378,7 @@
               </div>
             </div>
             <div class="item carouselImageContainer">
-              <img style="opacity: 0.8" src="images/curtain_raiser/IMG_7274-min.jpg" class="carouselImage">
+              <img style="opacity: 0.8" src="images/curtain_raiser/IMG_7274-min.jpeg" class="carouselImage">
               <div style = 'padding-top:10px;'class="carousel-caption postText">
                 <div id="carouselHeading">
                   <span>TechNiTi'19 Events</span>
