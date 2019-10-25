@@ -12,7 +12,7 @@ $result=mysqli_query($con,$_SESSION['regquer']);
 
         if ($result) {
           $_SESSION['check']=1;
-          echo "<script> alert('Registered Success')</script>";
+          echo "<script> alert('Registered Successfully')</script>";
          header("Location:index.php");
         }
       }
