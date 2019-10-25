@@ -138,7 +138,7 @@
 
                 <li class="preview-info__member">
                     <span class="preview-info__name" style="font-size: 20px;">Jalam Rathore</span><br>
-                 <span class="preview-info__role style=" style="font-size: 20px;">+91-9079775726</span>
+                 <span class="preview-info__role style=" style="font-size: 20px;">+91-8107149470</span>
                 </li>
 
 
