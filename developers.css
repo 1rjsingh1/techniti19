@@ -186,7 +186,7 @@ table .clientName h6{
 .testimonials .client-section .web:nth-of-type(5) {
   background-image: url("team/ajay.jpg");
   background-size: cover;
-  background-position: center center;
+  background-position: top;
   background-repeat: no-repeat;
 }
 .testimonials .client-section .web:nth-of-type(6) {
