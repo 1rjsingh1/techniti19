@@ -107,14 +107,14 @@
         </nav>
 <div id="webgl-output"></div>
 <main class="preview-page">
-    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/soece.jpg);background-size: cover;
+    <div id="comp_83b18d056314f319063a84aeecd54076"><div class="preview" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(img/back_img/chess.jpg);background-size: cover;
     background-position: center;
     height: 100vh;
     background-attachment: fixed;">
     <div class="preview__inner">
         <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 1</span>
-        <h1 class="preview__name" style="font-size: 40px;">
-            Society Of Biotech Engineers And Researchers</h1>
+        <h1 class="preview__name" style="font-size: 40px; width:30%">
+            Society Of Biotech Engineers & Researchers</h1>
 
     </div>
 
