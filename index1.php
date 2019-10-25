@@ -251,7 +251,7 @@ unset($_SESSION['suck']);
             </div>
 
             <div class="item active carouselImageContainer" >
-              <img src="images/events/1.jpg" class="carouselImage">
+              <img src="images/events/1.jpeg" class="carouselImage">
             </div>
 
             <div class="item carouselImageContainer">
@@ -327,7 +327,7 @@ unset($_SESSION['suck']);
 
 
             <div class="item carouselImageContainer">
-              <img style="opacity: 0.8" src="images/curtain_raiser/DSC_0843-min.jpg" class="carouselImage">
+              <img style="opacity: 0.8" src="images/curtain_raiser/DSC_0843-min.jpeg" class="carouselImage">
               <div style = 'padding-top:10px;'class="carousel-caption postText">
                 <div id="carouselHeading">
                   <span>TechNiTi'19 Events</span>
@@ -339,7 +339,7 @@ unset($_SESSION['suck']);
               </div>
             </div>
             <div class="item carouselImageContainer">
-              <img style="opacity: 0.8" src="images/curtain_raiser/IMG_7274-min.jpg" class="carouselImage">
+              <img style="opacity: 0.8" src="images/curtain_raiser/IMG_7274-min.jpeg" class="carouselImage">
               <div style = 'padding-top:10px;'class="carousel-caption postText">
                 <div id="carouselHeading">
                   <span>TechNiTi'19 Events</span>
