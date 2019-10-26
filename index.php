@@ -970,10 +970,47 @@
           <div class="three"></div>
       </a>
     </div> -->
+    <style media="screen">
+#change{
+background-color: transparent !important;
 
-    <div class="navlog active" title="navbar" onclick="openNav()">
-      <a href="#"><i class="icon-menu"></i></a>
+border: 3px solid white;
+border-radius: 2px;
+
+transition-duration: 0.4s;
+
+}
+#change:hover{
+  background-color: white;
+  border-color: #d3d3d3;
+
+}
+#c1{
+  color: white;
+  transition-duration: 0.4s;
+}
+#c1:hover
+{
+  color: black;
+  background-color: #D3d3d3;
+}
+
+    </style>
+
+    <div  class="navlog active" title="navbar" onclick="openNav()">
+      <a id="change" href="#">
+
+        <i id="c1" class="icon-menu"></i></a>
           </div>
+          <script type="text/javascript">
+          $(document).ready(function () {
+     $('#c1').hover(function () {
+         $(this).addClass('icon-menu');
+     }, function () {
+         $(this).removeClass('glyphicon glyphicon-menu-hamburger');
+     });
+ });
+          </script>
 
     <div class="googin loginBUTTON" >
       <style>
@@ -1099,8 +1136,37 @@
       }
       </style>
         <!-- <button type="button" class="btn btn-outline-dark">Sign In</button> -->
-        <button  onclick="document.getElementById('id01').style.display='block'" class="btn btn-outline-dark" style="color:black; width:auto;" > Login</button>
-        <button onclick="document.getElementById('id02').style.display='block'" class="btn btn-outline-dark" style="color:black; width:auto;">Sign Up</button>
+        <style media="screen">
+        #b1 {
+          background-color: transparent ;
+          transition-duration: 0.4s;
+        }
+        #b1:hover{
+          background-color: white;
+          color: black !important;
+        }
+        #b2 {
+          color:white !important;
+          width:auto;
+
+          border: 2px solid white;
+          background-color: transparent ;
+          transition-duration: 0.4s;
+        }
+        #b2:hover{
+          background-color: white;
+          color: black !important;
+        }
+
+        </style>
+        <button id="b1" onclick="document.getElementById('id01').style.display='block'" class="btn btn-outline-dark" style="
+        color:white;
+        width:auto;
+
+        border: 2px solid white;
+
+        " > Login</button>
+        <button id="b2" onclick="document.getElementById('id02').style.display='block'" class="btn btn-outline-dark" style="color:black; width:auto;">Sign Up</button>
 
     <div id="id01" class="modal">
 
