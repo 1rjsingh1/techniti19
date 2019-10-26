@@ -232,7 +232,7 @@
 
       <h1 id="tagline" style="">techNITi'19</h1>
      <!-- <h6 id="brandtechniti19">टैकनीति '१९ </h6>-->
-      <h4 id="dateline">Coz its All about Technology</h4>
+      <h4 id="dateline">Coz it's All about Technology</h4>
 
 
               <!-- <h2>Expanding Horizons</h2> -->
@@ -258,7 +258,7 @@
                 <div class="feature-copy" style="text-align: center; width:100%; margin:auto">
                   <h2 style="color: white;">
                   </h2><br>
-                  <p style="color: white;text-align: justify; font-family: Trebuchet MS; font-size: 20px;"> <b style="color: purple; font-family: Trebuchet MS; font-size: 22px;">techNITi</b>, the annual techno-managerial festival of our institute was launched in the academic year 2006-07 with an objective to enhance scientific temperament of students through various activities. Since its inception various events viz. paper presentations, hardware design contests, robotics, expert talks etc. are organized. To align our efforts and activities with the objectives of the nation and to keep our students at the forefront of innovation, creativity and build solutions that are relevant in the local and global context <b style="color: purple; font-family: Trebuchet MS; font-size: 22px;">techNITi</b> will introduce new events such as Hackathon, B-Plan, Robowars etc.
+                  <p style="color: white;text-align: justify; font-family: Trebuchet MS; font-size: 20px;"> <b style="color: purple; font-family: Trebuchet MS; font-size: 22px;">techNITi</b>, the annual techno-managerial festival of our institute was launched in the academic year 2006-07 with an objective to enhance scientific temperament of students through various activities. Since it's inception various events viz. paper presentations, hardware design contests, robotics, expert talks etc. are organized. To align our efforts and activities with the objectives of the nation and to keep our students at the forefront of innovation, creativity and build solutions that are relevant in the local and global context <b style="color: purple; font-family: Trebuchet MS; font-size: 22px;">techNITi</b> will introduce new events such as Hackathon, B-Plan, Robowars etc.
 
                   </p>
 
@@ -974,8 +974,8 @@
 #change{
 background-color: transparent !important;
 
-border: 3px solid white;
-border-radius: 2px;
+border: 1.4px solid white;
+border-radius: 5px;
 
 transition-duration: 0.4s;
 
@@ -1149,7 +1149,7 @@ transition-duration: 0.4s;
           color:white !important;
           width:auto;
 
-          border: 2px solid white;
+          border: 1.4px solid white;
           background-color: transparent ;
           transition-duration: 0.4s;
         }
@@ -1163,7 +1163,7 @@ transition-duration: 0.4s;
         color:white;
         width:auto;
 
-        border: 2px solid white;
+        border:1.4px solid white;
 
         " > Login</button>
         <button id="b2" onclick="document.getElementById('id02').style.display='block'" class="btn btn-outline-dark" style="color:black; width:auto;">Sign Up</button>

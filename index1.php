@@ -193,7 +193,7 @@ unset($_SESSION['suck']);
 
       <h1 id="tagline">techNITi'19</h1>
     <!--  <h6 id="brandtechniti19">टैकनीति '१९ </h6>-->
-      <h4 id="dateline">Coz its All about Technology</h4>
+      <h4 id="dateline">Coz it's All about Technology</h4>
 
 
               <!-- <h2>Expanding Horizons</h2> -->
@@ -219,7 +219,7 @@ unset($_SESSION['suck']);
                 <div class="feature-copy" style="text-align: center; width:100%; margin:auto">
                   <h2 style="color: white;">
                   </h2><br>
-                  <p style="color: white;text-align: justify; font-family: Trebuchet MS; font-size: 20px;"> <b style="color: purple; font-family: Trebuchet MS; font-size: 22px;">techNITi</b>, the annual techno-managerial festival of our institute was launched in the academic year 2006-07 with an objective to enhance scientific temperament of students through various activities. Since its inception various events viz. paper presentations, hardware design contests, robotics, expert talks etc. are organized. To align our efforts and activities with the objectives of the nation and to keep our students at the forefront of innovation, creativity and build solutions that are relevant in the local and global context <b style="color: purple; font-family: Trebuchet MS; font-size: 22px;">techNITi</b> will introduce new events such as Hackathon, B-Plan, Robowars etc.
+                  <p style="color: white;text-align: justify; font-family: Trebuchet MS; font-size: 20px;"> <b style="color: purple; font-family: Trebuchet MS; font-size: 22px;">techNITi</b>, the annual techno-managerial festival of our institute was launched in the academic year 2006-07 with an objective to enhance scientific temperament of students through various activities. Since it's inception various events viz. paper presentations, hardware design contests, robotics, expert talks etc. are organized. To align our efforts and activities with the objectives of the nation and to keep our students at the forefront of innovation, creativity and build solutions that are relevant in the local and global context <b style="color: purple; font-family: Trebuchet MS; font-size: 22px;">techNITi</b> will introduce new events such as Hackathon, B-Plan, Robowars etc.
 
                   </p>
 
@@ -932,9 +932,48 @@ unset($_SESSION['suck']);
       </a>
     </div> -->
 
-    <div class="navlog active" title="navbar" onclick="openNav()">
-      <a href="#"><i class="icon-menu"></i></a>
+    <style media="screen">
+  #change{
+  background-color: transparent !important;
+
+  border: 1.4px solid white;
+  border-radius: 5px;
+
+  transition-duration: 0.4s;
+
+  }
+  #change:hover{
+  background-color: white;
+  border-color: #d3d3d3;
+
+  }
+  #c1{
+  color: white;
+  transition-duration: 0.4s;
+  }
+  #c1:hover
+  {
+  color: black;
+  background-color: #D3d3d3;
+  }
+
+    </style>
+
+    <div  class="navlog active" title="navbar" onclick="openNav()">
+      <a id="change" href="#">
+
+        <i id="c1" class="icon-menu"></i></a>
           </div>
+          <script type="text/javascript">
+          $(document).ready(function () {
+     $('#c1').hover(function () {
+         $(this).addClass('icon-menu');
+     }, function () {
+         $(this).removeClass('glyphicon glyphicon-menu-hamburger');
+     });
+  });
+          </script>
+
           <script type="text/javascript">
           		function mov()
           		{
@@ -946,12 +985,36 @@ unset($_SESSION['suck']);
                 document.location.href = ar[0]+"//"+ar[2]+"/"+ar[3]+'/logout.php';
           		}
               </script>
-    <div class="googin loginBUTTON" title="Logout">
+    <div style="color:white; font-size:11px; " class="googin loginBUTTON" title="Logout">
  <?php
 
       echo $_SESSION['name']; ?>
+    </style>
+      <!-- <button type="button" class="btn btn-outline-dark">Sign In</button> -->
+      <style media="screen">
+      #b1 {
+        background-color: transparent ;
+        transition-duration: 0.4s;
+      }
+      #b1:hover{
+        background-color: white;
+        color: black !important;
+      }
+      #b2 {
+        color:white !important;
+        width:auto;
 
-    <button onclick="mov()" class="btn btn-outline-dark" style="color:black; width:auto;">Logout</button>
+        border: 1.4px solid white;
+        background-color: transparent ;
+        transition-duration: 0.4s;
+      }
+      #b2:hover{
+        background-color: #d3d3d3;
+        color: black !important;
+      }
+
+      </style>
+    <button id="b2" onclick="mov()" class="btn btn-outline-dark" style="color:black; width:auto;">Logout</button>
     </div>
    <!-- <div class="logon techniti19LOGIN" id="techniti19LOGIN" title="user">
       <div class="dropdown">
