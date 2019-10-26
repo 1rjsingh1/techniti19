@@ -353,7 +353,7 @@
                     </td>
                     <td >
                         <div class="clientName">
-                            <h6>Anurag Verma, CSE<br><br>Arpit Gupta, CSE</h6>
+                            <h6>Anurag Verma, CSE<br><br>Arpit Gupta, CSE<br><br>Madhav Singla, IPE</h6>
                         </div>
                     </td>
                     <tr>
