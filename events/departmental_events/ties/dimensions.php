@@ -211,10 +211,10 @@ Prize money worth Rs. 2,200
                                                 <div class="row">
                                                     <div class="col-md-12 col-lg-12 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Sagar Mittal
+                                                            Manoj Mahariya
                                                         </div>
                                                         <div class="Number">
-                                                            +91-9461458833
+                                                            +91-9694761452
                                                         </div>
                                                     </div>
                                                     <!-- <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">

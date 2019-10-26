@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>techNITi19 EVENT -  Refurbish The Moment</title>
+    <title>Refurbish The Moment</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -232,8 +232,8 @@ the basis of respective marking scheme.
 
                      <div class="feed-item-body">
                          <div class="text eventInfo">
-                        <li>   1st - Rs. 1200/- </li>
-                        <li>   2nd - Rs. 800/- </li>
+                        <li>   1st - Rs. 1000/- </li>
+                        <li>   2nd - Rs. 700/- </li>
                         <li>   3rd - Rs. 500/- </li>
                             </div>
                      </div>

@@ -276,7 +276,7 @@
                     </td>
                     <td >
                         <div class="clientName">
-                            <h6>Apoorv Tripathi, CE<br><br>Hardik Choudhary, CSE<br><br>Kamaldeep Kaur, CSE<br><br>Parduman Mehra ,ME</h6>
+                            <h6>Parduman Mehra ,ME</h6>
                         </div>
                     </td>
                     <tr>
@@ -287,7 +287,7 @@
                     </td>
                     <td >
                         <div class="clientName">
-                            <h6>Ankit Batra, TT<br><br>Manirattnam, TT<br><br>Prashant, TT<br><br>Sakshi, ECE<br><br>Maninder, TT<br><br>Dhananjay, TT</h6>
+                            <h6>Sakshi, ECE</h6>
                         </div>
                     </td>
                     <tr>
@@ -298,7 +298,7 @@
                     </td>
                     <td >
                         <div class="clientName">
-                            <h6>Anuj Parmar, CSE<br><br>Pankush Mahajan, CSE<br><br>Tanya Bhola, ECE<br><br>Parul, CSE<br><br>Pratham, CSE</h6>
+                            <h6>Tanya Bhola, ECE<br><br>Parul, CSE<br><br>Pratham, CSE</h6>
                         </div>
                     </td>
                     <tr>
@@ -309,7 +309,7 @@
                     </td>
                     <td >
                         <div class="clientName">
-                            <h6>Amandeep, ECE<br><br>Smita Minz, ECE<br><br>Kirtiraj, CSE</h6>
+                            <h6>Smita Minz, ECE<br><br>Kirtiraj, CSE</h6>
                         </div>
                     </td>
                     <tr>
@@ -320,7 +320,7 @@
                     </td>
                     <td >
                         <div class="clientName">
-                            <h6>Kushal, BT<br><br>Sannidhya, ECE<br><br>Supriya, ICE</h6>
+                            <h6>Kushal, BT<br><br>Sannidhya, ECE<br><br>Japsica, ECE</h6>
                         </div>
                     </td>
                     <tr>
@@ -353,7 +353,7 @@
                     </td>
                     <td >
                         <div class="clientName">
-                            <h6>Madhav Singla, IPE</h6>
+                            <h6>Anurag Verma, CSE<br><br>Arpit Gupta, CSE</h6>
                         </div>
                     </td>
                     <tr>
@@ -365,6 +365,17 @@
                     <td >
                         <div class="clientName">
                             <h6>Jami Harish, ECE<br><br>Bhargav Krishna, ECE</h6>
+                        </div>
+                    </td>
+                    <tr>
+                    <td colspan="4">
+                        <div class="clientName">
+                            <h6>Refreshment Secretary</h6>
+                        </div>
+                    </td>
+                    <td >
+                        <div class="clientName">
+                            <h6>Anubhav Paul, CSE</h6>
                         </div>
                     </td>
                 </tr>

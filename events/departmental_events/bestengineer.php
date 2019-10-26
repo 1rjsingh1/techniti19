@@ -187,7 +187,14 @@ Prizes worth Rs. 2200
 
                                        <div class="feed-item-body">
                                            <div class="text eventInfo">
-                                                   Gurkirat Wadhwa- 63554-55065
+                                                  <center>
+                                                   <div class="Name">
+                                                            Pram
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-7347338918
+                                                        </div>
+                                                        </center>
                                            </div>
                                        </div>
                                    </section>

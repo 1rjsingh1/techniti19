@@ -235,8 +235,8 @@ should make sense.</li>
 
                      <div class="feed-item-body">
                          <div class="text eventInfo">
-                        <li>   1st - Rs. 1200/- </li>
-                        <li>   2nd - Rs. 800/- </li>
+                        <li>   1st - Rs. 1000/- </li>
+                        <li>   2nd - Rs. 700/- </li>
                         <li>   3rd - Rs. 500/- </li>
                             </div>
                      </div>
