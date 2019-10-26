@@ -30,18 +30,18 @@
         <?php include('../../../navbar.php'); ?>
           <div class="collapse navbar-collapse navbar-ex1-collapse" style="background: black;">
                 <ul id="active" class="nav navbar-nav side-nav" style="background: black;">
-          
+
                     <li><a href="#Problem"><i class="fa fa-globe"></i> Problem Statement</a></li>
                     <li><a href="#storyline"><i class="fa fa-gamepad"></i>Round 1</a></li>
                     <li><a href="#rules"><i class="fa fa-list-ol"></i> Round 2</a></li>
                     <li><a href="#testingofbridge"><i class="fa fa-universal-access"></i>Round 3</a></li>
                     <li><a href="#judgingandscoring"><i class="fa fa-vcard-o"></i> Round 4</a></li>
-                    <li><a href="#writtentest"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
+                    <li><a href="#prizemoney"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
                     <li><a href="https://drive.google.com/open?id=1QYmfBRFayLNx2-zBYT1en3kXEKB2eZJh" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
-                
+
             </div>
         </nav>
 
@@ -175,9 +175,7 @@ points.
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-                                <div class="icon pull-left">
-
-                                </div>
+                            
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                 <li>Final race by implementing the suggestions and improvements.</li>
@@ -194,7 +192,7 @@ There will be a race among the teams after removing the battery connection (usin
                 </div>
             </div>
 
-            <div class="row" id="judgingandscoring">
+            <div class="row" id="prizemoney">
                  <div class="col-md-12">
                      <div class="panel panel-primary" style="border: black" >
                          <div class="panel-heading" style="background: black;">
