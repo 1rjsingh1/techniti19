@@ -74,7 +74,7 @@ html {
   background-repeat: no-repeat;
 }
 .testimonials .client-section .core:nth-of-type(4) {
-  background-image: url("images/bonn.png");
+  background-image: url("images/bonn final logo.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -86,7 +86,7 @@ html {
   background-repeat: no-repeat;
 }
 .testimonials .client-section .core:nth-of-type(6) {
-  background-image: url("images/grabon2.png");
+  background-image: url("images/grabon3.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -116,11 +116,42 @@ html {
   background-repeat: no-repeat;
 }
 .testimonials .client-section .core:nth-of-type(11) {
-  background-image: url("images/Learning While Travelling_TM_22.03.2018.png");
+  background-image: url("images/learnwhile.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
+.testimonials .client-section .core:nth-of-type(12) {
+  background-image: url("images/digifuse.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .core:nth-of-type(13) {
+  background-image: url("images/lensfit.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .core:nth-of-type(14) {
+  background-image: url("images/Latest Logo.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .core:nth-of-type(15) {
+  background-image: url("images/spartan.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.testimonials .client-section .core:nth-of-type(16) {
+  background-image: url("images/Webp.net-resizeimage (1).png");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
 footer {
   background: black;
   color: white;

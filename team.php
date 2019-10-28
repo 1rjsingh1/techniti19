@@ -309,7 +309,7 @@
                     </td>
                     <td >
                         <div class="clientName">
-                            <h6>Smita Minz, TT<br><br>Kirtiraj, CSE</h6>
+                            <h6>Smita Minz, ECE<br><br>Kirtiraj, CSE</h6>
                         </div>
                     </td>
                     <tr>
