@@ -46,7 +46,7 @@ html {
   font-size: 40px;
   font-weight: 800;
 }
-.testimonials .client-section .core {
+.testimonials .client-section .core1 {
   width: 230px;
   height: 200px;
   color: white;
@@ -55,97 +55,115 @@ html {
   background-color: #0a79df;
   position: relative;
 }
-.testimonials .client-section .core:nth-of-type(1) {
+.testimonials .client-section .core2 {
+  width: 230px;
+  height: 200px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #0a79df;
+  position: relative;
+}
+.testimonials .client-section .core3 {
+  width: 230px;
+  height: 200px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #0a79df;
+  position: relative;
+}
+.testimonials .client-section .core1:nth-of-type(1) {
   background-image: url("images/codninja.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(2) {
+.testimonials .client-section .core1:nth-of-type(2) {
   background-image: url("images/collegefev.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(3) {
+.testimonials .client-section .core1:nth-of-type(3) {
   background-image: url("images/dare2.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(4) {
+.testimonials .client-section .core1:nth-of-type(4) {
   background-image: url("images/bonn final logo.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(5) {
+.testimonials .client-section .core1:nth-of-type(5) {
   background-image: url("images/internshala.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(6) {
+.testimonials .client-section .core1:nth-of-type(6) {
   background-image: url("images/grabon3.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(7) {
+.testimonials .client-section .core2:nth-of-type(1) {
   background-image: url("images/codingb2.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(8) {
+.testimonials .client-section .core2:nth-of-type(2) {
   background-image: url("images/robo.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(9) {
+.testimonials .client-section .core2:nth-of-type(3) {
   background-image: url("images/freeco2.jpg");
   background-size: cover;
   background-position: center ;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(10) {
+.testimonials .client-section .core2:nth-of-type(4) {
   background-image: url("images/ISET 2020 Logo.png");
   background-size: cover;
   background-position: left;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(11) {
+.testimonials .client-section .core2:nth-of-type(5) {
   background-image: url("images/learnwhile.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(12) {
+.testimonials .client-section .core2:nth-of-type(6) {
   background-image: url("images/digifuse.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(13) {
+.testimonials .client-section .core3:nth-of-type(1) {
   background-image: url("images/lensfit.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(14) {
+.testimonials .client-section .core3:nth-of-type(2) {
   background-image: url("images/Latest Logo.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(15) {
+.testimonials .client-section .core3:nth-of-type(3) {
   background-image: url("images/spartan.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
-.testimonials .client-section .core:nth-of-type(16) {
+.testimonials .client-section .core3:nth-of-type(4) {
   background-image: url("images/Webp.net-resizeimage (1).png");
   background-size: cover;
   background-position: top;
