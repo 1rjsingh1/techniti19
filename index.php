@@ -6,8 +6,12 @@
   <?php
           include('connection.php');
           if(isset($_SESSION['check'])){
-          echo "<script> alert('Registered Success')</script>";
+          echo "<script> alert('Registered Success. Log in to Continue.')</script>";
           unset($_SESSION['check']);
+        }
+        if(isset($_SESSION['naa'])){
+          echo "<script> alert('Registration Unsuccessful Try again!!')</script>";
+    unset($_SESSION['naa']);
         }
         if(isset($_SESSION['reg']))
         {

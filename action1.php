@@ -15,6 +15,11 @@ $result=mysqli_query($con,$_SESSION['regquer']);
           echo "<script> alert('Registered Successfully')</script>";
          header("Location:index.php");
         }
+        else {
+          $_SESSION['naa']=1;
+          echo "<script> alert('Registration Unsuccessful Try again!!')</script>";
+         header("Location:index.php");
+        }
       }
 
 //  $count1=mysqli_query($con,$quer1);
