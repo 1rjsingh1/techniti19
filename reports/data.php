@@ -70,7 +70,7 @@ $q1="Select ename from events where eid=".$_SESSION['eid'];
 
   <tbody>
     <?php
-      $que="Select name,email,college,phone from user,ind where user.userid=ind.userid and eid=".$_SESSION['eid'];
+      $que="Select distinct name,email,college,phone from user,ind where user.userid=ind.userid and eid=".$_SESSION['eid'];
 
       $r1t=mysqli_query($con,$que);
       $count=mysqli_num_rows($r1t);
