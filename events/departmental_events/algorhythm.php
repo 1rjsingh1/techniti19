@@ -116,7 +116,7 @@ Jalandhar, Punjab in order to appear for phase 2 that will be held onsite on the
 
                                                         <div class="feed-item-body">
                                                             <div class="text eventInfo">
-                                                                    02 November 2019 – Online Coding Round (Phase 1)<br>
+                                                                    06 November 2019 – Online Coding Round (Phase 1)<br>
                                                                     10 November 2019 – Onsite finale at NIT Jalandhar, Punjab (Phase 2)
 
                                                             </div>
