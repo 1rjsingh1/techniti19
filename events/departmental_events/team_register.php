@@ -1,4 +1,6 @@
+<script>alert('!!IMPORTANT!!\nEmail-Id of each member must be signed up with techNITi!')</script>;
 <?php
+
  include('conn.php');
 if(! isset($_SESSION['name']))
 {
