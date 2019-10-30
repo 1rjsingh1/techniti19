@@ -39,7 +39,7 @@
 
                     <li><a href="#prize"><i class=" fa fa-clock-o"></i> Prize Money</a></li>
 
-                    <li><a href="amazeus.docx" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
+                    <li><a href="amazeus.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Rule Book</a></li>
                     <li><a href="#contact"><i class="fa fa-phone"></i> Contacts</a></li>
                 </ul>
 
@@ -159,7 +159,7 @@ AmazeUs will contain only one round .
                                                 
  <h3 style="color:red;display:inline; font-weight:bolder;">Note:</h3>
  <a style="color:white; text-decoration:underline;"
-  href="amazeus.docx">Click here</a> to view rule book.
+  href="amazeus.pdf">Click here</a> to view rule book.
                                                 
                                                 </div>
                                         </div>

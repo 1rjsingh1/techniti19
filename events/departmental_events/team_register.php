@@ -149,7 +149,7 @@ input[type=submit]:hover {
     <b style="color: darkred; font-size: 25px;">Note:-</b><li> <b style=" font-size:large;">Enter the number of members as mentioned in event description.</b></li>
     <li> <b style=" font-size:large;">All the members must be registered with the techniti website (email id must be the same as entered during signup for every member) or else the team will be disqualified.</b></li>
     <label style="color:black;" class="fname" >Team Name</label>
-    <input type="text" id="teamname" name="teamname" placeholder="Team Name">
+    <input type="text" id="teamname" name="teamname" required placeholder="Team Name">
 
     <label style="color:black;" class="fname" >Team Leader's Name</label>
     <input type="text" id="leadername" name="leadername" required  placeholder="Team Leader's Name">
