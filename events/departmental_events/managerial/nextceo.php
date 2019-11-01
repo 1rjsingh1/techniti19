@@ -67,9 +67,9 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                      Team Size : 1 to 5 <br>
+                                      <br>
 Techniti NIT Jalandhar brings to you the most awaited The Next CEO challenge the inner entrepreneur.
-Form your own teams of one to five, and go head to head against other teams in this three tier competition.
+Go head to head in this three tier competition.
 Each level, more gruelling than the last, made to test every aspect from critical thinking to being able to
 socialise and connect. Never-Before-Organised, this event, puts you to test, which end up with unparalleled
 rewards, in addition to the memories and accolades.
@@ -92,8 +92,7 @@ rewards, in addition to the memories and accolades.
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    <li>  The first round, Information Hunt, which has been divided into two sub-rounds which test your problem
-solving skills and critical thinking racing against the time. This round tests how well and dynamically you work
+                                    <li>  The first round, Information Hunt, tests how well and dynamically you work
 with your teammates, and take a step towards grabbing that sweet victory. </li>
                                     </div>
                                 </div>
@@ -241,7 +240,7 @@ coveted competition and take home all the glories.
  </div>
 
  <div id="RegisterContainer">
-     <a class="semi-transparent-button" href="../team_register.php?id=21" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+     <a class="semi-transparent-button" href="../register.php?id=21" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
    </div>
 
 
