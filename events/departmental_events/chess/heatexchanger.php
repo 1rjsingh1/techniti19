@@ -94,7 +94,7 @@
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                       A team may contain maximum of 3 members, no minimum limit.
-                                      <br><b>Registration fee: Rs. 100</b>
+                                      <br>
                                     </div>
                                 </div>
                             </section>

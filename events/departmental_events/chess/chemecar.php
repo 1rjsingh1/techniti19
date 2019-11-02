@@ -97,7 +97,7 @@ Evaluation will be based on distance covered by car, safety measures provided an
                                       A team may contain maximum of 3 members, no minimum limit
 
   (A team may consist of members from different colleges too).
-<br><b>Registration fee: Rs. 100</b>
+<br>
 
 
                                     </div>

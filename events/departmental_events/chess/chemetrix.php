@@ -98,7 +98,7 @@ Puzzles will be given to reach at particular location & puzzles will be based on
                                       A team may contain maximum of 3 members, no minimum limit.
 
 <li>One Girl participant is mandatory.</li>
-<br><b>Registration fee: Rs. 100</b>
+<br>
 
                                     </div>
                                 </div>
