@@ -175,7 +175,7 @@ the topics which were set by the Secretariat prior the conference.</li>
                                                 </div>
                                                 <div class="panel-body">
                                                     <section class="feed-item">
-                                                      
+
                                                         <div class="feed-item-body">
                                                             <div class="text eventInfo">
 <li> Best Delegate: Rs. 6000/-  </li>
@@ -190,7 +190,7 @@ the topics which were set by the Secretariat prior the conference.</li>
                                     </div>
 
                                     <div id="RegisterContainer">
-                                        <a class="semi-transparent-button" href="https://docs.google.com/forms/d/e/1FAIpQLSeaHwoMwAPtrEE8uaVkmdemlvSgS8mZUzd5li7WKT7pAbPTpw/viewform" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
+                                        <a class="semi-transparent-button" href="https://docs.google.com/forms/d/e/1FAIpQLSfmbxW51nA6--PjRU2L23pke3JrOXBgDxkysILgq1YDSYlgXA/viewform" style="display: flex; justify-content: center" id="semi-transparent-button" >REGISTER HERE</a>
                                       </div>
 
                                       <div class="row" id="contact">
