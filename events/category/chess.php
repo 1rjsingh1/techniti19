@@ -157,9 +157,9 @@
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 15px;">
               The event consist of two parts:
-              <p>
-<li> Design of the heat exchanger.</li>
-<li>To present the technical details of the design. (ppt)</li>
+              <p class="comment__text" style="font-size: 15px;">
+Design of the heat exchanger.<br>
+To present the technical details of the design. (ppt)<br>
 Participants are expected to come with innovative prototype of the heat exchanger which has high efficiency , high heat duty and no leakge.</p>
                 <p>
 
@@ -232,9 +232,9 @@ overflow: hidden; ">Register</button>
 <p class="comment__date"></p>
 <p class="comment__text" style="font-size: 15px;">
   This event is designed in two steps:
-  <li> Pen paper test will be qualifying round having simple questions related to general Physics, Chemistry & Mathematics.
-  </li> <li> In Second round there is Treasure hunt.
-  </li> Puzzles will be given to reach at particular location & puzzles will be based on chemical Engineering and Logical thinking.
+  <br> Pen paper test will be qualifying round having simple questions related to general Physics, Chemistry & Mathematics.
+  <br> In Second round there is Treasure hunt.
+  <br> Puzzles will be given to reach at particular location & puzzles will be based on chemical Engineering and Logical thinking.</p>
 <p>
 
 
