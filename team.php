@@ -276,7 +276,7 @@
                     </td>
                     <td >
                         <div class="clientName">
-                            <h6>Parduman Mehra ,ME</h6>
+                            <h6>Parduman Mehra ,ME<br><br>Kamal Kaur, CSE</h6>
                         </div>
                     </td>
                     <tr>
