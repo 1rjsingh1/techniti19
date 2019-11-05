@@ -130,7 +130,7 @@
                         </div>
                         <div class="panel-body">
                             <section class="feed-item">
-
+ 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
                                            <li>Any kind of damage  done to the arena by the prototype will leads to its disqualification.</li>
@@ -378,5 +378,4 @@ Prize money Rs 2200/-
     <script src="../events.js"></script>
 </body>
 
-<!-- Mirrored from www.axisvnit.org/events/construction_and_design/crepido.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Apr 2019 06:47:37 GMT -->
 </html>

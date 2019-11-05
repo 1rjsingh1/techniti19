@@ -281,6 +281,31 @@
         </div>
       </div>
 
+
+<br>
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2500">
+          <div class="carousel-inner">
+            <div class="item active carouselImageContainer" >
+              <img style="opacity: 0.8" src="images/sunburn.jpeg" class="carouselImage">
+
+            <div style = 'padding-top:10px;'class="carousel-caption postText">
+              <div id="carouselHeading">
+                <span>EDM Night</span>
+                <br>
+                <div id ="cats"></div>
+                <!--<button type="button" class="btn btn-default waves-effect">EXPLORE</button>--->
+              </div>
+            </div>
+            </div>
+           
+
+
+
+          </div>
+        </div>
+<br>
+
+
       <a href="events/category.html">
         <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2500">
           <div class="carousel-inner">
@@ -1320,6 +1345,7 @@ transition-duration: 0.4s;
         <a href="team.php" class="navLink"><i class="icon-users"></i> Core Team</a>
         <a href="developers.html" class="navLink"><i class="icon-users"></i>Developers</a>
         <a href="contacts.html" class="navLink"><i class="icon-help"></i> Contact Us</a>
+        <a href="events/departmental_events/accomodation.php" class="navLink"><i class="icon-home"></i> Accomodation</a>
 
     <!--   <div class="dropup">
           <a href="#" class="navLink" class="dropbtn2"><i class="icon-home"></i> Accommodation</a>

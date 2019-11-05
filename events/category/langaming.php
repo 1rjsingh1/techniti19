@@ -151,7 +151,7 @@
     <div class="comments__content">
         <div class="comments__left">
             <div class="comment comment--first">
-            <b class="comment__author" style="font-size: 30px;">Counter Strike </b>
+            <b class="comment__author" style="font-size: 30px;">Counter Strike GO</b>
             <p class="comment__date"></p>
             <p class="comment__text" style="font-size: 17px;">
                We are the gamers; we are the warriors who will etch their name in history.
