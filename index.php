@@ -281,6 +281,31 @@
         </div>
       </div>
 
+
+<br>
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2500">
+          <div class="carousel-inner">
+            <div class="item active carouselImageContainer" >
+              <img style="opacity: 0.8" src="images/sunburn.jpeg" class="carouselImage">
+
+            <div style = 'padding-top:10px;'class="carousel-caption postText">
+              <div id="carouselHeading">
+                <span>EDM Night</span>
+                <br>
+                <div id ="cats"></div>
+                <!--<button type="button" class="btn btn-default waves-effect">EXPLORE</button>--->
+              </div>
+            </div>
+            </div>
+           
+
+
+
+          </div>
+        </div>
+<br>
+
+
       <a href="events/category.html">
         <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2500">
           <div class="carousel-inner">
