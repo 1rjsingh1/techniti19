@@ -29,8 +29,10 @@
         {
           $uname=$_POST['uname'];
           $pass=$_POST['psw'];
+
           $uname=mysqli_real_escape_string($con,$uname);
           $pass=mysqli_real_escape_string($con,$pass);
+          $pass = md5($pass);
           $query="select userid,name from user where email='$uname' AND password='$pass'";
           $result=mysqli_query($con,$query);
           $count=mysqli_num_rows($result);
@@ -297,7 +299,7 @@
               </div>
             </div>
             </div>
-           
+
 
 
 

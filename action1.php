@@ -5,7 +5,7 @@ if(isset($_POST['final5']))
 {
   extract($_POST);
 
-    $quer1="Insert into user(Name,Email,College,Phone,Password) values(\"".$_POST['name']."\",\"".$_POST['email']."\",\"".$_POST['colg']."\",".$_POST['phone'].",\"".$_POST['Password']."\")";
+    $quer1="Insert into user(Name,Email,College,Phone,Password) values(\"".$_POST['name']."\",\"".$_POST['email']."\",\"".$_POST['colg']."\",".$_POST['phone'].",\"".md5($_POST['Password'])."\")";
 
 $_SESSION['regquer']=$quer1;
 $result=mysqli_query($con,$_SESSION['regquer']);
