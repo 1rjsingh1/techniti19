@@ -66,7 +66,7 @@
 
                                                         <div class="feed-item-body">
                                                             <div class="text eventInfo" >
-                                                                   <p>The mega event organised by OpenGeest is a two-phase competitive coding competition.
+                                                                   <p>The mega event organised by <b>OpenGeest</b> and <b>Coding Club@NITJ</b>  is a two-phase competitive coding competition.
 Individuals will have to register on the techNITi’19 website in order to participate.</p> <br>
                                                                     <p>The first phase will be an online coding competition that would be organised on the
 InterviewBit platform. Participants qualifying the phase 1 will then have to appear at NIT
@@ -198,9 +198,36 @@ Jalandhar, Punjab in order to appear for phase 2 that will be held onsite on the
 
                                                         <div class="feed-item-body">
                                                             <div class="text eventInfo">
-                                                              <li>Shubham: 8727894929</li>
-                                                              <li>Pardeep:7837192997</li>
-                                                              <li>Nitish:9417787400</li>
+                                                               <center>
+                                            <div class="container">
+                                                <div class="row">
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Shubham
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-8727894929
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Arsh
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-9914047037
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
+                                                        <div class="Name">
+                                                            Umang
+                                                        </div>
+                                                        <div class="Number">
+                                                            +91-9592130279
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </center>
                                                             </div>
 
                                                         </div>

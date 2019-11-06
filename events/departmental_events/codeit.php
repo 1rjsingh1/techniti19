@@ -220,26 +220,26 @@ the team having maximum score will win.
                                                 <div class="row">
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Hritik
+                                                            Shubham
                                                         </div>
                                                         <div class="Number">
-                                                            +91-7006904757
+                                                            +91-8727894929
                                                         </div>
                                                     </div>
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Inderjeet
+                                                            Arsh
                                                         </div>
                                                         <div class="Number">
-                                                            +91-8872552755
+                                                            +91-9914047037
                                                         </div>
                                                     </div>
                                                     <div class="col-md-4 col-lg-4 col-sm-12 contactDetails">
                                                         <div class="Name">
-                                                            Sahil
+                                                            Umang
                                                         </div>
                                                         <div class="Number">
-                                                            +91-9878343619
+                                                            +91-9592130279
                                                         </div>
                                                     </div>
                                                 </div>
