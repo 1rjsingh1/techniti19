@@ -12,7 +12,7 @@ if(! isset($_SESSION['name']))
 header("Location:../../index.php");
 } ?>
 <?php
-    // session_start();
+    // session_start()
 
 if(isset($_POST['final5']))
 {
@@ -56,6 +56,7 @@ if($_POST['m7email']!=""){
           header("Location:../../index1.php");
      }
       }
+      
 
 ?>
 <!DOCTYPE html>
@@ -202,7 +203,7 @@ input[type=submit]:hover {
 
     <input style="background-color: black;" name="final5" type="submit" value="Register">
   </form>
-</div>
+ </div>
 </div>
 
 </body>
