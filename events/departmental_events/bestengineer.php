@@ -189,10 +189,10 @@ Prizes worth Rs. 2200
                                            <div class="text eventInfo">
                                                   <center>
                                                    <div class="Name">
-                                                            Pram
+                                                            Param
                                                         </div>
                                                         <div class="Number">
-                                                            +91-7347338918
+                                                            +91-9877609312
                                                         </div>
                                                         </center>
                                            </div>

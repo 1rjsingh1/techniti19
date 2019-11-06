@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>COUNTER STRIKE</title>
+    <title>COUNTER STRIKE GO</title>
     <link rel="icon" type="image/ico" href="../../../images/favlogo.ico">
 
     <link rel="stylesheet" href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -47,7 +47,7 @@
         <div id="page-wrapper">
            <div class="row">
                 <div class="col-md-12">
-                    <div class="eventHeading" style="text-align: center;">COUNTER STRIKE</div>
+                    <div class="eventHeading" style="text-align: center;">COUNTER STRIKE GO</div>
 
 
                 </div>
@@ -89,7 +89,7 @@ become the KING OF THE HILL.
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo">
-                                    Rs 500/- per team.
+                                    Rs 300/- per team.
                                     </div>
                                 </div>
                             </section>
