@@ -115,7 +115,7 @@
     <div class="preview__inner">
         <span class="preview__author" style="font-size: 12px;">Number of Events&#58; 2</span>
         <h1 class="preview__name" style="margin-bottom:0px; font-size: 40px; width:60%">
-           Coding Club NITJ</h1>
+           Coding Club NITJ  </h1>
 
 
     </div>
