@@ -68,7 +68,7 @@
 
                                 <div class="feed-item-body">
                                     <div class="text eventInfo" >
-                                      The mega event organised by OpenGeest is a two-phase competitive competition It is time check how good
+                                      The mega event organised by <b>OpenGeest</b> and <b>Coding Club@NITJ</b> 	is a two-phase competitive competition It is time check how good
 you are at coding and how good is your team. It is a team event. Register individually, teams will beformed
 onsite.First Round will be eliminator round for participants, shortlisted participants will have to appear for
 Onsite round during TechNITI’19.
